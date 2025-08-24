@@ -1,0 +1,92 @@
+name: 💡 Suggest YouTube Content Ideas
+description: Submit new YouTube content ideas to add to our platform
+title: "[CONTENT IDEA] "
+labels: ["content-idea", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing new YouTube content ideas! Help us grow our collection by suggesting creative and engaging content ideas.
+
+  - type: input
+    id: content-title
+    attributes:
+      label: Content Idea Title
+      description: A catchy, engaging title for the YouTube video
+      placeholder: Ex. "10 Life Hacks That Will Change Your Morning Routine"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which category does this content idea belong to?
+      options:
+        - Technology
+        - Lifestyle
+        - Education
+        - Entertainment
+        - Gaming
+        - Health & Fitness
+        - Cooking
+        - Travel
+        - DIY & Crafts
+        - Business
+        - Finance
+        - Science
+        - Art & Design
+        - Music
+        - Sports
+        - Fashion & Beauty
+        - Parenting
+        - Pets & Animals
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Content Description
+      description: Detailed description of what this video would cover
+      placeholder: Explain what the video would be about, what topics it would cover, and what value it would provide to viewers.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: Content Difficulty Level
+      description: How difficult would this content be to create?
+      options:
+        - Beginner (Simple talking head, basic editing)
+        - Intermediate (Some props, moderate editing)
+        - Advanced (Complex production, special effects)
+
+  - type: dropdown
+    id: target-audience
+    attributes:
+      label: Target Audience
+      description: Who is the primary audience for this content?
+      options:
+        - Kids (Under 13)
+        - Teens (13-17)
+        - Young Adults (18-25)
+        - Adults (26-40)
+        - Middle-aged (41-55)
+        - Seniors (55+)
+        - General Audience (All ages)
+
+  - type: textarea
+    id: tags
+    attributes:
+      label: Suggested Tags
+      description: List relevant tags/keywords for this content (comma-separated)
+      placeholder: Ex. productivity, morning routine, life hacks, organization
+
+  - type: textarea
+    id: additional-notes
+    attributes:
+      label: Additional Notes
+      description: Any additional context, inspiration sources, or implementation ideas

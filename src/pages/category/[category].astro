@@ -30,9 +30,70 @@ const categoryIdeas = contentIdeas.filter(idea =>
   title={`${categoryData.name} YouTube Content Ideas - Video Ideas for ${categoryData.name} Creators`}
   description={`Explore ${categoryData.name.toLowerCase()} YouTube content ideas. ${categoryData.description} Find trending video concepts to engage your audience and grow your channel.`}
 >
+  <script slot="head" type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": `${categoryData.name} YouTube Content Ideas`,
+      "description": `${categoryData.description}`,
+      "url": `https://youtubecontentideas.com/category/${categoryData.slug}`,
+      "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": ${categoryIdeas.length},
+        "itemListElement": [
+          ${categoryIdeas.slice(0, 10).map((idea, index) => `{
+            "@type": "CreativeWork",
+            "position": ${index + 1},
+            "name": "${idea.title}",
+            "description": "${idea.description}",
+            "about": {
+              "@type": "Thing",
+              "name": "${categoryData.name}"
+            }
+          }`).join(',')}
+        ]
+      },
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://youtubecontentideas.com"
+          },
+          {
+            "@type": "ListItem", 
+            "position": 2,
+            "name": "Categories",
+            "item": "https://youtubecontentideas.com/categories"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3, 
+            "name": "${categoryData.name}",
+            "item": "https://youtubecontentideas.com/category/${categoryData.slug}"
+          }
+        ]
+      }
+    }
+  </script>
   <Navbar />
   
   <main class="min-h-screen">
+    <!-- Breadcrumb Navigation -->
+    <section class="py-4 border-b">
+      <div class="container">
+        <nav class="flex items-center space-x-2 text-sm text-muted-foreground">
+          <a href="/" class="hover:text-foreground transition-colors">Home</a>
+          <span>/</span>
+          <a href="/categories" class="hover:text-foreground transition-colors">Categories</a>
+          <span>/</span>
+          <span class="text-foreground font-medium">{categoryData.name}</span>
+        </nav>
+      </div>
+    </section>
+
     <!-- Hero Section -->
     <section class="relative py-8 md:py-12">
       <div class="container">
@@ -70,8 +131,8 @@ const categoryIdeas = contentIdeas.filter(idea =>
       <div class="container">
         <div id="contentGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {categoryIdeas.map((idea) => {
-            const difficulty = ['Easy', 'Medium', 'Hard'][Math.floor(Math.random() * 3)] as "Easy" | "Medium" | "Hard";
-            const estimatedViews = ['1K-10K', '10K-100K', '100K-1M', '1M+'][Math.floor(Math.random() * 4)];
+            const difficulty = ['Easy', 'Medium', 'Hard'][idea.id % 3] as "Easy" | "Medium" | "Hard";
+            const estimatedViews = ['1K-10K', '10K-100K', '100K-1M', '1M+'][idea.id % 4];
             
             return (
               <div data-title={idea.title.toLowerCase()} data-description={idea.description.toLowerCase()} data-tags={idea.tags.join(' ').toLowerCase()}>

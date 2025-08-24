@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Important pages
+Allow: /categories
+Allow: /category/
+Allow: /about
+Allow: /contact
+
+# Sitemap location
+Sitemap: https://youtubecontentideas.com/sitemap-index.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1

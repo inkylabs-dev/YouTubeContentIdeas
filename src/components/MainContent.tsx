@@ -51,8 +51,8 @@ export default function MainContent({ contentIdeas, categories }: MainContentPro
 
   const enhancedIdeas = filteredIdeas.map(idea => ({
     ...idea,
-    difficulty: (idea.difficulty || ['Easy', 'Medium', 'Hard'][Math.floor(Math.random() * 3)]) as "Easy" | "Medium" | "Hard",
-    estimatedViews: idea.estimatedViews || ['1K-10K', '10K-100K', '100K-1M', '1M+'][Math.floor(Math.random() * 4)]
+    difficulty: (idea.difficulty || ['Easy', 'Medium', 'Hard'][idea.id % 3]) as "Easy" | "Medium" | "Hard",
+    estimatedViews: idea.estimatedViews || ['1K-10K', '10K-100K', '100K-1M', '1M+'][idea.id % 4]
   }));
 
   return (
