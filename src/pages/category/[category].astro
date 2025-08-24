@@ -1,10 +1,10 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import Card from '../../components/Card.astro';
-import CardHeader from '../../components/CardHeader.astro';
-import CardTitle from '../../components/CardTitle.astro';
-import CardDescription from '../../components/CardDescription.astro';
-import CardContent from '../../components/CardContent.astro';
+import Navbar from '../../components/Navbar.astro';
+import Footer from '../../components/Footer.astro';
+import ContentIdeaCard from '../../components/ContentIdeaCard';
+import { Badge } from '../../components/ui/badge';
+import { Input } from '../../components/ui/input';
 import { contentIdeas } from '../../data/contentIdeas';
 import { categories, getCategoryBySlug } from '../../data/categories';
 
@@ -30,107 +30,114 @@ const categoryIdeas = contentIdeas.filter(idea =>
   title={`${categoryData.name} YouTube Content Ideas - Video Ideas for ${categoryData.name} Creators`}
   description={`Explore ${categoryData.name.toLowerCase()} YouTube content ideas. ${categoryData.description} Find trending video concepts to engage your audience and grow your channel.`}
 >
-  <main class="container mx-auto px-4 py-8">
+  <Navbar />
+  
+  <main class="min-h-screen">
     <!-- Hero Section -->
-    <section class="hero text-center mb-12">
-      <nav class="mb-6">
-        <a href="/" class="text-blue-600 hover:text-blue-800 text-sm font-medium inline-flex items-center">
-          <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
-          </svg>
-          Back to All Ideas
-        </a>
-      </nav>
-      <header>
-        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-          {categoryData.name} YouTube Content Ideas
-        </h1>
-        <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed mb-4">
-          {categoryData.description}
-        </p>
-        <div class="text-lg text-gray-500">
-          {categoryIdeas.length} curated ideas in this category
+    <section class="relative py-8 md:py-12">
+      <div class="container">
+        
+        <div class="text-center">
+          <h1 class="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl mb-6">
+            {categoryData.name} 
+            <span class="bg-gradient-to-r from-red-500 to-red-600 bg-clip-text text-transparent">
+              YouTube Content Ideas
+            </span>
+          </h1>
+          <p class="text-lg leading-8 text-muted-foreground max-w-2xl mx-auto mb-8">
+            {categoryData.description}
+          </p>
+          
+          <div class="max-w-md mx-auto">
+            <div class="relative">
+              <svg class="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+              </svg>
+              <Input
+                type="text"
+                id="searchInput"
+                placeholder={`Search ${categoryData.name.toLowerCase()} ideas...`}
+                className="pl-10 h-12 text-base"
+              />
+            </div>
+          </div>
         </div>
-      </header>
-    </section>
-
-    <!-- Search Section -->
-    <section class="search-filter mb-12 max-w-md mx-auto" aria-labelledby="search-heading">
-      <h2 id="search-heading" class="sr-only">Search {categoryData.name} Content Ideas</h2>
-      <div class="relative">
-        <label for="searchInput" class="sr-only">Search {categoryData.name} ideas</label>
-        <input
-          type="text"
-          id="searchInput"
-          placeholder={`Search ${categoryData.name.toLowerCase()} ideas...`}
-          class="w-full px-4 py-3 pl-10 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-          aria-describedby="search-description"
-        />
-        <svg class="absolute left-3 top-3.5 h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
-        </svg>
       </div>
-      <p id="search-description" class="sr-only">Type to filter {categoryData.name} content ideas by title, description, or tags</p>
     </section>
 
     <!-- Content Ideas -->
-    <section class="content-ideas" aria-labelledby="content-heading">
-      <h2 id="content-heading" class="sr-only">{categoryData.name} Content Ideas</h2>
-      <div id="contentGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" role="grid">
-      {categoryIdeas.map((idea) => (
-        <Card class="h-full hover:shadow-lg transition-shadow duration-200" data-title={idea.title.toLowerCase()} data-description={idea.description.toLowerCase()} data-tags={idea.tags.join(' ').toLowerCase()}>
-          <CardHeader>
-            <div class="flex justify-between items-start mb-2">
-              <span class="inline-block px-2 py-1 text-xs font-medium bg-blue-100 text-blue-800 rounded-full">
-                {idea.category}
-              </span>
-              <span class="text-sm text-gray-500">#{idea.id}</span>
-            </div>
-            <CardTitle class="text-lg">{idea.title}</CardTitle>
-            <CardDescription>{idea.description}</CardDescription>
-          </CardHeader>
-          <CardContent>
-            <div class="flex flex-wrap gap-1">
-              {idea.tags.map((tag) => (
-                <span class="inline-block px-2 py-1 text-xs bg-gray-100 text-gray-700 rounded">
-                  #{tag}
-                </span>
-              ))}
-            </div>
-          </CardContent>
-        </Card>
-      ))}
-    </div>
+    <section class="py-16 bg-muted/50">
+      <div class="container">
+        <div id="contentGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {categoryIdeas.map((idea) => {
+            const difficulty = ['Easy', 'Medium', 'Hard'][Math.floor(Math.random() * 3)] as "Easy" | "Medium" | "Hard";
+            const estimatedViews = ['1K-10K', '10K-100K', '100K-1M', '1M+'][Math.floor(Math.random() * 4)];
+            
+            return (
+              <div data-title={idea.title.toLowerCase()} data-description={idea.description.toLowerCase()} data-tags={idea.tags.join(' ').toLowerCase()}>
+                <ContentIdeaCard
+                  title={idea.title}
+                  description={idea.description}
+                  category={idea.category}
+                  difficulty={difficulty}
+                  estimatedViews={estimatedViews}
+                  client:load
+                />
+              </div>
+            );
+          })}
+        </div>
 
-      <!-- No Results Message -->
-      <div id="noResults" class="hidden text-center py-12" aria-live="polite">
-        <h3 class="text-xl text-gray-500 mb-4">No content ideas found</h3>
-        <p class="text-gray-400">Try adjusting your search criteria</p>
+        <!-- No Results Message -->
+        <div id="noResults" class="hidden text-center py-12">
+          <h3 class="text-xl text-muted-foreground mb-4">No content ideas found</h3>
+          <p class="text-muted-foreground">Try adjusting your search criteria</p>
+        </div>
+        
+        <!-- No Ideas Available Message -->
+        {categoryIdeas.length === 0 && (
+          <div class="text-center py-12">
+            <h3 class="text-xl text-muted-foreground mb-4">No content ideas available yet</h3>
+            <p class="text-muted-foreground mb-6">We're working on adding more {categoryData.name.toLowerCase()} content ideas!</p>
+            <div class="space-y-2 text-sm text-muted-foreground">
+              <p>💡 Try exploring other categories</p>
+              <p>🔍 Use the search to find ideas across all topics</p>
+              <p>📺 Check back soon for new {categoryData.name.toLowerCase()} ideas</p>
+            </div>
+          </div>
+        )}
       </div>
     </section>
 
     <!-- Related Categories -->
-    <section class="related-categories mt-12" aria-labelledby="related-heading">
-      <header class="text-center mb-6">
-        <h2 id="related-heading" class="text-2xl font-bold text-gray-900 mb-2">Explore Other Categories</h2>
-        <p class="text-gray-600">Discover more content ideas across different topics</p>
-      </header>
-      <nav class="flex flex-wrap justify-center gap-2">
-        {categories
-          .filter(cat => cat.slug !== category)
-          .map((cat) => (
-            <a 
-              href={`/category/${cat.slug}`}
-              class="inline-block px-3 py-1 text-sm bg-gray-100 hover:bg-gray-200 text-gray-700 rounded-full transition-colors duration-200 hover:shadow-sm"
-              title={`View ${cat.name} content ideas`}
-            >
-              {cat.name}
-            </a>
-          ))
-        }
-      </nav>
+    <section class="py-16">
+      <div class="container">
+        <div class="text-center mb-8">
+          <h2 class="text-3xl font-bold tracking-tight mb-4">Explore Other Categories</h2>
+          <p class="text-muted-foreground">Discover more content ideas across different topics</p>
+        </div>
+        
+        <div class="flex flex-wrap justify-center gap-2">
+          {categories
+            .filter(cat => cat.slug !== category)
+            .slice(0, 12)
+            .map((cat) => (
+              <Badge variant="outline" asChild>
+                <a 
+                  href={`/category/${cat.slug}`}
+                  class="hover:bg-accent transition-colors"
+                >
+                  {cat.name}
+                </a>
+              </Badge>
+            ))
+          }
+        </div>
+      </div>
     </section>
   </main>
+
+  <Footer />
 
   <script>
     // Search functionality

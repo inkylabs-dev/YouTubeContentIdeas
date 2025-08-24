@@ -1,0 +1,122 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from '../components/Navbar.astro';
+import Footer from '../components/Footer.astro';
+import CategoriesGrid from '../components/CategoriesGrid';
+import { Input } from '../components/ui/input';
+import { categories } from '../data/categories';
+---
+
+<Layout 
+  title="All Categories - YouTube Content Ideas"
+  description="Browse all 60+ content categories for YouTube video ideas. Find the perfect niche for your channel with organized content ideas."
+>
+  <Navbar />
+  
+  <main>
+    <section class="relative py-20 md:py-28">
+      <div class="container">
+        <div class="mx-auto max-w-4xl text-center">
+          <h1 class="text-4xl font-bold tracking-tight sm:text-6xl lg:text-7xl">
+            All Categories
+          </h1>
+          <p class="mt-6 text-lg leading-8 text-muted-foreground max-w-2xl mx-auto">
+            Discover content ideas across all {categories.length} categories. Each category contains 
+            curated video ideas to help grow your YouTube channel.
+          </p>
+          
+          <div class="mt-10 max-w-md mx-auto">
+            <div class="relative">
+              <svg class="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+              </svg>
+              <Input
+                type="text"
+                id="searchInput"
+                placeholder="Search categories..."
+                className="pl-10 h-12 text-base"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <section class="py-16">
+      <div class="container">
+        <div id="categoriesGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+          {categories.map((category) => (
+            <div data-name={category.name.toLowerCase()} data-description={category.description.toLowerCase()}>
+              <a href={`/category/${category.slug}`} class="group">
+                <div class="h-full transition-all duration-200 hover:shadow-lg hover:-translate-y-1 group-hover:border-primary/50 rounded-lg border bg-card text-card-foreground shadow-sm">
+                <div class="flex flex-col space-y-1.5 p-6 pb-3">
+                  <div class="flex items-center justify-between mb-2">
+                    <span class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/80">
+                      {category.name}
+                    </span>
+                  </div>
+                  <h3 class="text-lg font-semibold leading-none tracking-tight group-hover:text-primary transition-colors">
+                    {category.name}
+                  </h3>
+                </div>
+                <div class="p-6 pt-0">
+                  <p class="text-sm text-muted-foreground leading-relaxed">
+                    {category.description}
+                  </p>
+                </div>
+              </div>
+            </a>
+            </div>
+          ))}
+        </div>
+        
+        <!-- No Results Message -->
+        <div id="noResults" class="hidden text-center py-12">
+          <h3 class="text-xl text-muted-foreground mb-4">No categories found</h3>
+          <p class="text-muted-foreground">Try adjusting your search criteria</p>
+        </div>
+      </div>
+    </section>
+  </main>
+  
+  <Footer />
+
+  <script>
+    // Search functionality
+    const searchInput = document.getElementById('searchInput') as HTMLInputElement;
+    const categoriesGrid = document.getElementById('categoriesGrid') as HTMLElement;
+    const noResults = document.getElementById('noResults') as HTMLElement;
+
+    function filterCategories() {
+      const searchTerm = searchInput.value.toLowerCase();
+      const categoryCards = categoriesGrid.querySelectorAll('[data-name]') as NodeListOf<HTMLElement>;
+      let visibleCount = 0;
+
+      categoryCards.forEach(card => {
+        const name = card.getAttribute('data-name') || '';
+        const description = card.getAttribute('data-description') || '';
+
+        const matchesSearch = !searchTerm || 
+          name.includes(searchTerm) || 
+          description.includes(searchTerm);
+
+        if (matchesSearch) {
+          card.style.display = 'block';
+          visibleCount++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      if (visibleCount === 0) {
+        noResults.classList.remove('hidden');
+        categoriesGrid.classList.add('hidden');
+      } else {
+        noResults.classList.add('hidden');
+        categoriesGrid.classList.remove('hidden');
+      }
+    }
+
+    searchInput.addEventListener('input', filterCategories);
+  </script>
+</Layout>

@@ -1,0 +1,87 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from '../components/Navbar.astro';
+import Footer from '../components/Footer.astro';
+import { Badge } from '../components/ui/badge';
+---
+
+<Layout 
+  title="About - YouTube Content Ideas"
+  description="Learn about our mission to provide free, open access to YouTube content ideas. We believe creativity should be free, not behind paywalls."
+>
+  <Navbar />
+  
+  <main>
+    <section class="relative py-20 md:py-28">
+      <div class="container">
+        <div class="mx-auto max-w-4xl">
+          <div class="text-center mb-12">
+            <Badge variant="secondary" class="mb-4">
+              Our Mission
+            </Badge>
+            <h1 class="text-4xl font-bold tracking-tight sm:text-6xl lg:text-7xl">
+              Ideas Should Be 
+              <span class="bg-gradient-to-r from-red-500 to-red-600 bg-clip-text text-transparent">
+                Free
+              </span>
+            </h1>
+            <p class="mt-6 text-lg leading-8 text-muted-foreground max-w-2xl mx-auto">
+              Learn about our mission to provide free, open access to YouTube content ideas. We believe creativity should be free, not behind paywalls.
+            </p>
+          </div>
+          
+          <div class="prose prose-xl prose-neutral dark:prose-invert mx-auto max-w-3xl">
+            <p class="lead text-center text-xl font-medium leading-8 text-muted-foreground mb-8">
+              We believe an idea hub should be open and free, not behind a paywall.
+            </p>
+            
+            <p class="text-lg leading-8 text-muted-foreground mb-6">
+              Content creation is hard enough. Finding fresh, engaging ideas shouldn't be another barrier between creators and their audience. That's why we built this inventory of YouTube ideas to serve the public, for good.
+            </p>
+            
+            <p class="text-lg leading-8 text-muted-foreground mb-8">
+              Too many platforms lock valuable resources behind subscription walls, limiting access to those who can afford premium plans. We reject this approach. Creativity thrives when knowledge flows freely.
+            </p>
+            
+            <h2 class="text-3xl font-bold text-foreground mt-16 mb-8">The Future of AI and Creativity</h2>
+            
+            <p class="text-lg leading-8 text-muted-foreground mb-6">
+              We realize the coming evolution of AI technology and plan to add more personalized idea brainstorming features. But here's our core belief: AI should be a "copilot," not a replacement for human creativity.
+            </p>
+            
+            <p class="text-lg leading-8 text-muted-foreground mb-6">
+              The magic happens when human intuition meets AI assistance. We're building tools that amplify your creative voice, not silence it. Our upcoming features will help you:
+            </p>
+            
+            <ul class="text-lg leading-8 text-muted-foreground mb-6 space-y-2">
+              <li>Generate personalized content ideas based on your niche</li>
+              <li>Analyze trending topics in your field</li>
+              <li>Brainstorm unique angles for popular concepts</li>
+              <li>Discover content gaps in your posting schedule</li>
+            </ul>
+            
+            <p class="text-lg leading-8 text-muted-foreground mb-8">
+              But you'll always be in the driver's seat. AI will suggest, you'll create.
+            </p>
+            
+            <h2 class="text-3xl font-bold text-foreground mt-16 mb-8">Open Source, Open Hearts</h2>
+            
+            <p class="text-lg leading-8 text-muted-foreground mb-6">
+              This project is built with transparency and community collaboration in mind. We believe the best tools are built together, by creators, for creators.
+            </p>
+            
+            <p class="text-lg leading-8 text-muted-foreground mb-6">
+              Every line of code, every content idea, every feature decision is made with one question in mind: Does this help creators tell better stories?
+            </p>
+            
+            <p class="text-lg leading-8 text-muted-foreground">
+              Help us keep creativity free and accessible. Whether you're a developer, content creator, or someone who believes in open access to knowledge, there's a place for you in our community. Together, we're building something bigger than a tool—we're fostering a movement where great ideas flow freely and creativity knows no bounds.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  
+  <Footer />
+</Layout>

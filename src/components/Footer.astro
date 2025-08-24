@@ -1,0 +1,55 @@
+---
+import { Separator } from "@/components/ui/separator";
+---
+
+<footer class="border-t bg-background">
+  <div class="container py-8 md:py-12">
+    <div class="grid grid-cols-1 gap-8 md:grid-cols-4">
+      <div class="space-y-3">
+        <h3 class="text-lg font-semibold">YouTube Content Ideas</h3>
+        <p class="text-sm text-muted-foreground max-w-xs">
+          Discover trending content ideas to grow your YouTube channel and engage your audience.
+        </p>
+      </div>
+      
+      <div class="space-y-3">
+        <h4 class="text-sm font-semibold">Popular Categories</h4>
+        <ul class="space-y-2 text-sm text-muted-foreground">
+          <li><a href="/category/tech" class="hover:text-foreground transition-colors">Tech</a></li>
+          <li><a href="/category/gaming" class="hover:text-foreground transition-colors">Gaming</a></li>
+          <li><a href="/category/lifestyle" class="hover:text-foreground transition-colors">Lifestyle</a></li>
+          <li><a href="/category/education" class="hover:text-foreground transition-colors">Education</a></li>
+        </ul>
+      </div>
+      
+      <div class="space-y-3">
+        <h4 class="text-sm font-semibold">Content Types</h4>
+        <ul class="space-y-2 text-sm text-muted-foreground">
+          <li><a href="/category/tutorial" class="hover:text-foreground transition-colors">Tutorials</a></li>
+          <li><a href="/category/reviews" class="hover:text-foreground transition-colors">Reviews</a></li>
+          <li><a href="/category/vlog" class="hover:text-foreground transition-colors">Vlogs</a></li>
+          <li><a href="/category/challenge" class="hover:text-foreground transition-colors">Challenges</a></li>
+        </ul>
+      </div>
+      
+      <div class="space-y-3">
+        <h4 class="text-sm font-semibold">Connect</h4>
+        <ul class="space-y-2 text-sm text-muted-foreground">
+          <li><a href="/about" class="hover:text-foreground transition-colors">About</a></li>
+          <li><a href="/contact" class="hover:text-foreground transition-colors">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    
+    <Separator className="my-8" />
+    
+    <div class="flex flex-col items-center justify-between gap-4 md:flex-row">
+      <p class="text-sm text-muted-foreground">
+        © {new Date().getFullYear()} YouTube Content Ideas. All rights reserved.
+      </p>
+      <div class="flex items-center space-x-4 text-sm text-muted-foreground">
+        <span>Made with ❤️ for creators</span>
+      </div>
+    </div>
+  </div>
+</footer>

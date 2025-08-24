@@ -1,0 +1,124 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from '../components/Navbar.astro';
+import Footer from '../components/Footer.astro';
+import { Badge } from '../components/ui/badge';
+---
+
+<Layout 
+  title="Contact - YouTube Content Ideas"
+  description="Get in touch with us. Report issues, suggest features, or contribute to our open-source YouTube content ideas platform."
+>
+  <Navbar />
+  
+  <main>
+    <section class="relative py-20 md:py-28">
+      <div class="container">
+        <div class="mx-auto max-w-4xl">
+          <div class="text-center mb-12">
+            <Badge variant="secondary" class="mb-4">
+              Get In Touch
+            </Badge>
+            <h1 class="text-4xl font-bold tracking-tight sm:text-6xl lg:text-7xl">
+              Contact 
+              <span class="bg-gradient-to-r from-red-500 to-red-600 bg-clip-text text-transparent">
+                Us
+              </span>
+            </h1>
+            <p class="mt-6 text-lg leading-8 text-muted-foreground max-w-2xl mx-auto">
+              Have questions, suggestions, or want to contribute? We'd love to hear from you.
+            </p>
+          </div>
+          
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 max-w-6xl mx-auto">
+            <!-- Report Issues -->
+            <div class="rounded-lg border bg-card text-card-foreground shadow-sm p-6">
+              <div class="mb-4">
+                <h2 class="text-xl font-semibold">🐛 Report Issues</h2>
+              </div>
+              <p class="text-muted-foreground mb-4">
+                Found a bug or experiencing issues with the platform? Report technical problems and help us improve.
+              </p>
+              <a 
+                href="https://github.com/inkylabs-dev/YouTubeContentIdeas/issues/new?template=bug_report.yml"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:opacity-50 disabled:pointer-events-none ring-offset-background border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 py-2 px-4"
+              >
+                Report Issue
+                <svg class="ml-2 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
+                </svg>
+              </a>
+            </div>
+
+            <!-- Feature Request -->
+            <div class="rounded-lg border bg-card text-card-foreground shadow-sm p-6">
+              <div class="mb-4">
+                <h2 class="text-xl font-semibold">✨ Feature Request</h2>
+              </div>
+              <p class="text-muted-foreground mb-4">
+                Have an idea for a new feature or enhancement? Share your suggestions to make the platform better.
+              </p>
+              <a 
+                href="https://github.com/inkylabs-dev/YouTubeContentIdeas/issues/new?template=feature_request.yml"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:opacity-50 disabled:pointer-events-none ring-offset-background border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 py-2 px-4"
+              >
+                Request Feature
+                <svg class="ml-2 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
+                </svg>
+              </a>
+            </div>
+
+            <!-- Suggest Content Ideas -->
+            <div class="rounded-lg border bg-card text-card-foreground shadow-sm p-6">
+              <div class="mb-4">
+                <h2 class="text-xl font-semibold">💡 Suggest Content Ideas</h2>
+              </div>
+              <p class="text-muted-foreground mb-4">
+                Have creative YouTube content ideas? Share them with the community to help creators find inspiration.
+              </p>
+              <a 
+                href="https://github.com/inkylabs-dev/YouTubeContentIdeas/issues/new?template=content_idea.yml"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:opacity-50 disabled:pointer-events-none bg-red-500 text-white hover:bg-red-600 h-10 py-2 px-4"
+              >
+                Suggest Idea
+                <svg class="ml-2 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
+                </svg>
+              </a>
+            </div>
+            
+            <!-- Contribute -->
+            <div class="rounded-lg border bg-card text-card-foreground shadow-sm p-6">
+              <div class="mb-4">
+                <h2 class="text-xl font-semibold">🤝 Contribute</h2>
+              </div>
+              <p class="text-muted-foreground mb-4">
+                Help us grow this free resource. Contribute to the codebase, improve documentation, or suggest improvements.
+              </p>
+              <a 
+                href="https://github.com/inkylabs-dev/YouTubeContentIdeas"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:opacity-50 disabled:pointer-events-none ring-offset-background border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 py-2 px-4"
+              >
+                View on GitHub
+                <svg class="ml-2 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  
+  <Footer />
+</Layout>
