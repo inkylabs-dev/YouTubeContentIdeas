@@ -10,9 +10,11 @@ export default function Hero({ totalIdeas }: HeroProps) {
     <section className="relative py-20 md:py-28">
       <div className="container">
         <div className="mx-auto max-w-4xl text-center">
-          <Badge variant="secondary" className="mb-4">
-            YouTube Content Ideas
-          </Badge>
+          <div className="flex flex-wrap justify-center gap-2 mb-4">
+            <Badge variant="secondary">Open Source</Badge>
+            <Badge variant="secondary">#1 YouTube Content Ideas Hub</Badge>
+            <Badge variant="secondary">Free to Use</Badge>
+          </div>
           <h1 className="text-4xl font-bold tracking-tight sm:text-6xl lg:text-7xl">
             Never run out of<br />
             <span className="bg-gradient-to-r from-red-500 to-red-600 bg-clip-text text-transparent">
