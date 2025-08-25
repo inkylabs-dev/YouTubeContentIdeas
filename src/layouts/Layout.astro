@@ -56,5 +56,19 @@ const { title, description = "Discover trending YouTube content ideas for creato
   </head>
   <body class="min-h-screen bg-background font-sans antialiased">
     <slot />
+    <!-- Google tag (gtag.js) -->
+    {process.env.NODE_ENV === "production" ? (
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-95233EEB10"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-95233EEB10');
+      </script>
+    ) : (
+      ""
+    )
+    }
   </body>
 </html>
