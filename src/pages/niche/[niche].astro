@@ -5,27 +5,42 @@ import Footer from '../../components/Footer.astro';
 import ContentIdeaCard from '../../components/ContentIdeaCard';
 import { Badge } from '../../components/ui/badge';
 import { Input } from '../../components/ui/input';
-import { niches, getNicheBySlug } from '../../data/niches';
-import { marked } from 'marked';
+import { niches, getNicheBySlug, getParentNiche } from '../../data/niches';
 
 export async function getStaticPaths() {
-  return niches.map((niche) => ({
-    params: { niche: niche.slug },
-  }));
+  // Get all niche files for both params and content
+  const nicheFiles = import.meta.glob('../../niches/*.mdx', { eager: true });
+  
+  return Object.entries(nicheFiles).map(([path, nicheModule]) => {
+    const slug = path.split('/').pop()?.replace('.mdx', '') || '';
+    const frontmatter = (nicheModule as any).frontmatter;
+    
+    return {
+      params: { niche: slug },
+      props: { 
+        nicheModule,
+        frontmatter
+      }
+    };
+  });
 }
 
+const { nicheModule, frontmatter } = Astro.props;
 const { niche } = Astro.params;
 const nicheData = getNicheBySlug(niche);
 
-if (!nicheData) {
+if (!nicheData || !frontmatter) {
   return Astro.redirect('/');
 }
 
 // Get content ideas from the niche itself
 const nicheIdeas = nicheData.ideas || [];
 
-// Process markdown content
-const processedMarkdown = marked(nicheData.page_content);
+// Get parent niche for badge
+const parentNiche = getParentNiche(nicheData.id);
+
+// Get the MDX Content component for rendering
+const Content = (nicheModule as any).Content;
 ---
 
 <Layout 
@@ -101,6 +116,15 @@ const processedMarkdown = marked(nicheData.page_content);
       <div class="container">
         
         <div class="text-center">
+          {parentNiche && (
+            <div class="mb-4">
+              <a href={`/niche/${parentNiche.slug}`}>
+                <Badge variant="outline" className="text-sm hover:bg-primary hover:text-primary-foreground transition-colors">
+                  ← {parentNiche.name}
+                </Badge>
+              </a>
+            </div>
+          )}
           <h1 class="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl mb-6">
             <span class="bg-gradient-to-r text-red-500  bg-clip-text">
               {nicheData.name}
@@ -146,6 +170,7 @@ const processedMarkdown = marked(nicheData.page_content);
                   niche={nicheData.name}
                   difficulty={difficulty}
                   estimatedViews={estimatedViews}
+                  clickable={true}
                   client:load
                 />
               </div>
@@ -178,7 +203,7 @@ const processedMarkdown = marked(nicheData.page_content);
     <section class="py-16">
       <div class="container">
         <div class="prose prose-xl prose-neutral dark:prose-invert mx-auto max-w-3xl">
-          <div set:html={processedMarkdown} />
+          <Content />
         </div>
       </div>
     </section>

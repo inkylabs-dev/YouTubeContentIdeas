@@ -3,7 +3,7 @@ import Hero from './Hero';
 import NichesGrid from './NichesGrid';
 import ContentIdeaCard from './ContentIdeaCard';
 import { Input } from '@/components/ui/input';
-import { Badge } from '@/components/ui/badge.jsx';
+import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { Search } from 'lucide-react';
 

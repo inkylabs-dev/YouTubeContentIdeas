@@ -57,6 +57,7 @@ for (const [path, nicheModule] of Object.entries(nicheFiles)) {
       long_description: frontmatter.long_description,
       page_content: pageContent,
       slug: frontmatter.slug,
+      parent: frontmatter.parent,
       ideas: nicheIdeas
     });
   }
@@ -68,6 +69,36 @@ export const getNicheBySlug = (slug: string): Niche | undefined => {
 
 export const getNichesForContentIdeas = (): string[] => {
   return niches.map(niche => niche.name);
+};
+
+// Hierarchy utility functions
+export const getTopLevelNiches = (): Niche[] => {
+  return niches.filter(niche => !niche.parent);
+};
+
+export const getChildNiches = (parentId: string): Niche[] => {
+  return niches.filter(niche => niche.parent === parentId);
+};
+
+export const getParentNiche = (childId: string): Niche | undefined => {
+  const child = niches.find(niche => niche.id === childId);
+  if (!child?.parent) return undefined;
+  return niches.find(niche => niche.id === child.parent);
+};
+
+export const getNicheHierarchy = (): Map<string, Niche[]> => {
+  const hierarchy = new Map<string, Niche[]>();
+  
+  // Group by parent
+  niches.forEach(niche => {
+    const parentId = niche.parent || 'root';
+    if (!hierarchy.has(parentId)) {
+      hierarchy.set(parentId, []);
+    }
+    hierarchy.get(parentId)!.push(niche);
+  });
+  
+  return hierarchy;
 };
 
 // Legacy exports for backward compatibility

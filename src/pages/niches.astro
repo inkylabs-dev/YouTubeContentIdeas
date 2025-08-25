@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar.astro';
 import Footer from '../components/Footer.astro';
 import NichesGrid from '../components/NichesGrid';
 import { Input } from '../components/ui/input';
-import { niches } from '../data/niches';
+import { niches, getParentNiche } from '../data/niches';
 ---
 
 <Layout 
@@ -45,29 +45,38 @@ import { niches } from '../data/niches';
     <section class="py-16">
       <div class="container">
         <div id="nichesGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          {niches.map((niche) => (
-            <div data-name={niche.name.toLowerCase()} data-description={niche.description.toLowerCase()}>
-              <a href={`/niche/${niche.slug}`} class="group">
-                <div class="h-full transition-all duration-200 hover:shadow-lg hover:-translate-y-1 group-hover:border-primary/50 rounded-lg border bg-card text-card-foreground shadow-sm">
-                <div class="flex flex-col space-y-1.5 p-6 pb-3">
-                  <div class="flex items-center justify-between mb-2">
-                    <span class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/80">
+          {niches.map((niche) => {
+            const parentNiche = getParentNiche(niche.id);
+            return (
+              <div data-name={niche.name.toLowerCase()} data-description={niche.description.toLowerCase()}>
+                <a href={`/niche/${niche.slug}`} class="group">
+                  <div class="h-full transition-all duration-200 hover:shadow-lg hover:-translate-y-1 group-hover:border-primary/50 rounded-lg border bg-card text-card-foreground shadow-sm">
+                  <div class="flex flex-col space-y-1.5 p-6 pb-3">
+                    <div class="flex items-center justify-between mb-2">
+                      {parentNiche ? (
+                        <span class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-foreground">
+                          {parentNiche.name}
+                        </span>
+                      ) : (
+                        <span class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/80">
+                          {niche.name}
+                        </span>
+                      )}
+                    </div>
+                    <h3 class="text-lg font-semibold leading-none tracking-tight group-hover:text-primary transition-colors">
                       {niche.name}
-                    </span>
+                    </h3>
                   </div>
-                  <h3 class="text-lg font-semibold leading-none tracking-tight group-hover:text-primary transition-colors">
-                    {niche.name}
-                  </h3>
+                  <div class="p-6 pt-0">
+                    <p class="text-sm text-muted-foreground leading-relaxed">
+                      {niche.description}
+                    </p>
+                  </div>
                 </div>
-                <div class="p-6 pt-0">
-                  <p class="text-sm text-muted-foreground leading-relaxed">
-                    {niche.description}
-                  </p>
-                </div>
+              </a>
               </div>
-            </a>
-            </div>
-          ))}
+            );
+          })}
         </div>
         
         <!-- No Results Message -->

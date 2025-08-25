@@ -1,4 +1,3 @@
-import { Badge } from "@/components/ui/badge.jsx";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 
 interface ContentIdeaCardProps {
@@ -7,6 +6,16 @@ interface ContentIdeaCardProps {
   niche: string;
   difficulty: "Easy" | "Medium" | "Hard";
   estimatedViews: string;
+  slug?: string;
+  clickable?: boolean;
+}
+
+function generateSlug(title: string): string {
+  return title
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/-+/g, '-')
+    .replace(/^-|-$/g, '');
 }
 
 export default function ContentIdeaCard({ 
@@ -14,7 +23,9 @@ export default function ContentIdeaCard({
   description, 
   niche, 
   difficulty, 
-  estimatedViews 
+  estimatedViews,
+  slug,
+  clickable = true
 }: ContentIdeaCardProps) {
   const difficultyColors = {
     Easy: "bg-green-100 text-green-800 hover:bg-green-100",
@@ -22,19 +33,20 @@ export default function ContentIdeaCard({
     Hard: "bg-red-100 text-red-800 hover:bg-red-100"
   };
 
-  return (
-    <Card className="group transition-all duration-200 hover:shadow-lg hover:-translate-y-1">
+  const ideaSlug = slug || generateSlug(title);
+  const cardContent = (
+    <Card className={`group transition-all duration-200 hover:shadow-lg hover:-translate-y-1 ${clickable ? 'cursor-pointer' : ''}`}>
       <CardHeader className="pb-3">
         <div className="flex items-start justify-between gap-2 mb-2">
-          <Badge variant="outline" className="text-xs">
+          <div variant="outline" className="text-xs">
             {niche}
-          </Badge>
-          <Badge 
+          </div>
+          <div 
             variant="secondary" 
             className={`text-xs ${difficultyColors[difficulty]}`}
           >
             {difficulty}
-          </Badge>
+          </div>
         </div>
         <CardTitle className="text-lg leading-tight group-hover:text-primary transition-colors">
           {title}
@@ -50,5 +62,15 @@ export default function ContentIdeaCard({
         </div>
       </CardContent>
     </Card>
+  );
+
+  if (!clickable) {
+    return cardContent;
+  }
+
+  return (
+    <a href={`/ideas/${ideaSlug}`} className="block">
+      {cardContent}
+    </a>
   );
 }

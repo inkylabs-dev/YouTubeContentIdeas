@@ -1,0 +1,251 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Navbar from '../../components/Navbar.astro';
+import Footer from '../../components/Footer.astro';
+import { Badge } from '../../components/ui/badge';
+import { niches, getNicheBySlug } from '../../data/niches';
+import ContentIdeaCard from '../../components/ContentIdeaCard';
+import { marked } from 'marked';
+
+export async function getStaticPaths() {
+  // Get all idea files to generate static paths
+  const ideaFiles = import.meta.glob('../../ideas/*.mdx', { eager: true });
+  const allIdeas = [];
+
+  // Build ideas array with slug information
+  for (const [path, ideaModule] of Object.entries(ideaFiles)) {
+    const slug = path.split('/').pop()?.replace('.mdx', '') || '';
+    const frontmatter = (ideaModule as any).frontmatter;
+    
+    if (frontmatter) {
+      allIdeas.push({
+        slug,
+        title: frontmatter.title,
+        description: frontmatter.description,
+        tags: frontmatter.tags || [],
+        niche: frontmatter.niche,
+        content: (ideaModule as any).Content
+      });
+    }
+  }
+
+  return allIdeas.map((idea) => ({
+    params: { slug: idea.slug },
+    props: { ideaData: idea, allIdeas }
+  }));
+}
+
+const { ideaData } = Astro.props;
+
+if (!ideaData) {
+  return Astro.redirect('/');
+}
+
+// Get niche data for related content
+const nicheData = getNicheBySlug(ideaData.niche);
+const relatedIdeas = nicheData ? nicheData.ideas.filter(idea => idea.title !== ideaData.title).slice(0, 6) : [];
+
+// Generate content based on the idea
+const generateIdeaContent = (idea: typeof ideaData) => {
+  return `
+## Overview
+
+This content idea belongs to the **${nicheData?.name}** niche and offers great potential for engaging your audience with ${idea.tags.join(', ')} content.
+
+## Why This Idea Works
+
+Content like "${idea.title}" performs well because:
+
+- **Relatable Topic**: The concept resonates with viewers interested in ${nicheData?.name?.toLowerCase()} content
+- **Engaging Format**: ${idea.description.toLowerCase()}
+- **Searchable Content**: People actively search for ${idea.tags.join(' and ')} related videos
+
+## Content Creation Tips
+
+### Planning Your Video
+1. **Research**: Look at similar content to understand what works
+2. **Outline**: Create a clear structure for your video
+3. **Hook**: Start with an engaging opening that draws viewers in
+
+### Execution Ideas
+- **Beginner-friendly approach**: Make it accessible to newcomers
+- **Personal touch**: Add your unique perspective or experience
+- **Interactive elements**: Include calls-to-action and audience engagement
+
+### Technical Considerations
+- **Video quality**: Ensure good lighting and audio
+- **Editing**: Keep the pace engaging with good cuts and transitions
+- **Thumbnail**: Create an eye-catching thumbnail that represents the content
+
+## Tags and Keywords
+
+Use these tags and keywords in your video metadata:
+${idea.tags.map(tag => `- ${tag}`).join('\n')}
+
+## Related Ideas
+
+Consider creating a series or follow-up content around similar themes in the ${nicheData?.name} niche.
+  `;
+};
+
+const contentMarkdown = generateIdeaContent(ideaData);
+const contentHtml = marked(contentMarkdown);
+---
+
+<Layout 
+  title={`${ideaData.title} - YouTube Content Idea | ${nicheData?.name} Niche`}
+  description={`${ideaData.description} Get detailed insights and tips for creating this ${nicheData?.name?.toLowerCase()} YouTube video idea.`}
+>
+  <script slot="head" type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": `${ideaData.title}`,
+      "description": `${ideaData.description}`,
+      "url": `https://youtubecontentideas.com/ideas/${ideaData.slug}`,
+      "author": {
+        "@type": "Organization",
+        "name": "YouTube Content Ideas"
+      },
+      "about": {
+        "@type": "Thing",
+        "name": "${nicheData?.name}"
+      },
+      "keywords": `${ideaData.tags.join(', ')}`,
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://youtubecontentideas.com"
+          },
+          {
+            "@type": "ListItem", 
+            "position": 2,
+            "name": "Niches",
+            "item": "https://youtubecontentideas.com/niches"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3, 
+            "name": "${nicheData?.name}",
+            "item": "https://youtubecontentideas.com/niche/${nicheData?.slug}"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "${ideaData.title}",
+            "item": "https://youtubecontentideas.com/ideas/${ideaData.slug}"
+          }
+        ]
+      }
+    }
+  </script>
+  <Navbar />
+  
+  <main class="min-h-screen">
+    <!-- Breadcrumb Navigation -->
+    <section class="py-4 border-b">
+      <div class="container">
+        <nav class="flex items-center space-x-2 text-sm text-muted-foreground">
+          <a href="/" class="hover:text-foreground transition-colors">Home</a>
+          <span>/</span>
+          <a href="/niches" class="hover:text-foreground transition-colors">Niches</a>
+          <span>/</span>
+          {nicheData && (
+            <>
+              <a href={`/niche/${nicheData.slug}`} class="hover:text-foreground transition-colors">{nicheData.name}</a>
+              <span>/</span>
+            </>
+          )}
+          <span class="text-foreground font-medium">{ideaData.title}</span>
+        </nav>
+      </div>
+    </section>
+
+    <!-- Hero Section -->
+    <section class="relative pt-8 md:pt-8">
+      <div class="container">
+        <div class="max-w-4xl mx-auto">
+          <div class="flex flex-wrap gap-2 mb-6">
+            {nicheData && (
+              <Badge variant="outline" className="text-sm">
+                <a href={`/niche/${nicheData.slug}`} class="hover:text-foreground transition-colors">
+                  {nicheData.name}
+                </a>
+              </Badge>
+            )}
+            {ideaData.tags.map((tag) => (
+              <Badge variant="secondary" className="text-xs">
+                {tag}
+              </Badge>
+            ))}
+          </div>
+          
+          <h1 class="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl mb-6">
+            <span class="bg-gradient-to-r text-red-500 bg-clip-text">
+              {ideaData.title}
+            </span>
+          </h1>
+          
+          <p class="text-xl leading-8 text-muted-foreground mb-8">
+            {ideaData.description}
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Main Content -->
+    <section class="pb-8">
+      <div class="container">
+        <div class="max-w-4xl mx-auto prose prose-xl prose-neutral dark:prose-invert">
+          <div set:html={contentHtml} />
+        </div>
+      </div>
+    </section>
+
+    <!-- Related Ideas -->
+    {relatedIdeas.length > 0 && (
+      <section class="py-16 bg-muted/50">
+        <div class="container">
+          <div class="text-center mb-12">
+            <h2 class="text-3xl font-bold tracking-tight mb-4">More {nicheData?.name} Ideas</h2>
+            <p class="text-muted-foreground">Explore other content ideas in this niche</p>
+          </div>
+          
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
+            {relatedIdeas.map((relatedIdea) => {
+              const difficulty = ['Easy', 'Medium', 'Hard'][relatedIdea.id % 3] as "Easy" | "Medium" | "Hard";
+              const estimatedViews = ['1K-10K', '10K-100K', '100K-1M', '1M+'][relatedIdea.id % 4];
+              
+              return (
+                <ContentIdeaCard
+                  title={relatedIdea.title}
+                  description={relatedIdea.description}
+                  niche={nicheData?.name || ''}
+                  difficulty={difficulty}
+                  estimatedViews={estimatedViews}
+                  clickable={true}
+                  client:load
+                />
+              );
+            })}
+          </div>
+          
+          <div class="text-center mt-8">
+            <a 
+              href={`/niche/${nicheData?.slug}`}
+              class="inline-flex items-center justify-center rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2"
+            >
+              View All {nicheData?.name} Ideas
+            </a>
+          </div>
+        </div>
+      </section>
+    )}
+  </main>
+
+  <Footer />
+</Layout>

@@ -12,5 +12,6 @@ export interface Niche {
   long_description: string;
   page_content: string;
   slug: string;
+  parent?: string; // Parent niche ID for hierarchy
   ideas: ContentIdea[];
 }
