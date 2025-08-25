@@ -53,7 +53,7 @@ const Content = (nicheModule as any).Content;
       "@type": "CollectionPage",
       "name": `${nicheData.name} YouTube Content Ideas`,
       "description": `${nicheData.long_description}`,
-      "url": `https://youtubecontentideas.com/niche/${nicheData.slug}`,
+      "url": `https://youtubecontentideas.com/niche/${nicheData.slug}/`,
       "mainEntity": {
         "@type": "ItemList",
         "numberOfItems": ${nicheIdeas.length},
@@ -77,19 +77,19 @@ const Content = (nicheModule as any).Content;
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://youtubecontentideas.com"
+            "item": "https://youtubecontentideas.com/"
           },
           {
             "@type": "ListItem", 
             "position": 2,
             "name": "Niches",
-            "item": "https://youtubecontentideas.com/niches"
+            "item": "https://youtubecontentideas.com/niches/"
           },
           {
             "@type": "ListItem",
             "position": 3, 
             "name": "${nicheData.name}",
-            "item": "https://youtubecontentideas.com/niche/${nicheData.slug}"
+            "item": "https://youtubecontentideas.com/niche/${nicheData.slug}/"
           }
         ]
       }
@@ -104,7 +104,7 @@ const Content = (nicheModule as any).Content;
         <nav class="flex items-center space-x-2 text-sm text-muted-foreground">
           <a href="/" class="hover:text-foreground transition-colors">Home</a>
           <span>/</span>
-          <a href="/niches" class="hover:text-foreground transition-colors">Niches</a>
+          <a href="/niches/" class="hover:text-foreground transition-colors">Niches</a>
           <span>/</span>
           <span class="text-foreground font-medium">{nicheData.name}</span>
         </nav>
@@ -118,7 +118,7 @@ const Content = (nicheModule as any).Content;
         <div class="text-center">
           {parentNiche && (
             <div class="mb-4">
-              <a href={`/niche/${parentNiche.slug}`}>
+              <a href={`/niche/${parentNiche.slug}/`}>
                 <Badge variant="outline" className="text-sm hover:bg-primary hover:text-primary-foreground transition-colors">
                   ← {parentNiche.name}
                 </Badge>
@@ -222,7 +222,7 @@ const Content = (nicheModule as any).Content;
             .slice(0, 12)
             .map((cat) => (
               <a 
-                href={`/niche/${cat.slug}`}
+                href={`/niche/${cat.slug}/`}
                 class="inline-flex items-center rounded-md border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/80"
               >
                 {cat.name}

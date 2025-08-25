@@ -5,7 +5,8 @@ import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
 
 export default defineConfig({
-  site: 'https://youtubecontentideas.com',
+  site: 'https://youtubecontentideas.com/',
+  trailingSlash: 'always',
   integrations: [
     mdx(),
     tailwind({

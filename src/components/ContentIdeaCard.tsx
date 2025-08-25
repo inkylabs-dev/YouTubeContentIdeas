@@ -69,7 +69,7 @@ export default function ContentIdeaCard({
   }
 
   return (
-    <a href={`/ideas/${ideaSlug}`} className="block">
+    <a href={`/ideas/${ideaSlug}/`} className="block">
       {cardContent}
     </a>
   );

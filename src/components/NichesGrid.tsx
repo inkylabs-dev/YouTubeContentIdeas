@@ -26,7 +26,7 @@ export default function NichesGrid({ niches }: NichesGridProps) {
             const parentNiche = getParentNiche(niche.id);
             
             return (
-              <a key={niche.id} href={`/niche/${niche.slug}`} className="group">
+              <a key={niche.id} href={`/niche/${niche.slug}/`} className="group">
                 <Card className="h-full transition-all duration-200 hover:shadow-lg hover:-translate-y-1 group-hover:border-primary/50">
                   <CardHeader className="pb-3">
                     <div className="flex items-center justify-between mb-2">
