@@ -3,7 +3,7 @@ import Layout from '../../layouts/Layout.astro';
 import Navbar from '../../components/Navbar.astro';
 import Footer from '../../components/Footer.astro';
 import { Badge } from '../../components/ui/badge';
-import { niches, getNicheBySlug } from '../../data/niches';
+import { niches, getNicheBySlug, contentIdeas } from '../../data/niches';
 import ContentIdeaCard from '../../components/ContentIdeaCard';
 
 export async function getStaticPaths() {
@@ -43,7 +43,14 @@ if (!ideaData) {
 // Get niche data for related content - handle comma-separated niches
 const primaryNiche = ideaData.niche.split(',')[0].trim();
 const nicheData = getNicheBySlug(primaryNiche);
-const relatedIdeas = nicheData ? nicheData.ideas.filter(idea => idea.title !== ideaData.title).slice(0, 6) : [];
+
+// Get related ideas from the same niche
+const relatedIdeas = contentIdeas
+  .filter(idea => 
+    idea.uniqueKey !== ideaData.slug && // Don't include current idea
+    idea.niche === nicheData?.name // Same niche
+  )
+  .slice(0, 6);
 
 // Use the actual MDX content instead of generated template
 const Content = ideaData.content;
