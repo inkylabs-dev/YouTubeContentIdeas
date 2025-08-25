@@ -6,6 +6,7 @@ import { Input } from '@/components/ui/input';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { Search } from 'lucide-react';
+import { contentIdeas } from '../data/niches';
 
 interface ContentIdea {
   id: number;
@@ -33,13 +34,6 @@ export default function MainContent({ niches }: MainContentProps) {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedNiche, setSelectedNiche] = useState('');
   const [displayCount, setDisplayCount] = useState(60);
-  
-  // Extract all content ideas from categories with unique keys
-  const contentIdeas = useMemo(() => 
-    niches.flatMap(niche => 
-      niche.ideas.map(idea => ({ ...idea, niche: niche.name, uniqueKey: `${niche.id}-${idea.id}` }))
-    ), [niches]
-  );
   
   const [filteredIdeas, setFilteredIdeas] = useState(contentIdeas);
 

@@ -4,20 +4,24 @@ import type { Niche, ContentIdea } from "../types/niche";
 const nicheFiles = import.meta.glob('../niches/*.mdx', { eager: true });
 const ideaFiles = import.meta.glob('../ideas/*.mdx', { eager: true });
 
-// Create a map of idea slugs to idea data
-const ideasMap = new Map<string, ContentIdea>();
+// Load all ideas from MDX files
+const allIdeas: (ContentIdea & { slug: string, nicheNames: string[] })[] = [];
 
-// Load all ideas
 for (const [path, ideaModule] of Object.entries(ideaFiles)) {
   const slug = path.split('/').pop()?.replace('.mdx', '') || '';
   const frontmatter = (ideaModule as any).frontmatter;
   
   if (frontmatter) {
-    ideasMap.set(slug, {
-      id: ideasMap.size + 1, // Generate sequential IDs
+    // Parse comma-separated niches
+    const nicheNames = frontmatter.niche ? frontmatter.niche.split(',').map((n: string) => n.trim()) : [];
+    
+    allIdeas.push({
+      id: allIdeas.length + 1,
       title: frontmatter.title,
       description: frontmatter.description,
-      tags: frontmatter.tags || []
+      tags: frontmatter.tags || [],
+      slug,
+      nicheNames
     });
   }
 }
@@ -30,23 +34,21 @@ for (const [path, nicheModule] of Object.entries(nicheFiles)) {
   const content = (nicheModule as any).Content;
   
   if (frontmatter) {
-    const nicheIdeas: ContentIdea[] = [];
+    // Get ideas that belong to this niche (by matching niche slug or name)
+    const nicheIdeas: ContentIdea[] = allIdeas
+      .filter(idea => 
+        idea.nicheNames.includes(frontmatter.slug) || 
+        idea.nicheNames.includes(frontmatter.name.toLowerCase())
+      )
+      .map(idea => ({
+        id: idea.id,
+        title: idea.title,
+        description: idea.description,
+        tags: idea.tags
+      }));
     
-    // Get ideas by slug references
-    if (Array.isArray(frontmatter.ideas)) {
-      for (const ideaSlug of frontmatter.ideas) {
-        const idea = ideasMap.get(ideaSlug);
-        if (idea) {
-          nicheIdeas.push(idea);
-        }
-      }
-    }
-    
-    // Get content as string - we'll need to handle this differently
     let pageContent = '';
     if (content) {
-      // For now, we'll use the long_description as page_content
-      // In a real implementation, you'd render the MDX content to string
       pageContent = frontmatter.long_description || '';
     }
     
@@ -62,6 +64,16 @@ for (const [path, nicheModule] of Object.entries(nicheFiles)) {
     });
   }
 }
+
+// Export all ideas for use in components
+export const contentIdeas = allIdeas.map(idea => ({
+  id: idea.id,
+  title: idea.title,
+  description: idea.description,
+  tags: idea.tags,
+  niche: idea.nicheNames[0] || '', // Use first niche as primary
+  uniqueKey: idea.slug
+}));
 
 export const getNicheBySlug = (slug: string): Niche | undefined => {
   return niches.find(niche => niche.slug === slug);
