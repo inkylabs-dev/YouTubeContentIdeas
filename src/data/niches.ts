@@ -3,7 +3,6 @@ import { diyNiche } from "./niches/diy";
 import { gamingNiche } from "./niches/gaming";
 import { foodNiche } from "./niches/food";
 import { lifestyleNiche } from "./niches/lifestyle";
-import { techNiche } from "./niches/tech";
 import { challengeNiche } from "./niches/challenge";
 import { entertainmentNiche } from "./niches/entertainment";
 import { healthNiche } from "./niches/health";
@@ -57,7 +56,6 @@ export const niches: Niche[] = [
   gamingNiche,
   foodNiche,
   lifestyleNiche,
-  techNiche,
   challengeNiche,
   entertainmentNiche,
   healthNiche,

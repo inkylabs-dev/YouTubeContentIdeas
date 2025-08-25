@@ -1,5 +1,5 @@
 import React from "react";
-import { Badge } from "@/components/ui/badge";
+import { Badge } from "@/components/ui/badge.jsx";
 
 interface HeroProps {
   totalIdeas: number;
@@ -23,7 +23,7 @@ export default function Hero({ totalIdeas }: HeroProps) {
             Brainstorm unlimited, SEO-ready content ideas in seconds.
           </p>
           <div className="mt-10 flex flex-col gap-4 max-w-md mx-auto">
-            <a href="/app">
+            <a href="/niches">
               <button className="w-full h-12 text-base bg-red-600 hover:bg-red-700 text-white font-medium rounded-md transition-colors">
                 → Start Brainstorming
               </button>
