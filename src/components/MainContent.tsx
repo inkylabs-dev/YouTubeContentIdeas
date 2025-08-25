@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import Hero from './Hero';
 import NichesGrid from './NichesGrid';
 import ContentIdeaCard from './ContentIdeaCard';
@@ -33,9 +33,11 @@ export default function MainContent({ niches }: MainContentProps) {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedNiche, setSelectedNiche] = useState('');
   
-  // Extract all content ideas from categories
-  const contentIdeas = niches.flatMap(niche => 
-    niche.ideas.map(idea => ({ ...idea, niche: niche.name }))
+  // Extract all content ideas from categories with unique keys
+  const contentIdeas = useMemo(() => 
+    niches.flatMap(niche => 
+      niche.ideas.map(idea => ({ ...idea, niche: niche.name, uniqueKey: `${niche.id}-${idea.id}` }))
+    ), [niches]
   );
   
   const [filteredIdeas, setFilteredIdeas] = useState(contentIdeas);
@@ -64,8 +66,6 @@ export default function MainContent({ niches }: MainContentProps) {
   return (
     <main>
       <Hero 
-        onSearch={setSearchQuery}
-        searchQuery={searchQuery}
         totalIdeas={contentIdeas.length}
       />
       
@@ -73,6 +73,16 @@ export default function MainContent({ niches }: MainContentProps) {
       <section className="py-16 bg-muted/50">
         <div className="container">
           <div className="text-center mb-12">
+            <div className="relative max-w-md mx-auto mb-8">
+              <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
+              <Input
+                type="text"
+                placeholder="Search content ideas..."
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                className="pl-10 h-12 text-base"
+              />
+            </div>
             
             <div className="flex flex-wrap justify-center gap-2 mb-8">
               <Badge 
@@ -107,7 +117,7 @@ export default function MainContent({ niches }: MainContentProps) {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {enhancedIdeas.map((idea) => (
                 <ContentIdeaCard
-                  key={idea.id}
+                  key={idea.uniqueKey}
                   title={idea.title}
                   description={idea.description}
                   niche={idea.niche}

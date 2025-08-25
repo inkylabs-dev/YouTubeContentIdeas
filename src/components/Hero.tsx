@@ -1,15 +1,11 @@
 import React from "react";
-import { Search } from "lucide-react";
-import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
 
 interface HeroProps {
-  onSearch: (query: string) => void;
-  searchQuery: string;
   totalIdeas: number;
 }
 
-export default function Hero({ onSearch, searchQuery, totalIdeas }: HeroProps) {
+export default function Hero({ totalIdeas }: HeroProps) {
   return (
     <section className="relative py-20 md:py-28">
       <div className="container">
@@ -26,17 +22,13 @@ export default function Hero({ onSearch, searchQuery, totalIdeas }: HeroProps) {
           <p className="mt-6 text-lg leading-8 text-muted-foreground max-w-2xl mx-auto">
             Brainstorm unlimited, SEO-ready content ideas in seconds.
           </p>
-          <div className="mt-10 max-w-md mx-auto">
-            <div className="relative">
-              <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
-              <Input
-                type="text"
-                placeholder="→ Start Brainstorming (free, no signup required)"
-                value={searchQuery}
-                onChange={(e) => onSearch(e.target.value)}
-                className="pl-10 h-12 text-base"
-              />
-            </div>
+          <div className="mt-10 flex flex-col gap-4 max-w-md mx-auto">
+            <a href="/app">
+              <button className="w-full h-12 text-base bg-red-600 hover:bg-red-700 text-white font-medium rounded-md transition-colors">
+                → Start Brainstorming
+              </button>
+            </a>
+            <p className="text-sm text-muted-foreground">free, no signup required</p>
           </div>
         </div>
       </div>
