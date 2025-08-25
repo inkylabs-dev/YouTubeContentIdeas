@@ -32,6 +32,7 @@ interface MainContentProps {
 export default function MainContent({ niches }: MainContentProps) {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedNiche, setSelectedNiche] = useState('');
+  const [displayCount, setDisplayCount] = useState(60);
   
   // Extract all content ideas from categories with unique keys
   const contentIdeas = useMemo(() => 
@@ -55,6 +56,7 @@ export default function MainContent({ niches }: MainContentProps) {
     });
     
     setFilteredIdeas(filtered);
+    setDisplayCount(60); // Reset display count when filters change
   }, [searchQuery, selectedNiche, contentIdeas]);
 
   const enhancedIdeas = filteredIdeas.map(idea => ({
@@ -62,6 +64,27 @@ export default function MainContent({ niches }: MainContentProps) {
     difficulty: (idea.difficulty || ['Easy', 'Medium', 'Hard'][idea.id % 3]) as "Easy" | "Medium" | "Hard",
     estimatedViews: idea.estimatedViews || ['1K-10K', '10K-100K', '100K-1M', '1M+'][idea.id % 4]
   }));
+
+  const displayedIdeas = enhancedIdeas.slice(0, displayCount);
+  const hasMoreIdeas = displayCount < enhancedIdeas.length;
+
+  const handleShowMore = () => {
+    setDisplayCount(prevCount => Math.min(prevCount + 60, enhancedIdeas.length));
+  };
+
+  // Infinite scroll functionality
+  useEffect(() => {
+    const handleScroll = () => {
+      if (window.innerHeight + document.documentElement.scrollTop >= document.documentElement.offsetHeight - 1000) {
+        if (hasMoreIdeas) {
+          handleShowMore();
+        }
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, [hasMoreIdeas, handleShowMore]);
 
   return (
     <main>
@@ -114,18 +137,32 @@ export default function MainContent({ niches }: MainContentProps) {
               <p className="text-muted-foreground">Try adjusting your search or filter criteria</p>
             </div>
           ) : (
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {enhancedIdeas.map((idea) => (
-                <ContentIdeaCard
-                  key={idea.uniqueKey}
-                  title={idea.title}
-                  description={idea.description}
-                  niche={idea.niche}
-                  difficulty={idea.difficulty}
-                  estimatedViews={idea.estimatedViews}
-                />
-              ))}
-            </div>
+            <>
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                {displayedIdeas.map((idea) => (
+                  <ContentIdeaCard
+                    key={idea.uniqueKey}
+                    title={idea.title}
+                    description={idea.description}
+                    niche={idea.niche}
+                    difficulty={idea.difficulty}
+                    estimatedViews={idea.estimatedViews}
+                  />
+                ))}
+              </div>
+              
+              {hasMoreIdeas && (
+                <div className="text-center mt-12">
+                  <Button 
+                    onClick={handleShowMore}
+                    size="lg"
+                    className="px-8 py-3"
+                  >
+                    Show More Ideas
+                  </Button>
+                </div>
+              )}
+            </>
           )}
         </div>
       </section>
