@@ -6,7 +6,7 @@ A modern, responsive website showcasing 100 trending YouTube content ideas to in
 
 - **100 Content Ideas**: Carefully curated list of trending YouTube video concepts
 - **Search Functionality**: Real-time search through titles, descriptions, and tags
-- **Category Filtering**: Filter content by categories like Food, DIY, Gaming, etc.
+- **Niche Filtering**: Filter content by niches like Food, DIY, Gaming, etc.
 - **Modern Design**: Built with Astro and styled with Tailwind CSS
 - **ShadCN Components**: Beautiful, accessible card components
 - **Responsive Layout**: Works perfectly on desktop, tablet, and mobile
@@ -77,13 +77,13 @@ src/
 
 ### Search & Filter
 - Real-time search across titles, descriptions, and tags
-- Category-based filtering with 20+ categories
+- Niche-based filtering with 20+ niches
 - Responsive design that works on all devices
 
 ### Content Ideas
 Each content idea includes:
 - Unique ID and title
-- Category classification
+- Niche classification
 - Detailed description
 - Relevant tags for discoverability
 
