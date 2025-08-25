@@ -3,7 +3,6 @@ import Layout from '../layouts/Layout.astro';
 import Navbar from '../components/Navbar.astro';
 import Footer from '../components/Footer.astro';
 import MainContent from '../components/MainContent';
-import { contentIdeas } from '../data/contentIdeas';
 import { categories } from '../data/categories';
 ---
 
@@ -12,6 +11,6 @@ import { categories } from '../data/categories';
   description="Discover trending YouTube content ideas across 60+ categories. Find fresh video concepts for challenges, tutorials, reviews, vlogs and more to grow your channel."
 >
   <Navbar />
-  <MainContent contentIdeas={contentIdeas} categories={categories} client:load />
+  <MainContent categories={categories} client:load />
   <Footer />
 </Layout>

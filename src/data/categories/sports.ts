@@ -1,0 +1,41 @@
+import type { Category } from "../../types/category";
+
+export const sportsCategory: Category = {
+  id: "sports",
+  name: "Sports",
+  description: "Sports analysis, highlights and athletic content",
+  long_description: "Cover the exciting world of sports with analysis and highlights.",
+  page_content: `# Sports YouTube Content: Covering the Athletic World
+
+Sports content on YouTube serves fans seeking analysis, highlights, and commentary on their favorite teams and athletes. This category offers opportunities for both entertainment and in-depth sports journalism.
+
+## The Power of Sports Content
+
+Sports videos perform well because they tap into passionate fan communities and timely interest in games, seasons, and athletic achievements. Content often peaks during relevant sporting seasons and events.
+
+## Types of Sports Content That Work
+
+**Game Analysis**
+Detailed breakdowns of games, strategies, and player performances serve fans seeking deeper understanding of sports.
+
+**Highlight Compilations**
+Curated highlights and memorable moments appeal to fans wanting to relive exciting sports moments.
+
+**Sports Commentary**
+Opinion and analysis content serves fans interested in different perspectives on teams, players, and sports news.
+
+## Building Your Sports Channel
+
+**Know Your Sport**
+Deep knowledge and genuine passion for your chosen sport builds credibility with knowledgeable fan communities.
+
+**Stay Current**
+Sports content requires staying up-to-date with current games, trades, and sports news for relevant commentary.
+
+**Engage with Fan Communities**
+Sports fans form passionate communities. Engage with comments and participate in broader sports conversations.
+
+Sports YouTube content serves dedicated fan communities while providing analysis and commentary that enhances viewers' enjoyment and understanding of athletic competition.`,
+  slug: "sports",
+  ideas: []
+};

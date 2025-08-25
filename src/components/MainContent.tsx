@@ -22,16 +22,22 @@ interface Category {
   name: string;
   description: string;
   slug: string;
+  ideas: ContentIdea[];
 }
 
 interface MainContentProps {
-  contentIdeas: ContentIdea[];
   categories: Category[];
 }
 
-export default function MainContent({ contentIdeas, categories }: MainContentProps) {
+export default function MainContent({ categories }: MainContentProps) {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('');
+  
+  // Extract all content ideas from categories
+  const contentIdeas = categories.flatMap(category => 
+    category.ideas.map(idea => ({ ...idea, category: category.name }))
+  );
+  
   const [filteredIdeas, setFilteredIdeas] = useState(contentIdeas);
 
   useEffect(() => {

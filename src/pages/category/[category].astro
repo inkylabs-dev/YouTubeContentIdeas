@@ -5,8 +5,8 @@ import Footer from '../../components/Footer.astro';
 import ContentIdeaCard from '../../components/ContentIdeaCard';
 import { Badge } from '../../components/ui/badge';
 import { Input } from '../../components/ui/input';
-import { contentIdeas } from '../../data/contentIdeas';
 import { categories, getCategoryBySlug } from '../../data/categories';
+import { marked } from 'marked';
 
 export async function getStaticPaths() {
   return categories.map((category) => ({
@@ -21,21 +21,23 @@ if (!categoryData) {
   return Astro.redirect('/');
 }
 
-const categoryIdeas = contentIdeas.filter(idea => 
-  idea.category.toLowerCase() === categoryData.name.toLowerCase()
-);
+// Get content ideas from the category itself
+const categoryIdeas = categoryData.ideas || [];
+
+// Process markdown content
+const processedMarkdown = marked(categoryData.page_content);
 ---
 
 <Layout 
   title={`${categoryData.name} YouTube Content Ideas - Video Ideas for ${categoryData.name} Creators`}
-  description={`Explore ${categoryData.name.toLowerCase()} YouTube content ideas. ${categoryData.description} Find trending video concepts to engage your audience and grow your channel.`}
+  description={`Explore ${categoryData.name.toLowerCase()} YouTube content ideas. ${categoryData.long_description} Find trending video concepts to engage your audience and grow your channel.`}
 >
   <script slot="head" type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "CollectionPage",
       "name": `${categoryData.name} YouTube Content Ideas`,
-      "description": `${categoryData.description}`,
+      "description": `${categoryData.long_description}`,
       "url": `https://youtubecontentideas.com/category/${categoryData.slug}`,
       "mainEntity": {
         "@type": "ItemList",
@@ -100,13 +102,15 @@ const categoryIdeas = contentIdeas.filter(idea =>
         
         <div class="text-center">
           <h1 class="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl mb-6">
-            {categoryData.name} 
-            <span class="bg-gradient-to-r from-red-500 to-red-600 bg-clip-text text-transparent">
+            <span class="bg-gradient-to-r text-red-500  bg-clip-text">
+              {categoryData.name}
+            </span>
+            <span class="bg-gradient-to-r text-black-600 bg-clip-text">
               YouTube Content Ideas
             </span>
           </h1>
           <p class="text-lg leading-8 text-muted-foreground max-w-2xl mx-auto mb-8">
-            {categoryData.description}
+            {categoryData.long_description}
           </p>
           
           <div class="max-w-md mx-auto">
@@ -139,7 +143,7 @@ const categoryIdeas = contentIdeas.filter(idea =>
                 <ContentIdeaCard
                   title={idea.title}
                   description={idea.description}
-                  category={idea.category}
+                  category={categoryData.name}
                   difficulty={difficulty}
                   estimatedViews={estimatedViews}
                   client:load
@@ -170,6 +174,15 @@ const categoryIdeas = contentIdeas.filter(idea =>
       </div>
     </section>
 
+    <!-- Category Information Content -->
+    <section class="py-16">
+      <div class="container">
+        <div class="prose prose-xl prose-neutral dark:prose-invert mx-auto max-w-3xl">
+          <div set:html={processedMarkdown} />
+        </div>
+      </div>
+    </section>
+
     <!-- Related Categories -->
     <section class="py-16">
       <div class="container">
@@ -183,14 +196,12 @@ const categoryIdeas = contentIdeas.filter(idea =>
             .filter(cat => cat.slug !== category)
             .slice(0, 12)
             .map((cat) => (
-              <Badge variant="outline" asChild>
-                <a 
-                  href={`/category/${cat.slug}`}
-                  class="hover:bg-accent transition-colors"
-                >
-                  {cat.name}
-                </a>
-              </Badge>
+              <a 
+                href={`/category/${cat.slug}`}
+                class="inline-flex items-center rounded-md border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/80"
+              >
+                {cat.name}
+              </a>
             ))
           }
         </div>
