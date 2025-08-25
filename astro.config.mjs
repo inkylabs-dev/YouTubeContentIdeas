@@ -9,7 +9,14 @@ export default defineConfig({
     tailwind({
       applyBaseStyles: false,
     }),
-    react(),
+    react({
+      include: ['**/react/*', '**/components/**/*'],
+    }),
     sitemap(),
   ],
+  vite: {
+    esbuild: {
+      jsx: 'automatic',
+    },
+  },
 });

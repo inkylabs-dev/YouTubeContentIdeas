@@ -1,0 +1,35 @@
+import type { Niche } from "../../types/niche";
+
+export const fashionNiche: Niche = {
+  id: "fashion",
+  name: "Fashion",
+  description: "Style, clothing and fashion trend content",
+  long_description: "Explore fashion trends, styling tips, and clothing content for style enthusiasts seeking to express personal style and stay current with trends.",
+  page_content: `# Creating Stylish Fashion Content
+
+Fashion content on YouTube helps viewers express personal style and stay current with trends by providing styling advice, trend analysis, and fashion inspiration that supports confident self-expression.
+
+## Why Fashion Content Resonates
+
+**Self-Expression**: Fashion is a powerful form of personal expression, making fashion content valuable for viewers exploring their style identity.
+
+**Practical Value**: Styling tips and fashion advice help viewers make better clothing choices and maximize their wardrobes.
+
+**Cultural Relevance**: Fashion reflects cultural trends and social movements, making fashion content culturally significant and timely.
+
+## Content Types That Style
+
+**Trend Analysis**: Breaking down current fashion trends, explaining how to wear them, and predicting future style directions.
+
+**Styling Tutorials**: Practical advice for creating outfits, mixing patterns, and developing personal style that reflects individual personality.
+
+**Fashion Reviews**: Honest assessments of clothing quality, fit, and value that help viewers make informed purchasing decisions.
+
+Fashion content offers opportunities to influence style culture while helping viewers develop confidence in personal expression through clothing and aesthetic choices.`,
+  slug: "fashion",
+  ideas: [
+    { id: 5, title: "Rating Celebrity Outfits", description: "Rate and critique recent celebrity fashion choices", tags: ["fashion", "celebrity", "style"] },
+    { id: 21, title: "Thrift Flip Fashion Haul", description: "Buy thrift store clothes and transform them into trendy pieces", tags: ["thrift", "fashion", "upcycle"] },
+    { id: 72, title: "Making Clothes From Unconventional Materials", description: "Create fashion pieces using newspapers, plastic, etc.", tags: ["fashion", "unconventional", "creative"] }
+  ]
+};

@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import Hero from './Hero';
 import CategoriesGrid from './CategoriesGrid';
 import ContentIdeaCard from './ContentIdeaCard';

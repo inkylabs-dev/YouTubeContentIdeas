@@ -1,0 +1,41 @@
+import type { Niche } from "../../types/niche";
+
+export const vlogNiche: Niche = {
+  id: "vlog",
+  name: "Vlog",
+  description: "Video blog content and personal storytelling",
+  long_description: "Share personal stories and experiences through video blogs.",
+  page_content: `# Vlog YouTube Content: Personal Storytelling and Life Sharing
+
+Vlog content on YouTube allows creators to share personal experiences, thoughts, and daily life with audiences seeking authentic connection and entertainment. This format builds strong personal relationships with viewers.
+
+## The Personal Connection of Vlogs
+
+Vlog content performs well because it creates intimate connections between creators and viewers. The format allows for authentic storytelling and personal expression that resonates with audiences seeking genuine content.
+
+## Types of Vlog Content That Work
+
+**Personal Journey Documentation**
+Sharing life experiences, challenges, and growth provides inspiration and connection for viewers facing similar situations.
+
+**Adventure and Experience Vlogs**
+Documentation of unique experiences, travels, and adventures provides entertainment and inspiration.
+
+**Thought and Opinion Sharing**
+Personal perspectives on life, events, and experiences create discussion and connection with like-minded viewers.
+
+## Creating Engaging Vlog Content
+
+**Authentic Storytelling**
+Share genuine experiences and emotions to create real connections with your audience.
+
+**Narrative Structure**
+Create compelling stories within personal experiences to maintain viewer engagement.
+
+**Balance Privacy and Sharing**
+Share appropriately while maintaining personal boundaries and protecting privacy.
+
+Vlog YouTube content creates deep personal connections with audiences while providing authentic entertainment and inspiration through personal storytelling and life sharing.`,
+  slug: "vlog",
+  ideas: []
+};

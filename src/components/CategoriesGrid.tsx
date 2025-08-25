@@ -1,9 +1,10 @@
+import React from "react";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import type { Category } from "@/data/categories";
+import type { Niche } from "@/types/niche";
 
 interface CategoriesGridProps {
-  categories: Category[];
+  categories: Niche[];
 }
 
 export default function CategoriesGrid({ categories }: CategoriesGridProps) {

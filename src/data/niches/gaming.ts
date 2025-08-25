@@ -1,0 +1,55 @@
+import type { Niche } from "../../types/niche";
+
+export const gamingNiche: Niche = {
+  id: "gaming",
+  name: "Gaming",
+  description: "Video game reviews, gameplay and gaming culture",
+  long_description: "Explore the dynamic world of gaming content with reviews, gameplay videos, and gaming culture commentary. Create engaging content for the massive gaming community on YouTube.",
+  page_content: `# Gaming YouTube Content Ideas: Capturing the Gaming Community
+
+Gaming content dominates YouTube, representing one of the platform's most popular and engaging categories. With billions of gaming hours watched monthly, this niche offers incredible opportunities for content creators to build passionate communities around shared gaming experiences.
+
+## The Gaming Content Landscape
+
+Gaming videos perform exceptionally well on YouTube because they combine entertainment with interactivity. Viewers watch gaming content not just for the games themselves, but for the personalities, commentary, and community aspects that creators bring to their content.
+
+## High-Performing Gaming Content Types
+
+**Let's Play Series**
+Record yourself playing through games while providing commentary. These series work well because they create ongoing content from single games, encouraging viewers to return for the next episode.
+
+**Game Reviews and First Impressions**
+Provide honest opinions about new releases. Review content performs well in search and helps viewers make purchasing decisions, creating natural engagement and discussion.
+
+**Gaming Tutorials and Guides**
+Teach viewers how to master difficult levels, find hidden items, or improve their skills. Tutorial content has excellent search potential as players actively seek help for specific challenges.
+
+## Building Your Gaming Audience
+
+**Consistency is Key**
+Gaming audiences expect regular content. Whether it's daily uploads or scheduled streams, maintaining a consistent presence helps build loyal viewership.
+
+**Engage with Your Community**
+Respond to comments, play games suggested by viewers, and create content around community requests. Gaming audiences are particularly interactive and appreciate creators who engage with them.
+
+**Stay Current**
+Cover trending games and participate in gaming events. Timing your content around game releases and gaming news can significantly boost visibility.
+
+## Content Strategies That Work
+
+**Multiplayer Content**
+Collaborate with other creators or play with viewers. Multiplayer content often generates more engagement and provides natural opportunities for community building.
+
+**Niche Games**
+Don't just follow the biggest titles. Smaller, niche games often have dedicated communities hungry for content, providing opportunities to become a go-to creator for specific games.
+
+**Gaming Culture Commentary**
+Discuss gaming industry news, trends, and controversies. This type of content appeals to engaged gaming enthusiasts and can drive significant discussion.
+
+Gaming content offers endless possibilities for creativity and community building. Focus on games you genuinely enjoy, as your passion will translate into more engaging content that resonates with viewers who share your interests.`,
+  slug: "gaming",
+  ideas: [
+    { id: 6, title: "Building the Ultimate Gaming Setup", description: "Create your dream gaming setup on any budget", tags: ["gaming", "tech", "setup"] },
+    { id: 63, title: "Making My Own Video Game", description: "Create a simple video game from scratch", tags: ["gaming", "programming", "creative"] }
+  ]
+};
