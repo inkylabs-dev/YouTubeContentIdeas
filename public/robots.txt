@@ -2,8 +2,8 @@ User-agent: *
 Allow: /
 
 # Important pages
-Allow: /categories
-Allow: /category/
+Allow: /niches
+Allow: /niche/
 Allow: /about
 Allow: /contact
 

@@ -2,14 +2,14 @@
 import Layout from '../layouts/Layout.astro';
 import Navbar from '../components/Navbar.astro';
 import Footer from '../components/Footer.astro';
-import CategoriesGrid from '../components/CategoriesGrid';
+import NichesGrid from '../components/NichesGrid';
 import { Input } from '../components/ui/input';
-import { categories } from '../data/niches';
+import { niches } from '../data/niches';
 ---
 
 <Layout 
-  title="YouTube Content Categories - 72 Niches for Video Ideas (Free)"
-  description="Explore 72 YouTube content categories from Gaming to DIY to Food. Find your niche with organized video ideas to grow your channel audience."
+  title="YouTube Content Niches - 72 Niches for Video Ideas (Free)"
+  description="Explore 72 YouTube content niches from Gaming to DIY to Food. Find your niche with organized video ideas to grow your channel audience."
 >
   <Navbar />
   
@@ -18,10 +18,10 @@ import { categories } from '../data/niches';
       <div class="container">
         <div class="mx-auto max-w-4xl text-center">
           <h1 class="text-4xl font-bold tracking-tight sm:text-6xl lg:text-7xl">
-            All Categories
+            All Niches
           </h1>
           <p class="mt-6 text-lg leading-8 text-muted-foreground max-w-2xl mx-auto">
-            Discover content ideas across all {categories.length} categories. Each category contains 
+            Discover content ideas across all {niches.length} niches. Each niche contains 
             curated video ideas to help grow your YouTube channel.
           </p>
           
@@ -33,7 +33,7 @@ import { categories } from '../data/niches';
               <Input
                 type="text"
                 id="searchInput"
-                placeholder="Search categories..."
+                placeholder="Search niches..."
                 className="pl-10 h-12 text-base"
               />
             </div>
@@ -44,24 +44,24 @@ import { categories } from '../data/niches';
     
     <section class="py-16">
       <div class="container">
-        <div id="categoriesGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          {categories.map((category) => (
-            <div data-name={category.name.toLowerCase()} data-description={category.description.toLowerCase()}>
-              <a href={`/category/${category.slug}`} class="group">
+        <div id="nichesGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+          {niches.map((niche) => (
+            <div data-name={niche.name.toLowerCase()} data-description={niche.description.toLowerCase()}>
+              <a href={`/niche/${niche.slug}`} class="group">
                 <div class="h-full transition-all duration-200 hover:shadow-lg hover:-translate-y-1 group-hover:border-primary/50 rounded-lg border bg-card text-card-foreground shadow-sm">
                 <div class="flex flex-col space-y-1.5 p-6 pb-3">
                   <div class="flex items-center justify-between mb-2">
                     <span class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/80">
-                      {category.name}
+                      {niche.name}
                     </span>
                   </div>
                   <h3 class="text-lg font-semibold leading-none tracking-tight group-hover:text-primary transition-colors">
-                    {category.name}
+                    {niche.name}
                   </h3>
                 </div>
                 <div class="p-6 pt-0">
                   <p class="text-sm text-muted-foreground leading-relaxed">
-                    {category.description}
+                    {niche.description}
                   </p>
                 </div>
               </div>
@@ -72,7 +72,7 @@ import { categories } from '../data/niches';
         
         <!-- No Results Message -->
         <div id="noResults" class="hidden text-center py-12">
-          <h3 class="text-xl text-muted-foreground mb-4">No categories found</h3>
+          <h3 class="text-xl text-muted-foreground mb-4">No niches found</h3>
           <p class="text-muted-foreground">Try adjusting your search criteria</p>
         </div>
       </div>
@@ -84,15 +84,15 @@ import { categories } from '../data/niches';
   <script>
     // Search functionality
     const searchInput = document.getElementById('searchInput') as HTMLInputElement;
-    const categoriesGrid = document.getElementById('categoriesGrid') as HTMLElement;
+    const nichesGrid = document.getElementById('nichesGrid') as HTMLElement;
     const noResults = document.getElementById('noResults') as HTMLElement;
 
-    function filterCategories() {
+    function filterNiches() {
       const searchTerm = searchInput.value.toLowerCase();
-      const categoryCards = categoriesGrid.querySelectorAll('[data-name]') as NodeListOf<HTMLElement>;
+      const nicheCards = nichesGrid.querySelectorAll('[data-name]') as NodeListOf<HTMLElement>;
       let visibleCount = 0;
 
-      categoryCards.forEach(card => {
+      nicheCards.forEach(card => {
         const name = card.getAttribute('data-name') || '';
         const description = card.getAttribute('data-description') || '';
 
@@ -110,13 +110,13 @@ import { categories } from '../data/niches';
 
       if (visibleCount === 0) {
         noResults.classList.remove('hidden');
-        categoriesGrid.classList.add('hidden');
+        nichesGrid.classList.add('hidden');
       } else {
         noResults.classList.add('hidden');
-        categoriesGrid.classList.remove('hidden');
+        nichesGrid.classList.remove('hidden');
       }
     }
 
-    searchInput.addEventListener('input', filterCategories);
+    searchInput.addEventListener('input', filterNiches);
   </script>
 </Layout>

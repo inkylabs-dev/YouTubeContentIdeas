@@ -5,52 +5,52 @@ import Footer from '../../components/Footer.astro';
 import ContentIdeaCard from '../../components/ContentIdeaCard';
 import { Badge } from '../../components/ui/badge';
 import { Input } from '../../components/ui/input';
-import { categories, getCategoryBySlug } from '../../data/niches';
+import { niches, getNicheBySlug } from '../../data/niches';
 import { marked } from 'marked';
 
 export async function getStaticPaths() {
-  return categories.map((category) => ({
-    params: { category: category.slug },
+  return niches.map((niche) => ({
+    params: { niche: niche.slug },
   }));
 }
 
-const { category } = Astro.params;
-const categoryData = getCategoryBySlug(category);
+const { niche } = Astro.params;
+const nicheData = getNicheBySlug(niche);
 
-if (!categoryData) {
+if (!nicheData) {
   return Astro.redirect('/');
 }
 
-// Get content ideas from the category itself
-const categoryIdeas = categoryData.ideas || [];
+// Get content ideas from the niche itself
+const nicheIdeas = nicheData.ideas || [];
 
 // Process markdown content
-const processedMarkdown = marked(categoryData.page_content);
+const processedMarkdown = marked(nicheData.page_content);
 ---
 
 <Layout 
-  title={`${categoryData.name} YouTube Content Ideas - Video Ideas for ${categoryData.name} Creators`}
-  description={`Explore ${categoryData.name.toLowerCase()} YouTube content ideas. ${categoryData.long_description} Find trending video concepts to engage your audience and grow your channel.`}
+  title={`${nicheData.name} YouTube Content Ideas - Video Ideas for ${nicheData.name} Creators`}
+  description={`Explore ${nicheData.name.toLowerCase()} YouTube content ideas. ${nicheData.long_description} Find trending video concepts to engage your audience and grow your channel.`}
 >
   <script slot="head" type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "CollectionPage",
-      "name": `${categoryData.name} YouTube Content Ideas`,
-      "description": `${categoryData.long_description}`,
-      "url": `https://youtubecontentideas.com/category/${categoryData.slug}`,
+      "name": `${nicheData.name} YouTube Content Ideas`,
+      "description": `${nicheData.long_description}`,
+      "url": `https://youtubecontentideas.com/niche/${nicheData.slug}`,
       "mainEntity": {
         "@type": "ItemList",
-        "numberOfItems": ${categoryIdeas.length},
+        "numberOfItems": ${nicheIdeas.length},
         "itemListElement": [
-          ${categoryIdeas.slice(0, 10).map((idea, index) => `{
+          ${nicheIdeas.slice(0, 10).map((idea, index) => `{
             "@type": "CreativeWork",
             "position": ${index + 1},
             "name": "${idea.title}",
             "description": "${idea.description}",
             "about": {
               "@type": "Thing",
-              "name": "${categoryData.name}"
+              "name": "${nicheData.name}"
             }
           }`).join(',')}
         ]
@@ -67,14 +67,14 @@ const processedMarkdown = marked(categoryData.page_content);
           {
             "@type": "ListItem", 
             "position": 2,
-            "name": "Categories",
-            "item": "https://youtubecontentideas.com/categories"
+            "name": "Niches",
+            "item": "https://youtubecontentideas.com/niches"
           },
           {
             "@type": "ListItem",
             "position": 3, 
-            "name": "${categoryData.name}",
-            "item": "https://youtubecontentideas.com/category/${categoryData.slug}"
+            "name": "${nicheData.name}",
+            "item": "https://youtubecontentideas.com/niche/${nicheData.slug}"
           }
         ]
       }
@@ -89,9 +89,9 @@ const processedMarkdown = marked(categoryData.page_content);
         <nav class="flex items-center space-x-2 text-sm text-muted-foreground">
           <a href="/" class="hover:text-foreground transition-colors">Home</a>
           <span>/</span>
-          <a href="/categories" class="hover:text-foreground transition-colors">Categories</a>
+          <a href="/niches" class="hover:text-foreground transition-colors">Niches</a>
           <span>/</span>
-          <span class="text-foreground font-medium">{categoryData.name}</span>
+          <span class="text-foreground font-medium">{nicheData.name}</span>
         </nav>
       </div>
     </section>
@@ -103,14 +103,14 @@ const processedMarkdown = marked(categoryData.page_content);
         <div class="text-center">
           <h1 class="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl mb-6">
             <span class="bg-gradient-to-r text-red-500  bg-clip-text">
-              {categoryData.name}
+              {nicheData.name}
             </span>
             <span class="bg-gradient-to-r text-black-600 bg-clip-text">
               YouTube Content Ideas
             </span>
           </h1>
           <p class="text-lg leading-8 text-muted-foreground max-w-2xl mx-auto mb-8">
-            {categoryData.long_description}
+            {nicheData.long_description}
           </p>
           
           <div class="max-w-md mx-auto">
@@ -121,7 +121,7 @@ const processedMarkdown = marked(categoryData.page_content);
               <Input
                 type="text"
                 id="searchInput"
-                placeholder={`Search ${categoryData.name.toLowerCase()} ideas...`}
+                placeholder={`Search ${nicheData.name.toLowerCase()} ideas...`}
                 className="pl-10 h-12 text-base"
               />
             </div>
@@ -134,7 +134,7 @@ const processedMarkdown = marked(categoryData.page_content);
     <section class="py-16 bg-muted/50">
       <div class="container">
         <div id="contentGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {categoryIdeas.map((idea) => {
+          {nicheIdeas.map((idea) => {
             const difficulty = ['Easy', 'Medium', 'Hard'][idea.id % 3] as "Easy" | "Medium" | "Hard";
             const estimatedViews = ['1K-10K', '10K-100K', '100K-1M', '1M+'][idea.id % 4];
             
@@ -143,7 +143,7 @@ const processedMarkdown = marked(categoryData.page_content);
                 <ContentIdeaCard
                   title={idea.title}
                   description={idea.description}
-                  category={categoryData.name}
+                  niche={nicheData.name}
                   difficulty={difficulty}
                   estimatedViews={estimatedViews}
                   client:load
@@ -160,14 +160,14 @@ const processedMarkdown = marked(categoryData.page_content);
         </div>
         
         <!-- No Ideas Available Message -->
-        {categoryIdeas.length === 0 && (
+        {nicheIdeas.length === 0 && (
           <div class="text-center py-12">
             <h3 class="text-xl text-muted-foreground mb-4">No content ideas available yet</h3>
-            <p class="text-muted-foreground mb-6">We're working on adding more {categoryData.name.toLowerCase()} content ideas!</p>
+            <p class="text-muted-foreground mb-6">We're working on adding more {nicheData.name.toLowerCase()} content ideas!</p>
             <div class="space-y-2 text-sm text-muted-foreground">
               <p>💡 Try exploring other categories</p>
               <p>🔍 Use the search to find ideas across all topics</p>
-              <p>📺 Check back soon for new {categoryData.name.toLowerCase()} ideas</p>
+              <p>📺 Check back soon for new {nicheData.name.toLowerCase()} ideas</p>
             </div>
           </div>
         )}
@@ -187,17 +187,17 @@ const processedMarkdown = marked(categoryData.page_content);
     <section class="py-16">
       <div class="container">
         <div class="text-center mb-8">
-          <h2 class="text-3xl font-bold tracking-tight mb-4">Explore Other Categories</h2>
+          <h2 class="text-3xl font-bold tracking-tight mb-4">Explore Other Niches</h2>
           <p class="text-muted-foreground">Discover more content ideas across different topics</p>
         </div>
         
         <div class="flex flex-wrap justify-center gap-2">
-          {categories
-            .filter(cat => cat.slug !== category)
+          {niches
+            .filter(cat => cat.slug !== niche)
             .slice(0, 12)
             .map((cat) => (
               <a 
-                href={`/category/${cat.slug}`}
+                href={`/niche/${cat.slug}`}
                 class="inline-flex items-center rounded-md border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/80"
               >
                 {cat.name}

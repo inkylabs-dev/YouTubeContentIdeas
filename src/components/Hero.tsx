@@ -24,7 +24,7 @@ export default function Hero({ onSearch, searchQuery, totalIdeas }: HeroProps) {
             </span>
           </h1>
           <p className="mt-6 text-lg leading-8 text-muted-foreground max-w-2xl mx-auto">
-            Discover trending YouTube content ideas for creators. Browse curated video ideas across multiple categories to grow your channel and engage your audience.
+            Discover trending YouTube content ideas for creators. Browse curated video ideas across multiple niches to grow your channel and engage your audience.
           </p>
           <div className="mt-10 max-w-md mx-auto">
             <div className="relative">

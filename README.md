@@ -64,7 +64,7 @@ src/
 │   ├── CardDescription.astro
 │   └── CardContent.astro
 ├── data/
-│   └── contentIdeas.ts  # 100 YouTube content ideas
+│   └── *.ts  # Data
 ├── layouts/
 │   └── Layout.astro     # Main page layout
 ├── lib/

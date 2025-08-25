@@ -51,8 +51,8 @@ import { vlogNiche } from "./niches/vlog";
 
 import type { Niche } from "../types/niche";
 
-// Combine all categories from individual files
-export const categories: Niche[] = [
+// Combine all niches from individual files
+export const niches: Niche[] = [
   diyNiche,
   gamingNiche,
   foodNiche,
@@ -104,11 +104,16 @@ export const categories: Niche[] = [
 ];
 
 export const getNicheBySlug = (slug: string): Niche | undefined => {
-  return categories.find(Niche => Niche.slug === slug);
+  return niches.find(niche => niche.slug === slug);
 };
 
-export const getCategoriesForContentIdeas = (): string[] => {
-  return categories.map(Niche => Niche.name);
+export const getNichesForContentIdeas = (): string[] => {
+  return niches.map(niche => niche.name);
 };
 
-export default categories;
+// Legacy exports for backward compatibility
+export const categories = niches;
+export const getCategoryBySlug = getNicheBySlug;
+export const getCategoriesForContentIdeas = getNichesForContentIdeas;
+
+export default niches;

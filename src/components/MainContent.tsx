@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Hero from './Hero';
-import CategoriesGrid from './CategoriesGrid';
+import NichesGrid from './NichesGrid';
 import ContentIdeaCard from './ContentIdeaCard';
 import { Input } from '@/components/ui/input';
 import { Badge } from '@/components/ui/badge';
@@ -11,13 +11,13 @@ interface ContentIdea {
   id: number;
   title: string;
   description: string;
-  category: string;
+  niche: string;
   tags: string[];
   difficulty?: "Easy" | "Medium" | "Hard";
   estimatedViews?: string;
 }
 
-interface Category {
+interface Niche {
   id: string;
   name: string;
   description: string;
@@ -26,16 +26,16 @@ interface Category {
 }
 
 interface MainContentProps {
-  categories: Category[];
+  niches: Niche[];
 }
 
-export default function MainContent({ categories }: MainContentProps) {
+export default function MainContent({ niches }: MainContentProps) {
   const [searchQuery, setSearchQuery] = useState('');
-  const [selectedCategory, setSelectedCategory] = useState('');
+  const [selectedNiche, setSelectedNiche] = useState('');
   
   // Extract all content ideas from categories
-  const contentIdeas = categories.flatMap(category => 
-    category.ideas.map(idea => ({ ...idea, category: category.name }))
+  const contentIdeas = niches.flatMap(niche => 
+    niche.ideas.map(idea => ({ ...idea, niche: niche.name }))
   );
   
   const [filteredIdeas, setFilteredIdeas] = useState(contentIdeas);
@@ -47,13 +47,13 @@ export default function MainContent({ categories }: MainContentProps) {
         idea.description.toLowerCase().includes(searchQuery.toLowerCase()) ||
         idea.tags.some(tag => tag.toLowerCase().includes(searchQuery.toLowerCase()));
       
-      const matchesCategory = !selectedCategory || idea.category === selectedCategory;
+      const matchesNiche = !selectedNiche || idea.niche === selectedNiche;
       
-      return matchesSearch && matchesCategory;
+      return matchesSearch && matchesNiche;
     });
     
     setFilteredIdeas(filtered);
-  }, [searchQuery, selectedCategory, contentIdeas]);
+  }, [searchQuery, selectedNiche, contentIdeas]);
 
   const enhancedIdeas = filteredIdeas.map(idea => ({
     ...idea,
@@ -76,22 +76,22 @@ export default function MainContent({ categories }: MainContentProps) {
             
             <div className="flex flex-wrap justify-center gap-2 mb-8">
               <Badge 
-                variant={selectedCategory === '' ? "default" : "outline"}
+                variant={selectedNiche === '' ? "default" : "outline"}
                 className="cursor-pointer"
-                onClick={() => setSelectedCategory('')}
+                onClick={() => setSelectedNiche('')}
               >
                 All ({contentIdeas.length})
               </Badge>
-              {categories.slice(0, 8).map((category) => {
-                const count = contentIdeas.filter(idea => idea.category === category.name).length;
+              {niches.slice(0, 8).map((niche) => {
+                const count = contentIdeas.filter(idea => idea.niche === niche.name).length;
                 return (
                   <Badge 
-                    key={category.id}
-                    variant={selectedCategory === category.name ? "default" : "outline"}
+                    key={niche.id}
+                    variant={selectedNiche === niche.name ? "default" : "outline"}
                     className="cursor-pointer"
-                    onClick={() => setSelectedCategory(category.name)}
+                    onClick={() => setSelectedNiche(niche.name)}
                   >
-                    {category.name} ({count})
+                    {niche.name} ({count})
                   </Badge>
                 );
               })}
@@ -110,7 +110,7 @@ export default function MainContent({ categories }: MainContentProps) {
                   key={idea.id}
                   title={idea.title}
                   description={idea.description}
-                  category={idea.category}
+                  niche={idea.niche}
                   difficulty={idea.difficulty}
                   estimatedViews={idea.estimatedViews}
                 />

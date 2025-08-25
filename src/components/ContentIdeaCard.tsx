@@ -5,7 +5,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 interface ContentIdeaCardProps {
   title: string;
   description: string;
-  category: string;
+  niche: string;
   difficulty: "Easy" | "Medium" | "Hard";
   estimatedViews: string;
 }
@@ -13,7 +13,7 @@ interface ContentIdeaCardProps {
 export default function ContentIdeaCard({ 
   title, 
   description, 
-  category, 
+  niche, 
   difficulty, 
   estimatedViews 
 }: ContentIdeaCardProps) {
@@ -28,7 +28,7 @@ export default function ContentIdeaCard({
       <CardHeader className="pb-3">
         <div className="flex items-start justify-between gap-2 mb-2">
           <Badge variant="outline" className="text-xs">
-            {category}
+            {niche}
           </Badge>
           <Badge 
             variant="secondary" 
