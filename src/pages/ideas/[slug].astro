@@ -59,6 +59,11 @@ const Content = ideaData.content;
 <Layout 
   title={`${ideaData.title} - YouTube Content Idea | ${nicheData?.name} Niche`}
   description={`${ideaData.description} Get detailed insights and tips for creating this ${nicheData?.name?.toLowerCase()} YouTube video idea.`}
+  article={true}
+  author="YouTube Content Ideas"
+  tags={ideaData.tags}
+  publishedTime={new Date().toISOString()}
+  modifiedTime={new Date().toISOString()}
 >
   <script slot="head" type="application/ld+json">
     {

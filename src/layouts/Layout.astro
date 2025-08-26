@@ -1,34 +1,76 @@
 ---
 import '../styles/globals.css';
+import { Seo } from 'astro-seo-meta';
 
 export interface Props {
   title: string;
   description?: string;
+  image?: string;
+  article?: boolean;
+  publishedTime?: string;
+  modifiedTime?: string;
+  author?: string;
+  tags?: string[];
 }
 
-const { title, description = "Discover trending YouTube content ideas for creators. Browse curated video ideas across multiple niches to grow your channel and engage your audience." } = Astro.props;
+const { 
+  title, 
+  description = "Discover trending YouTube content ideas for creators. Browse curated video ideas across multiple niches to grow your channel and engage your audience.",
+  image = "https://youtubecontentideas.com/banner-image.png",
+  article = false,
+  publishedTime,
+  modifiedTime,
+  author = "YouTube Content Ideas",
+  tags = ["YouTube content ideas", "YouTube video ideas", "YouTube creators", "content creation", "trending videos", "viral content"]
+} = Astro.props;
+
+const canonicalUrl = `https://youtubecontentideas.com${Astro.url.pathname}`;
 ---
 
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="description" content={description} />
-    <meta property="og:title" content={title} />
-    <meta property="og:description" content={description} />
-    <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://youtubecontentideas.com/banner-image.png" />
-    <meta property="og:url" content={`https://youtubecontentideas.com${Astro.url.pathname}`} />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={title} />
-    <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content="https://youtubecontentideas.com/banner-image.png" />
-    <meta name="keywords" content="YouTube content ideas, video ideas, YouTube creators, content creation, trending videos, viral content" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="robots" content="index, follow" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="canonical" href={`https://youtubecontentideas.com${Astro.url.pathname}`} />
-    <title>{title}</title>
+    <Seo
+      title={title}
+      description={description}
+      canonical={canonicalUrl}
+      openGraph={{
+        basic: {
+          title,
+          type: article ? 'article' : 'website',
+          image,
+          url: canonicalUrl
+        },
+        optional: {
+          description,
+          siteName: 'YouTube Content Ideas',
+          locale: 'en_US'
+        },
+        article: article ? {
+          publishedTime,
+          modifiedTime,
+          author: [author],
+          tags
+        } : undefined
+      }}
+      twitter={{
+        creator: '@InkyLabsDev',
+        site: '@InkyLabsDev',
+        card: 'summary_large_image'
+      }}
+      extend={{
+        link: [
+          { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }
+        ],
+        meta: [
+          { name: 'keywords', content: tags.join(', ') },
+          { name: 'author', content: author },
+          { name: 'robots', content: 'index, follow' },
+          { name: 'theme-color', content: '#000000' },
+          { name: 'msapplication-TileColor', content: '#000000' }
+        ]
+      }}
+    />
     {process.env.NODE_ENV != "production" ? (
       <script type="module">
     import RefreshRuntime from '/@react-refresh'
