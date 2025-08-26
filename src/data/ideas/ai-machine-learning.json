@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Explaining [AI Concept] in Simple Terms",
+    "description": "Choose an AI concept (e.g., neural networks, reinforcement learning, generative AI) and explain it using everyday analogies and visuals to make it beginner-friendly.",
+    "tags": ["AI basics", "explainer", "education"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "Hands-On Tutorial: Building [AI Project]",
+    "description": "Walk through coding a small AI project (e.g., chatbot, image classifier, stock predictor) with step-by-step instructions using frameworks like TensorFlow or PyTorch.",
+    "tags": ["tutorial", "AI coding", "Python"],
+    "niches": ["ai-machine-learning", "programming", "education"]
+  },
+  {
+    "title": "Top [Number] AI Tools for [Use Case]",
+    "description": "List and demonstrate AI tools (e.g., writing assistants, design generators, productivity apps) tailored for a specific audience or purpose.",
+    "tags": ["AI tools", "productivity", "list"],
+    "niches": ["ai-machine-learning", "technology", "productivity"]
+  },
+  {
+    "title": "AI in [Industry]: How It’s Changing the Game",
+    "description": "Explore how AI is transforming industries such as healthcare, education, gaming, or transportation, with real-world examples and visuals.",
+    "tags": ["AI applications", "industry", "technology"],
+    "niches": ["ai-machine-learning", "business", "education", "technology"]
+  },
+  {
+    "title": "Beginner’s Guide to [Machine Learning Algorithm]",
+    "description": "Pick a popular ML algorithm (like decision trees, SVMs, or gradient boosting) and explain how it works, when to use it, and demo with sample code.",
+    "tags": ["machine learning", "algorithm", "tutorial"],
+    "niches": ["ai-machine-learning", "education", "programming"]
+  },
+  {
+    "title": "Experiment: Can AI [Perform Task] Better Than Humans?",
+    "description": "Choose a creative or practical task (e.g., write a poem, draw an image, analyze data) and compare AI output with human effort.",
+    "tags": ["AI vs human", "experiment", "fun"],
+    "niches": ["ai-machine-learning", "entertainment", "education"]
+  },
+  {
+    "title": "The History of [AI Topic] Explained",
+    "description": "Pick a subfield (e.g., computer vision, natural language processing) and explain its history, breakthroughs, and key people shaping it.",
+    "tags": ["AI history", "technology", "storytelling"],
+    "niches": ["ai-machine-learning", "education", "tech storytelling"]
+  },
+  {
+    "title": "Exploring [Trending AI Tool]: Pros, Cons & Demo",
+    "description": "Review a trending AI tool (e.g., ChatGPT, MidJourney, Gemini) with pros, cons, and a live demo showing how viewers can use it.",
+    "tags": ["AI tools", "review", "demo"],
+    "niches": ["ai-machine-learning", "technology", "reviews"]
+  },
+  {
+    "title": "Top [Number] Myths About AI Debunked",
+    "description": "List common misconceptions (e.g., AI is conscious, AI will take all jobs) and explain the truth behind them in simple terms.",
+    "tags": ["AI myths", "debunking", "education"],
+    "niches": ["ai-machine-learning", "education", "entertainment"]
+  },
+  {
+    "title": "AI vs Human Creativity: [Challenge Idea]",
+    "description": "Set up a challenge (e.g., write a song, design a logo, create a story) and compare AI’s output with a human creator’s work.",
+    "tags": ["AI vs human", "creativity", "challenge"],
+    "niches": ["ai-machine-learning", "entertainment", "AI tools"]
+  },
+  {
+    "title": "Beginner’s Roadmap to Becoming an [AI Career Role]",
+    "description": "Pick a role (e.g., data scientist, ML engineer, AI researcher) and explain skills, resources, and career paths to achieve it.",
+    "tags": ["AI career", "education", "roadmap"],
+    "niches": ["ai-machine-learning", "career", "education"]
+  },
+  {
+    "title": "How [Company] Uses AI to Power Its Products",
+    "description": "Break down how tech giants (Google, Amazon, Netflix) integrate AI into their platforms with examples like recommendations, ads, or assistants.",
+    "tags": ["AI applications", "case study", "company"],
+    "niches": ["ai-machine-learning", "business", "technology"]
+  },
+  {
+    "title": "Exploring [AI Paper or Research] for Beginners",
+    "description": "Take a popular AI paper (e.g., Transformers, GANs, AlphaGo) and explain its contributions in plain language with animations.",
+    "tags": ["AI research", "paper review", "explainers"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "Top [Number] AI Startups to Watch",
+    "description": "Highlight innovative AI startups across industries, describing their products and why they stand out.",
+    "tags": ["AI startups", "tech trends", "future"],
+    "niches": ["ai-machine-learning", "business", "technology"]
+  },
+  {
+    "title": "Building [AI Model Type] from Scratch",
+    "description": "Tutorial on coding a simple model (e.g., linear regression, CNN, RNN) from the ground up to help viewers understand the fundamentals.",
+    "tags": ["AI model", "coding tutorial", "machine learning"],
+    "niches": ["ai-machine-learning", "education", "programming"]
+  },
+  {
+    "title": "The Future of [AI Application]",
+    "description": "Speculate on where AI in areas like healthcare, gaming, or robotics might go in the next decade, citing research and expert predictions.",
+    "tags": ["AI future", "predictions", "trends"],
+    "niches": ["ai-machine-learning", "technology", "education"]
+  },
+  {
+    "title": "Comparing [AI Tool] vs [AI Tool]: Which is Better?",
+    "description": "Do a side-by-side comparison of two tools (e.g., ChatGPT vs Claude, MidJourney vs DALL·E) with strengths, weaknesses, and demos.",
+    "tags": ["AI comparison", "tools", "review"],
+    "niches": ["ai-machine-learning", "technology", "reviews"]
+  },
+  {
+    "title": "AI for [Hobby/Interest]: Can It Help?",
+    "description": "Show how AI can assist with hobbies like cooking, photography, writing, or gaming through creative demos.",
+    "tags": ["AI for hobbies", "AI fun", "applications"],
+    "niches": ["ai-machine-learning", "lifestyle", "entertainment"]
+  },
+  {
+    "title": "AI in Pop Culture: [Movie/Show/Game] vs Reality",
+    "description": "Analyze how AI is portrayed in media (e.g., The Matrix, Ex Machina, Black Mirror) versus what’s possible in real life.",
+    "tags": ["AI in movies", "AI vs reality", "entertainment"],
+    "niches": ["ai-machine-learning", "entertainment", "education"]
+  },
+  {
+    "title": "Step-by-Step Guide to Using [AI Library/Framework]",
+    "description": "Teach viewers how to get started with popular frameworks like TensorFlow, PyTorch, or scikit-learn, showing installation, setup, and first project.",
+    "tags": ["AI tutorial", "framework", "Python"],
+    "niches": ["ai-machine-learning", "programming", "education"]
+  },
+  {
+    "title": "The Ethics of [AI Topic]",
+    "description": "Discuss ethical debates (e.g., bias in algorithms, surveillance, autonomous weapons) and provide balanced perspectives.",
+    "tags": ["AI ethics", "bias", "debate"],
+    "niches": ["ai-machine-learning", "education", "philosophy"]
+  },
+  {
+    "title": "AI Predictions for [Year]",
+    "description": "Make predictions about upcoming breakthroughs, challenges, and industry changes in the AI space for a specific year.",
+    "tags": ["AI future", "predictions", "trends"],
+    "niches": ["ai-machine-learning", "tech trends", "education"]
+  },
+  {
+    "title": "Fun with AI: Making [Creative Content]",
+    "description": "Use AI tools to create unusual content like bedtime stories, memes, or jokes, and show how viewers can replicate it.",
+    "tags": ["AI creativity", "fun content", "AI experiments"],
+    "niches": ["ai-machine-learning", "entertainment", "AI tools"]
+  },
+  {
+    "title": "Beginner’s Mistakes When Learning [AI Skill]",
+    "description": "Highlight common pitfalls beginners face in AI (e.g., overfitting, lack of data, relying on libraries too much) and how to avoid them.",
+    "tags": ["AI tips", "learning", "mistakes"],
+    "niches": ["ai-machine-learning", "education", "career"]
+  },
+  {
+    "title": "AI-Powered [App/Tool] Review",
+    "description": "Choose an AI-powered app (like Notion AI, Runway, or Jasper) and review it in terms of usability, strengths, and pricing.",
+    "tags": ["AI app", "review", "AI tools"],
+    "niches": ["ai-machine-learning", "technology", "reviews"]
+  },
+  {
+    "title": "How to Visualize [AI Data/Model Output]",
+    "description": "Show different techniques and tools to visualize datasets or model outputs (e.g., confusion matrices, embeddings, t-SNE plots) so viewers can understand AI results better.",
+    "tags": ["AI visualization", "data science", "tutorial"],
+    "niches": ["ai-machine-learning", "education", "programming"]
+  },
+  {
+    "title": "AI for [Small Business/Entrepreneurs]",
+    "description": "Demonstrate how AI tools can help small businesses with tasks like marketing, customer support, or automation.",
+    "tags": ["AI business", "productivity", "entrepreneurship"],
+    "niches": ["ai-machine-learning", "business", "productivity"]
+  },
+  {
+    "title": "Can AI Replace [Job/Profession]?",
+    "description": "Analyze a specific profession (e.g., teacher, lawyer, artist) and explore whether AI could realistically replace or assist it.",
+    "tags": ["AI jobs", "future of work", "automation"],
+    "niches": ["ai-machine-learning", "career", "technology"]
+  },
+  {
+    "title": "Coding Challenge: Build [AI Feature] in One Hour",
+    "description": "Pick a small but exciting AI feature (like face detection, sentiment analysis, or chatbot) and build it within a time limit.",
+    "tags": ["AI coding", "challenge", "tutorial"],
+    "niches": ["ai-machine-learning", "education", "programming"]
+  },
+  {
+    "title": "What is [AI Buzzword]?",
+    "description": "Break down trending buzzwords (like AGI, foundation models, or edge AI) and explain what they actually mean.",
+    "tags": ["AI buzzwords", "explainers", "trends"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "AI vs Humans: [Game/Competition]",
+    "description": "Organize a fun competition (e.g., chess, trivia, drawing) between AI and humans and showcase the results.",
+    "tags": ["AI vs human", "fun challenge", "experiment"],
+    "niches": ["ai-machine-learning", "entertainment", "technology"]
+  },
+  {
+    "title": "Building a [Chatbot/Assistant] with AI",
+    "description": "Tutorial on creating a chatbot or voice assistant using libraries like Rasa, LangChain, or HuggingFace models.",
+    "tags": ["AI chatbot", "tutorial", "NLP"],
+    "niches": ["ai-machine-learning", "education", "programming"]
+  },
+  {
+    "title": "Top [Number] Free AI Courses for Beginners",
+    "description": "List the best free resources, MOOCs, or YouTube series to start learning AI and ML.",
+    "tags": ["AI courses", "education", "free learning"],
+    "niches": ["ai-machine-learning", "education", "career"]
+  },
+  {
+    "title": "AI in [Sport/Fitness]: Smarter Training?",
+    "description": "Show how AI is being used in sports analytics, performance tracking, or personal fitness apps.",
+    "tags": ["AI sports", "fitness tech", "applications"],
+    "niches": ["ai-machine-learning", "sports", "health", "technology"]
+  },
+  {
+    "title": "Exploring [AI Dataset]: What’s Inside?",
+    "description": "Pick a famous dataset (like ImageNet, COCO, MNIST) and explain what’s in it, how it’s used, and why it matters.",
+    "tags": ["AI datasets", "machine learning", "tutorial"],
+    "niches": ["ai-machine-learning", "education", "programming"]
+  },
+  {
+    "title": "AI vs Traditional Programming: What’s Different?",
+    "description": "Compare traditional rule-based programming with AI’s data-driven approach to solving problems.",
+    "tags": ["AI vs programming", "education", "comparison"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "Top [Number] AI Models Everyone Should Know",
+    "description": "Summarize influential AI models (like GPT, BERT, Stable Diffusion) with examples of what they can do.",
+    "tags": ["AI models", "education", "tutorial"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "AI in [Creative Field]: Can Machines Be Artists?",
+    "description": "Explore AI in fields like music, painting, or storytelling and discuss whether AI counts as true creativity.",
+    "tags": ["AI creativity", "artificial intelligence", "discussion"],
+    "niches": ["ai-machine-learning", "art", "entertainment", "education"]
+  },
+  {
+    "title": "Building a [Recommendation System] from Scratch",
+    "description": "Guide viewers step by step through coding a recommendation system (like Netflix or Amazon) with sample data.",
+    "tags": ["recommendation system", "AI coding", "tutorial"],
+    "niches": ["ai-machine-learning", "education", "programming"]
+  },
+  {
+    "title": "AI in [Everyday Object/Device]",
+    "description": "Pick a common device (smartphone, fridge, car) and explain how AI is embedded in it.",
+    "tags": ["AI everyday", "applications", "tech explainer"],
+    "niches": ["ai-machine-learning", "lifestyle", "technology"]
+  },
+  {
+    "title": "Reacting to [AI News/Controversy]",
+    "description": "React to a trending AI story, breakthrough, or ethical debate and share your perspective.",
+    "tags": ["AI news", "reaction", "commentary"],
+    "niches": ["ai-machine-learning", "education", "tech commentary"]
+  },
+  {
+    "title": "Fun AI Challenge: Can It [Task]?",
+    "description": "Set up a funny or unusual challenge (like cooking recipes, making jokes, or solving riddles) and let AI attempt it.",
+    "tags": ["AI challenge", "fun", "entertainment"],
+    "niches": ["ai-machine-learning", "entertainment", "AI tools"]
+  },
+  {
+    "title": "AI Explained Using [Metaphor/Analogy]",
+    "description": "Pick a metaphor (like teaching a dog tricks, baking, or sports coaching) and explain an AI concept through it.",
+    "tags": ["AI analogy", "education", "explainer"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "The Science Behind [AI Breakthrough]",
+    "description": "Break down a recent AI breakthrough (e.g., AlphaFold, ChatGPT-4, diffusion models) into simple, digestible science.",
+    "tags": ["AI breakthrough", "science", "trending"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "Top [Number] Open Source AI Projects to Try",
+    "description": "Highlight popular GitHub projects in AI that viewers can explore, fork, or contribute to.",
+    "tags": ["open source AI", "projects", "education"],
+    "niches": ["ai-machine-learning", "education", "programming"]
+  },
+  {
+    "title": "AI for [Language/Translation]",
+    "description": "Explore AI’s role in translation, speech recognition, and making communication across languages easier.",
+    "tags": ["AI translation", "speech recognition", "NLP"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "AI and Privacy: [Issue/Concern]",
+    "description": "Discuss a privacy-related concern (like facial recognition, data leaks, surveillance) and how AI impacts it.",
+    "tags": ["AI privacy", "data ethics", "surveillance"],
+    "niches": ["ai-machine-learning", "technology", "ethics"]
+  },
+  {
+    "title": "How to Train [AI Model] with Your Own Data",
+    "description": "Tutorial on taking a pretrained model and fine-tuning it with custom datasets (like personal text, images, or audio).",
+    "tags": ["fine tuning", "AI tutorial", "machine learning"],
+    "niches": ["ai-machine-learning", "education", "programming"]
+  },
+  {
+    "title": "Beginner’s Guide: Installing [AI Library/Tool]",
+    "description": "Show viewers how to install and set up AI tools or libraries (like HuggingFace Transformers, Keras, or PyTorch).",
+    "tags": ["AI setup", "tutorial", "libraries"],
+    "niches": ["ai-machine-learning", "programming", "education"]
+  },
+  {
+    "title": "Top [Number] AI Career Paths to Consider",
+    "description": "Outline in-demand AI roles (data scientist, ML engineer, AI ethicist) with salary ranges and skills required.",
+    "tags": ["AI careers", "jobs", "education"],
+    "niches": ["ai-machine-learning", "career", "education"]
+  },
+  {
+    "title": "Exploring [AI Concept] with Real-World Examples",
+    "description": "Pick an AI concept (like supervised learning, embeddings, or transformers) and show how it appears in apps or devices people already use daily.",
+    "tags": ["AI basics", "real world", "education"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "AI in [Creative Industry] Workflow",
+    "description": "Show how AI is being adopted in industries like film editing, graphic design, or music production with live demos.",
+    "tags": ["AI creativity", "workflow", "applications"],
+    "niches": ["ai-machine-learning", "art", "technology", "business"]
+  },
+  {
+    "title": "Beginner Project: Train AI to Recognize [Object]",
+    "description": "Guide viewers to train a small AI model that can recognize something fun (cats, hand gestures, or fruits) using free datasets.",
+    "tags": ["AI project", "computer vision", "tutorial"],
+    "niches": ["ai-machine-learning", "education", "programming"]
+  },
+  {
+    "title": "Top [Number] Free AI Tools for Students",
+    "description": "Curate free AI tools that help students with studying, note-taking, or productivity, explaining how each works.",
+    "tags": ["AI tools", "students", "productivity"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "What is [AI Framework] and How to Use It?",
+    "description": "Introduce viewers to a popular framework (like Keras, HuggingFace, LangChain) and show a starter project.",
+    "tags": ["AI frameworks", "tutorial", "libraries"],
+    "niches": ["ai-machine-learning", "programming", "education"]
+  },
+  {
+    "title": "Can AI Generate [Type of Content]?",
+    "description": "Put an AI generator to the test by creating specific content (e.g., song lyrics, cartoon art, recipes) and evaluating the results.",
+    "tags": ["AI content", "generator", "experiments"],
+    "niches": ["ai-machine-learning", "entertainment", "AI tools"]
+  },
+  {
+    "title": "AI Explained with [Pop Culture Reference]",
+    "description": "Use a movie, TV show, or book (e.g., Iron Man’s Jarvis, Westworld, Star Wars droids) as an analogy for explaining AI concepts.",
+    "tags": ["AI analogy", "pop culture", "explainer"],
+    "niches": ["ai-machine-learning", "entertainment", "education"]
+  },
+  {
+    "title": "How to Avoid [AI Pitfall or Mistake]",
+    "description": "Explain common pitfalls (like overfitting, bias, or bad data) and give viewers clear strategies to prevent them.",
+    "tags": ["AI mistakes", "machine learning", "tips"],
+    "niches": ["ai-machine-learning", "education", "programming"]
+  },
+  {
+    "title": "Top [Number] AI Podcasts & Channels to Follow",
+    "description": "Recommend YouTube channels, podcasts, and blogs that keep people updated on AI trends.",
+    "tags": ["AI podcasts", "resources", "trends"],
+    "niches": ["ai-machine-learning", "education", "career"]
+  },
+  {
+    "title": "AI in [Country/Region]: Innovations & Startups",
+    "description": "Explore AI initiatives, research labs, and startups from a specific country or region, showing its global impact.",
+    "tags": ["AI global", "innovation", "startups"],
+    "niches": ["ai-machine-learning", "business", "technology"]
+  },
+  {
+    "title": "Fun AI Demo: Making [Weird/Unusual Output]",
+    "description": "Use AI tools to generate strange or humorous outputs (like surreal images, nonsense songs, or odd stories).",
+    "tags": ["AI fun", "demo", "generative AI"],
+    "niches": ["ai-machine-learning", "entertainment", "AI tools"]
+  },
+  {
+    "title": "Beginner Guide: Using [AI API]",
+    "description": "Walk viewers through using an AI API (like OpenAI, Cohere, or Stability) to build a small project.",
+    "tags": ["AI API", "tutorial", "programming"],
+    "niches": ["ai-machine-learning", "education", "programming"]
+  },
+  {
+    "title": "How [AI Algorithm] Works Behind the Scenes",
+    "description": "Pick a known algorithm (like backpropagation, K-means, or Q-learning) and explain step-by-step how it functions.",
+    "tags": ["AI algorithm", "education", "tutorial"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "Top [Number] AI Breakthroughs of [Year]",
+    "description": "Summarize the year’s biggest advancements in AI with examples, stats, and potential impacts.",
+    "tags": ["AI breakthroughs", "trends", "technology"],
+    "niches": ["ai-machine-learning", "tech trends", "education"]
+  },
+  {
+    "title": "Comparing [AI Architecture] vs [AI Architecture]",
+    "description": "Explain the differences between two popular architectures (like CNNs vs RNNs, transformers vs GANs) with diagrams.",
+    "tags": ["AI architectures", "comparison", "education"],
+    "niches": ["ai-machine-learning", "education", "programming"]
+  },
+  {
+    "title": "AI in [Mobile App/Platform]",
+    "description": "Show how apps like TikTok, Instagram, or Spotify use AI to personalize recommendations.",
+    "tags": ["AI apps", "recommendations", "education"],
+    "niches": ["ai-machine-learning", "entertainment", "technology"]
+  },
+  {
+    "title": "Testing [AI Tool] on [Unusual Use Case]",
+    "description": "Push an AI tool beyond its intended purpose (e.g., making code write poetry, image AI generate logos).",
+    "tags": ["AI experiments", "fun", "AI tools"],
+    "niches": ["ai-machine-learning", "entertainment", "technology"]
+  },
+  {
+    "title": "Top [Number] AI Documentaries Worth Watching",
+    "description": "Curate a list of documentaries on AI, ethics, and future technology with short reviews.",
+    "tags": ["AI documentaries", "education", "films"],
+    "niches": ["ai-machine-learning", "education", "entertainment"]
+  },
+  {
+    "title": "The Future of [AI Trend]",
+    "description": "Speculate on the trajectory of a trend (like multimodal AI, edge AI, or AGI) using current research and expert opinions.",
+    "tags": ["AI future", "trends", "speculation"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "Beginner’s Guide to [AI Math Concept]",
+    "description": "Explain core math topics behind AI (linear algebra, calculus, probability) in a simple, visual way.",
+    "tags": ["AI math", "education", "tutorial"],
+    "niches": ["ai-machine-learning", "education", "programming"]
+  },
+  {
+    "title": "AI in [Environmental/Social Issue]",
+    "description": "Show how AI contributes to solving global issues like climate change, accessibility, or disaster prediction.",
+    "tags": ["AI environment", "AI social good", "applications"],
+    "niches": ["ai-machine-learning", "education", "technology", "nonprofit"]
+  },
+  {
+    "title": "Fun Experiment: Teaching AI to [Funny/Unexpected Task]",
+    "description": "Train a model or test a tool on a funny or odd dataset (like teaching AI to recognize memes or pets).",
+    "tags": ["AI fun", "AI experiments", "tutorial"],
+    "niches": ["ai-machine-learning", "entertainment", "programming"]
+  },
+  {
+    "title": "Top [Number] AI Careers Nobody Talks About",
+    "description": "Highlight lesser-known roles (like AI product manager, AI ethicist, annotation specialist) and explain their importance.",
+    "tags": ["AI careers", "jobs", "future"],
+    "niches": ["ai-machine-learning", "career", "education"]
+  },
+  {
+    "title": "Explaining [AI Paper/Concept] with Animation",
+    "description": "Create simple animations to break down a complex research paper or model for beginners.",
+    "tags": ["AI paper", "education", "animation"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "AI in [Future Year]: What to Expect",
+    "description": "Make predictions about where AI could be in 2030, 2040, or beyond, based on trends and expert talks.",
+    "tags": ["AI predictions", "AI future", "speculation"],
+    "niches": ["ai-machine-learning", "education", "tech trends"]
+  },
+  {
+    "title": "Explaining [AI Model] in [Time Limit]",
+    "description": "Take a popular AI model (like GPT, Stable Diffusion, or AlphaZero) and explain it within a set time (e.g., 60 seconds, 5 minutes).",
+    "tags": ["AI model", "explainers", "education"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "Top [Number] AI Tools for [Profession]",
+    "description": "Curate AI tools designed to help professionals (e.g., teachers, marketers, lawyers) and demo how they save time.",
+    "tags": ["AI tools", "professions", "tutorial"],
+    "niches": ["ai-machine-learning", "business", "productivity"]
+  },
+  {
+    "title": "Can AI Pass [Famous Test/Exam]?",
+    "description": "Put AI to the test by challenging it with well-known exams or puzzles (SAT, medical exams, chess puzzles).",
+    "tags": ["AI challenges", "exams", "tests"],
+    "niches": ["ai-machine-learning", "education", "entertainment"]
+  },
+  {
+    "title": "Beginner’s Guide to [AI Programming Language/Library]",
+    "description": "Introduce viewers to coding with Python, R, or Julia for AI, showing simple examples.",
+    "tags": ["AI coding", "languages", "tutorial"],
+    "niches": ["ai-machine-learning", "education", "programming"]
+  },
+  {
+    "title": "AI in [Science Field]",
+    "description": "Explore how AI is used in biology, physics, chemistry, or astronomy with real case studies.",
+    "tags": ["AI science", "research", "applications"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "Testing [AI Generator] with [Unexpected Prompt]",
+    "description": "Use an AI generator (image, text, or video) with funny, weird, or creative prompts to see how it responds.",
+    "tags": ["AI generator", "fun experiment", "AI tools"],
+    "niches": ["ai-machine-learning", "entertainment", "AI tools"]
+  },
+  {
+    "title": "What is [AI Job Role] and How to Get It?",
+    "description": "Explain the role of an AI job (like ML engineer, prompt engineer, AI trainer) and what skills are needed.",
+    "tags": ["AI jobs", "career", "education"],
+    "niches": ["ai-machine-learning", "career", "education"]
+  },
+  {
+    "title": "Top [Number] OpenAI Alternatives",
+    "description": "Show viewers different companies and APIs they can use instead of OpenAI for text, image, or audio generation.",
+    "tags": ["OpenAI alternatives", "AI tools", "comparison"],
+    "niches": ["ai-machine-learning", "technology", "programming"]
+  },
+  {
+    "title": "Explaining [AI Term] with Real-Life Analogies",
+    "description": "Take jargon-heavy AI terms (like embeddings, overfitting, or hyperparameters) and explain them with simple analogies.",
+    "tags": ["AI terms", "analogy", "education"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "Building [AI Project] Without Coding",
+    "description": "Show viewers how to use no-code tools to build AI projects like chatbots, image generators, or data analyzers.",
+    "tags": ["no-code AI", "tutorial", "AI project"],
+    "niches": ["ai-machine-learning", "education", "productivity"]
+  },
+  {
+    "title": "The Future of AI in [Daily Life Activity]",
+    "description": "Imagine how AI will affect everyday life tasks like cooking, driving, learning, or shopping in the future.",
+    "tags": ["AI future", "daily life", "technology"],
+    "niches": ["ai-machine-learning", "lifestyle", "technology"]
+  },
+  {
+    "title": "Reacting to [AI Meme/Funny Output]",
+    "description": "Compile and react to funny AI memes, fails, or absurd outputs from AI generators.",
+    "tags": ["AI memes", "funny AI", "reaction"],
+    "niches": ["ai-machine-learning", "entertainment", "AI tools"]
+  },
+  {
+    "title": "Explaining [AI Buzzword] for Kids",
+    "description": "Take a complex AI concept (like neural networks or ChatGPT) and explain it so a 10-year-old could understand.",
+    "tags": ["AI education", "kids", "simple explainers"],
+    "niches": ["ai-machine-learning", "education", "kids content"]
+  },
+  {
+    "title": "Top [Number] AI Conferences to Attend",
+    "description": "List important AI conferences (e.g., NeurIPS, ICML, CVPR) and explain what participants can learn there.",
+    "tags": ["AI conferences", "events", "education"],
+    "niches": ["ai-machine-learning", "career", "education"]
+  },
+  {
+    "title": "How [AI Hardware/Chip] Powers Machine Learning",
+    "description": "Explain the role of GPUs, TPUs, or edge devices in training and running AI models.",
+    "tags": ["AI hardware", "chips", "technology"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "Can AI Understand [Human Emotion]?",
+    "description": "Explore emotion recognition in AI and test tools on real-world examples like voice or facial expressions.",
+    "tags": ["AI emotions", "emotion detection", "experiment"],
+    "niches": ["ai-machine-learning", "education", "entertainment"]
+  },
+  {
+    "title": "Exploring [AI Dataset] Through Visualization",
+    "description": "Take a dataset and visually explore it, showing patterns and explaining why visualization is critical in AI.",
+    "tags": ["AI data", "visualization", "tutorial"],
+    "niches": ["ai-machine-learning", "education", "programming"]
+  },
+  {
+    "title": "AI vs [Traditional Method]",
+    "description": "Compare AI-powered approaches with traditional methods in fields like translation, diagnosis, or art creation.",
+    "tags": ["AI vs traditional", "comparison", "education"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "Beginner’s Guide: Fine-Tuning [Pretrained Model]",
+    "description": "Show how to fine-tune a pretrained model (like BERT, Stable Diffusion) with a custom dataset step by step.",
+    "tags": ["fine tuning", "pretrained model", "tutorial"],
+    "niches": ["ai-machine-learning", "education", "programming"]
+  },
+  {
+    "title": "Exploring AI in [Historical Context]",
+    "description": "Explain how AI evolved compared to past innovations like electricity, the internet, or personal computers.",
+    "tags": ["AI history", "comparison", "education"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "Top [Number] AI Tools for Content Creators",
+    "description": "List AI tools that help YouTubers, writers, or designers with scriptwriting, thumbnails, or editing.",
+    "tags": ["AI for creators", "content creation", "AI tools"],
+    "niches": ["ai-machine-learning", "entertainment", "productivity"]
+  },
+  {
+    "title": "Can AI Predict [Future Event/Trend]?",
+    "description": "Experiment with AI forecasting tools to predict trends like stock prices, sports results, or weather.",
+    "tags": ["AI prediction", "forecasting", "experiment"],
+    "niches": ["ai-machine-learning", "education", "entertainment"]
+  },
+  {
+    "title": "Explaining [AI Paper] with Simple Visuals",
+    "description": "Break down a complex AI research paper into simple visuals and animations so beginners can understand.",
+    "tags": ["AI paper", "visual explainer", "education"],
+    "niches": ["ai-machine-learning", "education", "technology"]
+  },
+  {
+    "title": "AI for [Accessibility/Assistive Tech]",
+    "description": "Show how AI tools are improving accessibility (e.g., speech-to-text, vision tools for blind users).",
+    "tags": ["AI accessibility", "assistive tech", "social good"],
+    "niches": ["ai-machine-learning", "technology", "nonprofit"]
+  },
+  {
+    "title": "The Dark Side of [AI Trend/Tool]",
+    "description": "Analyze potential dangers of a trend (deepfakes, surveillance, job automation) and discuss ethical safeguards.",
+    "tags": ["AI risks", "AI ethics", "debate"],
+    "niches": ["ai-machine-learning", "education", "ethics"]
+  }
+]

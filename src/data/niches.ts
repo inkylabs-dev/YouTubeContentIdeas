@@ -1,30 +1,52 @@
+
 import type { Niche, ContentIdea } from "../types/niche";
 import nichesData from "./niches.json";
 
-// Get all idea files
-const ideaFiles = import.meta.glob('../ideas/*.mdx', { eager: true });
+// Get all idea files from JSON
+const jsonIdeaFiles = import.meta.glob('./ideas/*.json', { eager: true, import: 'default' });
 
-// Load all ideas from MDX files
-const allIdeas: (ContentIdea & { slug: string, nicheNames: string[] })[] = [];
-
-for (const [path, ideaModule] of Object.entries(ideaFiles)) {
-  const slug = path.split('/').pop()?.replace('.mdx', '') || '';
-  const frontmatter = (ideaModule as any).frontmatter;
-  
-  if (frontmatter) {
-    // Parse comma-separated niches
-    const nicheNames = frontmatter.niche ? frontmatter.niche.split(',').map((n: string) => n.trim()) : [];
-    
-    allIdeas.push({
-      id: allIdeas.length + 1,
-      title: frontmatter.title,
-      description: frontmatter.description,
-      tags: frontmatter.tags || [],
-      slug,
-      nicheNames
-    });
+// Load all ideas from JSON files
+const allJsonIdeas: (ContentIdea & { slug: string, nicheNames: string[] })[] = [];
+for (const [path, ideas] of Object.entries(jsonIdeaFiles)) {
+  const slug = path.split('/').pop()?.replace('.json', '') || '';
+  if (Array.isArray(ideas)) {
+    for (const idea of ideas) {
+      allJsonIdeas.push({
+        id: allJsonIdeas.length + 1,
+        title: idea.title,
+        description: idea.description,
+        tags: idea.tags || [],
+        slug,
+        nicheNames: idea.niches || []
+      });
+    }
   }
 }
+
+// Existing MDX logic (if you want to keep it, otherwise remove)
+// const ideaFiles = import.meta.glob('../ideas/*.mdx', { eager: true });
+// const allMdxIdeas: (ContentIdea & { slug: string, nicheNames: string[] })[] = [];
+// for (const [path, ideaModule] of Object.entries(ideaFiles)) {
+//   const slug = path.split('/').pop()?.replace('.mdx', '') || '';
+//   const frontmatter = (ideaModule as any).frontmatter;
+//   if (frontmatter) {
+//     const nicheNames = frontmatter.niche ? frontmatter.niche.split(',').map((n: string) => n.trim()) : [];
+//     allMdxIdeas.push({
+//       id: allMdxIdeas.length + 1,
+//       title: frontmatter.title,
+//       description: frontmatter.description,
+//       tags: frontmatter.tags || [],
+//       slug,
+//       nicheNames
+//     });
+//   }
+// }
+
+// Merge all ideas (JSON + MDX if needed)
+const allIdeas: (ContentIdea & { slug: string, nicheNames: string[] })[] = [
+  ...allJsonIdeas
+  // , ...allMdxIdeas // Uncomment if you want to include MDX ideas
+];
 
 // Load all niches from JSON
 export const niches: Niche[] = nichesData.map(nicheData => {

@@ -163,15 +163,6 @@ export default function NicheHero({ nicheData, parentNiche }: NicheHeroProps) {
             <p className="text-lg leading-8 text-muted-foreground max-w-2xl mx-auto mb-8">
               {nicheData.long_description}
             </p>
-            <div className="text-center py-12">
-              <h3 className="text-xl text-muted-foreground mb-4">No content ideas available yet</h3>
-              <p className="text-muted-foreground mb-6">We're working on adding more {nicheData.name.toLowerCase()} content ideas!</p>
-              <div className="space-y-2 text-sm text-muted-foreground">
-                <p>💡 Try exploring other categories</p>
-                <p>🔍 Use the search to find ideas across all topics</p>
-                <p>📺 Check back soon for new {nicheData.name.toLowerCase()} ideas</p>
-              </div>
-            </div>
           </div>
         </div>
       </section>
