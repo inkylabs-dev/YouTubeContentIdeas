@@ -2,9 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import Navbar from '../../components/Navbar.astro';
 import Footer from '../../components/Footer.astro';
-import ContentIdeaCard from '../../components/ContentIdeaCard';
-import { Badge } from '../../components/ui/badge';
-import { Input } from '../../components/ui/input';
+import NicheHero from '../../components/NicheHero';
 import { niches, getNicheBySlug, getParentNiche } from '../../data/niches';
 
 export async function getStaticPaths() {
@@ -112,96 +110,15 @@ const Content = (nicheModule as any).Content;
       </div>
     </section>
 
-    <!-- Hero Section -->
-    <section class="relative py-8 md:py-12">
-      <div class="container">
-        
-        <div class="text-center">
-          {parentNiche && (
-            <div class="mb-4">
-              <a href={`/niche/${parentNiche.slug}/`}>
-                <Badge variant="outline" className="text-sm hover:bg-primary hover:text-primary-foreground transition-colors">
-                  ← {parentNiche.name}
-                </Badge>
-              </a>
-            </div>
-          )}
-          <h1 class="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl mb-6">
-            <span class="bg-gradient-to-r text-red-500  bg-clip-text">
-              {nicheData.name}
-            </span>
-            <span class="bg-gradient-to-r text-black-600 bg-clip-text">
-              YouTube Content Ideas
-            </span>
-          </h1>
-          <p class="text-lg leading-8 text-muted-foreground max-w-2xl mx-auto mb-8">
-            {nicheData.long_description}
-          </p>
-          
-          <div class="max-w-md mx-auto">
-            <div class="relative">
-              <svg class="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
-              </svg>
-              <Input
-                type="text"
-                id="searchInput"
-                placeholder={`Search ${nicheData.name.toLowerCase()} ideas...`}
-                className="pl-10 h-12 text-base"
-              />
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Content Ideas -->
-    <section class="py-16 bg-muted/50">
-      <div class="container">
-        <div id="contentGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {nicheIdeas.map((idea) => {
-            const difficulty = ['Easy', 'Medium', 'Hard'][idea.id % 3] as "Easy" | "Medium" | "Hard";
-            const estimatedViews = ['1K-10K', '10K-100K', '100K-1M', '1M+'][idea.id % 4];
-            
-            return (
-              <div data-title={idea.title.toLowerCase()} data-description={idea.description.toLowerCase()} data-tags={idea.tags.join(' ').toLowerCase()}>
-                <ContentIdeaCard
-                  title={idea.title}
-                  description={idea.description}
-                  niche={nicheData.name}
-                  difficulty={difficulty}
-                  estimatedViews={estimatedViews}
-                  clickable={true}
-                  client:load
-                />
-              </div>
-            );
-          })}
-        </div>
-
-        <!-- No Results Message -->
-        <div id="noResults" class="hidden text-center py-12">
-          <h3 class="text-xl text-muted-foreground mb-4">No content ideas found</h3>
-          <p class="text-muted-foreground">Try adjusting your search criteria</p>
-        </div>
-        
-        <!-- No Ideas Available Message -->
-        {nicheIdeas.length === 0 && (
-          <div class="text-center py-12">
-            <h3 class="text-xl text-muted-foreground mb-4">No content ideas available yet</h3>
-            <p class="text-muted-foreground mb-6">We're working on adding more {nicheData.name.toLowerCase()} content ideas!</p>
-            <div class="space-y-2 text-sm text-muted-foreground">
-              <p>💡 Try exploring other categories</p>
-              <p>🔍 Use the search to find ideas across all topics</p>
-              <p>📺 Check back soon for new {nicheData.name.toLowerCase()} ideas</p>
-            </div>
-          </div>
-        )}
-      </div>
-    </section>
+    <!-- Hero Section with Brainstorming Button -->
+    <NicheHero 
+      nicheData={nicheData} 
+      parentNiche={parentNiche}
+      client:load
+    />
 
     <!-- Category Information Content -->
-    <section class="py-16">
+    <section class="py-16 bg-muted/50">
       <div class="container">
         <div class="prose prose-xl prose-neutral dark:prose-invert mx-auto max-w-3xl">
           <Content />
@@ -236,45 +153,4 @@ const Content = (nicheModule as any).Content;
   </main>
 
   <Footer />
-
-  <script>
-    // Search functionality
-    const searchInput = document.getElementById('searchInput') as HTMLInputElement;
-    const contentGrid = document.getElementById('contentGrid') as HTMLElement;
-    const noResults = document.getElementById('noResults') as HTMLElement;
-
-    function filterContent() {
-      const searchTerm = searchInput.value.toLowerCase();
-      const cards = contentGrid.querySelectorAll('[data-title]') as NodeListOf<HTMLElement>;
-      let visibleCount = 0;
-
-      cards.forEach(card => {
-        const title = card.getAttribute('data-title') || '';
-        const description = card.getAttribute('data-description') || '';
-        const tags = card.getAttribute('data-tags') || '';
-
-        const matchesSearch = !searchTerm || 
-          title.includes(searchTerm) || 
-          description.includes(searchTerm) || 
-          tags.includes(searchTerm);
-
-        if (matchesSearch) {
-          card.style.display = 'block';
-          visibleCount++;
-        } else {
-          card.style.display = 'none';
-        }
-      });
-
-      if (visibleCount === 0) {
-        noResults.classList.remove('hidden');
-        contentGrid.classList.add('hidden');
-      } else {
-        noResults.classList.add('hidden');
-        contentGrid.classList.remove('hidden');
-      }
-    }
-
-    searchInput.addEventListener('input', filterContent);
-  </script>
 </Layout>

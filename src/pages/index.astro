@@ -4,18 +4,22 @@ import Navbar from '../components/Navbar.astro';
 import Footer from '../components/Footer.astro';
 import Hero from '../components/Hero';
 import MainContent from '../components/MainContent';
+import SEOSection from '../components/SEOSection.astro';
 import { niches } from '../data/niches';
 import { contentIdeas } from '../data/niches';
+
+const currentYear = new Date().getFullYear();
 ---
 
 <Layout 
-  title="YouTube Content Ideas - Trending Video Ideas for Creators"
-  description="Discover trending YouTube content ideas across 60+ niches. Find fresh video concepts for challenges, tutorials, reviews, vlogs and more to grow your channel."
-  tags={["YouTube content ideas", "video ideas", "content creation", "YouTube creators", "trending videos", "viral content", "YouTube niche ideas"]}
+  title={`YouTube Content Ideas Generator - Free Viral Video Ideas for ${currentYear}`}
+  description={`Generate trending YouTube video ideas across 60+ niches with our free AI-enhanced brainstorming tool. Find viral content concepts, YouTube Shorts ideas, and creative inspiration for ${currentYear} creators.`}
+  tags={["YouTube content ideas", "YouTube video ideas generator", "viral video ideas", `trending YouTube content ${currentYear}`, "YouTube Shorts ideas", "content creation tools", "YouTube creators", "video brainstorming", "free content ideas", "YouTube SEO", "viral content strategies", "creative video concepts"]}
 >
   <Navbar />
   <main>
     <Hero totalIdeas={contentIdeas.length} client:load />
+    <SEOSection />
   </main>
   <Footer />
 </Layout>

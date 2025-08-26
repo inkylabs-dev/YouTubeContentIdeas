@@ -1,10 +1,28 @@
 import React, { useState, useMemo } from "react";
 import { Badge } from "@/components/ui/badge";
 import ContentIdeaCard from './ContentIdeaCard';
-import { contentIdeas } from '../data/niches';
 
-interface HeroProps {
-  totalIdeas: number;
+interface NicheHeroProps {
+  nicheData: {
+    id: number;
+    name: string;
+    slug: string;
+    description: string;
+    long_description: string;
+    tags: string[];
+    ideas: Array<{
+      id: number;
+      title: string;
+      description: string;
+      niche: string;
+      tags: string[];
+    }>;
+  };
+  parentNiche?: {
+    id: number;
+    name: string;
+    slug: string;
+  };
 }
 
 const buttonTexts = [
@@ -70,15 +88,16 @@ const buttonTexts = [
   'Brew me some genius!'
 ];
 
-export default function Hero({ totalIdeas }: HeroProps) {
+export default function NicheHero({ nicheData, parentNiche }: NicheHeroProps) {
   const [hasStarted, setHasStarted] = useState(true);
   const [hasClicked, setHasClicked] = useState(false);
   const [refreshKey, setRefreshKey] = useState(0);
   const [isAnimating, setIsAnimating] = useState(false);
   
   const getRandomIdeas = () => {
-    const shuffled = [...contentIdeas].sort(() => 0.5 - Math.random());
-    return shuffled.slice(0, 6);
+    if (nicheData.ideas.length === 0) return [];
+    const shuffled = [...nicheData.ideas].sort(() => 0.5 - Math.random());
+    return shuffled.slice(0, Math.min(6, nicheData.ideas.length));
   };
 
   const [currentIdeas, setCurrentIdeas] = useState(getRandomIdeas);
@@ -89,7 +108,6 @@ export default function Hero({ totalIdeas }: HeroProps) {
     difficulty: (idea.difficulty || ['Easy', 'Medium', 'Hard'][idea.id % 3]) as "Easy" | "Medium" | "Hard",
     estimatedViews: idea.estimatedViews || ['1K-10K', '10K-100K', '100K-1M', '1M+'][idea.id % 4]
   }));
-
 
   // Random button text
   const buttonText = useMemo(() => {
@@ -105,7 +123,7 @@ export default function Hero({ totalIdeas }: HeroProps) {
     const newIdeas = getRandomIdeas();
     
     // Scroll to the button smoothly, accounting for sticky navbar
-    const element = document.getElementById('start-brainstorming');
+    const element = document.getElementById('start-brainstorming-niche');
     if (element) {
       const navbarHeight = 64; // h-16 = 4rem = 64px
       const elementPosition = element.offsetTop - navbarHeight;
@@ -119,39 +137,87 @@ export default function Hero({ totalIdeas }: HeroProps) {
     }, 300);
   };
 
-  return (
-    <section className="relative py-20 md:py-28">
-      <div className="container">
-        <div className="mx-auto max-w-4xl text-center">
-          <div className="flex flex-wrap justify-center gap-2 mb-4">
-            <Badge variant="secondary">Open Source</Badge>
-            <Badge variant="secondary">#1 YouTube Content Ideas Hub</Badge>
-            <Badge variant="secondary">Free to Use</Badge>
+  // Don't render if no ideas available
+  if (nicheData.ideas.length === 0) {
+    return (
+      <section className="relative py-8 md:py-12">
+        <div className="container">
+          <div className="text-center">
+            {parentNiche && (
+              <div className="mb-4">
+                <a href={`/niche/${parentNiche.slug}/`}>
+                  <Badge variant="outline" className="text-sm hover:bg-primary hover:text-primary-foreground transition-colors">
+                    ← {parentNiche.name}
+                  </Badge>
+                </a>
+              </div>
+            )}
+            <h1 className="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl mb-6">
+              <span className="bg-gradient-to-r text-red-500 bg-clip-text">
+                {nicheData.name}
+              </span>
+              <span className="bg-gradient-to-r text-black-600 bg-clip-text">
+                {' '}YouTube Content Ideas
+              </span>
+            </h1>
+            <p className="text-lg leading-8 text-muted-foreground max-w-2xl mx-auto mb-8">
+              {nicheData.long_description}
+            </p>
+            <div className="text-center py-12">
+              <h3 className="text-xl text-muted-foreground mb-4">No content ideas available yet</h3>
+              <p className="text-muted-foreground mb-6">We're working on adding more {nicheData.name.toLowerCase()} content ideas!</p>
+              <div className="space-y-2 text-sm text-muted-foreground">
+                <p>💡 Try exploring other categories</p>
+                <p>🔍 Use the search to find ideas across all topics</p>
+                <p>📺 Check back soon for new {nicheData.name.toLowerCase()} ideas</p>
+              </div>
+            </div>
           </div>
-          <h1 className="text-4xl font-bold tracking-tight sm:text-6xl lg:text-7xl">
-            Never run out of<br />
-            <span className="bg-gradient-to-r from-red-500 to-red-600 bg-clip-text text-transparent">
-              YouTube content ideas
+        </div>
+      </section>
+    );
+  }
+
+  return (
+    <section className="relative py-8 md:py-12">
+      <div className="container">
+        <div className="text-center">
+          {parentNiche && (
+            <div className="mb-4">
+              <a href={`/niche/${parentNiche.slug}/`}>
+                <Badge variant="outline" className="text-sm hover:bg-primary hover:text-primary-foreground transition-colors">
+                  ← {parentNiche.name}
+                </Badge>
+              </a>
+            </div>
+          )}
+          <h1 className="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl mb-6">
+            <span className="bg-gradient-to-r text-red-500 bg-clip-text">
+              {nicheData.name}
+            </span>
+            <span className="bg-gradient-to-r text-black-600 bg-clip-text">
+              {' '}YouTube Content Ideas
             </span>
           </h1>
-          <p className="mt-6 text-lg leading-8 text-muted-foreground max-w-2xl mx-auto">
-            Your creative brainstorm partner. Free ideas, unlimited inspiration.
+          <p className="text-lg leading-8 text-muted-foreground max-w-2xl mx-auto mb-8">
+            {nicheData.long_description}
           </p>
-          <div className="mt-10 flex flex-col gap-4 max-w-md mx-auto">
+          
+          <div className="max-w-md mx-auto">
             <button 
-              id="start-brainstorming"
+              id="start-brainstorming-niche"
               onClick={handleStartBrainstorming}
               className="w-full h-12 text-base bg-red-600 hover:bg-red-700 text-white font-medium rounded-md transition-all duration-300"
             >
               <span className={`inline-block transition-all duration-300 ${isAnimating ? 'opacity-0 scale-95' : 'opacity-100 scale-100'}`}>
-                → {hasClicked ? buttonText : 'Start Brainstorming'}
+                → {hasClicked ? buttonText : `Start Brainstorming ${nicheData.name}`}
               </span>
             </button>
-            <p className="text-sm text-muted-foreground">free, no signup required</p>
+            <p className="text-sm text-muted-foreground mt-2">free, no signup required</p>
           </div>
         </div>
 
-        {hasStarted && (
+        {hasStarted && currentIdeas.length > 0 && (
           <div className="mt-16 max-w-6xl mx-auto">
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {enhancedCurrentIdeas.map((idea, index) => (
@@ -159,7 +225,7 @@ export default function Hero({ totalIdeas }: HeroProps) {
                   key={`${idea.id}-${refreshKey}`}
                   title={idea.title}
                   description={idea.description}
-                  niche={idea.niche}
+                  niche={nicheData.name}
                   difficulty={idea.difficulty}
                   estimatedViews={idea.estimatedViews}
                 />
