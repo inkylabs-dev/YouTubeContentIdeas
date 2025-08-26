@@ -69,21 +69,28 @@ const buttonTexts = [
 export default function HomePreview() {
   const [refreshKey, setRefreshKey] = useState(0);
   const [isAnimating, setIsAnimating] = useState(false);
+  const [flippingCards, setFlippingCards] = useState<number[]>([]);
   
-  // Function to get random 6 ideas
   const getRandomIdeas = () => {
     const shuffled = [...contentIdeas].sort(() => 0.5 - Math.random());
     return shuffled.slice(0, 6);
   };
 
-  // Get random 6 ideas, refreshed when refreshKey changes
-  const previewIdeas = useMemo(() => {
-    return getRandomIdeas().map(idea => ({
-      ...idea,
-      difficulty: (idea.difficulty || ['Easy', 'Medium', 'Hard'][idea.id % 3]) as "Easy" | "Medium" | "Hard",
-      estimatedViews: idea.estimatedViews || ['1K-10K', '10K-100K', '100K-1M', '1M+'][idea.id % 4]
-    }));
-  }, [refreshKey]);
+  const [currentIdeas, setCurrentIdeas] = useState(getRandomIdeas);
+  const [nextIdeas, setNextIdeas] = useState(getRandomIdeas);
+  
+  // Enhanced ideas with difficulty and estimated views
+  const enhancedCurrentIdeas = currentIdeas.map(idea => ({
+    ...idea,
+    difficulty: (idea.difficulty || ['Easy', 'Medium', 'Hard'][idea.id % 3]) as "Easy" | "Medium" | "Hard",
+    estimatedViews: idea.estimatedViews || ['1K-10K', '10K-100K', '100K-1M', '1M+'][idea.id % 4]
+  }));
+
+  const enhancedNextIdeas = nextIdeas.map(idea => ({
+    ...idea,
+    difficulty: (idea.difficulty || ['Easy', 'Medium', 'Hard'][idea.id % 3]) as "Easy" | "Medium" | "Hard",
+    estimatedViews: idea.estimatedViews || ['1K-10K', '10K-100K', '100K-1M', '1M+'][idea.id % 4]
+  }));
 
   // Random button text
   const buttonText = useMemo(() => {
@@ -92,10 +99,22 @@ export default function HomePreview() {
 
   const handleRefresh = () => {
     setIsAnimating(true);
+    const newIdeas = getRandomIdeas();
+    setNextIdeas(newIdeas);
+    
+    // Start flipping cards in sequence
+    for (let i = 0; i < 6; i++) {
+      setTimeout(() => {
+        setFlippingCards(prev => [...prev, i]);
+      }, i * 100);
+    }
+    
+    // After flip completes, update content and animation state
     setTimeout(() => {
-      setRefreshKey(prev => prev + 1);
+      setCurrentIdeas(newIdeas);
       setIsAnimating(false);
-    }, 150);
+      setRefreshKey(prev => prev + 1);
+    }, 1200);
   };
 
   return (
@@ -115,16 +134,36 @@ export default function HomePreview() {
         </div>
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {previewIdeas.map((idea) => (
-            <ContentIdeaCard
-              key={idea.uniqueKey}
-              title={idea.title}
-              description={idea.description}
-              niche={idea.niche}
-              difficulty={idea.difficulty}
-              estimatedViews={idea.estimatedViews}
-            />
-          ))}
+          {enhancedCurrentIdeas.map((idea, index) => {
+            const nextIdea = enhancedNextIdeas[index];
+            return (
+              <div
+                key={index}
+                className={`flip-card ${flippingCards.includes(index) ? 'flipped' : ''}`}
+              >
+                <div className="flip-card-inner">
+                  <div className="flip-card-front">
+                    <ContentIdeaCard
+                      title={idea.title}
+                      description={idea.description}
+                      niche={idea.niche}
+                      difficulty={idea.difficulty}
+                      estimatedViews={idea.estimatedViews}
+                    />
+                  </div>
+                  <div className="flip-card-back">
+                    <ContentIdeaCard
+                      title={nextIdea.title}
+                      description={nextIdea.description}
+                      niche={nextIdea.niche}
+                      difficulty={nextIdea.difficulty}
+                      estimatedViews={nextIdea.estimatedViews}
+                    />
+                  </div>
+                </div>
+              </div>
+            );
+          })}
         </div>
       </div>
     </section>
