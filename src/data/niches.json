@@ -1,0 +1,1944 @@
+[
+  {
+    "id": "adventure",
+    "name": "Adventure",
+    "slug": "adventure",
+    "description": "Learn how to create exciting adventure content for YouTube—covering exploration, outdoor skills, and extreme activities.",
+    "long_description": "Share thrilling outdoor adventures and exploration experiences that inspire viewers to explore the world around them with confidence and curiosity.",
+    "tags": [
+      "adventure",
+      "exploration",
+      "outdoor activities",
+      "extreme sports",
+      "travel vlogs",
+      "adventure video ideas",
+      "outdoor storytelling"
+    ]
+  },
+  {
+    "id": "ai-machine-learning",
+    "name": "AI & Machine Learning",
+    "slug": "ai-machine-learning",
+    "description": "Artificial intelligence and ML content",
+    "long_description": "Explore AI, machine learning, and emerging intelligent technologies",
+    "tags": [],
+    "parent": "technology"
+  },
+  {
+    "id": "animated-songs",
+    "name": "Animated Songs & Nursery Rhymes",
+    "slug": "animated-songs",
+    "description": "Children's music and animated content",
+    "long_description": "Create animated musical content for children",
+    "tags": [],
+    "parent": "kids-family"
+  },
+  {
+    "id": "app-reviews",
+    "name": "App Reviews",
+    "slug": "app-reviews",
+    "description": "Mobile and software application reviews",
+    "long_description": "Review mobile apps and software applications",
+    "tags": [],
+    "parent": "technology"
+  },
+  {
+    "id": "art",
+    "name": "Art",
+    "slug": "art",
+    "description": "Learn how to create engaging art content—covering tutorials, speedpaints, art challenges, and creative storytelling.",
+    "long_description": "Inspire creativity with artistic tutorials, techniques, and creative expression content that teaches skills while showcasing artistic talent.",
+    "tags": [
+      "art",
+      "drawing",
+      "painting",
+      "art tutorials",
+      "creative process",
+      "art challenges",
+      "art content ideas"
+    ]
+  },
+  {
+    "id": "asmr",
+    "name": "ASMR",
+    "slug": "asmr",
+    "description": "Learn how to create relaxing ASMR content—covering triggers, roleplays, sound techniques, and relaxation strategies.",
+    "long_description": "Create relaxing ASMR content for stress relief and relaxation",
+    "tags": [
+      "ASMR",
+      "relaxation",
+      "sleep aid",
+      "whispering",
+      "sound triggers",
+      "ASMR roleplay",
+      "stress relief"
+    ]
+  },
+  {
+    "id": "athlete-profiles",
+    "name": "Athlete Profiles",
+    "slug": "athlete-profiles",
+    "description": "Sports personality profiles and interviews",
+    "long_description": "Profile athletes and share sports personality content",
+    "tags": [],
+    "parent": "sports"
+  },
+  {
+    "id": "automotive",
+    "name": "Automotive",
+    "slug": "automotive",
+    "description": "Learn how to create engaging automotive content—covering car reviews, maintenance tutorials, modifications, and car culture.",
+    "long_description": "Explore the automotive world with car reviews and maintenance tips.",
+    "tags": [
+      "automotive",
+      "car reviews",
+      "car maintenance",
+      "car modifications",
+      "vehicle tutorials",
+      "car culture",
+      "auto content ideas"
+    ]
+  },
+  {
+    "id": "backpacking",
+    "name": "Backpacking",
+    "slug": "backpacking",
+    "description": "Learn how to create engaging backpacking content—covering budget travel tips, destination guides, packing hacks, and adventure vlogs.",
+    "long_description": "Share backpacking experiences and budget travel tips",
+    "tags": [
+      "backpacking",
+      "budget travel",
+      "travel vlogs",
+      "adventure travel",
+      "packing tips",
+      "solo travel",
+      "travel content ideas"
+    ],
+    "parent": "travel"
+  },
+  {
+    "id": "baking-tutorials",
+    "name": "Baking Tutorials",
+    "slug": "baking-tutorials",
+    "description": "Baking guides and dessert tutorials",
+    "long_description": "Share baking techniques, dessert recipes, and pastry tutorials",
+    "tags": [],
+    "parent": "food"
+  },
+  {
+    "id": "beauty-makeup",
+    "name": "Beauty & Makeup",
+    "slug": "beauty-makeup",
+    "description": "Learn how to create engaging beauty and makeup content—covering tutorials, product reviews, skincare routines, and beauty tips.",
+    "long_description": "Create beauty tutorials, makeup looks, and skincare content",
+    "tags": [
+      "beauty",
+      "makeup tutorials",
+      "skincare",
+      "beauty tips",
+      "makeup reviews",
+      "cosmetics",
+      "beauty channel ideas"
+    ],
+    "parent": "lifestyle"
+  },
+  {
+    "id": "beauty",
+    "name": "Beauty",
+    "slug": "beauty",
+    "description": "Learn how to create engaging beauty videos—covering tutorials, product reviews, skincare routines, and inclusive beauty practices.",
+    "long_description": "Explore beauty trends with makeup tutorials, product reviews, and self-care content.",
+    "tags": [
+      "beauty",
+      "makeup tutorials",
+      "skincare",
+      "product reviews",
+      "beauty tips",
+      "cosmetics",
+      "beauty content ideas"
+    ]
+  },
+  {
+    "id": "behind-scenes-production",
+    "name": "Behind-the-Scenes Production",
+    "slug": "behind-scenes-production",
+    "description": "Learn how to create behind-the-scenes music production content—covering studio sessions, songwriting, recording, and production techniques.",
+    "long_description": "Show the music creation process and production behind-the-scenes",
+    "tags": [
+      "music production",
+      "behind the scenes",
+      "studio sessions",
+      "songwriting",
+      "music tutorials",
+      "production tips"
+    ],
+    "parent": "music"
+  },
+  {
+    "id": "behind-the-scenes",
+    "name": "Behind the Scenes",
+    "slug": "behind-the-scenes",
+    "description": "Behind-the-scenes content and production insights",
+    "long_description": "Give viewers exclusive access to behind-the-scenes content.",
+    "tags": []
+  },
+  {
+    "id": "bloopers",
+    "name": "Bloopers",
+    "slug": "bloopers",
+    "description": "Learn how to create funny bloopers content—covering production mistakes, unplanned moments, and outtakes that entertain audiences.",
+    "long_description": "Share the funny side of content creation with bloopers and outtakes.",
+    "tags": [
+      "bloopers",
+      "funny moments",
+      "outtakes",
+      "behind the scenes",
+      "mistakes",
+      "unscripted content",
+      "funny video ideas"
+    ]
+  },
+  {
+    "id": "book-review",
+    "name": "Book Review",
+    "slug": "book-review",
+    "description": "Book reviews and literary discussion content",
+    "long_description": "Explore literature with thoughtful book reviews.",
+    "tags": [
+      "book reviews",
+      "literary analysis",
+      "reading community",
+      "booktube",
+      "reading lists",
+      "book recommendations"
+    ]
+  },
+  {
+    "id": "book-summaries",
+    "name": "Book Summaries",
+    "slug": "book-summaries",
+    "description": "Learn how to create engaging book summary videos—covering key insights, reviews, educational takeaways, and recommended reads.",
+    "long_description": "Summarize and review books for educational content",
+    "tags": [
+      "book summaries",
+      "book reviews",
+      "educational content",
+      "reading insights",
+      "nonfiction summaries",
+      "BookTube ideas"
+    ],
+    "parent": "education"
+  },
+  {
+    "id": "business-case-studies",
+    "name": "Business Case Studies",
+    "slug": "business-case-studies",
+    "description": "Learn how to create engaging business case study content—covering success stories, failures, strategies, and entrepreneurship lessons.",
+    "long_description": "Analyze successful businesses and share business case studies",
+    "tags": [
+      "business case studies",
+      "entrepreneurship",
+      "startup lessons",
+      "business analysis",
+      "company strategies",
+      "business storytelling"
+    ],
+    "parent": "business"
+  },
+  {
+    "id": "business",
+    "name": "Business",
+    "slug": "business",
+    "description": "Learn how to create impactful business content—covering entrepreneurship stories, strategy tutorials, and professional insights.",
+    "long_description": "Share practical advice, entrepreneurship stories, and professional insights to help others succeed in business.",
+    "tags": [
+      "business",
+      "entrepreneurship",
+      "career development",
+      "finance tips",
+      "marketing strategy",
+      "business analysis"
+    ]
+  },
+  {
+    "id": "celebrity-gossip",
+    "name": "Celebrity Gossip",
+    "slug": "celebrity-gossip",
+    "description": "Learn how to create trending celebrity gossip content—covering entertainment news, scandals, pop culture updates, and viral moments.",
+    "long_description": "Cover celebrity news, entertainment industry updates, and pop culture",
+    "tags": [
+      "celebrity gossip",
+      "entertainment news",
+      "pop culture",
+      "celebrity scandals",
+      "Hollywood updates",
+      "viral moments"
+    ],
+    "parent": "entertainment"
+  },
+  {
+    "id": "challenge",
+    "name": "Challenge",
+    "slug": "challenge",
+    "description": "Learn how to create engaging YouTube challenge content—covering interactive challenges, skill development, creative tests, and community-driven formats.",
+    "long_description": "Engage audiences with exciting challenges and competitive content formats that test skills, creativity, and determination while entertaining viewers.",
+    "tags": [
+      "challenge videos",
+      "YouTube challenges",
+      "interactive content",
+      "skill challenges",
+      "viral content",
+      "community challenges"
+    ]
+  },
+  {
+    "id": "coding-tech-tutorials",
+    "name": "Coding & Tech Tutorials",
+    "slug": "coding-tech-tutorials",
+    "description": "Learn how to create engaging coding and technology tutorial content for YouTube—covering programming education, development techniques, and technical skills.",
+    "long_description": "Teach programming, coding skills, and technology concepts that help developers build technical expertise and advance their careers in software development.",
+    "tags": [
+      "coding tutorials",
+      "programming",
+      "tech tutorials",
+      "software development",
+      "coding education",
+      "programming languages",
+      "developer tutorials"
+    ]
+  },
+  {
+    "id": "comedy-skits",
+    "name": "Comedy & Skits",
+    "slug": "comedy-skits",
+    "description": "Learn how to create engaging comedy and skit content for YouTube—covering sketch writing, character development, and comedic storytelling.",
+    "long_description": "Create original comedic sketches, characters, and humor-based content that entertains audiences through scripted comedy and creative storytelling.",
+    "tags": [
+      "comedy skits",
+      "sketch comedy",
+      "funny videos",
+      "comedy sketches",
+      "humor",
+      "comedic content",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "comedy",
+    "name": "Comedy",
+    "slug": "comedy",
+    "description": "Learn how to create engaging comedy content for YouTube—covering humor development, comedic timing, and entertainment that makes people laugh.",
+    "long_description": "Entertain audiences with humor and comedic storytelling that brings laughter, joy, and stress relief through creative comedic content.",
+    "tags": [
+      "comedy",
+      "funny videos",
+      "humor",
+      "comedic content",
+      "entertainment",
+      "comedy videos",
+      "laughs"
+    ]
+  },
+  {
+    "id": "cooking",
+    "name": "Cooking",
+    "slug": "cooking",
+    "description": "Learn how to create engaging cooking videos—covering recipe tutorials, cooking techniques, food culture, and culinary storytelling.",
+    "long_description": "Share culinary expertise with cooking tutorials.",
+    "tags": [
+      "cooking",
+      "recipes",
+      "cooking tutorials",
+      "food culture",
+      "culinary education",
+      "kitchen tips",
+      "cooking ideas"
+    ]
+  },
+  {
+    "id": "covers",
+    "name": "Covers",
+    "slug": "covers",
+    "description": "Learn how to create engaging music cover videos—covering popular songs, unique interpretations, collaborations, and performance tips.",
+    "long_description": "Create cover versions of popular songs and musical interpretations",
+    "tags": [
+      "music covers",
+      "song interpretations",
+      "cover songs",
+      "YouTube covers",
+      "performance videos",
+      "music content ideas"
+    ],
+    "parent": "music"
+  },
+  {
+    "id": "crafts",
+    "name": "Crafts",
+    "slug": "crafts",
+    "description": "Learn how to create engaging craft content—covering DIY projects, handmade gifts, home decor, seasonal ideas, and artistic tutorials.",
+    "long_description": "Inspire creativity with handmade craft projects and artistic tutorial content that teaches practical skills while encouraging creative expression.",
+    "tags": [
+      "crafts",
+      "DIY projects",
+      "handmade gifts",
+      "home decor crafts",
+      "seasonal crafts",
+      "artistic tutorials"
+    ]
+  },
+  {
+    "id": "cultural-commentary",
+    "name": "Cultural Commentary",
+    "slug": "cultural-commentary",
+    "description": "Learn how to create engaging cultural commentary content—covering social trends, cultural analysis, internet culture, and thoughtful discussions.",
+    "long_description": "Analyze cultural trends, social phenomena, and cultural commentary",
+    "tags": [
+      "cultural commentary",
+      "social analysis",
+      "internet culture",
+      "cultural trends",
+      "thoughtful discussions",
+      "cultural issues"
+    ],
+    "parent": "news"
+  },
+  {
+    "id": "current-events",
+    "name": "Current Events",
+    "slug": "current-events",
+    "description": "News coverage and current affairs",
+    "long_description": "Cover current events, breaking news, and timely social issues",
+    "tags": [],
+    "parent": "news"
+  },
+  {
+    "id": "cybersecurity",
+    "name": "Cybersecurity",
+    "slug": "cybersecurity",
+    "description": "Learn how to create engaging cybersecurity content—covering online safety, privacy protection, hacking prevention, and digital security awareness.",
+    "long_description": "Educate about cybersecurity, privacy, and digital safety practices",
+    "tags": [
+      "cybersecurity",
+      "online safety",
+      "privacy protection",
+      "digital security",
+      "hacking prevention",
+      "cyber threats",
+      "internet safety tips"
+    ],
+    "parent": "technology"
+  },
+  {
+    "id": "day-in-the-life",
+    "name": "Day in the Life",
+    "slug": "day-in-the-life",
+    "description": "Learn how to create engaging Day in the Life content—covering routines, workdays, special events, and authentic lifestyle documentation.",
+    "long_description": "Share authentic daily experiences and routines.",
+    "tags": [
+      "day in the life",
+      "daily routines",
+      "lifestyle content",
+      "workday vlogs",
+      "authentic documentation",
+      "DITL videos"
+    ]
+  },
+  {
+    "id": "destination-guides",
+    "name": "Destination Guides",
+    "slug": "destination-guides",
+    "description": "Learn how to create engaging destination guide content for YouTube—covering travel planning, cultural insights, and practical recommendations for travelers.",
+    "long_description": "Create comprehensive destination guides and travel recommendations that help viewers plan amazing trips with insider tips, cultural insights, and practical travel advice.",
+    "tags": [
+      "destination guides",
+      "travel guides",
+      "travel tips",
+      "travel planning",
+      "cultural travel",
+      "travel recommendations",
+      "travel advice"
+    ]
+  },
+  {
+    "id": "diet-specific-cooking",
+    "name": "Diet-Specific Cooking",
+    "slug": "diet-specific-cooking",
+    "description": "Learn how to create engaging diet-specific cooking content for YouTube—covering specialized recipes, nutritional guidance, and dietary lifestyle tips.",
+    "long_description": "Create specialized cooking content for specific diets like keto, vegan, gluten-free, and other dietary needs that help viewers maintain healthy lifestyles while enjoying delicious food.",
+    "tags": [
+      "diet cooking",
+      "keto recipes",
+      "vegan cooking",
+      "gluten-free",
+      "healthy recipes",
+      "specialized diets",
+      "dietary restrictions"
+    ]
+  },
+  {
+    "id": "digital-art",
+    "name": "Digital Art",
+    "slug": "digital-art",
+    "description": "Learn how to create engaging digital art content for YouTube—covering tutorials, techniques, and creative processes in digital artistic creation.",
+    "long_description": "Create digital art tutorials and showcase digital artistic techniques that help artists develop their skills and explore creative possibilities in the digital medium.",
+    "tags": [
+      "digital art",
+      "digital painting",
+      "art tutorials",
+      "digital drawing",
+      "art techniques",
+      "digital illustration",
+      "art process"
+    ]
+  },
+  {
+    "id": "diy",
+    "name": "DIY",
+    "slug": "diy",
+    "description": "Learn how to create engaging DIY content for YouTube—covering project tutorials, creative builds, and hands-on crafting that inspires audience participation.",
+    "long_description": "Discover endless DIY project ideas and creative building tutorials that inspire viewers to get hands-on with home improvement, crafts, and creative projects.",
+    "tags": [
+      "DIY",
+      "do it yourself",
+      "crafts",
+      "DIY projects",
+      "home improvement",
+      "tutorials",
+      "creative projects"
+    ]
+  },
+  {
+    "id": "dj-mixes",
+    "name": "DJ Mixes",
+    "slug": "dj-mixes",
+    "description": "Learn how to create engaging DJ mix content for YouTube—covering performances, mixing tutorials, and electronic music showcases.",
+    "long_description": "Share DJ performances, electronic music mixes, and mixing tutorials that showcase musical creativity and teach aspiring DJs the art of music mixing.",
+    "tags": [
+      "DJ mixes",
+      "electronic music",
+      "DJ performances",
+      "music mixing",
+      "DJ tutorials",
+      "dance music",
+      "DJ sets"
+    ]
+  },
+  {
+    "id": "documentaries",
+    "name": "Documentaries",
+    "slug": "documentaries",
+    "description": "Learn how to create engaging documentary content for YouTube—covering investigative journalism, storytelling techniques, and in-depth topic exploration.",
+    "long_description": "Create documentary content and investigative journalism that explores important topics in-depth, informs audiences, and tells compelling true stories.",
+    "tags": [
+      "documentaries",
+      "investigative journalism",
+      "documentary filmmaking",
+      "true stories",
+      "investigative content",
+      "documentary series",
+      "journalism"
+    ]
+  },
+  {
+    "id": "drawing-painting",
+    "name": "Drawing & Painting Tutorials",
+    "slug": "drawing-painting",
+    "description": "Learn how to create engaging traditional art tutorial content for YouTube—covering drawing techniques, painting methods, and artistic skill development.",
+    "long_description": "Teach drawing, painting, and traditional art techniques that help artists develop fundamental skills and explore creative expression through hands-on instruction.",
+    "tags": [
+      "drawing tutorials",
+      "painting tutorials",
+      "art tutorials",
+      "traditional art",
+      "art techniques",
+      "drawing lessons",
+      "painting techniques"
+    ]
+  },
+  {
+    "id": "ecommerce",
+    "name": "E-commerce",
+    "slug": "ecommerce",
+    "description": "Learn how to create informative e-commerce content for YouTube—covering online selling strategies, digital business tips, and e-commerce education.",
+    "long_description": "Teach e-commerce strategies, online selling techniques, and digital business development that help entrepreneurs build successful online businesses.",
+    "tags": [
+      "ecommerce",
+      "online business",
+      "online selling",
+      "digital marketing",
+      "e-commerce strategies",
+      "dropshipping",
+      "online store"
+    ]
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "slug": "education",
+    "description": "Learn how to create engaging educational content for YouTube—covering teaching techniques, knowledge sharing, and effective learning instruction.",
+    "long_description": "Make learning engaging with educational tutorials and knowledge-sharing content that democratizes education and makes complex subjects accessible to all learners.",
+    "tags": [
+      "education",
+      "learning",
+      "tutorials",
+      "educational content",
+      "teaching",
+      "study tips",
+      "knowledge sharing"
+    ]
+  },
+  {
+    "id": "entertainment",
+    "name": "Entertainment",
+    "slug": "entertainment",
+    "description": "Learn how to create engaging entertainment content for YouTube—covering comedy, challenges, reactions, and content that brings joy to audiences.",
+    "long_description": "Create entertaining content that brings joy, laughter, and positive experiences to viewers seeking fun, humor, and escapism from daily routines.",
+    "tags": [
+      "entertainment",
+      "comedy",
+      "funny videos",
+      "challenges",
+      "reaction videos",
+      "humor",
+      "fun content"
+    ]
+  },
+  {
+    "id": "entrepreneurship",
+    "name": "Entrepreneurship",
+    "slug": "entrepreneurship",
+    "description": "Learn how to create compelling entrepreneurship content for YouTube—covering startup stories, business advice, and entrepreneurial insights.",
+    "long_description": "Share entrepreneurship advice, startup journeys, and business building strategies that inspire and educate aspiring entrepreneurs.",
+    "tags": [
+      "entrepreneurship",
+      "startup",
+      "business advice",
+      "small business",
+      "entrepreneur tips",
+      "business building",
+      "startup stories"
+    ]
+  },
+  {
+    "id": "esports-gaming",
+    "name": "Esports Gaming",
+    "slug": "esports-gaming",
+    "description": "Learn how to create engaging esports content for YouTube—covering tournament analysis, competitive gaming strategies, and esports culture.",
+    "long_description": "Cover competitive gaming tournaments, professional esports analysis, and gaming competition culture that showcases the skill and strategy of professional gaming.",
+    "tags": [
+      "esports",
+      "competitive gaming",
+      "gaming tournaments",
+      "professional gaming",
+      "game analysis",
+      "esports culture",
+      "gaming competitions"
+    ]
+  },
+  {
+    "id": "esports-highlights",
+    "name": "eSports Highlights",
+    "slug": "esports-highlights",
+    "description": "Learn how to create engaging eSports highlight content for YouTube—covering match breakdowns, amazing plays, and competitive gaming moments.",
+    "long_description": "Cover competitive gaming events, match highlights, and professional eSports analysis that captures the most exciting moments in competitive gaming.",
+    "tags": [
+      "esports highlights",
+      "gaming clips",
+      "competitive gaming",
+      "match analysis",
+      "gaming montages",
+      "esports moments",
+      "pro gaming"
+    ]
+  },
+  {
+    "id": "explainer",
+    "name": "Explainer",
+    "slug": "explainer",
+    "description": "Learn how to create effective explainer content for YouTube—covering complex topics, current events, and educational subjects with clarity and engagement.",
+    "long_description": "Make complex topics accessible through clear explanations, visual aids, and engaging educational content that helps viewers understand difficult concepts.",
+    "tags": [
+      "explainer videos",
+      "education",
+      "learning",
+      "science",
+      "current events",
+      "tutorials",
+      "educational content"
+    ]
+  },
+  {
+    "id": "extreme-sports",
+    "name": "Extreme Sports",
+    "slug": "extreme-sports",
+    "description": "Learn how to create thrilling extreme sports content for YouTube—covering adventure activities, high-risk athletics, and adrenaline-fueled performances.",
+    "long_description": "Cover extreme sports, adventure activities, and adrenaline-fueled athletic content that showcases incredible skill, courage, and the pursuit of peak performance in high-risk environments.",
+    "tags": [
+      "extreme sports",
+      "adventure sports",
+      "adrenaline",
+      "action sports",
+      "extreme athletes",
+      "high-risk activities",
+      "thrill-seeking"
+    ]
+  },
+  {
+    "id": "family",
+    "name": "Family",
+    "slug": "family",
+    "description": "Learn how to create engaging family content for YouTube—covering activities, parenting advice, and family experiences that connect generations.",
+    "long_description": "Create meaningful family content with activities, parenting advice, and family experiences that bring generations together and strengthen family bonds.",
+    "tags": [
+      "family content",
+      "parenting",
+      "family activities",
+      "kids",
+      "family fun",
+      "parenting tips",
+      "family traditions"
+    ]
+  },
+  {
+    "id": "fantasy-leagues",
+    "name": "Fantasy Leagues",
+    "slug": "fantasy-leagues",
+    "description": "Learn how to create engaging fantasy sports content for YouTube—covering strategies, player analysis, and league management tips.",
+    "long_description": "Cover fantasy sports leagues, strategies, and player analysis that helps fantasy managers make informed decisions and dominate their leagues.",
+    "tags": [
+      "fantasy sports",
+      "fantasy football",
+      "player analysis",
+      "fantasy strategy",
+      "sports betting",
+      "fantasy tips",
+      "league management"
+    ]
+  },
+  {
+    "id": "fashion-style",
+    "name": "Fashion & Style",
+    "slug": "fashion-style",
+    "description": "Learn how to create engaging fashion content for YouTube—covering style tips, outfit ideas, fashion trends, and personal styling advice.",
+    "long_description": "Share fashion advice, style tips, and clothing inspiration that helps viewers develop their personal style and stay current with fashion trends.",
+    "tags": [
+      "fashion",
+      "style tips",
+      "outfit ideas",
+      "fashion trends",
+      "personal style",
+      "clothing hauls",
+      "style advice"
+    ]
+  },
+  {
+    "id": "fashion",
+    "name": "Fashion",
+    "slug": "fashion",
+    "description": "Learn how to create engaging fashion content for YouTube—covering trends, styling advice, and fashion inspiration for style-conscious viewers.",
+    "long_description": "Explore fashion trends, styling tips, and clothing content that helps style enthusiasts express personal style and stay current with evolving fashion trends.",
+    "tags": [
+      "fashion",
+      "style",
+      "fashion trends",
+      "outfit inspiration",
+      "fashion hauls",
+      "style tips",
+      "fashion advice"
+    ]
+  },
+  {
+    "id": "filmmaking",
+    "name": "Filmmaking",
+    "slug": "filmmaking",
+    "description": "Learn how to create educational filmmaking content for YouTube—covering production techniques, storytelling methods, and video creation skills.",
+    "long_description": "Share filmmaking techniques and video production knowledge that helps aspiring creators master the technical and creative aspects of visual storytelling.",
+    "tags": [
+      "filmmaking",
+      "video production",
+      "cinematography",
+      "video editing",
+      "directing",
+      "film techniques",
+      "movie making"
+    ]
+  },
+  {
+    "id": "finance",
+    "name": "Finance",
+    "slug": "finance",
+    "description": "Personal finance and money management content",
+    "long_description": "Help viewers achieve financial literacy and money management skills.",
+    "tags": []
+  },
+  {
+    "id": "fitness",
+    "name": "Fitness",
+    "slug": "fitness",
+    "description": "Workout routines and fitness motivation content",
+    "long_description": "Motivate viewers to achieve their fitness goals with workout routines and wellness advice.",
+    "tags": []
+  },
+  {
+    "id": "food-challenges",
+    "name": "Food Challenges",
+    "slug": "food-challenges",
+    "description": "Food-related challenges and competitions",
+    "long_description": "Participate in food challenges and eating competitions",
+    "tags": [],
+    "parent": "food"
+  },
+  {
+    "id": "food-cooking",
+    "name": "Food & Cooking",
+    "slug": "food-cooking",
+    "description": "Learn how to create engaging food and cooking content—covering recipes, cooking tutorials, food reviews, and culinary storytelling.",
+    "long_description": "Create cooking tutorials, recipes, and food-related content",
+    "tags": [
+      "food",
+      "cooking",
+      "recipe tutorials",
+      "food reviews",
+      "culinary education",
+      "cooking ideas",
+      "food storytelling"
+    ],
+    "parent": "lifestyle"
+  },
+  {
+    "id": "food",
+    "name": "Food",
+    "slug": "food",
+    "description": "Learn how to create engaging food content—covering recipes, cooking tutorials, food reviews, cultural explorations, and culinary storytelling.",
+    "long_description": "Dive into the delicious world of food content with cooking tutorials, recipe demonstrations, and food reviews. Create mouth-watering videos that inspire viewers to try new dishes and cooking techniques.",
+    "tags": [
+      "food",
+      "cooking tutorials",
+      "recipes",
+      "food reviews",
+      "cultural cuisine",
+      "culinary storytelling",
+      "seasonal cooking"
+    ]
+  },
+  {
+    "id": "game-reviews",
+    "name": "Game Reviews",
+    "slug": "game-reviews",
+    "description": "Learn how to create engaging game review content—covering gameplay analysis, pros and cons, comparisons, and recommendations.",
+    "long_description": "Review video games with detailed analysis and recommendations",
+    "tags": [
+      "game reviews",
+      "video game analysis",
+      "gaming recommendations",
+      "gameplay critique",
+      "gaming commentary",
+      "video game content"
+    ],
+    "parent": "gaming"
+  },
+  {
+    "id": "game-tutorials",
+    "name": "Game Tutorials",
+    "slug": "game-tutorials",
+    "description": "Learn how to create engaging game tutorial content—covering walkthroughs, strategy guides, tips, tricks, and skill-building for players.",
+    "long_description": "Teach gaming strategies, tips, and techniques to improve gameplay",
+    "tags": [
+      "game tutorials",
+      "gaming guides",
+      "walkthroughs",
+      "gaming tips",
+      "gameplay strategies",
+      "gaming content ideas"
+    ],
+    "parent": "gaming"
+  },
+  {
+    "id": "game-walkthroughs",
+    "name": "Game Walkthroughs",
+    "slug": "game-walkthroughs",
+    "description": "Learn how to create engaging game walkthrough content—covering step-by-step guides, level completions, puzzles, and story progressions.",
+    "long_description": "Create comprehensive guides to help players complete games",
+    "tags": [
+      "game walkthroughs",
+      "gaming guides",
+      "step-by-step gameplay",
+      "level completions",
+      "puzzle solutions",
+      "story progressions"
+    ],
+    "parent": "gaming"
+  },
+  {
+    "id": "gaming",
+    "name": "Gaming",
+    "slug": "gaming",
+    "description": "Learn how to create engaging gaming content—covering Let's Plays, reviews, tutorials, walkthroughs, and gaming culture commentary.",
+    "long_description": "Explore the dynamic world of gaming content with reviews, gameplay videos, and gaming culture commentary. Create engaging content for the massive gaming community on YouTube.",
+    "tags": "[\"gaming\", \"game reviews\", \"let's plays\", \"walkthroughs\", \"gaming tutorials\", \"gaming culture\", \"multiplayer content\"]"
+  },
+  {
+    "id": "genre-focus",
+    "name": "Genre Focus (Rap, Rock, EDM, Classical)",
+    "slug": "genre-focus",
+    "description": "Learn how to create engaging music content focused on genres like rap, rock, EDM, classical, and more.",
+    "long_description": "Focus on specific music genres like rap, rock, EDM, or classical",
+    "tags": [
+      "music genres",
+      "rap content",
+      "rock music",
+      "EDM",
+      "classical music",
+      "genre-specific content"
+    ],
+    "parent": "music"
+  },
+  {
+    "id": "geography-travel-learning",
+    "name": "Geography & Travel Learning",
+    "slug": "geography-travel-learning",
+    "description": "Educational geography and world knowledge",
+    "long_description": "Teach geography, world cultures, and travel-based education",
+    "tags": [],
+    "parent": "education"
+  },
+  {
+    "id": "hardware-builds",
+    "name": "Hardware Builds (PCs, electronics)",
+    "slug": "hardware-builds",
+    "description": "Computer builds and electronics projects",
+    "long_description": "Build computers, electronics projects, and hardware modifications",
+    "tags": [],
+    "parent": "technology"
+  },
+  {
+    "id": "health-fitness",
+    "name": "Health & Fitness",
+    "slug": "health-fitness",
+    "description": "Health, fitness, and wellness content",
+    "long_description": "Share health tips, fitness routines, and wellness advice",
+    "tags": [],
+    "parent": "lifestyle"
+  },
+  {
+    "id": "health-wellness",
+    "name": "Health & Wellness",
+    "slug": "health-wellness",
+    "description": "Health, wellness, and medical content",
+    "long_description": "Provide health education, wellness tips, and medical information",
+    "tags": []
+  },
+  {
+    "id": "health",
+    "name": "Health",
+    "slug": "health",
+    "description": "Health, wellness and medical information content",
+    "long_description": "Promote wellness with health-focused content covering fitness, nutrition, and mental well-being.",
+    "tags": []
+  },
+  {
+    "id": "history-lessons",
+    "name": "History Lessons",
+    "slug": "history-lessons",
+    "description": "Historical content and education",
+    "long_description": "Teach history through engaging lessons and historical storytelling",
+    "tags": [],
+    "parent": "education"
+  },
+  {
+    "id": "history",
+    "name": "History",
+    "slug": "history",
+    "description": "Historical content and educational storytelling",
+    "long_description": "Explore the past through engaging historical content and storytelling.",
+    "tags": []
+  },
+  {
+    "id": "home-decor-diy",
+    "name": "Home Decor & DIY",
+    "slug": "home-decor-diy",
+    "description": "Home decoration and DIY projects",
+    "long_description": "Create home decoration tutorials and DIY home improvement projects",
+    "tags": [],
+    "parent": "lifestyle"
+  },
+  {
+    "id": "home",
+    "name": "Home",
+    "slug": "home",
+    "description": "Home improvement and interior design ideas",
+    "long_description": "Transform your living space with creative home improvement projects.",
+    "tags": []
+  },
+  {
+    "id": "how-to-fix-repair",
+    "name": "How-to Fix/Repair",
+    "slug": "how-to-fix-repair",
+    "description": "Device repair and troubleshooting guides",
+    "long_description": "Teach device repair, troubleshooting, and maintenance techniques",
+    "tags": [],
+    "parent": "technology"
+  },
+  {
+    "id": "instrument-tutorials",
+    "name": "Instrument Tutorials",
+    "slug": "instrument-tutorials",
+    "description": "Learn how to create engaging instrument tutorial content—covering lessons, techniques, beginner guides, and advanced music education.",
+    "long_description": "Teach musical instruments and provide music education",
+    "tags": [
+      "instrument tutorials",
+      "music lessons",
+      "beginner music guides",
+      "music education",
+      "guitar lessons",
+      "piano tutorials",
+      "drum tutorials"
+    ],
+    "parent": "music"
+  },
+  {
+    "id": "investing-trading",
+    "name": "Investing & Trading",
+    "slug": "investing-trading",
+    "description": "Learn how to create engaging investing and trading content—covering stock markets, crypto, strategies, financial education, and market analysis.",
+    "long_description": "Educate about investing, trading strategies, and market analysis",
+    "tags": [
+      "investing",
+      "trading",
+      "stock market",
+      "crypto trading",
+      "investment strategies",
+      "financial education",
+      "market analysis"
+    ],
+    "parent": "business"
+  },
+  {
+    "id": "karaoke",
+    "name": "Karaoke",
+    "slug": "karaoke",
+    "description": "Karaoke performances and sing-alongs",
+    "long_description": "Create karaoke content and sing-along experiences",
+    "tags": [],
+    "parent": "music"
+  },
+  {
+    "id": "kids-family",
+    "name": "Kids & Family",
+    "slug": "kids-family",
+    "description": "Learn how to create family-friendly content—covering educational videos, fun activities, parenting tips, and entertainment for children of all ages.",
+    "long_description": "Create content suitable for families and children of all ages",
+    "tags": "[\"kids content\", \"family videos\", \"educational videos\", \"parenting tips\", \"children's entertainment\", \"family-friendly YouTube ideas\"]"
+  },
+  {
+    "id": "kids-learning-content",
+    "name": "Kids' Learning Content",
+    "slug": "kids-learning-content",
+    "description": "Educational content for children",
+    "long_description": "Create educational content specifically designed for young learners",
+    "tags": [],
+    "parent": "education"
+  },
+  {
+    "id": "language-learning",
+    "name": "Language Learning",
+    "slug": "language-learning",
+    "description": "Learn how to create engaging language learning content—covering tutorials, pronunciation guides, vocabulary lessons, and immersive learning strategies.",
+    "long_description": "Teach languages and language learning techniques",
+    "tags": [
+      "language learning",
+      "learn languages",
+      "multilingual education",
+      "pronunciation guides",
+      "vocabulary lessons",
+      "language tutorials"
+    ],
+    "parent": "education"
+  },
+  {
+    "id": "lets-plays",
+    "name": "Let's Plays",
+    "slug": "lets-plays",
+    "description": "Learn how to create engaging Let's Play content—covering gameplay, commentary, walkthroughs, and audience interaction.",
+    "long_description": "Record gameplay sessions with live commentary and reactions",
+    "tags": "[\"let's plays\", \"gaming videos\", \"gameplay commentary\", \"walkthroughs\", \"gaming content ideas\", \"live reactions\"]",
+    "parent": "gaming"
+  },
+  {
+    "id": "lifestyle",
+    "name": "Lifestyle",
+    "slug": "lifestyle",
+    "description": "Daily life, personal development content",
+    "long_description": "Share personal experiences and lifestyle content that resonates with viewers seeking inspiration, motivation, and authentic connections. Create content about daily routines, personal growth, and life experiences.",
+    "tags": [
+      "lifestyle",
+      "daily routines",
+      "personal development",
+      "wellness tips",
+      "authentic storytelling",
+      "lifestyle content ideas"
+    ]
+  },
+  {
+    "id": "live-commentary",
+    "name": "Live Commentary",
+    "slug": "live-commentary",
+    "description": "Real-time sports commentary and analysis",
+    "long_description": "Provide live sports commentary and real-time game analysis",
+    "tags": [],
+    "parent": "sports"
+  },
+  {
+    "id": "magic-illusions",
+    "name": "Magic & Illusions",
+    "slug": "magic-illusions",
+    "description": "Learn how to create engaging magic and illusions content—covering close-up tricks, stage performances, tutorials, and entertaining illusions.",
+    "long_description": "Perform magic tricks, illusions, and teach magical entertainment",
+    "tags": [
+      "magic tricks",
+      "illusions",
+      "close-up magic",
+      "stage magic",
+      "magic tutorials",
+      "magician content ideas"
+    ],
+    "parent": "entertainment"
+  },
+  {
+    "id": "marketing-tips",
+    "name": "Marketing Tips",
+    "slug": "marketing-tips",
+    "description": "Marketing strategies and business promotion",
+    "long_description": "Share marketing strategies, advertising tips, and business promotion techniques",
+    "tags": [],
+    "parent": "business"
+  },
+  {
+    "id": "math-tutorials",
+    "name": "Math Tutorials",
+    "slug": "math-tutorials",
+    "description": "Learn how to create engaging math tutorials—covering basic concepts, problem solving, exam preparation, and advanced mathematics education.",
+    "long_description": "Teach mathematical concepts through clear tutorials and examples",
+    "tags": [
+      "math tutorials",
+      "mathematics education",
+      "problem solving",
+      "exam preparation",
+      "algebra lessons",
+      "calculus tutorials",
+      "geometry guides"
+    ],
+    "parent": "education"
+  },
+  {
+    "id": "media",
+    "name": "Media",
+    "slug": "media",
+    "description": "Learn how to create engaging media production content—covering video editing, audio production, storytelling, and efficient workflows.",
+    "long_description": "Explore media production techniques and content creation processes.",
+    "tags": [
+      "media production",
+      "content creation",
+      "video editing",
+      "audio production",
+      "storytelling",
+      "production workflows",
+      "multimedia content"
+    ]
+  },
+  {
+    "id": "memes-reaction",
+    "name": "Memes & Reaction",
+    "slug": "memes-reaction",
+    "description": "Meme reviews and reaction content",
+    "long_description": "React to viral memes, trends, and internet culture",
+    "tags": [],
+    "parent": "entertainment"
+  },
+  {
+    "id": "minimalism",
+    "name": "Minimalism",
+    "slug": "minimalism",
+    "description": "Learn how to create engaging minimalism content—covering decluttering, intentional living, mindful consumption, and lifestyle simplification.",
+    "long_description": "Explore minimalist living and lifestyle simplification",
+    "tags": [
+      "minimalism",
+      "decluttering",
+      "intentional living",
+      "mindful lifestyle",
+      "simple living",
+      "minimalist habits",
+      "lifestyle design"
+    ],
+    "parent": "lifestyle"
+  },
+  {
+    "id": "mobile-gaming",
+    "name": "Mobile Gaming",
+    "slug": "mobile-gaming",
+    "description": "Learn how to create engaging mobile gaming content—covering reviews, gameplay, tips, tutorials, and trending mobile titles.",
+    "long_description": "Focus on mobile gaming, app reviews, and portable gaming experiences",
+    "tags": [
+      "mobile gaming",
+      "game reviews",
+      "mobile gameplay",
+      "app tutorials",
+      "gaming tips",
+      "trending games",
+      "portable gaming"
+    ],
+    "parent": "gaming"
+  },
+  {
+    "id": "movie-reviews",
+    "name": "Movie Reviews",
+    "slug": "movie-reviews",
+    "description": "Learn how to create engaging movie review content—covering film analysis, commentary, recommendations, and cinematic discussions.",
+    "long_description": "Review movies and provide film analysis and commentary",
+    "tags": [
+      "movie reviews",
+      "film analysis",
+      "cinema commentary",
+      "film recommendations",
+      "movie discussions",
+      "entertainment content"
+    ],
+    "parent": "entertainment"
+  },
+  {
+    "id": "mukbang",
+    "name": "Mukbang",
+    "slug": "mukbang",
+    "description": "Eating shows and food entertainment",
+    "long_description": "Create eating shows and food entertainment content",
+    "tags": [],
+    "parent": "food"
+  },
+  {
+    "id": "music-reactions",
+    "name": "Music Reactions",
+    "slug": "music-reactions",
+    "description": "Learn how to create engaging music reaction content—covering first listens, album reviews, live performance reactions, and commentary.",
+    "long_description": "React to and review music tracks, albums, and musical performances",
+    "tags": [
+      "music reactions",
+      "album reviews",
+      "first listen",
+      "live performance commentary",
+      "song breakdowns",
+      "music reviews"
+    ],
+    "parent": "music"
+  },
+  {
+    "id": "music-videos",
+    "name": "Music Videos",
+    "slug": "music-videos",
+    "description": "Learn how to create engaging music videos—covering visual storytelling, performance, editing techniques, and creative direction.",
+    "long_description": "Create music videos and visual musical storytelling content",
+    "tags": [
+      "music videos",
+      "visual storytelling",
+      "performance videos",
+      "creative direction",
+      "music editing",
+      "cinematic music content"
+    ],
+    "parent": "music"
+  },
+  {
+    "id": "music",
+    "name": "Music",
+    "slug": "music",
+    "description": "Learn how to create engaging music content—covering covers, tutorials, original songs, and industry insights to grow your audience.",
+    "long_description": "Share musical talent and knowledge through covers, tutorials, and industry insights.",
+    "tags": [
+      "music",
+      "music covers",
+      "music tutorials",
+      "original songs",
+      "music industry",
+      "performance videos",
+      "music education"
+    ]
+  },
+  {
+    "id": "news",
+    "name": "News",
+    "slug": "news",
+    "description": "Learn how to create engaging news commentary content—covering breaking news, weekly roundups, deep dives, and analysis of current events.",
+    "long_description": "Stay current with news commentary and analysis content.",
+    "tags": [
+      "news commentary",
+      "breaking news",
+      "current events",
+      "weekly news roundup",
+      "deep dive analysis",
+      "news content ideas"
+    ]
+  },
+  {
+    "id": "original-songs",
+    "name": "Original Songs",
+    "slug": "original-songs",
+    "description": "Share original musical compositions and songwriting content",
+    "long_description": "Share original musical compositions and songwriting content",
+    "tags": [
+      "original songs",
+      "songwriting",
+      "music production",
+      "music composition",
+      "original music",
+      "performance videos"
+    ],
+    "parent": "music"
+  },
+  {
+    "id": "parody-spoofs",
+    "name": "Parody & Spoofs",
+    "slug": "parody-spoofs",
+    "description": "Parody content and comedic spoofs",
+    "long_description": "Create parody content that humorously mimics popular culture",
+    "tags": [
+      "parody",
+      "spoofs",
+      "comedy sketches",
+      "pop culture parodies",
+      "music spoofs",
+      "viral trends",
+      "funny videos"
+    ],
+    "parent": "entertainment"
+  },
+  {
+    "id": "personal-finance",
+    "name": "Personal Finance",
+    "slug": "personal-finance",
+    "description": "Learn how to create engaging personal finance content covering budgeting, saving, investing, and financial planning tips.",
+    "long_description": "Teach personal finance, budgeting, and money management skills",
+    "tags": [
+      "personal finance",
+      "budgeting",
+      "saving money",
+      "investing tips",
+      "financial planning",
+      "money management"
+    ],
+    "parent": "business"
+  },
+  {
+    "id": "pets",
+    "name": "Pets",
+    "slug": "pets",
+    "description": "Learn how to create engaging pet care content—covering training tutorials, health tips, lifestyle videos, and entertaining pet stories.",
+    "long_description": "Connect with pet lovers through comprehensive care advice, training tips, and pet companion content that supports responsible pet ownership.",
+    "tags": [
+      "pet care",
+      "pet training",
+      "pet lifestyle",
+      "animal companions",
+      "pet health tips",
+      "pet content ideas"
+    ]
+  },
+  {
+    "id": "photography",
+    "name": "Photography",
+    "slug": "photography",
+    "description": "Learn how to create engaging photography videos—covering tutorials, techniques, storytelling, gear reviews, and creative challenges.",
+    "long_description": "Enhance visual storytelling skills with photography tutorials and technique content that teaches both technical skills and artistic vision.",
+    "tags": [
+      "photography",
+      "camera tutorials",
+      "visual storytelling",
+      "photo tips",
+      "photography techniques",
+      "gear reviews"
+    ]
+  },
+  {
+    "id": "political-commentary",
+    "name": "Political Commentary",
+    "slug": "political-commentary",
+    "description": "Learn how to create engaging political commentary content—covering analysis, debates, policy breakdowns, and civic education.",
+    "long_description": "Provide political analysis, commentary, and civic education",
+    "tags": [
+      "political commentary",
+      "politics analysis",
+      "policy breakdowns",
+      "current affairs",
+      "political debates",
+      "civic education"
+    ],
+    "parent": "news"
+  },
+  {
+    "id": "pranks",
+    "name": "Pranks",
+    "slug": "pranks",
+    "description": "Learn how to create engaging prank content—covering funny surprises, social experiments, harmless jokes, and entertaining reactions.",
+    "long_description": "Create entertaining prank content that brings joy without harm",
+    "tags": [
+      "pranks",
+      "funny videos",
+      "social experiments",
+      "harmless jokes",
+      "prank ideas",
+      "entertainment content"
+    ],
+    "parent": "entertainment"
+  },
+  {
+    "id": "product-reviews-tech",
+    "name": "Product Reviews (phones, laptops, gadgets)",
+    "slug": "product-reviews-tech",
+    "description": "Learn how to create engaging tech review content—covering smartphones, laptops, gadgets, comparisons, and buying guides.",
+    "long_description": "Review tech products including phones, laptops, and gadgets",
+    "tags": [
+      "tech reviews",
+      "product comparisons",
+      "smartphone reviews",
+      "laptop reviews",
+      "gadget unboxing",
+      "technology content ideas"
+    ],
+    "parent": "technology"
+  },
+  {
+    "id": "product-reviews",
+    "name": "Product Reviews",
+    "slug": "product-reviews",
+    "description": "Learn how to create engaging product review content—covering detailed testing, comparisons, long-term usage insights, and consumer guidance.",
+    "long_description": "Help viewers make informed purchases with detailed product reviews.",
+    "tags": [
+      "product reviews",
+      "comparison reviews",
+      "detailed testing",
+      "long-term usage reviews",
+      "consumer guidance",
+      "review content ideas"
+    ]
+  },
+  {
+    "id": "productivity-time-management",
+    "name": "Productivity & Time Management",
+    "slug": "productivity-time-management",
+    "description": "Productivity tips and time management strategies",
+    "long_description": "Improve productivity and time management for better work-life balance",
+    "tags": [],
+    "parent": "business"
+  },
+  {
+    "id": "programming-tutorials",
+    "name": "Programming Tutorials",
+    "slug": "programming-tutorials",
+    "description": "Learn how to create effective programming tutorial content for YouTube—covering code education, development techniques, and programming best practices.",
+    "long_description": "Teach programming languages, development techniques, and coding best practices that help developers build technical skills and advance their careers in software development.",
+    "tags": [
+      "programming tutorials",
+      "coding",
+      "software development",
+      "programming languages",
+      "web development",
+      "code education",
+      "developer tutorials"
+    ]
+  },
+  {
+    "id": "psychology",
+    "name": "Psychology",
+    "slug": "psychology",
+    "description": "Learn how to create educational psychology content for YouTube—covering mental health awareness, psychological concepts, and evidence-based wellness strategies.",
+    "long_description": "Provide psychology education and mental health awareness through thoughtful, evidence-based content that helps viewers understand human behavior and mental wellness.",
+    "tags": [
+      "psychology",
+      "mental health",
+      "psychology education",
+      "mental wellness",
+      "psychological concepts",
+      "behavior",
+      "mental health awareness"
+    ]
+  },
+  {
+    "id": "reaction",
+    "name": "Reaction",
+    "slug": "reaction",
+    "description": "Learn how to create engaging reaction content for YouTube—covering authentic responses, commentary, and community building through shared viewing experiences.",
+    "long_description": "Share genuine reactions to trending content, media, and events that create engaging shared viewing experiences and build communities around authentic emotional responses.",
+    "tags": [
+      "reaction videos",
+      "reactions",
+      "commentary",
+      "trending content",
+      "entertainment reactions",
+      "response videos",
+      "authentic reactions"
+    ]
+  },
+  {
+    "id": "real-estate",
+    "name": "Real Estate",
+    "slug": "real-estate",
+    "description": "Learn how to create informative real estate content for YouTube—covering investment strategies, market analysis, and property management insights.",
+    "long_description": "Cover real estate investing, property management, market analysis, and housing industry insights that help viewers understand property investment and real estate opportunities.",
+    "tags": [
+      "real estate",
+      "property investment",
+      "real estate investing",
+      "housing market",
+      "property management",
+      "real estate tips",
+      "investment property"
+    ]
+  },
+  {
+    "id": "recipes",
+    "name": "Recipes",
+    "slug": "recipes",
+    "description": "Learn how to create engaging recipe content for YouTube—covering cooking tutorials, technique instruction, and culinary education.",
+    "long_description": "Share detailed recipe tutorials and step-by-step cooking guides that help viewers create delicious meals and develop their culinary skills.",
+    "tags": [
+      "recipes",
+      "cooking tutorials",
+      "cooking",
+      "food recipes",
+      "cooking tips",
+      "cooking techniques",
+      "recipe videos"
+    ]
+  },
+  {
+    "id": "restaurant-reviews",
+    "name": "Restaurant Reviews",
+    "slug": "restaurant-reviews",
+    "description": "Learn how to create engaging restaurant review content for YouTube—covering dining experiences, food evaluation, and restaurant recommendations.",
+    "long_description": "Review restaurants, share dining experiences, and provide food establishment recommendations that help viewers discover great dining options.",
+    "tags": [
+      "restaurant reviews",
+      "food reviews",
+      "dining",
+      "restaurant recommendations",
+      "food critic",
+      "dining experiences",
+      "restaurant guide"
+    ]
+  },
+  {
+    "id": "retro-gaming",
+    "name": "Retro Gaming",
+    "slug": "retro-gaming",
+    "description": "Learn how to create engaging retro gaming content for YouTube—covering classic games, vintage consoles, and gaming nostalgia for enthusiasts.",
+    "long_description": "Explore classic games, vintage consoles, and gaming nostalgia that celebrates the history and cultural impact of video games from past decades.",
+    "tags": [
+      "retro gaming",
+      "classic games",
+      "vintage consoles",
+      "gaming nostalgia",
+      "old school gaming",
+      "gaming history",
+      "retro games"
+    ]
+  },
+  {
+    "id": "reviews",
+    "name": "Reviews",
+    "slug": "reviews",
+    "description": "Learn how to create engaging review content for YouTube—covering product evaluations, service assessments, and honest opinions across multiple categories.",
+    "long_description": "Provide honest opinions and evaluations across a wide range of products, services, and experiences that help viewers make informed decisions in various aspects of their lives.",
+    "tags": [
+      "reviews",
+      "product reviews",
+      "honest reviews",
+      "review videos",
+      "product testing",
+      "consumer reviews",
+      "evaluation"
+    ]
+  },
+  {
+    "id": "science-explainers",
+    "name": "Science Explainers",
+    "slug": "science-explainers",
+    "description": "Learn how to create engaging science explainer content for YouTube—covering scientific concepts, discoveries, and phenomena with clear explanations.",
+    "long_description": "Explain scientific concepts, discoveries, and phenomena in accessible ways that make complex science understandable and engaging for general audiences.",
+    "tags": [
+      "science explainers",
+      "science education",
+      "scientific concepts",
+      "science communication",
+      "science videos",
+      "educational science",
+      "science simplified"
+    ]
+  },
+  {
+    "id": "science",
+    "name": "Science",
+    "slug": "science",
+    "description": "Learn how to create engaging science content for YouTube—covering experiments, scientific explanations, and educational content that makes science accessible.",
+    "long_description": "Make science accessible and exciting with experiments, explanations, and discoveries that educate viewers and inspire curiosity about the natural world.",
+    "tags": [
+      "science",
+      "scientific experiments",
+      "science education",
+      "science videos",
+      "experiments",
+      "science learning",
+      "STEM education"
+    ]
+  },
+  {
+    "id": "selfcare-motivation",
+    "name": "Self-care & Motivation",
+    "slug": "selfcare-motivation",
+    "description": "Learn how to create inspiring self-care and motivation content for YouTube—covering wellness routines, mindset shifts, and personal growth strategies.",
+    "long_description": "Share self-care practices, motivational content, and personal development strategies that help viewers build better mental health and achieve their goals.",
+    "tags": [
+      "self-care",
+      "motivation",
+      "mental health",
+      "personal development",
+      "wellness",
+      "mindfulness",
+      "self-improvement"
+    ]
+  },
+  {
+    "id": "side-hustles",
+    "name": "Side Hustles",
+    "slug": "side-hustles",
+    "description": "Learn how to create practical side hustle content for YouTube—covering income strategies, business experiments, and financial independence methods.",
+    "long_description": "Explore various side hustles, passive income streams, and alternative income generation methods that help people build financial freedom outside traditional employment.",
+    "tags": [
+      "side hustles",
+      "passive income",
+      "extra money",
+      "financial freedom",
+      "online business",
+      "gig economy",
+      "income streams"
+    ]
+  },
+  {
+    "id": "speedruns",
+    "name": "Speedruns",
+    "slug": "speedruns",
+    "description": "Learn how to create engaging speedrun content for YouTube—covering fast completions, strategy explanations, and gaming technique showcases.",
+    "long_description": "Complete video games as quickly as possible using optimal strategies, glitches, and techniques that showcase incredible skill and game mastery.",
+    "tags": [
+      "speedruns",
+      "gaming records",
+      "game completion",
+      "gaming strategies",
+      "speedrunning",
+      "gaming techniques",
+      "world records"
+    ]
+  },
+  {
+    "id": "sports-highlights",
+    "name": "Sports Highlights",
+    "slug": "sports-highlights",
+    "description": "Learn how to create engaging sports highlight content for YouTube—covering game recaps, amazing plays, and memorable sporting moments.",
+    "long_description": "Share exciting sports highlights, game recaps, and memorable sporting moments that capture the best plays and most thrilling moments in athletic competition.",
+    "tags": [
+      "sports highlights",
+      "game recaps",
+      "best plays",
+      "sports clips",
+      "athletic moments",
+      "sports compilation",
+      "game analysis"
+    ]
+  },
+  {
+    "id": "sports-history",
+    "name": "Sports History",
+    "slug": "sports-history",
+    "description": "Learn how to create compelling sports history content for YouTube—covering legendary moments, athletic heritage, and the stories behind sporting traditions.",
+    "long_description": "Explore sports history, legendary athletic moments, and the rich heritage of sporting traditions that shaped modern athletics and continue to inspire athletes today.",
+    "tags": [
+      "sports history",
+      "legendary athletes",
+      "historic moments",
+      "sports heritage",
+      "athletic traditions",
+      "sports stories",
+      "vintage sports"
+    ]
+  },
+  {
+    "id": "sports-news-analysis",
+    "name": "Sports News & Analysis",
+    "slug": "sports-news-analysis",
+    "description": "Learn how to create informative sports journalism content for YouTube—covering news analysis, game breakdowns, and sports commentary.",
+    "long_description": "Provide comprehensive sports news coverage, analytical commentary, and insightful sports journalism that helps fans understand the deeper stories behind athletic competition.",
+    "tags": [
+      "sports news",
+      "sports analysis",
+      "game analysis",
+      "sports journalism",
+      "sports commentary",
+      "sports insights",
+      "athletic analysis"
+    ]
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "slug": "sports",
+    "description": "Learn how to create engaging sports content for YouTube—covering analysis, highlights, commentary, and everything that makes sports compelling.",
+    "long_description": "Cover the exciting world of sports with analysis, highlights, and commentary that serves passionate fan communities seeking deeper understanding of athletic competition.",
+    "tags": [
+      "sports",
+      "athletics",
+      "game analysis",
+      "sports commentary",
+      "sports highlights",
+      "team sports",
+      "athletic competition"
+    ]
+  },
+  {
+    "id": "standup-comedy",
+    "name": "Stand-up Comedy",
+    "slug": "standup-comedy",
+    "description": "Learn how to create engaging stand-up comedy content for YouTube—covering comedy performances, audience engagement, and comedic storytelling.",
+    "long_description": "Perform stand-up comedy routines and comedy performances that entertain audiences with humor, observational comedy, and comedic storytelling.",
+    "tags": [
+      "stand-up comedy",
+      "comedy",
+      "humor",
+      "comedy performance",
+      "jokes",
+      "comedic storytelling",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "storytelling",
+    "name": "Storytelling",
+    "slug": "storytelling",
+    "description": "Learn how to create engaging storytelling content for YouTube—covering narrative techniques, personal stories, and compelling story formats.",
+    "long_description": "Share compelling stories, personal narratives, and fictional tales that captivate audiences through the art of narrative and human connection.",
+    "tags": [
+      "storytelling",
+      "personal stories",
+      "narratives",
+      "story time",
+      "creative writing",
+      "oral storytelling",
+      "story sharing"
+    ]
+  },
+  {
+    "id": "street-food-reviews",
+    "name": "Street Food Reviews",
+    "slug": "street-food-reviews",
+    "description": "Learn how to create engaging street food content for YouTube—covering food exploration, cultural cuisine, and authentic food experiences.",
+    "long_description": "Explore and review street food from different cultures and locations, highlighting local culinary traditions, authentic flavors, and the cultural stories behind street cuisine.",
+    "tags": [
+      "street food",
+      "food reviews",
+      "cultural food",
+      "food exploration",
+      "local cuisine",
+      "food travel",
+      "authentic food"
+    ]
+  },
+  {
+    "id": "study-tips",
+    "name": "Study Tips",
+    "slug": "study-tips",
+    "description": "Study techniques and educational productivity",
+    "long_description": "Share effective study techniques and educational productivity methods",
+    "tags": [],
+    "parent": "education"
+  },
+  {
+    "id": "talk-shows",
+    "name": "Talk Shows",
+    "slug": "talk-shows",
+    "description": "Interview format and discussion content",
+    "long_description": "Host talk show format content with interviews and discussions",
+    "tags": [],
+    "parent": "news"
+  },
+  {
+    "id": "tech-comparisons",
+    "name": "Tech Comparisons",
+    "slug": "tech-comparisons",
+    "description": "Learn how to create engaging tech comparison content—covering side-by-side analysis, performance tests, buying guides, and recommendations.",
+    "long_description": "Compare technology products and provide buying guidance",
+    "tags": [
+      "tech comparisons",
+      "product comparisons",
+      "tech reviews",
+      "performance tests",
+      "buying guides",
+      "technology analysis"
+    ],
+    "parent": "technology"
+  },
+  {
+    "id": "tech-news-trends",
+    "name": "Tech News & Trends",
+    "slug": "tech-news-trends",
+    "description": "Learn how to create engaging tech news and trends content—covering breaking stories, industry updates, future technologies, and market insights.",
+    "long_description": "Cover latest technology news, trends, and industry developments",
+    "tags": [
+      "tech news",
+      "technology trends",
+      "industry updates",
+      "emerging tech",
+      "breaking tech stories",
+      "future technology"
+    ],
+    "parent": "technology"
+  },
+  {
+    "id": "tech",
+    "name": "Tech",
+    "slug": "tech",
+    "description": "Technology reviews and tutorials",
+    "long_description": "Explore cutting-edge technology with comprehensive reviews, tutorials, and tech news commentary. Create informative content that helps viewers make informed decisions about technology purchases and usage.",
+    "tags": [
+      "tech content",
+      "technology reviews",
+      "product tutorials",
+      "tech comparisons",
+      "tech news",
+      "digital trends"
+    ]
+  },
+  {
+    "id": "technology",
+    "name": "Technology",
+    "slug": "technology",
+    "description": "Technology content beyond basic tech reviews",
+    "long_description": "Explore advanced technology topics and create innovative tech content.",
+    "tags": []
+  },
+  {
+    "id": "training-tips",
+    "name": "Training & Tips",
+    "slug": "training-tips",
+    "description": "Sports training and performance tips",
+    "long_description": "Share sports training techniques and performance improvement tips",
+    "tags": [],
+    "parent": "sports"
+  },
+  {
+    "id": "travel-vlogs",
+    "name": "Travel Vlogs",
+    "slug": "travel-vlogs",
+    "description": "Travel experiences and destination content",
+    "long_description": "Document travel experiences and share destination guides",
+    "tags": [],
+    "parent": "lifestyle"
+  },
+  {
+    "id": "travel",
+    "name": "Travel",
+    "slug": "travel",
+    "description": "Travel guides, vlogs and destination content",
+    "long_description": "Inspire wanderlust with travel guides and destination showcases.",
+    "tags": []
+  },
+  {
+    "id": "true-crime",
+    "name": "True Crime",
+    "slug": "true-crime",
+    "description": "True crime stories and investigations",
+    "long_description": "Explore true crime cases, investigations, and criminal justice topics",
+    "tags": [],
+    "parent": "news"
+  },
+  {
+    "id": "tutorial",
+    "name": "Tutorial",
+    "slug": "tutorial",
+    "description": "Step-by-step instructional and how-to content",
+    "long_description": "Teach valuable skills with comprehensive tutorials.",
+    "tags": []
+  },
+  {
+    "id": "unboxing",
+    "name": "Unboxing",
+    "slug": "unboxing",
+    "description": "Product unboxing and first impressions content",
+    "long_description": "Share the excitement of new products with unboxing videos.",
+    "tags": []
+  },
+  {
+    "id": "van-life",
+    "name": "Van Life",
+    "slug": "van-life",
+    "description": "Van life and mobile living content",
+    "long_description": "Document van life experiences and mobile living adventures",
+    "tags": [],
+    "parent": "travel"
+  },
+  {
+    "id": "video-game",
+    "name": "Video Game",
+    "slug": "video-game",
+    "description": "Gaming content, walkthroughs and gameplay",
+    "long_description": "Dive deep into video game content with gameplay and walkthroughs.",
+    "tags": []
+  },
+  {
+    "id": "vlog",
+    "name": "Vlog",
+    "slug": "vlog",
+    "description": "Video blog content and personal storytelling",
+    "long_description": "Share personal stories and experiences through video blogs.",
+    "tags": []
+  },
+  {
+    "id": "vlogs",
+    "name": "Vlogs",
+    "slug": "vlogs",
+    "description": "Video blogging and personal content",
+    "long_description": "Share personal experiences and daily life through video blogging",
+    "tags": [],
+    "parent": "lifestyle"
+  },
+  {
+    "id": "vr-ar-gaming",
+    "name": "VR / AR Gaming",
+    "slug": "vr-ar-gaming",
+    "description": "Virtual and augmented reality gaming",
+    "long_description": "Explore virtual reality and augmented reality gaming experiences",
+    "tags": [],
+    "parent": "gaming"
+  },
+  {
+    "id": "wellness",
+    "name": "Wellness",
+    "slug": "wellness",
+    "description": "Mental wellness, meditation and self-care content",
+    "long_description": "Promote overall wellness with meditation, self-care, and mental health content.",
+    "tags": []
+  },
+  {
+    "id": "workout-routines",
+    "name": "Workout Routines",
+    "slug": "workout-routines",
+    "description": "Exercise routines and fitness programs",
+    "long_description": "Share effective workout routines and fitness training programs",
+    "tags": [],
+    "parent": "health-wellness"
+  },
+  {
+    "id": "yoga-meditation",
+    "name": "Yoga & Meditation",
+    "slug": "yoga-meditation",
+    "description": "Mindfulness and spiritual wellness content",
+    "long_description": "Share yoga practices, meditation techniques, and mindfulness content",
+    "tags": [],
+    "parent": "health-wellness"
+  }
+]

@@ -1,7 +1,7 @@
 import type { Niche, ContentIdea } from "../types/niche";
+import nichesData from "./niches.json";
 
-// Get all niche and idea files
-const nicheFiles = import.meta.glob('../niches/*.mdx', { eager: true });
+// Get all idea files
 const ideaFiles = import.meta.glob('../ideas/*.mdx', { eager: true });
 
 // Load all ideas from MDX files
@@ -26,44 +26,32 @@ for (const [path, ideaModule] of Object.entries(ideaFiles)) {
   }
 }
 
-// Load all niches
-export const niches: Niche[] = [];
+// Load all niches from JSON
+export const niches: Niche[] = nichesData.map(nicheData => {
+  // Get ideas that belong to this niche (by matching niche slug or name)
+  const nicheIdeas: ContentIdea[] = allIdeas
+    .filter(idea => 
+      idea.nicheNames.includes(nicheData.slug) || 
+      idea.nicheNames.includes(nicheData.name.toLowerCase())
+    )
+    .map(idea => ({
+      id: idea.id,
+      title: idea.title,
+      description: idea.description,
+      tags: idea.tags
+    }));
 
-for (const [path, nicheModule] of Object.entries(nicheFiles)) {
-  const frontmatter = (nicheModule as any).frontmatter;
-  const content = (nicheModule as any).Content;
-  
-  if (frontmatter) {
-    // Get ideas that belong to this niche (by matching niche slug or name)
-    const nicheIdeas: ContentIdea[] = allIdeas
-      .filter(idea => 
-        idea.nicheNames.includes(frontmatter.slug) || 
-        idea.nicheNames.includes(frontmatter.name.toLowerCase())
-      )
-      .map(idea => ({
-        id: idea.id,
-        title: idea.title,
-        description: idea.description,
-        tags: idea.tags
-      }));
-    
-    let pageContent = '';
-    if (content) {
-      pageContent = frontmatter.long_description || '';
-    }
-    
-    niches.push({
-      id: frontmatter.id,
-      name: frontmatter.name,
-      description: frontmatter.description,
-      long_description: frontmatter.long_description,
-      page_content: pageContent,
-      slug: frontmatter.slug,
-      parent: frontmatter.parent,
-      ideas: nicheIdeas
-    });
-  }
-}
+  return {
+    id: nicheData.id,
+    name: nicheData.name,
+    description: nicheData.description,
+    long_description: nicheData.long_description,
+    page_content: nicheData.long_description, // Use long_description as page_content
+    slug: nicheData.slug,
+    parent: nicheData.parent,
+    ideas: nicheIdeas
+  };
+});
 
 // Export all ideas for use in components
 export const contentIdeas = allIdeas.map(idea => ({
