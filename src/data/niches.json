@@ -126,23 +126,6 @@
     "parent": "food"
   },
   {
-    "id": "beauty-makeup",
-    "name": "Beauty & Makeup",
-    "slug": "beauty-makeup",
-    "description": "Learn how to create engaging beauty and makeup content—covering tutorials, product reviews, skincare routines, and beauty tips.",
-    "long_description": "Create beauty tutorials, makeup looks, and skincare content",
-    "tags": [
-      "beauty",
-      "makeup tutorials",
-      "skincare",
-      "beauty tips",
-      "makeup reviews",
-      "cosmetics",
-      "beauty channel ideas"
-    ],
-    "parent": "lifestyle"
-  },
-  {
     "id": "beauty",
     "name": "Beauty",
     "slug": "beauty",
@@ -173,14 +156,6 @@
       "production tips"
     ],
     "parent": "music"
-  },
-  {
-    "id": "behind-the-scenes",
-    "name": "Behind the Scenes",
-    "slug": "behind-the-scenes",
-    "description": "Behind-the-scenes content and production insights",
-    "long_description": "Give viewers exclusive access to behind-the-scenes content.",
-    "tags": []
   },
   {
     "id": "bloopers",
@@ -292,38 +267,6 @@
     ]
   },
   {
-    "id": "coding-tech-tutorials",
-    "name": "Coding & Tech Tutorials",
-    "slug": "coding-tech-tutorials",
-    "description": "Learn how to create engaging coding and technology tutorial content for YouTube—covering programming education, development techniques, and technical skills.",
-    "long_description": "Teach programming, coding skills, and technology concepts that help developers build technical expertise and advance their careers in software development.",
-    "tags": [
-      "coding tutorials",
-      "programming",
-      "tech tutorials",
-      "software development",
-      "coding education",
-      "programming languages",
-      "developer tutorials"
-    ]
-  },
-  {
-    "id": "comedy-skits",
-    "name": "Comedy & Skits",
-    "slug": "comedy-skits",
-    "description": "Learn how to create engaging comedy and skit content for YouTube—covering sketch writing, character development, and comedic storytelling.",
-    "long_description": "Create original comedic sketches, characters, and humor-based content that entertains audiences through scripted comedy and creative storytelling.",
-    "tags": [
-      "comedy skits",
-      "sketch comedy",
-      "funny videos",
-      "comedy sketches",
-      "humor",
-      "comedic content",
-      "entertainment"
-    ]
-  },
-  {
     "id": "comedy",
     "name": "Comedy",
     "slug": "comedy",
@@ -340,20 +283,21 @@
     ]
   },
   {
-    "id": "cooking",
-    "name": "Cooking",
-    "slug": "cooking",
-    "description": "Learn how to create engaging cooking videos—covering recipe tutorials, cooking techniques, food culture, and culinary storytelling.",
-    "long_description": "Share culinary expertise with cooking tutorials.",
+    "id": "comedy-skits",
+    "name": "Comedy & Skits",
+    "slug": "comedy-skits",
+    "description": "Learn how to create engaging comedy and skit content for YouTube—covering sketch writing, character development, and comedic storytelling.",
+    "long_description": "Create original comedic sketches, characters, and humor-based content that entertains audiences through scripted comedy and creative storytelling.",
     "tags": [
-      "cooking",
-      "recipes",
-      "cooking tutorials",
-      "food culture",
-      "culinary education",
-      "kitchen tips",
-      "cooking ideas"
-    ]
+      "comedy skits",
+      "sketch comedy",
+      "funny videos",
+      "comedy sketches",
+      "humor",
+      "comedic content",
+      "entertainment"
+    ],
+    "parent": "comedy"
   },
   {
     "id": "covers",
@@ -489,7 +433,8 @@
       "art techniques",
       "digital illustration",
       "art process"
-    ]
+    ],
+    "parent": "art"
   },
   {
     "id": "diy",
@@ -553,7 +498,8 @@
       "art techniques",
       "drawing lessons",
       "painting techniques"
-    ]
+    ],
+    "parent": "art"
   },
   {
     "id": "ecommerce",
@@ -649,7 +595,8 @@
       "gaming montages",
       "esports moments",
       "pro gaming"
-    ]
+    ],
+    "parent": "esports-gaming"
   },
   {
     "id": "explainer",
@@ -716,22 +663,6 @@
     ]
   },
   {
-    "id": "fashion-style",
-    "name": "Fashion & Style",
-    "slug": "fashion-style",
-    "description": "Learn how to create engaging fashion content for YouTube—covering style tips, outfit ideas, fashion trends, and personal styling advice.",
-    "long_description": "Share fashion advice, style tips, and clothing inspiration that helps viewers develop their personal style and stay current with fashion trends.",
-    "tags": [
-      "fashion",
-      "style tips",
-      "outfit ideas",
-      "fashion trends",
-      "personal style",
-      "clothing hauls",
-      "style advice"
-    ]
-  },
-  {
     "id": "fashion",
     "name": "Fashion",
     "slug": "fashion",
@@ -777,7 +708,8 @@
     "slug": "fitness",
     "description": "Workout routines and fitness motivation content",
     "long_description": "Motivate viewers to achieve their fitness goals with workout routines and wellness advice.",
-    "tags": []
+    "tags": [],
+    "parent": "health"
   },
   {
     "id": "food-challenges",
@@ -787,23 +719,6 @@
     "long_description": "Participate in food challenges and eating competitions",
     "tags": [],
     "parent": "food"
-  },
-  {
-    "id": "food-cooking",
-    "name": "Food & Cooking",
-    "slug": "food-cooking",
-    "description": "Learn how to create engaging food and cooking content—covering recipes, cooking tutorials, food reviews, and culinary storytelling.",
-    "long_description": "Create cooking tutorials, recipes, and food-related content",
-    "tags": [
-      "food",
-      "cooking",
-      "recipe tutorials",
-      "food reviews",
-      "culinary education",
-      "cooking ideas",
-      "food storytelling"
-    ],
-    "parent": "lifestyle"
   },
   {
     "id": "food",
@@ -875,7 +790,15 @@
     "slug": "gaming",
     "description": "Learn how to create engaging gaming content—covering Let's Plays, reviews, tutorials, walkthroughs, and gaming culture commentary.",
     "long_description": "Explore the dynamic world of gaming content with reviews, gameplay videos, and gaming culture commentary. Create engaging content for the massive gaming community on YouTube.",
-    "tags": "[\"gaming\", \"game reviews\", \"let's plays\", \"walkthroughs\", \"gaming tutorials\", \"gaming culture\", \"multiplayer content\"]"
+    "tags": [
+      "gaming",
+      "game reviews",
+      "let's plays",
+      "walkthroughs",
+      "gaming tutorials",
+      "gaming culture",
+      "multiplayer content"
+    ]
   },
   {
     "id": "genre-focus",
@@ -910,23 +833,6 @@
     "long_description": "Build computers, electronics projects, and hardware modifications",
     "tags": [],
     "parent": "technology"
-  },
-  {
-    "id": "health-fitness",
-    "name": "Health & Fitness",
-    "slug": "health-fitness",
-    "description": "Health, fitness, and wellness content",
-    "long_description": "Share health tips, fitness routines, and wellness advice",
-    "tags": [],
-    "parent": "lifestyle"
-  },
-  {
-    "id": "health-wellness",
-    "name": "Health & Wellness",
-    "slug": "health-wellness",
-    "description": "Health, wellness, and medical content",
-    "long_description": "Provide health education, wellness tips, and medical information",
-    "tags": []
   },
   {
     "id": "health",
@@ -1405,21 +1311,6 @@
     "parent": "technology"
   },
   {
-    "id": "product-reviews",
-    "name": "Product Reviews",
-    "slug": "product-reviews",
-    "description": "Learn how to create engaging product review content—covering detailed testing, comparisons, long-term usage insights, and consumer guidance.",
-    "long_description": "Help viewers make informed purchases with detailed product reviews.",
-    "tags": [
-      "product reviews",
-      "comparison reviews",
-      "detailed testing",
-      "long-term usage reviews",
-      "consumer guidance",
-      "review content ideas"
-    ]
-  },
-  {
     "id": "productivity-time-management",
     "name": "Productivity & Time Management",
     "slug": "productivity-time-management",
@@ -1442,7 +1333,8 @@
       "web development",
       "code education",
       "developer tutorials"
-    ]
+    ],
+    "parent": "technology"
   },
   {
     "id": "psychology",
@@ -1714,7 +1606,8 @@
       "jokes",
       "comedic storytelling",
       "entertainment"
-    ]
+    ],
+    "parent": "comedy"
   },
   {
     "id": "storytelling",
@@ -1799,9 +1692,9 @@
     "parent": "technology"
   },
   {
-    "id": "tech",
-    "name": "Tech",
-    "slug": "tech",
+    "id": "technology",
+    "name": "Technology",
+    "slug": "technology",
     "description": "Technology reviews and tutorials",
     "long_description": "Explore cutting-edge technology with comprehensive reviews, tutorials, and tech news commentary. Create informative content that helps viewers make informed decisions about technology purchases and usage.",
     "tags": [
@@ -1812,14 +1705,6 @@
       "tech news",
       "digital trends"
     ]
-  },
-  {
-    "id": "technology",
-    "name": "Technology",
-    "slug": "technology",
-    "description": "Technology content beyond basic tech reviews",
-    "long_description": "Explore advanced technology topics and create innovative tech content.",
-    "tags": []
   },
   {
     "id": "training-tips",
@@ -1882,22 +1767,6 @@
     "parent": "travel"
   },
   {
-    "id": "video-game",
-    "name": "Video Game",
-    "slug": "video-game",
-    "description": "Gaming content, walkthroughs and gameplay",
-    "long_description": "Dive deep into video game content with gameplay and walkthroughs.",
-    "tags": []
-  },
-  {
-    "id": "vlog",
-    "name": "Vlog",
-    "slug": "vlog",
-    "description": "Video blog content and personal storytelling",
-    "long_description": "Share personal stories and experiences through video blogs.",
-    "tags": []
-  },
-  {
     "id": "vlogs",
     "name": "Vlogs",
     "slug": "vlogs",
@@ -1921,7 +1790,8 @@
     "slug": "wellness",
     "description": "Mental wellness, meditation and self-care content",
     "long_description": "Promote overall wellness with meditation, self-care, and mental health content.",
-    "tags": []
+    "tags": [],
+    "parent": "health"
   },
   {
     "id": "workout-routines",
@@ -1930,7 +1800,7 @@
     "description": "Exercise routines and fitness programs",
     "long_description": "Share effective workout routines and fitness training programs",
     "tags": [],
-    "parent": "health-wellness"
+    "parent": "health"
   },
   {
     "id": "yoga-meditation",
@@ -1939,6 +1809,6 @@
     "description": "Mindfulness and spiritual wellness content",
     "long_description": "Share yoga practices, meditation techniques, and mindfulness content",
     "tags": [],
-    "parent": "health-wellness"
+    "parent": "health"
   }
 ]
