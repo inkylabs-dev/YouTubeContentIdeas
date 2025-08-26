@@ -104,6 +104,14 @@ export default function Hero({ totalIdeas }: HeroProps) {
     setIsAnimating(true);
     const newIdeas = getRandomIdeas();
     
+    // Scroll to the button smoothly, accounting for sticky navbar
+    const element = document.getElementById('start-brainstorming');
+    if (element) {
+      const navbarHeight = 64; // h-16 = 4rem = 64px
+      const elementPosition = element.offsetTop - navbarHeight;
+      window.scrollTo({ top: elementPosition, behavior: 'smooth' });
+    }
+    
     setTimeout(() => {
       setCurrentIdeas(newIdeas);
       setIsAnimating(false);
@@ -131,6 +139,7 @@ export default function Hero({ totalIdeas }: HeroProps) {
           </p>
           <div className="mt-10 flex flex-col gap-4 max-w-md mx-auto">
             <button 
+              id="start-brainstorming"
               onClick={handleStartBrainstorming}
               className="w-full h-12 text-base bg-red-600 hover:bg-red-700 text-white font-medium rounded-md transition-all duration-300"
             >

@@ -114,5 +114,48 @@ const canonicalUrl = `https://youtubecontentideas.com${Astro.url.pathname}`;
       ""
     )
     }
+    
+    <script>
+      // Handle smooth scrolling with navbar offset
+      document.addEventListener('DOMContentLoaded', function() {
+        // Handle anchor links that start with #
+        function handleAnchorClick(event) {
+          const href = event.target.getAttribute('href');
+          if (href && href.startsWith('#')) {
+            event.preventDefault();
+            const targetId = href.substring(1);
+            const targetElement = document.getElementById(targetId);
+            if (targetElement) {
+              const navbarHeight = 64; // h-16 = 4rem = 64px
+              const elementPosition = targetElement.offsetTop - navbarHeight;
+              window.scrollTo({ top: elementPosition, behavior: 'smooth' });
+            }
+          }
+        }
+        
+        // Handle URLs with hash fragments (like /#start-brainstorming)
+        function handleHashOnLoad() {
+          if (window.location.hash) {
+            const targetId = window.location.hash.substring(1);
+            const targetElement = document.getElementById(targetId);
+            if (targetElement) {
+              setTimeout(() => {
+                const navbarHeight = 64;
+                const elementPosition = targetElement.offsetTop - navbarHeight;
+                window.scrollTo({ top: elementPosition, behavior: 'smooth' });
+              }, 100); // Small delay to ensure page is fully loaded
+            }
+          }
+        }
+        
+        // Add click listeners to all anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(link => {
+          link.addEventListener('click', handleAnchorClick);
+        });
+        
+        // Handle hash on page load
+        handleHashOnLoad();
+      });
+    </script>
   </body>
 </html>
