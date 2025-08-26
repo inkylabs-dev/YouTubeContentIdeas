@@ -15,7 +15,9 @@ export default defineConfig({
     react({
       include: ['**/react/*', '**/components/**/*'],
     }),
-    sitemap(),
+    sitemap({
+      filter: (page) => !page.startsWith('https://youtubecontentideas.com/ideas/'),
+    }),
   ],
   vite: {
     esbuild: {
