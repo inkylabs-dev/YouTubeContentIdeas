@@ -3,7 +3,6 @@ import Layout from '../layouts/Layout.astro';
 import Navbar from '../components/Navbar.astro';
 import Footer from '../components/Footer.astro';
 import Hero from '../components/Hero';
-import HomePreview from '../components/HomePreview';
 import MainContent from '../components/MainContent';
 import { niches } from '../data/niches';
 import { contentIdeas } from '../data/niches';
@@ -17,7 +16,6 @@ import { contentIdeas } from '../data/niches';
   <Navbar />
   <main>
     <Hero totalIdeas={contentIdeas.length} client:load />
-    <HomePreview client:load />
   </main>
   <Footer />
 </Layout>

@@ -1,4 +1,5 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { TypeAnimation } from 'react-type-animation';
 
 interface ContentIdeaCardProps {
   title: string;
@@ -39,26 +40,72 @@ export default function ContentIdeaCard({
       <CardHeader className="pb-3">
         <div className="flex items-start justify-between gap-2 mb-2">
           <div variant="outline" className="text-xs">
-            {niche}
+            <TypeAnimation
+              sequence={[1200, niche]}
+              wrapper="span"
+              speed={90}
+              style={{ display: 'inline-block' }}
+              repeat={0}
+              cursor={false}
+            />
           </div>
           <div 
             variant="secondary" 
             className={`text-xs ${difficultyColors[difficulty]}`}
           >
-            {difficulty}
+            <TypeAnimation
+              sequence={[1400, difficulty]}
+              wrapper="span"
+              speed={90}
+              style={{ display: 'inline-block' }}
+              repeat={0}
+              cursor={false}
+            />
           </div>
         </div>
         <CardTitle className="text-lg leading-tight group-hover:text-primary transition-colors">
-          {title}
+          <TypeAnimation
+            sequence={[title]}
+            wrapper="span"
+            speed={75}
+            style={{ display: 'inline-block' }}
+            repeat={0}
+            cursor={false}
+          />
         </CardTitle>
       </CardHeader>
       <CardContent className="pt-0">
         <CardDescription className="text-sm leading-relaxed mb-3">
-          {description}
+          <TypeAnimation
+            sequence={[500, description]}
+            wrapper="span"
+            speed={85}
+            style={{ display: 'inline-block' }}
+            repeat={0}
+            cursor={false}
+          />
         </CardDescription>
         <div className="flex items-center justify-between text-xs text-muted-foreground">
-          <span>Est. Views</span>
-          <span className="font-medium">{estimatedViews}</span>
+          <span>
+            <TypeAnimation
+              sequence={[1600, "Est. Views"]}
+              wrapper="span"
+              speed={95}
+              style={{ display: 'inline-block' }}
+              repeat={0}
+              cursor={false}
+            />
+          </span>
+          <span className="font-medium">
+            <TypeAnimation
+              sequence={[1800, estimatedViews]}
+              wrapper="span"
+              speed={95}
+              style={{ display: 'inline-block' }}
+              repeat={0}
+              cursor={false}
+            />
+          </span>
         </div>
       </CardContent>
     </Card>
