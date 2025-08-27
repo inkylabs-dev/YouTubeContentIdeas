@@ -1,0 +1,242 @@
+[
+  {
+    "title": "[Book Title] in [Time Limit]: Key Ideas and Takeaways",
+    "description": "Provide concise but comprehensive summaries of important books, distilling main concepts, key arguments, and practical applications into digestible formats. Structure summaries with clear sections covering background context, core principles, supporting evidence, and actionable insights. Include author credentials and book reception to establish credibility. Focus on extracting maximum value for viewers who want to understand essential ideas without reading the full text.",
+    "tags": ["book summary", "key concepts", "main ideas", "quick overview", "essential insights"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Number] Life-Changing Books: Core Messages That Matter",
+    "description": "Summarize collections of transformative books around specific themes or life areas, extracting common wisdom and contrasting different approaches to similar problems. Show how multiple authors tackle related topics, identify recurring principles, and synthesize diverse perspectives into coherent insights. Include implementation strategies and real-world applications from each book.",
+    "tags": ["transformative books", "life lessons", "wisdom synthesis", "multiple perspectives", "practical application"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Business/Self-Help Book] Breakdown: What Actually Works",
+    "description": "Critically analyze popular business and self-help books, separating valuable insights from fluff or unsubstantiated claims. Include evidence evaluation, practical testing of recommendations, and honest assessment of applicability to different situations. Compare author claims with research findings and real-world results.",
+    "tags": ["business books", "self-help analysis", "practical testing", "evidence evaluation", "critical assessment"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Complex Topic] Made Simple: [Academic/Technical Book] Summary",
+    "description": "Break down complex academic or technical books into accessible summaries, translating jargon into plain language and explaining specialized concepts for general audiences. Include background context, methodology explanation, and implications for non-specialists. Make challenging ideas approachable without oversimplifying.",
+    "tags": ["complex topics", "academic books", "accessibility", "concept translation", "specialized knowledge"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Historical Period/Event] Through Books: [Number] Essential Reads",
+    "description": "Summarize multiple books about specific historical periods or events, providing comprehensive overview through different authors' perspectives. Include primary sources, academic analyses, and popular histories to give well-rounded understanding. Highlight areas of consensus and disagreement among historians.",
+    "tags": ["historical books", "period overview", "multiple perspectives", "comprehensive understanding", "historical analysis"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Author]'s Philosophy: Core Ideas Across Their Works",
+    "description": "Synthesize an influential thinker's ideas across multiple works, showing evolution of thought, recurring themes, and intellectual development. Extract central philosophy, trace argument development, and explain how different books contribute to overall intellectual framework. Include biographical context that influenced their thinking.",
+    "tags": ["author synthesis", "philosophical overview", "intellectual development", "thought evolution", "comprehensive analysis"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Scientific/Research Book] Summary: What the Data Really Says",
+    "description": "Summarize scientific books with emphasis on research methodology, findings validity, and practical implications. Include study limitations, statistical significance, and distinction between correlation and causation. Translate research findings into practical understanding while maintaining scientific accuracy.",
+    "tags": ["scientific books", "research summary", "data analysis", "methodology review", "evidence-based"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Genre] Classics: Why [Classic Books] Still Matter Today",
+    "description": "Summarize classic literature with focus on enduring themes, cultural impact, and contemporary relevance. Explain historical context, literary significance, and how classic works influenced subsequent writing. Make case for modern readers while acknowledging dated elements.",
+    "tags": ["classic literature", "timeless themes", "cultural impact", "contemporary relevance", "literary significance"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Current Issue] Reading List: [Number] Books That Explain [Topic]",
+    "description": "Curate and summarize books that provide insight into current events, social issues, or trending topics. Include diverse viewpoints, expert analyses, and historical context that illuminates contemporary challenges. Help viewers understand complex issues through multiple authoritative sources.",
+    "tags": ["current events", "social issues", "contemporary analysis", "diverse viewpoints", "expert insights"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Philosophy/Psychology] Concepts: [Book] Ideas That Changed Thinking",
+    "description": "Extract and explain influential ideas from philosophy and psychology books, showing how concepts developed and spread. Include practical applications, common misunderstandings, and relevance to everyday life. Make abstract concepts concrete through examples and illustrations.",
+    "tags": ["philosophical concepts", "psychological insights", "influential ideas", "practical applications", "concept explanation"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Biography] Summary: [Person]'s Life Lessons and Legacy",
+    "description": "Distill biographical works into key life events, character insights, and transferable lessons. Focus on decision-making processes, overcoming challenges, and principles that contributed to success or significance. Extract wisdom applicable to viewers' own lives and careers.",
+    "tags": ["biography summary", "life lessons", "character insights", "decision making", "transferable wisdom"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Investment/Finance Book] Essentials: Money Wisdom That Works",
+    "description": "Summarize financial advice books with focus on proven strategies, risk assessment, and practical implementation. Include historical performance data, author qualifications, and distinction between speculation and investment. Provide balanced view of financial strategies with risk considerations.",
+    "tags": ["financial advice", "investment strategy", "money management", "risk assessment", "proven methods"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Health/Wellness Book] Analysis: Science vs Hype",
+    "description": "Critically examine health and wellness books, separating evidence-based recommendations from marketing hype or unsubstantiated claims. Include peer review status, study quality, and expert opinions. Provide balanced assessment of health advice with appropriate caveats.",
+    "tags": ["health advice", "wellness claims", "scientific evidence", "expert analysis", "critical examination"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Technology/Future] Predictions: [Book]'s Vision and Reality",
+    "description": "Summarize books about technology and future trends, evaluating predictions against current developments. Include author expertise, reasoning methodology, and track record of previous predictions. Discuss implications for personal and professional planning.",
+    "tags": ["future predictions", "technology trends", "prediction accuracy", "expert analysis", "trend evaluation"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Skill Development] Guide: [Book]'s Method for [Specific Skill]",
+    "description": "Extract practical learning strategies and skill development methods from instructional books. Include step-by-step processes, practice recommendations, common obstacles, and success metrics. Focus on actionable advice that viewers can immediately implement.",
+    "tags": ["skill development", "learning methods", "practical strategies", "implementation guide", "actionable advice"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Cultural/Social Analysis] Summary: Understanding [Society/Phenomenon]",
+    "description": "Distill books that analyze cultural trends, social phenomena, or anthropological insights. Include research methodology, cultural context, and implications for understanding human behavior. Make academic insights accessible for general interest learning.",
+    "tags": ["cultural analysis", "social phenomena", "anthropological insights", "human behavior", "cultural understanding"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Industry/Business] Insights: [Book]'s Take on [Specific Field]",
+    "description": "Summarize industry-specific books with focus on insider knowledge, trend analysis, and strategic insights. Include author credentials, industry experience, and relevance to current market conditions. Extract wisdom applicable to professionals and interested observers.",
+    "tags": ["industry insights", "business analysis", "strategic thinking", "market trends", "professional development"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Productivity/Efficiency] Systems: [Book]'s Approach to Getting Things Done",
+    "description": "Break down productivity methodologies and efficiency systems from popular books, focusing on implementation challenges and real-world effectiveness. Include system comparisons, customization options, and integration with existing workflows. Provide practical adoption strategies.",
+    "tags": ["productivity systems", "efficiency methods", "workflow optimization", "system implementation", "practical adoption"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Leadership/Management] Principles: [Book]'s Guide to [Leading/Managing]",
+    "description": "Extract leadership and management insights from business books, focusing on actionable principles and real-world application. Include case study analysis, implementation challenges, and adaptation for different organizational contexts. Emphasize practical leadership development.",
+    "tags": ["leadership principles", "management insights", "practical application", "organizational development", "leadership development"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Creativity/Innovation] Methods: [Book]'s Creative Framework",
+    "description": "Summarize books about creativity and innovation, extracting practical methods for generating ideas, solving problems, and thinking outside conventional boundaries. Include exercises, case studies, and evidence for creative techniques' effectiveness.",
+    "tags": ["creativity methods", "innovation techniques", "idea generation", "creative thinking", "problem solving"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Communication/Persuasion] Techniques: [Book]'s Approach to Influence",
+    "description": "Distill communication and persuasion books into practical techniques for better interpersonal effectiveness. Include psychological principles, ethical considerations, and application across different contexts. Focus on building genuine influence rather than manipulation.",
+    "tags": ["communication skills", "persuasion techniques", "interpersonal effectiveness", "influence building", "relationship skills"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Personal Development] Journey: [Book]'s Path to [Self-Improvement]",
+    "description": "Extract personal development strategies from self-improvement books, focusing on sustainable change methods and realistic goal setting. Include habit formation science, motivation maintenance, and adaptation for different personality types. Emphasize evidence-based approaches.",
+    "tags": ["personal development", "self-improvement", "habit formation", "sustainable change", "goal achievement"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Relationship/Social] Wisdom: [Book]'s Guide to Human Connections",
+    "description": "Summarize books about relationships and social dynamics, extracting insights about human connection, conflict resolution, and emotional intelligence. Include research backing, practical applications, and relevance across different relationship types.",
+    "tags": ["relationship advice", "social dynamics", "human connection", "emotional intelligence", "conflict resolution"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Mindset/Psychology] Insights: [Book]'s Mental Models for Success",
+    "description": "Extract psychological insights and mental models from books about mindset, cognitive biases, and mental frameworks. Include practical applications, common thinking errors, and strategies for better decision-making. Focus on actionable psychological insights.",
+    "tags": ["mental models", "cognitive psychology", "decision making", "mindset development", "thinking strategies"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Entrepreneurship/Startup] Lessons: [Book]'s Business Building Wisdom",
+    "description": "Distill entrepreneurship books into practical startup advice, focusing on validated strategies and common pitfall avoidance. Include case studies, market research methods, and sustainable business building principles. Emphasize realistic expectations and proven methods.",
+    "tags": ["entrepreneurship", "startup advice", "business building", "validated strategies", "realistic expectations"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Economics/Policy] Explained: [Book]'s Take on [Economic Concept]",
+    "description": "Summarize economics and policy books for general audiences, translating complex economic concepts into understandable terms. Include real-world implications, policy trade-offs, and relevance to personal financial decisions. Make economics accessible and relevant.",
+    "tags": ["economics explained", "policy analysis", "economic concepts", "real-world implications", "accessible economics"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Controversial/Debate] Topic: [Book]'s Argument for [Position]",
+    "description": "Fairly summarize books that take strong positions on controversial topics, presenting arguments objectively while noting counterarguments and limitations. Include evidence quality, logical structure, and areas where reasonable people might disagree. Encourage critical thinking.",
+    "tags": ["controversial topics", "argument analysis", "objective presentation", "critical thinking", "debate positions"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Travel/Culture] Insights: [Book]'s Perspective on [Place/People]",
+    "description": "Summarize travel and cultural books with focus on insights about different places, peoples, and ways of life. Include cultural sensitivity, author perspective, and lessons applicable to cross-cultural understanding. Emphasize respectful cultural learning.",
+    "tags": ["cultural insights", "travel perspectives", "cross-cultural understanding", "cultural sensitivity", "global awareness"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Environmental/Sustainability] Analysis: [Book]'s Vision for [Green Topic]",
+    "description": "Extract environmental insights from sustainability books, focusing on practical solutions, scientific backing, and realistic implementation. Include cost-benefit analysis, technological feasibility, and individual action possibilities. Balance optimism with realistic assessment.",
+    "tags": ["environmental insights", "sustainability solutions", "green technology", "practical implementation", "environmental science"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Parenting/Education] Strategies: [Book]'s Approach to [Child Development]",
+    "description": "Summarize parenting and education books with focus on evidence-based strategies and practical implementation. Include developmental psychology, age-appropriate techniques, and adaptation for different children's needs. Emphasize balanced, research-backed approaches.",
+    "tags": ["parenting strategies", "child development", "education methods", "evidence-based", "developmental psychology"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Career/Professional] Development: [Book]'s Path to [Success]",
+    "description": "Extract career development insights from professional growth books, focusing on skill building, networking strategies, and industry navigation. Include realistic timelines, common obstacles, and adaptation for different career stages and industries.",
+    "tags": ["career development", "professional growth", "skill building", "industry navigation", "career strategy"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Habit/Behavior] Change: [Book]'s Method for [Transformation]",
+    "description": "Distill behavioral change books into practical habit formation strategies, focusing on sustainable transformation methods. Include psychological principles, implementation timelines, and strategies for maintaining long-term change. Emphasize realistic, science-based approaches.",
+    "tags": ["habit formation", "behavioral change", "sustainable transformation", "psychological principles", "long-term change"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Decision Making/Problem Solving] Framework: [Book]'s Systematic Approach",
+    "description": "Extract decision-making frameworks and problem-solving methodologies from analytical books. Include step-by-step processes, common decision traps, and application across different domains. Focus on improving judgment and analytical thinking skills.",
+    "tags": ["decision making", "problem solving", "analytical thinking", "systematic approach", "judgment improvement"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Memory/Learning] Techniques: [Book]'s Methods for [Better Learning]",
+    "description": "Summarize books about memory improvement and learning techniques, extracting practical methods for better information retention and skill acquisition. Include scientific backing, implementation strategies, and adaptation for different learning styles.",
+    "tags": ["memory techniques", "learning methods", "information retention", "skill acquisition", "cognitive enhancement"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Time Management/Organization] Systems: [Book]'s Efficiency Framework",
+    "description": "Break down time management and organizational systems from productivity books, focusing on implementation and customization for different lifestyles. Include tool recommendations, habit integration, and strategies for maintaining organizational systems long-term.",
+    "tags": ["time management", "organizational systems", "productivity tools", "efficiency frameworks", "lifestyle integration"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Negotiation/Conflict] Resolution: [Book]'s Approach to [Better Outcomes]",
+    "description": "Extract negotiation strategies and conflict resolution techniques from specialized books, focusing on win-win outcomes and relationship preservation. Include preparation methods, communication techniques, and ethical considerations in persuasion and negotiation.",
+    "tags": ["negotiation strategies", "conflict resolution", "win-win outcomes", "communication techniques", "ethical persuasion"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Stress/Resilience] Management: [Book]'s Guide to [Mental Toughness]",
+    "description": "Summarize books about stress management and resilience building, extracting practical techniques for handling pressure and bouncing back from setbacks. Include psychological research, coping strategies, and building mental toughness over time.",
+    "tags": ["stress management", "resilience building", "mental toughness", "coping strategies", "psychological wellness"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Focus/Concentration] Training: [Book]'s Method for [Deep Work]",
+    "description": "Extract concentration and focus improvement strategies from books about attention management. Include distraction elimination, deep work principles, and building sustained attention capacity. Focus on practical implementation in modern, distraction-rich environments.",
+    "tags": ["focus training", "attention management", "deep work", "distraction elimination", "concentration improvement"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Wisdom/Philosophy] for Modern Life: [Book]'s Timeless Insights",
+    "description": "Distill philosophical and wisdom literature for contemporary application, extracting timeless insights relevant to modern challenges. Include practical philosophy, life principles, and ethical frameworks that provide guidance for personal and professional decisions.",
+    "tags": ["practical philosophy", "timeless wisdom", "life principles", "ethical frameworks", "modern application"],
+    "niches": ["book-summaries"]
+  },
+  {
+    "title": "[Critical Thinking/Logic] Development: [Book]'s Analytical Framework",
+    "description": "Extract critical thinking and logical reasoning methods from analytical books, focusing on better judgment and clearer thinking. Include bias recognition, argument evaluation, and systematic thinking approaches that improve decision quality.",
+    "tags": ["critical thinking", "logical reasoning", "bias recognition", "argument evaluation", "systematic thinking"],
+    "niches": ["book-summaries"]
+  }
+]
