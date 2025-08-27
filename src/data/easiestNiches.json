@@ -1,0 +1,426 @@
+[
+    {
+        "title": "Shocking Moments",
+        "competition": 75,
+        "description": "Capture viral moments that leave viewers speechless. Create reaction videos, breakdowns, or compilations of trending shocking events."
+        ,
+        "color": "from-red-600 to-orange-500",
+        "icon": "⚡"
+    },
+    {
+        "title": "Gaming On A Chromebook",
+        "competition": 56,
+        "description": "Prove that budget gaming is possible anywhere. Showcase gameplay, tutorials, and reviews of games that run well on Chromebooks."
+        ,
+        "color": "from-blue-600 to-cyan-500",
+        "icon": "🎮"
+    },
+    {
+        "title": "Becoming A Geisha",
+        "competition": 52,
+        "description": "Explore the ancient art and modern reality. Document your journey, interview experts, or create educational content about Geisha culture."
+        ,
+        "color": "from-pink-600 to-rose-500",
+        "icon": "🌸"
+    },
+    {
+        "title": "Kitesurfing Fails",
+        "competition": 52,
+        "description": "Epic wipeouts and learning moments on water. Compile funny fails, offer safety tips, or share personal progress in kitesurfing."
+        ,
+        "color": "from-teal-600 to-blue-500",
+        "icon": "🪁"
+    },
+    {
+        "title": "Weird Japanese Candy",
+        "competition": 50,
+        "description": "Taste test and review the strangest Japanese sweets. Create unboxing, reaction, and ranking videos for unique candies."
+        ,
+        "color": "from-yellow-500 to-pink-400",
+        "icon": "🍬"
+    },
+    {
+        "title": "Amazing Nightcore",
+        "competition": 50,
+        "description": "Remix popular songs into energetic nightcore versions. Share your remixes, explain the process, or review trending nightcore tracks."
+        ,
+        "color": "from-purple-600 to-indigo-500",
+        "icon": "🎵"
+    },
+    {
+        "title": "Weird Helga",
+        "competition": 49,
+        "description": "Explore the quirkiest moments of Helga from pop culture. Analyze character traits, create meme compilations, or discuss fan theories."
+        ,
+        "color": "from-pink-700 to-yellow-400",
+        "icon": "🤪"
+    },
+    {
+        "title": "Ugliest Uniforms",
+        "competition": 49,
+        "description": "Showcase and rate the most questionable uniforms ever. Make top 10 lists, react to viewer submissions, or redesign ugly uniforms."
+        ,
+        "color": "from-gray-700 to-yellow-600",
+        "icon": "👕"
+    },
+    {
+        "title": "Cosmetic Surgery",
+        "competition": 49,
+        "description": "Discuss trends and stories in cosmetic surgery. Interview professionals, share before-and-after stories, or debunk myths."
+        ,
+        "color": "from-pink-400 to-red-400",
+        "icon": "💉"
+    },
+    {
+        "title": "Nitro Circus Fails",
+        "competition": 49,
+        "description": "Highlight the wildest stunts gone wrong. Create reaction videos, analyze stunts, or interview athletes about their experiences."
+        ,
+        "color": "from-orange-600 to-red-500",
+        "icon": "🏍️"
+    },
+    {
+        "title": "Protein Bar Protein",
+        "competition": 49,
+        "description": "Compare and review protein bars for fitness fans. Do taste tests, nutritional breakdowns, or create DIY protein bar recipes."
+        ,
+        "color": "from-green-600 to-yellow-500",
+        "icon": "🍫"
+    },
+    {
+        "title": "8 Ball Pool",
+        "competition": 48,
+        "description": "Tips, tricks, and epic shots in 8 Ball Pool. Share tutorials, challenge videos, or live gameplay sessions."
+        ,
+        "color": "from-blue-700 to-green-400",
+        "icon": "🎱"
+    },
+    {
+        "title": "Amazing Drummers",
+        "competition": 48,
+        "description": "Showcase jaw-dropping drumming performances. Feature covers, interviews, or breakdowns of famous drumming techniques."
+        ,
+        "color": "from-yellow-600 to-orange-400",
+        "icon": "🥁"
+    },
+    {
+        "title": "Cleaning Machines",
+        "competition": 48,
+        "description": "Watch satisfying cleaning machine action. Create ASMR videos, machine reviews, or before-and-after cleaning transformations."
+        ,
+        "color": "from-gray-500 to-blue-300",
+        "icon": "🧹"
+    },
+    {
+        "title": "Catfishing On Instagram",
+        "competition": 48,
+        "description": "Uncover the world of Instagram catfishing. Share real stories, educate on safety, or conduct social experiments."
+        ,
+        "color": "from-pink-500 to-purple-400",
+        "icon": "🐟"
+    },
+    {
+        "title": "Hilarious Bodybuilder",
+        "competition": 48,
+        "description": "Laugh at the funniest moments in bodybuilding. Compile gym fails, parody skits, or react to viral bodybuilding clips."
+        ,
+        "color": "from-red-700 to-orange-400",
+        "icon": "💪"
+    },
+    {
+        "title": "Hilarious Karl Pilkington",
+        "competition": 48,
+        "description": "Best of Karl Pilkington's unique humor. Create highlight reels, react to his shows, or discuss his funniest quotes."
+        ,
+        "color": "from-gray-700 to-blue-400",
+        "icon": "😂"
+    },
+    {
+        "title": "Weird Mukbang Foods",
+        "competition": 48,
+        "description": "Try the strangest foods in mukbang style. Record taste tests, challenge friends, or review unusual food combinations."
+        ,
+        "color": "from-green-700 to-yellow-400",
+        "icon": "🍲"
+    },
+    {
+        "title": "Shocking Football Chats",
+        "competition": 48,
+        "description": "Unfiltered and surprising football conversations. Host debates, share hot takes, or interview fans and players."
+        ,
+        "color": "from-green-600 to-blue-500",
+        "icon": "⚽"
+    },
+    {
+        "title": "Nurburgring Crash Compilation",
+        "competition": 48,
+        "description": "Watch the most dramatic Nurburgring crashes. Analyze incidents, share safety tips, or interview drivers about their experiences."
+        ,
+        "color": "from-gray-800 to-red-600",
+        "icon": "🏁"
+    },
+    {
+        "title": "Drone Pranks",
+        "competition": 47,
+        "description": "Pull off hilarious pranks using drones. Film creative pranks, share behind-the-scenes, or review the best drone prank videos."
+        ,
+        "color": "from-blue-400 to-green-300",
+        "icon": "🛸"
+    },
+    {
+        "title": "Wreckfest Crash Compilation",
+        "competition": 47,
+        "description": "Best crashes and fails in Wreckfest. Create highlight reels, offer gameplay tips, or host crash reaction challenges."
+        ,
+        "color": "from-yellow-700 to-red-500",
+        "icon": "🚗"
+    },
+    {
+        "title": "Hilarious Jumpscares",
+        "competition": 47,
+        "description": "Funny and unexpected jumpscare moments. Compile reactions, prank friends, or review the best jumpscare clips."
+        ,
+        "color": "from-purple-700 to-pink-400",
+        "icon": "😱"
+    },
+    {
+        "title": "Homemade Ferrari",
+        "competition": 47,
+        "description": "Building a Ferrari from scratch at home. Document the build process, share tips, or compare with real Ferraris."
+        ,
+        "color": "from-red-700 to-yellow-500",
+        "icon": "🏎️"
+    },
+    {
+        "title": "Amazing Throat Singing",
+        "competition": 47,
+        "description": "Showcase the art of throat singing. Offer tutorials, feature performances, or interview throat singers."
+        ,
+        "color": "from-blue-700 to-green-500",
+        "icon": "🗣️"
+    },
+    {
+        "title": "Bookings 4 Now",
+        "competition": 47,
+        "description": "Explore last-minute booking hacks and tips. Share travel vlogs, booking app reviews, or money-saving strategies."
+        ,
+        "color": "from-green-400 to-blue-400",
+        "icon": "📅"
+    },
+    {
+        "title": "Amazing Underground Mansion",
+        "competition": 47,
+        "description": "Tour the most incredible underground mansions. Create walkthroughs, interview owners, or discuss unique architectural features."
+        ,
+        "color": "from-gray-800 to-green-600",
+        "icon": "🏠"
+    },
+    {
+        "title": "Homemade Udon Noodles",
+        "competition": 47,
+        "description": "Make delicious udon noodles from scratch. Share step-by-step recipes, taste tests, or cultural insights."
+        ,
+        "color": "from-yellow-400 to-orange-400",
+        "icon": "🍜"
+    },
+    {
+        "title": "Hilarious Impressionist",
+        "competition": 47,
+        "description": "Watch the funniest celebrity impressions. Perform your own, react to others, or host impression challenges."
+        ,
+        "color": "from-pink-600 to-purple-400",
+        "icon": "🎤"
+    },
+    {
+        "title": "Homemade Kinetic Sand",
+        "competition": 47,
+        "description": "DIY kinetic sand for endless fun. Share recipes, creative builds, or ASMR kinetic sand videos."
+        ,
+        "color": "from-yellow-500 to-pink-500",
+        "icon": "🏖️"
+    },
+    {
+        "title": "Homemade Lamborghini",
+        "competition": 47,
+        "description": "Building a Lamborghini at home step by step. Document the process, share tips, or compare with the real car."
+        ,
+        "color": "from-yellow-600 to-gray-700",
+        "icon": "🚗"
+    },
+    {
+        "title": "Disturbing Unsolved Mysteries",
+        "competition": 47,
+        "description": "Dive into the creepiest unsolved mysteries. Narrate stories, analyze evidence, or discuss theories with your audience."
+        ,
+        "color": "from-gray-900 to-purple-700",
+        "icon": "🕵️‍♂️"
+    },
+    {
+        "title": "Funny Or Funnily",
+        "competition": 47,
+        "description": "Debate what is truly funny or just funnily odd. Host discussions, react to clips, or invite guests for comedy analysis."
+        ,
+        "color": "from-yellow-400 to-blue-400",
+        "icon": "🤣"
+    },
+    {
+        "title": "How To Eat Crawfish",
+        "competition": 47,
+        "description": "Master the art of eating crawfish. Create tutorials, share cultural stories, or host crawfish eating challenges."
+        ,
+        "color": "from-red-500 to-orange-400",
+        "icon": "🦞"
+    },
+    {
+        "title": "Hilarious Yelling",
+        "competition": 47,
+        "description": "Compilation of the funniest yelling moments. React to viral clips, create skits, or challenge friends to funny yelling contests."
+        ,
+        "color": "from-red-700 to-yellow-400",
+        "icon": "🗣️"
+    },
+    {
+        "title": "Vintage Divorce Court",
+        "competition": 47,
+        "description": "Classic and dramatic divorce court moments. Review old episodes, discuss legal outcomes, or create parody reenactments."
+        ,
+        "color": "from-gray-700 to-pink-400",
+        "icon": "⚖️"
+    },
+    {
+        "title": "Hilarious Mukbang",
+        "competition": 47,
+        "description": "Funniest moments from mukbang videos. React to viral clips, try unusual foods, or host mukbang challenges."
+        ,
+        "color": "from-green-600 to-yellow-400",
+        "icon": "🍽️"
+    },
+    {
+        "title": "Wordpress Cache Plugins",
+        "competition": 47,
+        "description": "Review and compare WordPress cache plugins. Create tutorials, performance tests, or plugin setup guides."
+        ,
+        "color": "from-blue-700 to-gray-400",
+        "icon": "🔌"
+    },
+    {
+        "title": "Weird Fruit Explorer",
+        "competition": 47,
+        "description": "Taste and review the weirdest fruits. Share first impressions, nutritional facts, or fruit ranking videos."
+        ,
+        "color": "from-green-400 to-yellow-300",
+        "icon": "🍉"
+    },
+    {
+        "title": "The Worst Freestyle",
+        "competition": 47,
+        "description": "React to the worst freestyle raps ever. Host rap battles, review submissions, or create parody freestyles."
+        ,
+        "color": "from-gray-700 to-red-400",
+        "icon": "🎤"
+    },
+    {
+        "title": "Ugliest Vehicles",
+        "competition": 47,
+        "description": "Showcase the most bizarre vehicles. Make top 10 lists, react to viewer submissions, or redesign ugly vehicles."
+        ,
+        "color": "from-gray-800 to-yellow-500",
+        "icon": "🚙"
+    },
+    {
+        "title": "Diy Facial Mask",
+        "competition": 47,
+        "description": "Create your own facial masks at home. Share recipes, test different ingredients, or review popular DIY mask trends."
+        ,
+        "color": "from-pink-400 to-green-300",
+        "icon": "😷"
+    },
+    {
+        "title": "Funny Or Humorous",
+        "competition": 47,
+        "description": "Explore the difference between funny and humorous. Host debates, analyze comedy clips, or invite comedians for discussions."
+        ,
+        "color": "from-yellow-400 to-blue-400",
+        "icon": "😂"
+    },
+    {
+        "title": "Tallest Elephant Toothpaste",
+        "competition": 47,
+        "description": "Attempt the tallest elephant toothpaste experiment. Film the process, explain the science, or challenge others to beat your record."
+        ,
+        "color": "from-blue-400 to-yellow-400",
+        "icon": "🧪"
+    },
+    {
+        "title": "Photography In Taiwan",
+        "competition": 47,
+        "description": "Discover the best photography spots in Taiwan. Share vlogs, photo tips, or interviews with local photographers."
+        ,
+        "color": "from-green-500 to-blue-400",
+        "icon": "📷"
+    },
+    {
+        "title": "Kawaii Unboxing",
+        "competition": 47,
+        "description": "Unbox the cutest products from Japan. Share first impressions, product reviews, or compare different kawaii items."
+        ,
+        "color": "from-pink-400 to-purple-400",
+        "icon": "🎁"
+    },
+    {
+        "title": "Homemade Quadcopter",
+        "competition": 47,
+        "description": "Build your own quadcopter at home. Share build guides, flight tests, or troubleshooting tips."
+        ,
+        "color": "from-blue-400 to-gray-400",
+        "icon": "🚁"
+    },
+    {
+        "title": "Hilarious Yearbook Quotes",
+        "competition": 47,
+        "description": "Read the funniest yearbook quotes. React to submissions, create compilations, or share your own yearbook stories."
+        ,
+        "color": "from-yellow-400 to-blue-400",
+        "icon": "📖"
+    },
+    {
+        "title": "Drone Golf Shots",
+        "competition": 47,
+        "description": "Epic golf shots captured by drones. Film trick shots, review drone footage, or host golf challenges."
+        ,
+        "color": "from-green-400 to-blue-400",
+        "icon": "🏌️‍♂️"
+    },
+    {
+        "title": "Ugliest Watches",
+        "competition": 47,
+        "description": "Showcase the most questionable watch designs. Make reaction videos, redesign ugly watches, or review submissions."
+        ,
+        "color": "from-gray-700 to-yellow-400",
+        "icon": "⌚"
+    },
+    {
+        "title": "Becoming A Florist",
+        "competition": 47,
+        "description": "Journey to becoming a professional florist. Share tutorials, daily vlogs, or interview experienced florists."
+        ,
+        "color": "from-green-400 to-pink-400",
+        "icon": "💐"
+    },
+    {
+        "title": "Amazing Dance Performances",
+        "competition": 47,
+        "description": "Watch the most stunning dance performances. React to viral dances, break down choreography, or share your own routines."
+        ,
+        "color": "from-purple-400 to-pink-400",
+        "icon": "💃"
+    },
+    {
+        "title": "Hilarious Uber Rides",
+        "competition": 47,
+        "description": "Funny and awkward Uber ride stories. Share personal experiences, reenact stories, or interview drivers and passengers."
+        ,
+        "color": "from-blue-400 to-gray-400",
+        "icon": "🚗"
+    }
+]
