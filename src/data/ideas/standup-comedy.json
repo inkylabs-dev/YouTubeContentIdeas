@@ -1,1 +1,296 @@
-[]
+[
+  {
+    "title": "Why [Everyday Object] Is Out to Get Me",
+    "description": "Pick a common object and exaggerate its 'evil' intentions. Expand with funny anecdotes and relatable frustrations.",
+    "tags": ["observational", "relatable", "objects"],
+    "niches": ["standup", "comedy", "everyday life"]
+  },
+  {
+    "title": "The [Awkward/Funny] Truth About [Dating/Relationships]",
+    "description": "Share hilarious truths or mishaps about dating. Expand with personal stories and universal experiences.",
+    "tags": ["dating", "relationships", "awkward"],
+    "niches": ["standup", "comedy", "relationships"]
+  },
+  {
+    "title": "How [Technology/Social Media] Is Ruining My Life",
+    "description": "Mock your struggles with tech or social media. Expand with exaggerated scenarios and generational comparisons.",
+    "tags": ["technology", "social media", "modern life"],
+    "niches": ["standup", "comedy", "tech"]
+  },
+  {
+    "title": "My [Embarrassing/Weird] Family Traditions",
+    "description": "Describe odd family habits. Expand with over-the-top examples and audience participation.",
+    "tags": ["family", "traditions", "embarrassing"],
+    "niches": ["standup", "comedy", "family"]
+  },
+  {
+    "title": "Why [Adulting] Is a Scam",
+    "description": "Rant about the realities of adulthood. Expand with comparisons to childhood expectations.",
+    "tags": ["adulting", "growing up", "relatable"],
+    "niches": ["standup", "comedy", "life"]
+  },
+  {
+    "title": "The [Strange/Funny] Things My [Pet/Animal] Does",
+    "description": "Share hilarious pet stories. Expand with impressions and imagined pet thoughts.",
+    "tags": ["pets", "animals", "funny"],
+    "niches": ["standup", "comedy", "pets"]
+  },
+  {
+    "title": "How [Shopping/Online Shopping] Always Goes Wrong",
+    "description": "Mock your shopping experiences. Expand with failed purchases and customer service nightmares.",
+    "tags": ["shopping", "online", "failures"],
+    "niches": ["standup", "comedy", "consumer"]
+  },
+  {
+    "title": "The [Weirdest/Most Annoying] Thing About [Public Transport]",
+    "description": "Describe odd encounters on public transport. Expand with character impressions and relatable moments.",
+    "tags": ["public transport", "awkward", "observational"],
+    "niches": ["standup", "comedy", "urban life"]
+  },
+  {
+    "title": "Why [Healthy Living] Is Overrated",
+    "description": "Poke fun at health trends. Expand with failed diets, gym stories, and food cravings.",
+    "tags": ["health", "fitness", "food"],
+    "niches": ["standup", "comedy", "lifestyle"]
+  },
+  {
+    "title": "My [Worst/Weirdest] Job Interview",
+    "description": "Share a disastrous interview story. Expand with exaggerated nerves and odd questions.",
+    "tags": ["jobs", "interviews", "awkward"],
+    "niches": ["standup", "comedy", "work"]
+  },
+  {
+    "title": "How [Parents/Grandparents] Use Technology",
+    "description": "Imitate older relatives using tech. Expand with misunderstandings and funny outcomes.",
+    "tags": ["family", "technology", "generations"],
+    "niches": ["standup", "comedy", "family"]
+  },
+  {
+    "title": "The [Unwritten Rules] of [School/Work]",
+    "description": "Invent and mock 'rules' everyone follows. Expand with examples and audience nods.",
+    "tags": ["school", "work", "rules"],
+    "niches": ["standup", "comedy", "education"]
+  },
+  {
+    "title": "Why [Vacations] Are More Stressful Than Work",
+    "description": "Describe vacation mishaps. Expand with packing disasters and travel fails.",
+    "tags": ["vacations", "travel", "stress"],
+    "niches": ["standup", "comedy", "travel"]
+  },
+  {
+    "title": "The [Weirdest] Thing About [Growing Up in My Hometown]",
+    "description": "Share unique hometown quirks. Expand with local stereotypes and personal stories.",
+    "tags": ["hometown", "growing up", "quirky"],
+    "niches": ["standup", "comedy", "local"]
+  },
+  {
+    "title": "How [TV/Movies] Lied to Me About [Life/Love]",
+    "description": "Compare media expectations to reality. Expand with funny contrasts and pop culture references.",
+    "tags": ["media", "expectations", "reality"],
+    "niches": ["standup", "comedy", "pop culture"]
+  },
+  {
+    "title": "My [Most Awkward] [First Date/Encounter]",
+    "description": "Describe a cringe-worthy first meeting. Expand with inner monologue and audience empathy.",
+    "tags": ["dating", "awkward", "firsts"],
+    "niches": ["standup", "comedy", "relationships"]
+  },
+  {
+    "title": "Why [Cooking] Should Be an Extreme Sport",
+    "description": "Exaggerate your kitchen disasters. Expand with step-by-step fails and imagined competitions.",
+    "tags": ["cooking", "food", "failures"],
+    "niches": ["standup", "comedy", "food"]
+  },
+  {
+    "title": "The [Strange] Things People Say in [Elevators/Waiting Rooms]",
+    "description": "Share odd small talk moments. Expand with character voices and awkward silences.",
+    "tags": ["awkward", "public", "conversations"],
+    "niches": ["standup", "comedy", "social"]
+  },
+  {
+    "title": "How [Kids] Outsmart Adults",
+    "description": "Tell stories of kids being clever. Expand with personal anecdotes and exaggerated outcomes.",
+    "tags": ["kids", "family", "smart"],
+    "niches": ["standup", "comedy", "family"]
+  },
+  {
+    "title": "Why [Group Projects] Never Work",
+    "description": "Mock group project dynamics. Expand with stereotypes and personal horror stories.",
+    "tags": ["school", "projects", "teamwork"],
+    "niches": ["standup", "comedy", "education"]
+  },
+  {
+    "title": "The [Weirdest] Advice I Ever Got",
+    "description": "Share bizarre advice. Expand with imagined scenarios if you followed it.",
+    "tags": ["advice", "weird", "life"],
+    "niches": ["standup", "comedy", "life"]
+  },
+  {
+    "title": "How [Online Dating] Is Like [Shopping for Groceries]",
+    "description": "Draw funny parallels between dating apps and grocery shopping. Expand with absurd comparisons.",
+    "tags": ["dating", "online", "analogies"],
+    "niches": ["standup", "comedy", "relationships"]
+  },
+  {
+    "title": "Why [Meetings] Should Be Illegal",
+    "description": "Rant about pointless meetings. Expand with exaggerated interruptions and fake solutions.",
+    "tags": ["work", "meetings", "rants"],
+    "niches": ["standup", "comedy", "work"]
+  },
+  {
+    "title": "The [Strange] Rituals of [Morning/Night Routines]",
+    "description": "Mock your daily routines. Expand with over-the-top steps and imagined consequences.",
+    "tags": ["routines", "habits", "quirky"],
+    "niches": ["standup", "comedy", "lifestyle"]
+  },
+  {
+    "title": "How [Autocorrect] Ruined My Life",
+    "description": "Share autocorrect fails. Expand with dramatic readings and imagined misunderstandings.",
+    "tags": ["technology", "autocorrect", "fails"],
+    "niches": ["standup", "comedy", "tech"]
+  },
+  {
+    "title": "Why [Being an Adult] Is Just Pretending",
+    "description": "Joke about faking adulthood. Expand with examples of not knowing what you’re doing.",
+    "tags": ["adulting", "pretending", "relatable"],
+    "niches": ["standup", "comedy", "life"]
+  },
+  {
+    "title": "The [Most Ridiculous] Thing I Believed as a Kid",
+    "description": "Share childhood misconceptions. Expand with how you found out the truth.",
+    "tags": ["childhood", "beliefs", "funny"],
+    "niches": ["standup", "comedy", "family"]
+  },
+  {
+    "title": "How [Fitness Trackers] Judge Me",
+    "description": "Personify your fitness tracker. Expand with imagined conversations and guilt trips.",
+    "tags": ["fitness", "technology", "personification"],
+    "niches": ["standup", "comedy", "tech"]
+  },
+  {
+    "title": "Why [Customer Service] Calls Are a Test of Patience",
+    "description": "Describe customer service nightmares. Expand with exaggerated hold times and scripted responses.",
+    "tags": ["customer service", "patience", "rants"],
+    "niches": ["standup", "comedy", "consumer"]
+  },
+  {
+    "title": "The [Weirdest] Thing in My [Fridge/Closet]",
+    "description": "Reveal odd items you own. Expand with backstories and audience guesses.",
+    "tags": ["weird", "possessions", "reveal"],
+    "niches": ["standup", "comedy", "lifestyle"]
+  },
+  {
+    "title": "How [Weather] Dictates My Mood",
+    "description": "Exaggerate your reactions to weather. Expand with dramatic mood swings and forecasts.",
+    "tags": ["weather", "mood", "relatable"],
+    "niches": ["standup", "comedy", "life"]
+  },
+  {
+    "title": "Why [Instructions] Never Make Sense",
+    "description": "Mock confusing instructions. Expand with failed assembly stories and literal interpretations.",
+    "tags": ["instructions", "failures", "rants"],
+    "niches": ["standup", "comedy", "consumer"]
+  },
+  {
+    "title": "The [Awkward] Silence in [Elevators/Meetings]",
+    "description": "Describe uncomfortable silences. Expand with inner thoughts and imagined solutions.",
+    "tags": ["awkward", "silence", "public"],
+    "niches": ["standup", "comedy", "social"]
+  },
+  {
+    "title": "How [Holidays] Bring Out the [Weirdest] in My Family",
+    "description": "Share holiday family stories. Expand with traditions, arguments, and food disasters.",
+    "tags": ["holidays", "family", "weird"],
+    "niches": ["standup", "comedy", "family"]
+  },
+  {
+    "title": "Why [Group Chats] Are a Trap",
+    "description": "Joke about group chat chaos. Expand with unread messages and off-topic tangents.",
+    "tags": ["group chats", "technology", "communication"],
+    "niches": ["standup", "comedy", "tech"]
+  },
+  {
+    "title": "The [Most Pointless] App on My Phone",
+    "description": "Mock useless apps. Expand with fake app pitches and imagined uses.",
+    "tags": ["apps", "technology", "pointless"],
+    "niches": ["standup", "comedy", "tech"]
+  },
+  {
+    "title": "How [Coffee] Controls My Life",
+    "description": "Exaggerate your coffee addiction. Expand with withdrawal stories and coffee snobbery.",
+    "tags": ["coffee", "addiction", "relatable"],
+    "niches": ["standup", "comedy", "lifestyle"]
+  },
+  {
+    "title": "Why [Sleep] Is Never Enough",
+    "description": "Rant about sleep struggles. Expand with failed routines and bizarre dreams.",
+    "tags": ["sleep", "dreams", "relatable"],
+    "niches": ["standup", "comedy", "life"]
+  },
+  {
+    "title": "The [Weirdest] Thing I Googled This Week",
+    "description": "Reveal odd search histories. Expand with imagined search results and explanations.",
+    "tags": ["google", "search", "weird"],
+    "niches": ["standup", "comedy", "tech"]
+  },
+  {
+    "title": "How [Autopilot] Gets Me in Trouble",
+    "description": "Share stories of zoning out. Expand with funny consequences and near-misses.",
+    "tags": ["autopilot", "zoning out", "funny"],
+    "niches": ["standup", "comedy", "life"]
+  },
+  {
+    "title": "Why [DIY Projects] Are a Lie",
+    "description": "Mock your attempts at DIY. Expand with before-and-after fails and YouTube tutorial disasters.",
+    "tags": ["DIY", "failures", "projects"],
+    "niches": ["standup", "comedy", "lifestyle"]
+  },
+  {
+    "title": "The [Strange] Rules of [Gym Etiquette]",
+    "description": "Invent and mock gym rules. Expand with character impressions and awkward encounters.",
+    "tags": ["gym", "etiquette", "rules"],
+    "niches": ["standup", "comedy", "fitness"]
+  },
+  {
+    "title": "How [Food Delivery] Always Goes Wrong",
+    "description": "Share food delivery mishaps. Expand with wrong orders and dramatic hunger.",
+    "tags": ["food delivery", "failures", "food"],
+    "niches": ["standup", "comedy", "food"]
+  },
+  {
+    "title": "Why [Fashion Trends] Make No Sense",
+    "description": "Mock current or past fashion trends. Expand with personal style fails and runway impressions.",
+    "tags": ["fashion", "trends", "style"],
+    "niches": ["standup", "comedy", "lifestyle"]
+  },
+  {
+    "title": "The [Most Awkward] Compliment I Ever Got",
+    "description": "Share a compliment that backfired. Expand with your reaction and imagined responses.",
+    "tags": ["compliments", "awkward", "funny"],
+    "niches": ["standup", "comedy", "social"]
+  },
+  {
+    "title": "How [Life Hacks] Never Work for Me",
+    "description": "Try and fail at popular life hacks. Expand with step-by-step fails and audience suggestions.",
+    "tags": ["life hacks", "failures", "trends"],
+    "niches": ["standup", "comedy", "lifestyle"]
+  },
+  {
+    "title": "Why [Being an Introvert/Extrovert] Is Hard",
+    "description": "Joke about personality struggles. Expand with social scenarios and inner monologues.",
+    "tags": ["introvert", "extrovert", "personality"],
+    "niches": ["standup", "comedy", "life"]
+  },
+  {
+    "title": "The [Weirdest] Thing I’ve Seen on [Public Transport]",
+    "description": "Describe bizarre public transport encounters. Expand with character voices and audience polls.",
+    "tags": ["public transport", "weird", "stories"],
+    "niches": ["standup", "comedy", "urban life"]
+  },
+  {
+    "title": "How [My Name] Gets Mispronounced",
+    "description": "Share stories of name fails. Expand with creative mispronunciations and imagined new names.",
+    "tags": ["names", "mispronunciation", "identity"],
+    "niches": ["standup", "comedy", "life"]
+  }
+]

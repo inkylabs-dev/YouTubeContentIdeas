@@ -1,1 +1,284 @@
-[]
+[
+  {
+    "title": "Interview with [Expert/Influencer] on [Hot Topic]",
+    "description": "Host a conversation with a notable guest about a trending topic. Expand with audience questions, live polls, and follow-up resources.",
+    "tags": ["interview", "expert", "trending"],
+    "niches": ["education", "news", "entertainment"]
+  },
+  {
+    "title": "Panel Discussion: [Controversial Issue] Explained",
+    "description": "Gather a diverse panel to discuss a controversial issue. Expand with multiple viewpoints, audience interaction, and expert analysis.",
+    "tags": ["panel", "discussion", "controversy"],
+    "niches": ["news", "society", "debate"]
+  },
+  {
+    "title": "Ask Me Anything with [Guest]",
+    "description": "Invite a guest for an open Q&A session. Expand with live chat, curated questions, and behind-the-scenes stories.",
+    "tags": ["AMA", "Q&A", "guest"],
+    "niches": ["entertainment", "education", "community"]
+  },
+  {
+    "title": "Debate: [Topic] – Pros vs Cons",
+    "description": "Host a structured debate on a divisive topic. Expand with timed arguments, audience voting, and expert summaries.",
+    "tags": ["debate", "pros and cons", "discussion"],
+    "niches": ["news", "education", "society"]
+  },
+  {
+    "title": "Roundtable: [Industry] Trends for [Year]",
+    "description": "Bring together industry leaders to discuss upcoming trends. Expand with predictions, case studies, and actionable advice.",
+    "tags": ["roundtable", "trends", "industry"],
+    "niches": ["business", "technology", "innovation"]
+  },
+  {
+    "title": "Storytime: [Guest] Shares Their Journey in [Field]",
+    "description": "Feature a guest sharing their personal or professional journey. Expand with lessons learned, challenges, and audience takeaways.",
+    "tags": ["storytime", "journey", "guest"],
+    "niches": ["motivation", "career", "education"]
+  },
+  {
+    "title": "Live Reaction to [Event/Announcement]",
+    "description": "React live to a major event or announcement. Expand with instant analysis, guest opinions, and audience chat.",
+    "tags": ["live", "reaction", "event"],
+    "niches": ["news", "entertainment", "technology"]
+  },
+  {
+    "title": "Game Show: [Theme] Edition",
+    "description": "Host a themed game show with guests or audience members. Expand with trivia, challenges, and prizes.",
+    "tags": ["game show", "fun", "interactive"],
+    "niches": ["entertainment", "community", "education"]
+  },
+  {
+    "title": "Behind the Scenes: Making of [Project/Show]",
+    "description": "Take viewers behind the scenes of a project or show. Expand with interviews, bloopers, and production insights.",
+    "tags": ["behind the scenes", "production", "insights"],
+    "niches": ["media", "entertainment", "education"]
+  },
+  {
+    "title": "Audience Stories: [Theme]",
+    "description": "Invite audience members to share their stories on a specific theme. Expand with live calls, video submissions, and expert feedback.",
+    "tags": ["audience", "stories", "community"],
+    "niches": ["community", "motivation", "education"]
+  },
+  {
+    "title": "Weekly Recap: [Niche] News and Highlights",
+    "description": "Summarize the week's top news and highlights in a niche. Expand with guest commentary, predictions, and audience polls.",
+    "tags": ["recap", "news", "weekly"],
+    "niches": ["news", "technology", "entertainment"]
+  },
+  {
+    "title": "Hot Takes: [Topic] Edition",
+    "description": "Share and debate hot takes on a trending topic. Expand with guest opinions, audience reactions, and fact-checking.",
+    "tags": ["hot takes", "debate", "trending"],
+    "niches": ["news", "entertainment", "society"]
+  },
+  {
+    "title": "Advice Hour: Solving [Audience] Problems",
+    "description": "Offer advice to audience-submitted problems. Expand with expert guests, live calls, and actionable tips.",
+    "tags": ["advice", "problem solving", "audience"],
+    "niches": ["self-improvement", "community", "education"]
+  },
+  {
+    "title": "Spotlight: [Underrepresented Group] in [Industry]",
+    "description": "Highlight stories and challenges of underrepresented groups. Expand with interviews, resources, and calls to action.",
+    "tags": ["spotlight", "diversity", "industry"],
+    "niches": ["society", "business", "education"]
+  },
+  {
+    "title": "Mythbusting: [Common Misconception]",
+    "description": "Debunk common myths with facts and expert input. Expand with demonstrations, audience questions, and references.",
+    "tags": ["mythbusting", "facts", "education"],
+    "niches": ["science", "technology", "news"]
+  },
+  {
+    "title": "Career Paths: How to Become a [Profession]",
+    "description": "Discuss the journey to a specific profession with guests. Expand with required skills, education, and insider tips.",
+    "tags": ["career", "profession", "advice"],
+    "niches": ["career", "education", "motivation"]
+  },
+  {
+    "title": "Book Club: Discussing [Book Title]",
+    "description": "Host a book club discussion with guests and audience. Expand with author interviews, key takeaways, and related recommendations.",
+    "tags": ["book club", "discussion", "reading"],
+    "niches": ["education", "literature", "community"]
+  },
+  {
+    "title": "Tech Talk: The Future of [Technology]",
+    "description": "Explore the future of a specific technology with experts. Expand with demos, predictions, and audience questions.",
+    "tags": ["tech talk", "future", "innovation"],
+    "niches": ["technology", "innovation", "education"]
+  },
+  {
+    "title": "Wellness Hour: Tips for [Health Topic]",
+    "description": "Share wellness tips with health professionals. Expand with live demonstrations, Q&A, and actionable routines.",
+    "tags": ["wellness", "health", "tips"],
+    "niches": ["health", "wellness", "self-improvement"]
+  },
+  {
+    "title": "Startup Stories: Founders of [Startup Type]",
+    "description": "Interview startup founders about their journeys. Expand with lessons learned, challenges, and advice for aspiring entrepreneurs.",
+    "tags": ["startup", "founders", "entrepreneurship"],
+    "niches": ["business", "technology", "motivation"]
+  },
+  {
+    "title": "Pop Culture Breakdown: [Trending Topic]",
+    "description": "Analyze a trending pop culture topic with guests. Expand with history, impact, and audience opinions.",
+    "tags": ["pop culture", "analysis", "trending"],
+    "niches": ["entertainment", "media", "society"]
+  },
+  {
+    "title": "Live Demo: [Product/Tool] in Action",
+    "description": "Showcase a product or tool with a live demonstration. Expand with guest experts, user questions, and troubleshooting.",
+    "tags": ["demo", "product", "live"],
+    "niches": ["technology", "education", "gadgets"]
+  },
+  {
+    "title": "Parenting Panel: Navigating [Parenting Topic]",
+    "description": "Host a panel of parents discussing a specific parenting topic. Expand with expert advice, audience stories, and resources.",
+    "tags": ["parenting", "panel", "advice"],
+    "niches": ["family", "education", "community"]
+  },
+  {
+    "title": "Creative Minds: Artists on [Art Topic]",
+    "description": "Interview artists about their creative process and challenges. Expand with live art demos, audience questions, and inspiration tips.",
+    "tags": ["art", "creativity", "interview"],
+    "niches": ["arts", "education", "motivation"]
+  },
+  {
+    "title": "Finance Talk: Making Sense of [Financial Topic]",
+    "description": "Discuss a financial topic with experts. Expand with real-life examples, audience questions, and actionable advice.",
+    "tags": ["finance", "money", "advice"],
+    "niches": ["finance", "business", "education"]
+  },
+  {
+    "title": "Language Lounge: Learning [Language]",
+    "description": "Host a talk show about language learning tips and stories. Expand with guest polyglots, live practice, and resource sharing.",
+    "tags": ["language", "learning", "tips"],
+    "niches": ["education", "language", "self-improvement"]
+  },
+  {
+    "title": "Travel Tales: Exploring [Destination]",
+    "description": "Share travel stories and tips about a destination. Expand with guest travelers, cultural insights, and planning advice.",
+    "tags": ["travel", "stories", "tips"],
+    "niches": ["travel", "culture", "education"]
+  },
+  {
+    "title": "Foodie Forum: Tasting [Cuisine/Trend]",
+    "description": "Host a food tasting and discussion on a cuisine or trend. Expand with chef guests, cooking demos, and audience recipes.",
+    "tags": ["food", "tasting", "discussion"],
+    "niches": ["food", "culture", "entertainment"]
+  },
+  {
+    "title": "Innovation Hour: New Ideas in [Field]",
+    "description": "Spotlight new ideas and inventions in a field. Expand with inventor interviews, demos, and audience feedback.",
+    "tags": ["innovation", "ideas", "spotlight"],
+    "niches": ["technology", "business", "education"]
+  },
+  {
+    "title": "Mental Health Matters: Coping with [Challenge]",
+    "description": "Discuss mental health challenges and coping strategies. Expand with expert guests, audience stories, and resources.",
+    "tags": ["mental health", "wellness", "support"],
+    "niches": ["health", "wellness", "self-improvement"]
+  },
+  {
+    "title": "Sports Talk: The State of [Sport/League]",
+    "description": "Analyze the current state of a sport or league. Expand with athlete interviews, stats, and fan questions.",
+    "tags": ["sports", "analysis", "discussion"],
+    "niches": ["sports", "entertainment", "news"]
+  },
+  {
+    "title": "Entrepreneur Q&A: Building [Type of Business]",
+    "description": "Host a Q&A with entrepreneurs about building a business. Expand with startup stories, funding tips, and audience questions.",
+    "tags": ["entrepreneur", "Q&A", "business"],
+    "niches": ["business", "motivation", "education"]
+  },
+  {
+    "title": "Tech vs. Tradition: [Modern Solution] vs [Traditional Method]",
+    "description": "Debate modern tech solutions versus traditional methods. Expand with demonstrations, guest experts, and audience polls.",
+    "tags": ["tech", "tradition", "debate"],
+    "niches": ["technology", "society", "education"]
+  },
+  {
+    "title": "Pet Talk: Caring for [Pet Type]",
+    "description": "Discuss pet care tips and stories with experts and owners. Expand with live Q&A, product demos, and audience photos.",
+    "tags": ["pets", "care", "advice"],
+    "niches": ["pets", "family", "community"]
+  },
+  {
+    "title": "Sustainability Spotlight: Greener Living Tips",
+    "description": "Share sustainability tips and eco-friendly ideas. Expand with guest experts, product reviews, and audience challenges.",
+    "tags": ["sustainability", "eco-friendly", "tips"],
+    "niches": ["environment", "lifestyle", "education"]
+  },
+  {
+    "title": "Relationship Real Talk: Navigating [Relationship Topic]",
+    "description": "Discuss relationship topics with experts and real stories. Expand with live advice, audience questions, and resources.",
+    "tags": ["relationships", "advice", "discussion"],
+    "niches": ["self-improvement", "community", "wellness"]
+  },
+  {
+    "title": "Youth Voices: [Young Person] on [Issue]",
+    "description": "Give a platform to young people to discuss issues that matter to them. Expand with interviews, debates, and calls to action.",
+    "tags": ["youth", "voices", "issues"],
+    "niches": ["education", "society", "community"]
+  },
+  {
+    "title": "History Hour: Lessons from [Historical Event]",
+    "description": "Explore a historical event with experts and storytellers. Expand with analysis, modern parallels, and audience questions.",
+    "tags": ["history", "lessons", "discussion"],
+    "niches": ["education", "history", "society"]
+  },
+  {
+    "title": "Science Simplified: Understanding [Scientific Concept]",
+    "description": "Break down a complex scientific concept with experts. Expand with demonstrations, analogies, and audience questions.",
+    "tags": ["science", "education", "explainer"],
+    "niches": ["science", "education", "technology"]
+  },
+  {
+    "title": "Fashion Forward: Trends in [Fashion Topic]",
+    "description": "Discuss fashion trends with designers and influencers. Expand with live styling, audience polls, and shopping tips.",
+    "tags": ["fashion", "trends", "discussion"],
+    "niches": ["fashion", "lifestyle", "entertainment"]
+  },
+  {
+    "title": "Music Makers: Behind the Scenes with [Musician/Band]",
+    "description": "Interview musicians about their creative process and career. Expand with live performances, fan questions, and music tips.",
+    "tags": ["music", "interview", "behind the scenes"],
+    "niches": ["music", "entertainment", "arts"]
+  },
+  {
+    "title": "Parenting Perspectives: Raising Kids in [Modern World/Topic]",
+    "description": "Discuss modern parenting challenges and solutions. Expand with expert guests, real stories, and audience advice.",
+    "tags": ["parenting", "perspectives", "discussion"],
+    "niches": ["family", "education", "community"]
+  },
+  {
+    "title": "Women in [Field]: Breaking Barriers",
+    "description": "Highlight women making an impact in a field. Expand with interviews, challenges, and advice for aspiring women.",
+    "tags": ["women", "empowerment", "interview"],
+    "niches": ["society", "business", "education"]
+  },
+  {
+    "title": "Global Voices: Perspectives from [Country/Region]",
+    "description": "Feature guests from around the world sharing their perspectives. Expand with cultural insights, stories, and audience questions.",
+    "tags": ["global", "voices", "culture"],
+    "niches": ["culture", "education", "society"]
+  },
+  {
+    "title": "Innovation in Education: New Ways to Learn",
+    "description": "Discuss educational innovations with teachers and students. Expand with demos, success stories, and audience feedback.",
+    "tags": ["education", "innovation", "learning"],
+    "niches": ["education", "technology", "self-improvement"]
+  },
+  {
+    "title": "Entrepreneur Spotlight: Building [Type of Startup]",
+    "description": "Interview entrepreneurs about building startups in a niche. Expand with funding tips, growth hacks, and audience questions.",
+    "tags": ["entrepreneur", "startup", "interview"],
+    "niches": ["business", "technology", "motivation"]
+  },
+  {
+    "title": "Future Forecast: What’s Next in [Industry/Field]",
+    "description": "Predict future trends in an industry with experts. Expand with data, case studies, and audience predictions.",
+    "tags": ["future", "forecast", "trends"],
+    "niches": ["technology", "business", "innovation"]
+  }
+]

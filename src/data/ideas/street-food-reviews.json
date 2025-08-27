@@ -1,1 +1,290 @@
-[]
+[
+  {
+    "title": "Tasting [Street Food] at [Location]: First Impressions",
+    "description": "Try a popular street food at a specific location and share your first impressions. Expand with taste notes, vendor interviews, and crowd reactions.",
+    "tags": ["street food", "review", "first impressions"],
+    "niches": ["food", "travel", "culture"]
+  },
+  {
+    "title": "Top [Number] Must-Try Street Foods in [City/Country]",
+    "description": "List and review the must-try street foods in a city or country. Expand with vendor recommendations, price comparisons, and local insights.",
+    "tags": ["top list", "street food", "travel"],
+    "niches": ["food", "travel", "local culture"]
+  },
+  {
+    "title": "Street Food Showdown: [Food A] vs [Food B]",
+    "description": "Compare two popular street foods head-to-head. Expand with taste tests, audience polls, and vendor perspectives.",
+    "tags": ["comparison", "street food", "taste test"],
+    "niches": ["food", "entertainment", "travel"]
+  },
+  {
+    "title": "Hidden Gems: Discovering [Unique Street Food] in [Neighborhood]",
+    "description": "Find and review a lesser-known street food in a specific neighborhood. Expand with vendor stories, preparation process, and local reactions.",
+    "tags": ["hidden gems", "street food", "discovery"],
+    "niches": ["food", "travel", "exploration"]
+  },
+  {
+    "title": "Trying [Street Food] for the First Time: [Your Reaction]",
+    "description": "Document your first experience trying a new street food. Expand with preparation footage, cultural background, and honest reactions.",
+    "tags": ["first time", "street food", "reaction"],
+    "niches": ["food", "culture", "entertainment"]
+  },
+  {
+    "title": "Street Food Under $[Amount]: Best Budget Eats in [City]",
+    "description": "Review the best street foods you can get under a certain price. Expand with value ratings, portion sizes, and vendor interviews.",
+    "tags": ["budget", "street food", "cheap eats"],
+    "niches": ["food", "travel", "budget"]
+  },
+  {
+    "title": "Vegan/Vegetarian Street Food in [Location]: What’s Available?",
+    "description": "Explore vegan or vegetarian street food options in a location. Expand with taste tests, ingredient highlights, and vendor insights.",
+    "tags": ["vegan", "vegetarian", "street food"],
+    "niches": ["food", "health", "travel"]
+  },
+  {
+    "title": "Street Food for Breakfast: Morning Eats in [City]",
+    "description": "Review popular street foods served for breakfast. Expand with early morning vendor routines, local customs, and taste notes.",
+    "tags": ["breakfast", "street food", "morning"],
+    "niches": ["food", "travel", "culture"]
+  },
+  {
+    "title": "Sweet Street: Best Desserts from [Street Food Market]",
+    "description": "Sample and review the best street food desserts at a market. Expand with preparation footage, vendor interviews, and ranking.",
+    "tags": ["desserts", "street food", "sweet"],
+    "niches": ["food", "travel", "sweets"]
+  },
+  {
+    "title": "Street Food with a Twist: [Fusion/Modern Version] of [Classic Dish]",
+    "description": "Try a modern or fusion take on a classic street food. Expand with chef/vendor interviews, taste comparisons, and audience reactions.",
+    "tags": ["fusion", "modern", "street food"],
+    "niches": ["food", "innovation", "culture"]
+  },
+  {
+    "title": "Street Food Challenge: Eating [Spicy/Unusual] Foods in [Location]",
+    "description": "Take on a challenge by eating spicy or unusual street foods. Expand with reactions, vendor stories, and audience dares.",
+    "tags": ["challenge", "spicy", "unusual"],
+    "niches": ["food", "entertainment", "travel"]
+  },
+  {
+    "title": "Family-Friendly Street Food: What Kids Love in [City]",
+    "description": "Review street foods that are popular with kids. Expand with family interviews, taste tests, and fun activities.",
+    "tags": ["family", "kids", "street food"],
+    "niches": ["food", "family", "travel"]
+  },
+  {
+    "title": "Street Food Legends: The Story Behind [Famous Vendor]",
+    "description": "Share the story of a legendary street food vendor. Expand with interviews, history, and signature dish reviews.",
+    "tags": ["legend", "vendor", "story"],
+    "niches": ["food", "history", "culture"]
+  },
+  {
+    "title": "Street Food Festivals: Highlights from [Event]",
+    "description": "Cover a street food festival and review standout dishes. Expand with event footage, vendor interviews, and audience favorites.",
+    "tags": ["festival", "street food", "event"],
+    "niches": ["food", "events", "travel"]
+  },
+  {
+    "title": "Street Food Safety: How to Eat Safely in [Country]",
+    "description": "Share tips for eating street food safely. Expand with hygiene checks, vendor interviews, and local advice.",
+    "tags": ["safety", "street food", "tips"],
+    "niches": ["food", "travel", "health"]
+  },
+  {
+    "title": "Street Food for Tourists: What to Try in [City]",
+    "description": "Guide tourists on must-try street foods in a city. Expand with maps, vendor recommendations, and etiquette tips.",
+    "tags": ["tourist", "guide", "street food"],
+    "niches": ["food", "travel", "tourism"]
+  },
+  {
+    "title": "Street Food for Locals: What Residents Really Eat",
+    "description": "Explore what locals actually eat from street vendors. Expand with interviews, daily routines, and authentic recommendations.",
+    "tags": ["locals", "authentic", "street food"],
+    "niches": ["food", "culture", "travel"]
+  },
+  {
+    "title": "Street Food at Night: Late-Night Eats in [City]",
+    "description": "Review street foods available late at night. Expand with night market footage, vendor routines, and crowd reactions.",
+    "tags": ["night", "street food", "late-night"],
+    "niches": ["food", "travel", "nightlife"]
+  },
+  {
+    "title": "Street Food Around the World: [Dish] in [Country]",
+    "description": "Try a signature street food from a different country. Expand with cultural background, preparation, and taste comparison.",
+    "tags": ["international", "street food", "world"],
+    "niches": ["food", "travel", "culture"]
+  },
+  {
+    "title": "Street Food for Special Diets: Gluten-Free/Lactose-Free Options",
+    "description": "Review street foods suitable for special diets. Expand with ingredient checks, vendor interviews, and taste tests.",
+    "tags": ["special diet", "gluten-free", "lactose-free"],
+    "niches": ["food", "health", "travel"]
+  },
+  {
+    "title": "Street Food Cooking: How [Dish] is Made",
+    "description": "Show the preparation process of a street food dish. Expand with step-by-step footage, vendor tips, and recipe breakdown.",
+    "tags": ["cooking", "street food", "how-to"],
+    "niches": ["food", "education", "culture"]
+  },
+  {
+    "title": "Street Food for Festivals: What’s Popular During [Festival/Event]",
+    "description": "Review street foods that are popular during a festival. Expand with event coverage, vendor specials, and cultural context.",
+    "tags": ["festival", "street food", "seasonal"],
+    "niches": ["food", "events", "culture"]
+  },
+  {
+    "title": "Street Food Pairings: Best Drinks with [Dish]",
+    "description": "Suggest drink pairings for a street food dish. Expand with taste tests, vendor recommendations, and audience polls.",
+    "tags": ["pairing", "drinks", "street food"],
+    "niches": ["food", "beverages", "travel"]
+  },
+  {
+    "title": "Street Food for Breakfast, Lunch, and Dinner in [City]",
+    "description": "Review street foods for different meals throughout the day. Expand with time-lapse, vendor interviews, and meal ratings.",
+    "tags": ["meals", "street food", "review"],
+    "niches": ["food", "travel", "culture"]
+  },
+  {
+    "title": "Street Food with a View: Best Spots to Eat in [City]",
+    "description": "Highlight street food spots with great views. Expand with location footage, vendor stories, and food reviews.",
+    "tags": ["view", "location", "street food"],
+    "niches": ["food", "travel", "exploration"]
+  },
+  {
+    "title": "Street Food for Rainy Days: Comfort Foods in [Location]",
+    "description": "Review comforting street foods perfect for rainy weather. Expand with vendor interviews, preparation, and taste notes.",
+    "tags": ["comfort food", "rainy day", "street food"],
+    "niches": ["food", "weather", "travel"]
+  },
+  {
+    "title": "Street Food for Adventurous Eaters: Trying [Unusual Ingredient]",
+    "description": "Try street foods with unusual or exotic ingredients. Expand with reactions, vendor explanations, and audience challenges.",
+    "tags": ["adventurous", "unusual", "street food"],
+    "niches": ["food", "exploration", "entertainment"]
+  },
+  {
+    "title": "Street Food for Sweet Tooth: Best Sweets in [Market]",
+    "description": "Sample and review sweet street foods at a market. Expand with preparation footage, vendor interviews, and ranking.",
+    "tags": ["sweets", "desserts", "street food"],
+    "niches": ["food", "travel", "sweets"]
+  },
+  {
+    "title": "Street Food for Spicy Lovers: Hottest Dishes in [City]",
+    "description": "Review the spiciest street foods in a city. Expand with spice level ratings, vendor stories, and audience challenges.",
+    "tags": ["spicy", "hot", "street food"],
+    "niches": ["food", "entertainment", "travel"]
+  },
+  {
+    "title": "Street Food for Seafood Fans: Best Ocean Bites in [Location]",
+    "description": "Review seafood street foods in a location. Expand with vendor interviews, preparation, and taste tests.",
+    "tags": ["seafood", "street food", "review"],
+    "niches": ["food", "travel", "seafood"]
+  },
+  {
+    "title": "Street Food for Meat Lovers: Top Carnivore Picks in [City]",
+    "description": "Highlight the best meat-based street foods. Expand with preparation footage, vendor interviews, and taste notes.",
+    "tags": ["meat", "street food", "review"],
+    "niches": ["food", "travel", "meat"]
+  },
+  {
+    "title": "Street Food for Health-Conscious Eaters: Nutritious Finds",
+    "description": "Review healthy street food options. Expand with ingredient breakdowns, vendor interviews, and nutrition tips.",
+    "tags": ["healthy", "nutrition", "street food"],
+    "niches": ["food", "health", "travel"]
+  },
+  {
+    "title": "Street Food for Festivals: Limited-Time Specials in [Event]",
+    "description": "Review special street foods available only during festivals. Expand with event coverage, vendor interviews, and taste tests.",
+    "tags": ["festival", "special", "street food"],
+    "niches": ["food", "events", "culture"]
+  },
+  {
+    "title": "Street Food for Students: Best Cheap Eats Near [Campus]",
+    "description": "Review affordable street foods near a campus. Expand with student interviews, price comparisons, and taste ratings.",
+    "tags": ["students", "cheap eats", "street food"],
+    "niches": ["food", "education", "budget"]
+  },
+  {
+    "title": "Street Food for Tourists: What Not to Miss in [City]",
+    "description": "Guide tourists on must-try street foods. Expand with maps, vendor recommendations, and etiquette tips.",
+    "tags": ["tourist", "guide", "street food"],
+    "niches": ["food", "travel", "tourism"]
+  },
+  {
+    "title": "Street Food for Locals: Everyday Favorites in [Neighborhood]",
+    "description": "Explore what locals eat daily from street vendors. Expand with interviews, routines, and authentic recommendations.",
+    "tags": ["locals", "favorites", "street food"],
+    "niches": ["food", "culture", "travel"]
+  },
+  {
+    "title": "Street Food for Rainy Days: Comfort Eats in [City]",
+    "description": "Review comforting street foods for rainy weather. Expand with vendor interviews, preparation, and taste notes.",
+    "tags": ["comfort food", "rainy day", "street food"],
+    "niches": ["food", "weather", "travel"]
+  },
+  {
+    "title": "Street Food for Adventurous Eaters: Trying [Exotic Ingredient]",
+    "description": "Try street foods with exotic ingredients. Expand with reactions, vendor explanations, and audience challenges.",
+    "tags": ["adventurous", "exotic", "street food"],
+    "niches": ["food", "exploration", "entertainment"]
+  },
+  {
+    "title": "Street Food for Sweet Tooth: Best Treats in [Market]",
+    "description": "Sample and review sweet street foods at a market. Expand with preparation footage, vendor interviews, and ranking.",
+    "tags": ["sweets", "treats", "street food"],
+    "niches": ["food", "travel", "sweets"]
+  },
+  {
+    "title": "Street Food for Spicy Lovers: Hottest Eats in [City]",
+    "description": "Review the spiciest street foods in a city. Expand with spice level ratings, vendor stories, and audience challenges.",
+    "tags": ["spicy", "hot", "street food"],
+    "niches": ["food", "entertainment", "travel"]
+  },
+  {
+    "title": "Street Food for Seafood Fans: Ocean Bites in [Location]",
+    "description": "Review seafood street foods in a location. Expand with vendor interviews, preparation, and taste tests.",
+    "tags": ["seafood", "street food", "review"],
+    "niches": ["food", "travel", "seafood"]
+  },
+  {
+    "title": "Street Food for Meat Lovers: Top Picks in [City]",
+    "description": "Highlight the best meat-based street foods. Expand with preparation footage, vendor interviews, and taste notes.",
+    "tags": ["meat", "street food", "review"],
+    "niches": ["food", "travel", "meat"]
+  },
+  {
+    "title": "Street Food for Health-Conscious: Nutritious Finds in [Market]",
+    "description": "Review healthy street food options. Expand with ingredient breakdowns, vendor interviews, and nutrition tips.",
+    "tags": ["healthy", "nutrition", "street food"],
+    "niches": ["food", "health", "travel"]
+  },
+  {
+    "title": "Street Food for Students: Best Eats Near [University]",
+    "description": "Review affordable street foods near a university. Expand with student interviews, price comparisons, and taste ratings.",
+    "tags": ["students", "cheap eats", "street food"],
+    "niches": ["food", "education", "budget"]
+  },
+  {
+    "title": "Street Food for Festivals: Limited-Time Dishes in [Event]",
+    "description": "Review special street foods available only during festivals. Expand with event coverage, vendor interviews, and taste tests.",
+    "tags": ["festival", "special", "street food"],
+    "niches": ["food", "events", "culture"]
+  },
+  {
+    "title": "Street Food for Tourists: Essential Eats in [City]",
+    "description": "Guide tourists on essential street foods to try. Expand with maps, vendor recommendations, and etiquette tips.",
+    "tags": ["tourist", "guide", "street food"],
+    "niches": ["food", "travel", "tourism"]
+  },
+  {
+    "title": "Street Food for Locals: Everyday Eats in [Neighborhood]",
+    "description": "Explore what locals eat daily from street vendors. Expand with interviews, routines, and authentic recommendations.",
+    "tags": ["locals", "favorites", "street food"],
+    "niches": ["food", "culture", "travel"]
+  },
+  {
+    "title": "Street Food for Rainy Days: Comfort Foods in [Location]",
+    "description": "Review comforting street foods for rainy weather. Expand with vendor interviews, preparation, and taste notes.",
+    "tags": ["comfort food", "rainy day", "street food"],
+    "niches": ["food", "weather", "travel"]
+  }
+]

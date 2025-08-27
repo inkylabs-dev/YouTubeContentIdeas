@@ -1,1 +1,284 @@
-[]
+[
+  {
+    "title": "Top [Number] Study Tips for [Subject/Exam]",
+    "description": "Share a list of actionable study tips tailored to a specific subject or exam. Expand with examples, resources, and common mistakes to avoid.",
+    "tags": ["study tips", "education", "exam"],
+    "niches": ["students", "academics", "self-improvement"]
+  },
+  {
+    "title": "How to Create an Effective [Subject] Study Schedule",
+    "description": "Guide viewers on building a personalized study schedule for a subject. Expand with time management tools, templates, and sample routines.",
+    "tags": ["study schedule", "planning", "time management"],
+    "niches": ["education", "productivity", "students"]
+  },
+  {
+    "title": "Best Note-Taking Methods for [Learning Style]",
+    "description": "Compare note-taking techniques for different learning styles. Expand with demonstrations, pros and cons, and digital vs paper options.",
+    "tags": ["note-taking", "learning styles", "study"],
+    "niches": ["education", "students", "self-improvement"]
+  },
+  {
+    "title": "How to Stay Motivated While Studying for [Goal]",
+    "description": "Share motivation strategies for long-term study goals. Expand with reward systems, accountability partners, and mindset tips.",
+    "tags": ["motivation", "study", "goals"],
+    "niches": ["self-improvement", "education", "students"]
+  },
+  {
+    "title": "How to Avoid Procrastination When Studying [Topic]",
+    "description": "Discuss common causes of procrastination and how to overcome them. Expand with actionable steps, apps, and habit-building advice.",
+    "tags": ["procrastination", "study", "productivity"],
+    "niches": ["education", "self-improvement", "students"]
+  },
+  {
+    "title": "Active Recall Techniques for [Subject/Exam]",
+    "description": "Explain active recall and how to use it for better retention. Expand with flashcards, practice questions, and spaced repetition.",
+    "tags": ["active recall", "memory", "study"],
+    "niches": ["education", "students", "academics"]
+  },
+  {
+    "title": "How to Use Mind Maps for [Subject] Revision",
+    "description": "Show how to create and use mind maps for organizing study material. Expand with digital tools, examples, and revision strategies.",
+    "tags": ["mind maps", "revision", "study"],
+    "niches": ["education", "students", "self-improvement"]
+  },
+  {
+    "title": "Pomodoro Technique: Boost Your Focus for [Task]",
+    "description": "Introduce the Pomodoro Technique and how to apply it to study sessions. Expand with timer apps, break ideas, and productivity hacks.",
+    "tags": ["pomodoro", "focus", "study"],
+    "niches": ["productivity", "education", "students"]
+  },
+  {
+    "title": "How to Study for [Exam Type] in [Timeframe]",
+    "description": "Provide a step-by-step plan for preparing for a specific exam type within a set timeframe. Expand with checklists, resources, and mock tests.",
+    "tags": ["exam prep", "study plan", "timing"],
+    "niches": ["education", "students", "academics"]
+  },
+  {
+    "title": "How to Make the Most of Study Groups for [Subject]",
+    "description": "Discuss the benefits and best practices for group study. Expand with group roles, collaboration tools, and conflict resolution tips.",
+    "tags": ["study groups", "collaboration", "study"],
+    "niches": ["education", "students", "community"]
+  },
+  {
+    "title": "How to Take Effective Breaks During Study Sessions",
+    "description": "Explain the importance of breaks and how to use them wisely. Expand with break activity ideas, timing, and avoiding distractions.",
+    "tags": ["breaks", "study", "focus"],
+    "niches": ["productivity", "education", "wellness"]
+  },
+  {
+    "title": "How to Use Flashcards for [Subject/Topic]",
+    "description": "Show how to create and use flashcards for memorization. Expand with digital tools, spaced repetition, and self-testing tips.",
+    "tags": ["flashcards", "memory", "study"],
+    "niches": ["education", "students", "academics"]
+  },
+  {
+    "title": "How to Study Smarter, Not Harder for [Goal]",
+    "description": "Share strategies for efficient studying. Expand with prioritization, resource selection, and avoiding burnout.",
+    "tags": ["smart study", "efficiency", "study"],
+    "niches": ["education", "self-improvement", "students"]
+  },
+  {
+    "title": "How to Review and Revise for [Exam/Subject]",
+    "description": "Guide viewers through effective revision techniques. Expand with review schedules, practice tests, and summary sheets.",
+    "tags": ["revision", "review", "study"],
+    "niches": ["education", "students", "academics"]
+  },
+  {
+    "title": "How to Study with Limited Time for [Exam/Project]",
+    "description": "Offer tips for effective studying when time is short. Expand with prioritization, quick review methods, and stress management.",
+    "tags": ["time management", "study", "last minute"],
+    "niches": ["education", "students", "productivity"]
+  },
+  {
+    "title": "How to Create a Distraction-Free Study Environment",
+    "description": "Share tips for setting up a productive study space. Expand with organization, noise control, and digital detox ideas.",
+    "tags": ["study environment", "focus", "productivity"],
+    "niches": ["education", "students", "self-improvement"]
+  },
+  {
+    "title": "How to Use Technology to Enhance Your Study Sessions",
+    "description": "Review apps and tools that support studying. Expand with productivity apps, online resources, and digital organization tips.",
+    "tags": ["technology", "study", "apps"],
+    "niches": ["education", "technology", "students"]
+  },
+  {
+    "title": "How to Take Care of Your Mental Health During Exam Season",
+    "description": "Discuss mental health strategies for stressful study periods. Expand with relaxation techniques, support systems, and self-care routines.",
+    "tags": ["mental health", "study", "wellness"],
+    "niches": ["wellness", "education", "students"]
+  },
+  {
+    "title": "How to Balance Study and Life Commitments",
+    "description": "Offer advice for managing study alongside other responsibilities. Expand with scheduling, prioritization, and communication tips.",
+    "tags": ["balance", "study", "life"],
+    "niches": ["education", "students", "productivity"]
+  },
+  {
+    "title": "How to Set Realistic Study Goals for [Subject/Exam]",
+    "description": "Teach viewers how to set achievable study goals. Expand with SMART goals, tracking progress, and celebrating milestones.",
+    "tags": ["goal setting", "study", "planning"],
+    "niches": ["education", "self-improvement", "students"]
+  },
+  {
+    "title": "How to Use Past Papers for [Exam] Preparation",
+    "description": "Show how to find and use past exam papers for practice. Expand with marking schemes, timing, and identifying weak areas.",
+    "tags": ["past papers", "exam prep", "practice"],
+    "niches": ["education", "students", "academics"]
+  },
+  {
+    "title": "How to Memorize Complex Information for [Subject]",
+    "description": "Share memory techniques for complex topics. Expand with mnemonics, visualization, and association methods.",
+    "tags": ["memorization", "study", "memory"],
+    "niches": ["education", "students", "self-improvement"]
+  },
+  {
+    "title": "How to Stay Organized with Study Materials",
+    "description": "Offer organization tips for notes, books, and digital files. Expand with folders, labeling, and decluttering routines.",
+    "tags": ["organization", "study", "materials"],
+    "niches": ["education", "students", "productivity"]
+  },
+  {
+    "title": "How to Use Color Coding for Better Study Retention",
+    "description": "Explain how color coding can improve memory and organization. Expand with examples, tools, and subject-specific tips.",
+    "tags": ["color coding", "study", "memory"],
+    "niches": ["education", "students", "self-improvement"]
+  },
+  {
+    "title": "How to Prepare for [Oral/Practical] Exams",
+    "description": "Guide viewers through preparing for oral or practical exams. Expand with mock sessions, feedback, and confidence-building tips.",
+    "tags": ["oral exams", "practical exams", "study"],
+    "niches": ["education", "students", "academics"]
+  },
+  {
+    "title": "How to Use Online Resources for [Subject] Study",
+    "description": "Review the best online resources for a subject. Expand with websites, video tutorials, and interactive tools.",
+    "tags": ["online resources", "study", "subject"],
+    "niches": ["education", "technology", "students"]
+  },
+  {
+    "title": "How to Self-Test for [Exam/Subject] Mastery",
+    "description": "Show self-testing methods for exam readiness. Expand with quizzes, practice questions, and peer testing.",
+    "tags": ["self-test", "study", "exam"],
+    "niches": ["education", "students", "academics"]
+  },
+  {
+    "title": "How to Study Effectively with a Partner",
+    "description": "Discuss the benefits and strategies for partner study. Expand with accountability, peer teaching, and shared resources.",
+    "tags": ["study partner", "collaboration", "study"],
+    "niches": ["education", "students", "community"]
+  },
+  {
+    "title": "How to Manage Study Stress During [Exam/Project]",
+    "description": "Share stress management techniques for study periods. Expand with breathing exercises, time-outs, and support networks.",
+    "tags": ["stress", "study", "wellness"],
+    "niches": ["wellness", "education", "students"]
+  },
+  {
+    "title": "How to Use Spaced Repetition for Long-Term Retention",
+    "description": "Explain spaced repetition and how to implement it. Expand with apps, schedules, and subject-specific examples.",
+    "tags": ["spaced repetition", "memory", "study"],
+    "niches": ["education", "students", "self-improvement"]
+  },
+  {
+    "title": "How to Study for [Language] Exams",
+    "description": "Provide tips for language exam preparation. Expand with listening, speaking, reading, and writing practice.",
+    "tags": ["language exams", "study", "tips"],
+    "niches": ["education", "language", "students"]
+  },
+  {
+    "title": "How to Use Visualization Techniques for [Subject]",
+    "description": "Teach visualization strategies for learning and recall. Expand with diagrams, charts, and mental imagery.",
+    "tags": ["visualization", "study", "memory"],
+    "niches": ["education", "students", "self-improvement"]
+  },
+  {
+    "title": "How to Study for Multiple Subjects at Once",
+    "description": "Offer strategies for juggling multiple subjects. Expand with scheduling, prioritization, and avoiding burnout.",
+    "tags": ["multiple subjects", "study", "planning"],
+    "niches": ["education", "students", "productivity"]
+  },
+  {
+    "title": "How to Use Practice Tests for [Exam] Success",
+    "description": "Show how to use practice tests to prepare for exams. Expand with timing, review, and identifying weak areas.",
+    "tags": ["practice tests", "exam", "study"],
+    "niches": ["education", "students", "academics"]
+  },
+  {
+    "title": "How to Study for [STEM/Humanities] Subjects",
+    "description": "Compare study strategies for STEM vs humanities. Expand with subject-specific tips, resources, and examples.",
+    "tags": ["STEM", "humanities", "study"],
+    "niches": ["education", "students", "academics"]
+  },
+  {
+    "title": "How to Use Study Apps for [Subject/Exam]",
+    "description": "Review study apps for a subject or exam. Expand with features, pros and cons, and integration tips.",
+    "tags": ["study apps", "technology", "study"],
+    "niches": ["education", "students", "technology"]
+  },
+  {
+    "title": "How to Prepare for Open-Book Exams",
+    "description": "Guide viewers on preparing for open-book exams. Expand with organization, quick referencing, and practice questions.",
+    "tags": ["open-book exams", "study", "preparation"],
+    "niches": ["education", "students", "academics"]
+  },
+  {
+    "title": "How to Study When You Don’t Feel Like It",
+    "description": "Share motivation and discipline strategies for low-energy days. Expand with small wins, accountability, and self-compassion.",
+    "tags": ["motivation", "study", "discipline"],
+    "niches": ["self-improvement", "education", "students"]
+  },
+  {
+    "title": "How to Use Audio Learning for [Subject]",
+    "description": "Show how to use audio resources for studying. Expand with podcasts, audiobooks, and recording your own notes.",
+    "tags": ["audio learning", "study", "resources"],
+    "niches": ["education", "students", "technology"]
+  },
+  {
+    "title": "How to Study for [Standardized Test]",
+    "description": "Provide a study plan for a standardized test. Expand with section breakdowns, timing strategies, and practice resources.",
+    "tags": ["standardized test", "study", "plan"],
+    "niches": ["education", "students", "academics"]
+  },
+  {
+    "title": "How to Use Rewards to Boost Study Motivation",
+    "description": "Explain how to set up a reward system for study milestones. Expand with examples, tracking, and avoiding overindulgence.",
+    "tags": ["rewards", "motivation", "study"],
+    "niches": ["self-improvement", "education", "students"]
+  },
+  {
+    "title": "How to Study for [Practical/Project-Based] Assessments",
+    "description": "Share tips for preparing for practical or project-based assessments. Expand with planning, practice, and presentation skills.",
+    "tags": ["practical assessment", "project", "study"],
+    "niches": ["education", "students", "academics"]
+  },
+  {
+    "title": "How to Use Peer Teaching for Better Understanding",
+    "description": "Discuss the benefits of teaching others as a study method. Expand with group activities, feedback, and knowledge checks.",
+    "tags": ["peer teaching", "study", "collaboration"],
+    "niches": ["education", "students", "community"]
+  },
+  {
+    "title": "How to Study for [Online/Remote] Classes",
+    "description": "Offer strategies for effective online learning. Expand with digital organization, participation, and self-discipline tips.",
+    "tags": ["online classes", "remote learning", "study"],
+    "niches": ["education", "technology", "students"]
+  },
+  {
+    "title": "How to Reflect and Learn from Study Mistakes",
+    "description": "Teach viewers how to analyze and learn from past study mistakes. Expand with reflection exercises, journaling, and improvement plans.",
+    "tags": ["reflection", "study", "improvement"],
+    "niches": ["self-improvement", "education", "students"]
+  },
+  {
+    "title": "How to Prepare for [Viva/Oral Defense]",
+    "description": "Guide viewers through preparing for a viva or oral defense. Expand with mock questions, presentation tips, and confidence boosters.",
+    "tags": ["viva", "oral defense", "study"],
+    "niches": ["education", "students", "academics"]
+  },
+  {
+    "title": "How to Use Visualization Boards for Study Goals",
+    "description": "Show how to create and use vision boards for study motivation. Expand with goal setting, tracking, and visualization exercises.",
+    "tags": ["vision board", "study", "motivation"],
+    "niches": ["self-improvement", "education", "students"]
+  }
+]

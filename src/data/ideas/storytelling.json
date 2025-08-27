@@ -1,1 +1,314 @@
-[]
+[
+  {
+    "title": "How I [Overcame/Dealt With] [Big Challenge]",
+    "description": "Share a personal story about overcoming a significant challenge. Expand by detailing the steps, emotions, setbacks, and lessons learned.",
+    "tags": ["storytelling", "personal growth", "motivation"],
+    "niches": ["self-improvement", "vlogs", "education"]
+  },
+  {
+    "title": "The Day That Changed My [Life/Career/Outlook]",
+    "description": "Describe a pivotal moment and its impact. Expand by reflecting on before and after, and how viewers can relate.",
+    "tags": ["life lessons", "turning point", "reflection"],
+    "niches": ["lifestyle", "career", "motivation"]
+  },
+  {
+    "title": "My [Embarrassing/Funny/Unexpected] [Experience/Story]",
+    "description": "Tell a humorous or surprising story. Expand by building suspense, adding details, and sharing what you learned.",
+    "tags": ["humor", "storytime", "relatable"],
+    "niches": ["comedy", "vlogs", "entertainment"]
+  },
+  {
+    "title": "The [Best/Worst] Advice I Ever Received",
+    "description": "Share advice you received and its outcome. Expand by giving context, your reaction, and what you’d do differently.",
+    "tags": ["advice", "reflection", "storytelling"],
+    "niches": ["self-improvement", "education", "career"]
+  },
+  {
+    "title": "A [Stranger/Friend/Family Member] Changed My Life",
+    "description": "Tell a story about someone who made a big impact. Expand by describing the relationship and the lasting effects.",
+    "tags": ["inspiration", "relationships", "gratitude"],
+    "niches": ["lifestyle", "personal growth", "vlogs"]
+  },
+  {
+    "title": "The [Moment/Decision] I Almost Gave Up",
+    "description": "Share a time you nearly quit. Expand by explaining your thought process, what kept you going, and the outcome.",
+    "tags": ["perseverance", "motivation", "storytelling"],
+    "niches": ["self-improvement", "education", "vlogs"]
+  },
+  {
+    "title": "My [First/Last/Most Memorable] Day at [Place/Event]",
+    "description": "Describe a significant day. Expand by setting the scene, sharing emotions, and reflecting on its importance.",
+    "tags": ["memories", "events", "reflection"],
+    "niches": ["travel", "lifestyle", "education"]
+  },
+  {
+    "title": "How I [Learned/Discovered] [Skill/Hobby/Passion]",
+    "description": "Share your journey of learning something new. Expand by including challenges, milestones, and tips for viewers.",
+    "tags": ["learning", "skills", "growth"],
+    "niches": ["education", "hobbies", "self-improvement"]
+  },
+  {
+    "title": "The [Biggest/Most Surprising] Lesson I Learned from [Failure/Success]",
+    "description": "Discuss a lesson from a major failure or success. Expand by analyzing what happened and how it changed you.",
+    "tags": ["lessons", "failure", "success"],
+    "niches": ["self-improvement", "career", "education"]
+  },
+  {
+    "title": "Why I [Started/Stopped] [Habit/Activity]",
+    "description": "Explain your motivation for starting or stopping something. Expand by sharing the process and results.",
+    "tags": ["habits", "change", "motivation"],
+    "niches": ["self-improvement", "lifestyle", "health"]
+  },
+  {
+    "title": "The [Unexpected/Hidden] Side of [My Job/My Life]",
+    "description": "Reveal lesser-known aspects of your life or work. Expand by sharing stories and insights.",
+    "tags": ["behind the scenes", "career", "personal"],
+    "niches": ["career", "vlogs", "education"]
+  },
+  {
+    "title": "How [Travel/Moving] Changed My Perspective",
+    "description": "Share how a new environment affected you. Expand by describing culture shocks, lessons, and personal growth.",
+    "tags": ["travel", "change", "growth"],
+    "niches": ["travel", "lifestyle", "self-improvement"]
+  },
+  {
+    "title": "The [Craziest/Most Unbelievable] Thing That Happened to Me",
+    "description": "Tell a story that’s hard to believe. Expand by building suspense and including vivid details.",
+    "tags": ["storytime", "unbelievable", "entertainment"],
+    "niches": ["vlogs", "comedy", "entertainment"]
+  },
+  {
+    "title": "What I Wish I Knew Before [Event/Decision]",
+    "description": "Share advice you wish you had. Expand by explaining the consequences and what you’d do differently.",
+    "tags": ["advice", "reflection", "storytelling"],
+    "niches": ["education", "self-improvement", "career"]
+  },
+  {
+    "title": "The [Most Difficult/Easiest] Choice I Ever Made",
+    "description": "Describe a tough or easy decision. Expand by sharing your reasoning and the outcome.",
+    "tags": ["decisions", "life choices", "reflection"],
+    "niches": ["lifestyle", "self-improvement", "vlogs"]
+  },
+  {
+    "title": "How I [Met/Connected With] [Someone Important]",
+    "description": "Tell the story of meeting someone significant. Expand by sharing the context and impact.",
+    "tags": ["relationships", "networking", "storytelling"],
+    "niches": ["lifestyle", "career", "vlogs"]
+  },
+  {
+    "title": "The [Biggest/Smallest] Risk I Ever Took",
+    "description": "Share a story about taking a risk. Expand by discussing your fears, the process, and the results.",
+    "tags": ["risk", "courage", "growth"],
+    "niches": ["self-improvement", "career", "vlogs"]
+  },
+  {
+    "title": "How I [Dealt With/Survived] [Failure/Setback]",
+    "description": "Describe a setback and your recovery. Expand by sharing coping strategies and lessons learned.",
+    "tags": ["resilience", "failure", "motivation"],
+    "niches": ["self-improvement", "education", "vlogs"]
+  },
+  {
+    "title": "The [Most Inspiring/Influential] Person I’ve Met",
+    "description": "Talk about someone who inspired you. Expand by sharing their qualities and how they affected you.",
+    "tags": ["inspiration", "role models", "storytelling"],
+    "niches": ["lifestyle", "education", "vlogs"]
+  },
+  {
+    "title": "Why I [Chose/Left] My [Career/Path]",
+    "description": "Explain your career decisions. Expand by sharing your thought process and advice for others.",
+    "tags": ["career", "decisions", "reflection"],
+    "niches": ["career", "education", "self-improvement"]
+  },
+  {
+    "title": "The [Most Valuable/Unexpected] Lesson from [Travel/Adventure]",
+    "description": "Share a lesson learned from an adventure. Expand by describing the experience and its impact.",
+    "tags": ["travel", "adventure", "lessons"],
+    "niches": ["travel", "lifestyle", "education"]
+  },
+  {
+    "title": "How I [Transformed/Changed] My [Mindset/Life]",
+    "description": "Describe a personal transformation. Expand by sharing the steps, challenges, and results.",
+    "tags": ["transformation", "growth", "motivation"],
+    "niches": ["self-improvement", "lifestyle", "education"]
+  },
+  {
+    "title": "The [Most Important/Overlooked] Value I Live By",
+    "description": "Discuss a core value and its influence. Expand by sharing stories that illustrate it.",
+    "tags": ["values", "ethics", "storytelling"],
+    "niches": ["self-improvement", "lifestyle", "education"]
+  },
+  {
+    "title": "How I [Recovered From/Handled] [Loss/Disappointment]",
+    "description": "Share a story of loss and recovery. Expand by discussing emotions, support systems, and growth.",
+    "tags": ["loss", "recovery", "resilience"],
+    "niches": ["self-improvement", "vlogs", "education"]
+  },
+  {
+    "title": "The [Most Rewarding/Challenging] Project I’ve Worked On",
+    "description": "Describe a significant project. Expand by sharing obstacles, achievements, and takeaways.",
+    "tags": ["projects", "work", "reflection"],
+    "niches": ["career", "education", "vlogs"]
+  },
+  {
+    "title": "How I [Faced/Overcame] My [Fears/Insecurities]",
+    "description": "Share your journey with fear or insecurity. Expand by detailing your strategies and progress.",
+    "tags": ["fear", "confidence", "growth"],
+    "niches": ["self-improvement", "education", "vlogs"]
+  },
+  {
+    "title": "The [Most Memorable/Unexpected] Compliment I Received",
+    "description": "Tell the story of a compliment that stuck with you. Expand by explaining its impact.",
+    "tags": ["compliments", "positivity", "storytelling"],
+    "niches": ["lifestyle", "self-improvement", "vlogs"]
+  },
+  {
+    "title": "Why I [Believe In/Practice] [Habit/Philosophy]",
+    "description": "Explain a habit or philosophy you follow. Expand by sharing stories and benefits.",
+    "tags": ["habits", "philosophy", "reflection"],
+    "niches": ["self-improvement", "lifestyle", "education"]
+  },
+  {
+    "title": "The [Most Difficult/Unexpected] Conversation I Had",
+    "description": "Describe a tough conversation. Expand by sharing your approach and what you learned.",
+    "tags": ["communication", "relationships", "growth"],
+    "niches": ["lifestyle", "self-improvement", "education"]
+  },
+  {
+    "title": "How I [Found/Lost] My [Passion/Purpose]",
+    "description": "Share your journey with passion or purpose. Expand by describing the search, struggles, and discoveries.",
+    "tags": ["passion", "purpose", "storytelling"],
+    "niches": ["self-improvement", "career", "education"]
+  },
+  {
+    "title": "The [Most Impactful/Regrettable] Decision I Made",
+    "description": "Discuss a decision and its consequences. Expand by reflecting on what you learned.",
+    "tags": ["decisions", "reflection", "growth"],
+    "niches": ["self-improvement", "career", "vlogs"]
+  },
+  {
+    "title": "How I [Balanced/Managed] [Work/Life/School]",
+    "description": "Share your strategies for balance. Expand by telling stories of struggle and success.",
+    "tags": ["balance", "productivity", "storytelling"],
+    "niches": ["lifestyle", "career", "education"]
+  },
+  {
+    "title": "The [Most Surprising/Unexpected] Outcome of [Event/Decision]",
+    "description": "Tell a story with an unexpected twist. Expand by building suspense and sharing your reaction.",
+    "tags": ["surprise", "storytelling", "reflection"],
+    "niches": ["vlogs", "lifestyle", "entertainment"]
+  },
+  {
+    "title": "Why I [Moved To/Left] [City/Country]",
+    "description": "Explain your reasons for moving. Expand by sharing the process, challenges, and results.",
+    "tags": ["moving", "change", "storytelling"],
+    "niches": ["travel", "lifestyle", "vlogs"]
+  },
+  {
+    "title": "How I [Saved/Spent] My [First/Biggest] Paycheck",
+    "description": "Share what you did with a significant paycheck. Expand by explaining your choices and lessons learned.",
+    "tags": ["money", "finance", "storytelling"],
+    "niches": ["finance", "career", "lifestyle"]
+  },
+  {
+    "title": "The [Most Meaningful/Unexpected] Gift I Received",
+    "description": "Tell the story of a special gift. Expand by describing its significance and your reaction.",
+    "tags": ["gifts", "gratitude", "storytelling"],
+    "niches": ["lifestyle", "vlogs", "self-improvement"]
+  },
+  {
+    "title": "How I [Dealt With/Overcame] [Criticism/Negativity]",
+    "description": "Share your experience with criticism. Expand by discussing your response and growth.",
+    "tags": ["criticism", "growth", "resilience"],
+    "niches": ["self-improvement", "career", "education"]
+  },
+  {
+    "title": "The [Most Important/Unexpected] Lesson from [Friendship/Relationship]",
+    "description": "Discuss a lesson from a relationship. Expand by sharing stories and takeaways.",
+    "tags": ["relationships", "lessons", "storytelling"],
+    "niches": ["lifestyle", "self-improvement", "vlogs"]
+  },
+  {
+    "title": "Why I [Started/Stopped] [Social Media/Platform]",
+    "description": "Explain your social media journey. Expand by sharing motivations, experiences, and advice.",
+    "tags": ["social media", "change", "reflection"],
+    "niches": ["lifestyle", "education", "vlogs"]
+  },
+  {
+    "title": "How I [Achieved/Failed] My [Goal/Resolution]",
+    "description": "Share your pursuit of a goal. Expand by detailing the process, obstacles, and results.",
+    "tags": ["goals", "achievement", "storytelling"],
+    "niches": ["self-improvement", "education", "vlogs"]
+  },
+  {
+    "title": "The [Most Eye-Opening/Surprising] Thing I Learned About [Topic]",
+    "description": "Share a surprising discovery. Expand by explaining how it changed your perspective.",
+    "tags": ["learning", "discovery", "reflection"],
+    "niches": ["education", "lifestyle", "vlogs"]
+  },
+  {
+    "title": "How I [Made/Lost] My [First/Best] Friend",
+    "description": "Tell the story of a friendship. Expand by sharing the journey and its impact.",
+    "tags": ["friendship", "relationships", "storytelling"],
+    "niches": ["lifestyle", "vlogs", "self-improvement"]
+  },
+  {
+    "title": "The [Most Difficult/Rewarding] Sacrifice I Made",
+    "description": "Describe a sacrifice and its effects. Expand by sharing your motivations and what you gained or lost.",
+    "tags": ["sacrifice", "growth", "reflection"],
+    "niches": ["self-improvement", "career", "lifestyle"]
+  },
+  {
+    "title": "Why I [Chose/Left] [School/Major/Course]",
+    "description": "Explain your educational choices. Expand by sharing your reasoning and advice.",
+    "tags": ["education", "decisions", "storytelling"],
+    "niches": ["education", "career", "self-improvement"]
+  },
+  {
+    "title": "How I [Survived/Thrived] During [Difficult Time/Period]",
+    "description": "Share your experience during a tough period. Expand by discussing coping mechanisms and growth.",
+    "tags": ["resilience", "growth", "storytelling"],
+    "niches": ["self-improvement", "vlogs", "education"]
+  },
+  {
+    "title": "The [Most Unusual/Unexpected] Place I’ve Been",
+    "description": "Tell a story about a unique place. Expand by describing your experiences and what made it memorable.",
+    "tags": ["travel", "adventure", "storytelling"],
+    "niches": ["travel", "lifestyle", "vlogs"]
+  },
+  {
+    "title": "How I [Discovered/Created] My [Routine/Workflow]",
+    "description": "Share how you developed a routine. Expand by explaining the process, challenges, and benefits.",
+    "tags": ["routine", "productivity", "storytelling"],
+    "niches": ["self-improvement", "career", "education"]
+  },
+  {
+    "title": "The [Most Impactful/Regrettable] Purchase I Made",
+    "description": "Discuss a purchase and its effects. Expand by sharing your decision-making process and lessons.",
+    "tags": ["money", "purchases", "reflection"],
+    "niches": ["finance", "lifestyle", "vlogs"]
+  },
+  {
+    "title": "Why I [Started/Stopped] [Volunteering/Helping Others]",
+    "description": "Explain your journey with volunteering. Expand by sharing stories and the impact on you and others.",
+    "tags": ["volunteering", "helping", "storytelling"],
+    "niches": ["self-improvement", "lifestyle", "education"]
+  },
+  {
+    "title": "How I [Dealt With/Overcame] [Procrastination/Distraction]",
+    "description": "Share your struggle with procrastination. Expand by detailing strategies and progress.",
+    "tags": ["productivity", "habits", "growth"],
+    "niches": ["self-improvement", "education", "career"]
+  },
+  {
+    "title": "The [Most Memorable/Unexpected] Compliment I Gave",
+    "description": "Tell the story of giving a compliment. Expand by describing the situation and its impact.",
+    "tags": ["compliments", "positivity", "storytelling"],
+    "niches": ["lifestyle", "self-improvement", "vlogs"]
+  },
+  {
+    "title": "Why I [Believe In/Practice] [Gratitude/Mindfulness]",
+    "description": "Explain your approach to gratitude or mindfulness. Expand by sharing stories and benefits.",
+    "tags": ["gratitude", "mindfulness", "reflection"],
+    "niches": ["self-improvement", "lifestyle", "education"]
+  }
+]

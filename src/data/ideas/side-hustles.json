@@ -1,1 +1,644 @@
-[]
+[
+  {
+    "title": "How to Start a [Side Hustle Type] in [Timeframe]",
+    "description": "Guide viewers through the steps to launch a [Side Hustle Type] within [Timeframe], including planning, setup, and first sales.",
+    "tags": ["side hustle", "how to", "startup"],
+    "niches": ["entrepreneurship", "business"]
+  },
+  {
+    "title": "Top 5 Mistakes to Avoid in [Side Hustle Type]",
+    "description": "Discuss common pitfalls people face when starting a [Side Hustle Type] and provide actionable tips to avoid them.",
+    "tags": ["mistakes", "tips", "side hustle"],
+    "niches": ["business", "self-improvement"]
+  },
+  {
+    "title": "Beginner’s Guide to [Side Hustle Type] for [Target Audience]",
+    "description": "Create a beginner-friendly walkthrough for [Target Audience] interested in starting a [Side Hustle Type].",
+    "tags": ["beginner", "guide", "side hustle"],
+    "niches": ["education", "career"]
+  },
+  {
+    "title": "How Much Can You Make with [Side Hustle Type]?",
+    "description": "Break down the earning potential of [Side Hustle Type], including real examples and income reports.",
+    "tags": ["income", "side hustle", "money"],
+    "niches": ["finance", "business"]
+  },
+  {
+    "title": "Day in the Life of a [Side Hustle Type] [Role]",
+    "description": "Showcase a typical day for someone working as a [Role] in the [Side Hustle Type] space.",
+    "tags": ["day in the life", "vlog", "side hustle"],
+    "niches": ["lifestyle", "career"]
+  },
+  {
+    "title": "How to Find Clients for Your [Side Hustle Type]",
+    "description": "Share strategies for attracting and retaining clients in the [Side Hustle Type] industry.",
+    "tags": ["clients", "marketing", "side hustle"],
+    "niches": ["business", "marketing"]
+  },
+  {
+    "title": "Best Tools for [Side Hustle Type] in [Year]",
+    "description": "Review and recommend the top tools and software for running a [Side Hustle Type] in [Year].",
+    "tags": ["tools", "review", "side hustle"],
+    "niches": ["technology", "business"]
+  },
+  {
+    "title": "How I Made My First $1000 with [Side Hustle Type]",
+    "description": "Share a personal or hypothetical story about earning the first $1000 from a [Side Hustle Type], including lessons learned.",
+    "tags": ["income", "story", "side hustle"],
+    "niches": ["finance", "entrepreneurship"]
+  },
+  {
+    "title": "Passive Income Ideas: [Side Hustle Type] Edition",
+    "description": "Explore how [Side Hustle Type] can be turned into a passive income stream, with practical steps.",
+    "tags": ["passive income", "side hustle", "ideas"],
+    "niches": ["finance", "business"]
+  },
+  {
+    "title": "Side Hustles You Can Start with [Budget] or Less",
+    "description": "List and explain [Side Hustle Type] ideas that require minimal upfront investment, suitable for those with a [Budget].",
+    "tags": ["low budget", "side hustle", "startup"],
+    "niches": ["business", "personal finance"]
+  },
+  {
+    "title": "How to Balance [Side Hustle Type] with a Full-Time Job",
+    "description": "Offer time management tips and productivity hacks for juggling a [Side Hustle Type] alongside a 9-to-5.",
+    "tags": ["productivity", "time management", "side hustle"],
+    "niches": ["self-improvement", "career"]
+  },
+  {
+    "title": "From [Zero] to [Milestone]: My [Side Hustle Type] Journey",
+    "description": "Document the journey from starting at [Zero] to reaching [Milestone] in a [Side Hustle Type].",
+    "tags": ["journey", "story", "side hustle"],
+    "niches": ["entrepreneurship", "motivation"]
+  },
+  {
+    "title": "Top [Number] [Side Hustle Type] Niches for [Year]",
+    "description": "Highlight the most profitable or trending [Side Hustle Type] niches for [Year].",
+    "tags": ["niches", "trends", "side hustle"],
+    "niches": ["business", "market research"]
+  },
+  {
+    "title": "How to Scale Your [Side Hustle Type] to [Income Level]",
+    "description": "Share strategies for growing a [Side Hustle Type] from small beginnings to [Income Level].",
+    "tags": ["scaling", "growth", "side hustle"],
+    "niches": ["business", "finance"]
+  },
+  {
+    "title": "What I Wish I Knew Before Starting [Side Hustle Type]",
+    "description": "Reflect on lessons learned and advice for beginners considering a [Side Hustle Type].",
+    "tags": ["advice", "lessons", "side hustle"],
+    "niches": ["self-improvement", "business"]
+  },
+  {
+    "title": "How to Market Your [Side Hustle Type] Online",
+    "description": "Teach viewers digital marketing tactics to promote their [Side Hustle Type] effectively.",
+    "tags": ["marketing", "online", "side hustle"],
+    "niches": ["marketing", "business"]
+  },
+  {
+    "title": "Side Hustle Ideas for [Target Audience]",
+    "description": "Curate a list of [Side Hustle Type] ideas tailored to [Target Audience] (e.g., students, parents, retirees).",
+    "tags": ["ideas", "target audience", "side hustle"],
+    "niches": ["career", "personal finance"]
+  },
+  {
+    "title": "How to Get Your First Customer in [Side Hustle Type]",
+    "description": "Provide actionable steps to land the first customer or client in a [Side Hustle Type].",
+    "tags": ["customers", "side hustle", "startup"],
+    "niches": ["business", "sales"]
+  },
+  {
+    "title": "Legal Tips for Starting a [Side Hustle Type]",
+    "description": "Discuss legal considerations, licenses, and regulations for launching a [Side Hustle Type].",
+    "tags": ["legal", "tips", "side hustle"],
+    "niches": ["business", "law"]
+  },
+  {
+    "title": "How to Price Your Services in [Side Hustle Type]",
+    "description": "Explain pricing strategies and how to set rates for services in the [Side Hustle Type] industry.",
+    "tags": ["pricing", "services", "side hustle"],
+    "niches": ["business", "finance"]
+  },
+  {
+    "title": "Best Side Hustles for [Season/Year]",
+    "description": "Highlight [Side Hustle Type] ideas that are especially relevant for [Season/Year].",
+    "tags": ["seasonal", "trends", "side hustle"],
+    "niches": ["business", "market trends"]
+  },
+  {
+    "title": "How to Turn Your [Skill/Hobby] into a [Side Hustle Type]",
+    "description": "Show viewers how to monetize a [Skill/Hobby] by starting a [Side Hustle Type].",
+    "tags": ["skills", "hobby", "side hustle"],
+    "niches": ["self-improvement", "business"]
+  },
+  {
+    "title": "Side Hustle Success Stories: [Side Hustle Type]",
+    "description": "Share inspiring stories of people who found success with a [Side Hustle Type].",
+    "tags": ["success", "stories", "side hustle"],
+    "niches": ["motivation", "entrepreneurship"]
+  },
+  {
+    "title": "How to Outsource Tasks in Your [Side Hustle Type]",
+    "description": "Teach viewers how to delegate and outsource work to grow their [Side Hustle Type] efficiently.",
+    "tags": ["outsourcing", "growth", "side hustle"],
+    "niches": ["business", "productivity"]
+  },
+  {
+    "title": "Side Hustle Challenges: [Challenge Type] in [Side Hustle Type]",
+    "description": "Take on a [Challenge Type] (e.g., 30-day challenge) in a [Side Hustle Type] and document the results.",
+    "tags": ["challenge", "experiment", "side hustle"],
+    "niches": ["lifestyle", "motivation"]
+  },
+  {
+    "title": "How to Build a Brand for Your [Side Hustle Type]",
+    "description": "Guide viewers through branding basics for their [Side Hustle Type], including logo, messaging, and online presence.",
+    "tags": ["branding", "side hustle", "marketing"],
+    "niches": ["business", "marketing"]
+  },
+  {
+    "title": "Side Hustle Myths: Debunking [Side Hustle Type] Misconceptions",
+    "description": "Address and correct common myths about [Side Hustle Type] to help viewers make informed decisions.",
+    "tags": ["myths", "facts", "side hustle"],
+    "niches": ["education", "business"]
+  },
+  {
+    "title": "How to Get Repeat Customers in [Side Hustle Type]",
+    "description": "Share retention strategies to keep customers coming back to your [Side Hustle Type].",
+    "tags": ["customers", "retention", "side hustle"],
+    "niches": ["business", "sales"]
+  },
+  {
+    "title": "How to Use Social Media for [Side Hustle Type]",
+    "description": "Teach viewers how to leverage social media platforms to promote and grow their [Side Hustle Type].",
+    "tags": ["social media", "marketing", "side hustle"],
+    "niches": ["marketing", "business"]
+  },
+  {
+    "title": "How to Handle Taxes for Your [Side Hustle Type]",
+    "description": "Explain tax basics, deductions, and record-keeping for [Side Hustle Type] owners.",
+    "tags": ["taxes", "finance", "side hustle"],
+    "niches": ["finance", "business"]
+  },
+  {
+    "title": "How to Find Your First [Product/Service] to Sell in [Side Hustle Type]",
+    "description": "Guide viewers on researching and selecting their first [Product/Service] for a [Side Hustle Type].",
+    "tags": ["product", "service", "side hustle"],
+    "niches": ["business", "entrepreneurship"]
+  },
+  {
+    "title": "How to Build a Website for Your [Side Hustle Type]",
+    "description": "Show step-by-step how to create a simple website to support your [Side Hustle Type].",
+    "tags": ["website", "tutorial", "side hustle"],
+    "niches": ["technology", "business"]
+  },
+  {
+    "title": "How to Get Reviews for Your [Side Hustle Type]",
+    "description": "Explain the importance of reviews and how to encourage customers to leave feedback for your [Side Hustle Type].",
+    "tags": ["reviews", "feedback", "side hustle"],
+    "niches": ["business", "marketing"]
+  },
+  {
+    "title": "How to Network in the [Side Hustle Type] Community",
+    "description": "Share networking tips and resources for connecting with others in the [Side Hustle Type] space.",
+    "tags": ["networking", "community", "side hustle"],
+    "niches": ["business", "career"]
+  },
+  {
+    "title": "How to Stay Motivated in Your [Side Hustle Type]",
+    "description": "Offer motivation and mindset tips for staying consistent with your [Side Hustle Type].",
+    "tags": ["motivation", "mindset", "side hustle"],
+    "niches": ["self-improvement", "entrepreneurship"]
+  },
+  {
+    "title": "How to Handle Burnout in [Side Hustle Type]",
+    "description": "Discuss signs of burnout and self-care strategies for [Side Hustle Type] entrepreneurs.",
+    "tags": ["burnout", "self-care", "side hustle"],
+    "niches": ["health", "self-improvement"]
+  },
+  {
+    "title": "How to Transition Your [Side Hustle Type] to Full-Time",
+    "description": "Guide viewers through the process of turning a [Side Hustle Type] into a full-time business.",
+    "tags": ["full-time", "transition", "side hustle"],
+    "niches": ["business", "career"]
+  },
+  {
+    "title": "How to Find Trending Ideas in [Side Hustle Type]",
+    "description": "Teach viewers how to research and identify trending opportunities in the [Side Hustle Type] space.",
+    "tags": ["trends", "research", "side hustle"],
+    "niches": ["market research", "business"]
+  },
+  {
+    "title": "How to Pitch Your [Side Hustle Type] to Investors",
+    "description": "Explain how to create a compelling pitch for raising funds for your [Side Hustle Type].",
+    "tags": ["pitch", "investors", "side hustle"],
+    "niches": ["business", "finance"]
+  },
+  {
+    "title": "How to Create a Portfolio for Your [Side Hustle Type]",
+    "description": "Show viewers how to build a portfolio to showcase their work in the [Side Hustle Type] industry.",
+    "tags": ["portfolio", "showcase", "side hustle"],
+    "niches": ["career", "business"]
+  },
+  {
+    "title": "How to Get Started with [Side Hustle Type] as a Student",
+    "description": "Provide tips and ideas for students looking to start a [Side Hustle Type] while studying.",
+    "tags": ["students", "side hustle", "education"],
+    "niches": ["education", "career"]
+  },
+  {
+    "title": "How to Find Your Niche in [Side Hustle Type]",
+    "description": "Guide viewers through the process of identifying a profitable niche within the [Side Hustle Type] industry.",
+    "tags": ["niche", "side hustle", "business"],
+    "niches": ["business", "entrepreneurship"]
+  },
+  {
+    "title": "How to Use AI Tools for [Side Hustle Type]",
+    "description": "Showcase AI-powered tools that can help automate or improve your [Side Hustle Type].",
+    "tags": ["AI", "tools", "side hustle"],
+    "niches": ["technology", "business"]
+  },
+  {
+    "title": "How to Get Started with [Side Hustle Type] with No Experience",
+    "description": "Encourage beginners by showing how to start a [Side Hustle Type] from scratch, even without prior experience.",
+    "tags": ["no experience", "beginner", "side hustle"],
+    "niches": ["education", "business"]
+  },
+  {
+    "title": "How to Find Freelance Gigs in [Side Hustle Type]",
+    "description": "Share platforms and strategies for landing freelance gigs in the [Side Hustle Type] space.",
+    "tags": ["freelance", "gigs", "side hustle"],
+    "niches": ["career", "business"]
+  },
+  {
+    "title": "How to Create Digital Products for [Side Hustle Type]",
+    "description": "Teach viewers how to develop and sell digital products related to their [Side Hustle Type].",
+    "tags": ["digital products", "side hustle", "creation"],
+    "niches": ["business", "technology"]
+  },
+  {
+    "title": "How to Use [Platform] for Your [Side Hustle Type]",
+    "description": "Demonstrate how to leverage [Platform] (e.g., Etsy, Fiverr, Upwork) to grow your [Side Hustle Type].",
+    "tags": ["platform", "side hustle", "tutorial"],
+    "niches": ["business", "technology"]
+  },
+  {
+    "title": "How to Build an Email List for Your [Side Hustle Type]",
+    "description": "Explain the importance of email marketing and how to start building a list for your [Side Hustle Type].",
+    "tags": ["email marketing", "side hustle", "growth"],
+    "niches": ["marketing", "business"]
+  },
+  {
+    "title": "How to Set Goals for Your [Side Hustle Type]",
+    "description": "Guide viewers through goal-setting frameworks to achieve success in their [Side Hustle Type].",
+    "tags": ["goals", "planning", "side hustle"],
+    "niches": ["self-improvement", "business"]
+  },
+  {
+    "title": "How to Get Testimonials for Your [Side Hustle Type]",
+    "description": "Show viewers how to collect and use testimonials to build trust in their [Side Hustle Type].",
+    "tags": ["testimonials", "trust", "side hustle"],
+    "niches": ["business", "marketing"]
+  },
+  {
+    "title": "How to Handle Negative Feedback in [Side Hustle Type]",
+    "description": "Discuss strategies for responding to and learning from negative feedback in your [Side Hustle Type].",
+    "tags": ["feedback", "customer service", "side hustle"],
+    "niches": ["business", "self-improvement"]
+  },
+  {
+    "title": "How to Create a Business Plan for Your [Side Hustle Type]",
+    "description": "Teach viewers how to draft a simple business plan to guide their [Side Hustle Type] growth.",
+    "tags": ["business plan", "side hustle", "planning"],
+    "niches": ["business", "entrepreneurship"]
+  },
+  {
+    "title": "How to Use Content Marketing for [Side Hustle Type]",
+    "description": "Show how to create valuable content to attract and retain customers for your [Side Hustle Type].",
+    "tags": ["content marketing", "side hustle", "growth"],
+    "niches": ["marketing", "business"]
+  },
+  {
+    "title": "How to Find a Mentor for Your [Side Hustle Type]",
+    "description": "Explain the benefits of mentorship and how to find a mentor in the [Side Hustle Type] field.",
+    "tags": ["mentor", "guidance", "side hustle"],
+    "niches": ["career", "business"]
+  },
+  {
+    "title": "How to Use SEO for Your [Side Hustle Type]",
+    "description": "Teach viewers the basics of SEO to help their [Side Hustle Type] get discovered online.",
+    "tags": ["SEO", "side hustle", "marketing"],
+    "niches": ["technology", "marketing"]
+  },
+  {
+    "title": "How to Create a YouTube Channel for Your [Side Hustle Type]",
+    "description": "Guide viewers through starting a YouTube channel to promote their [Side Hustle Type].",
+    "tags": ["YouTube", "side hustle", "video"],
+    "niches": ["marketing", "technology"]
+  },
+  {
+    "title": "How to Use Print-on-Demand for [Side Hustle Type]",
+    "description": "Show how to start a print-on-demand business as a [Side Hustle Type], including design and fulfillment tips.",
+    "tags": ["print-on-demand", "side hustle", "ecommerce"],
+    "niches": ["business", "technology"]
+  },
+  {
+    "title": "How to Use Dropshipping for [Side Hustle Type]",
+    "description": "Explain how dropshipping works and how to apply it to your [Side Hustle Type].",
+    "tags": ["dropshipping", "side hustle", "ecommerce"],
+    "niches": ["business", "technology"]
+  },
+  {
+    "title": "How to Use Affiliate Marketing for [Side Hustle Type]",
+    "description": "Teach viewers how to earn commissions by promoting products related to their [Side Hustle Type].",
+    "tags": ["affiliate marketing", "side hustle", "income"],
+    "niches": ["business", "marketing"]
+  },
+  {
+    "title": "How to Use Podcasting for [Side Hustle Type]",
+    "description": "Show how to start a podcast to share insights and promote your [Side Hustle Type].",
+    "tags": ["podcasting", "side hustle", "audio"],
+    "niches": ["marketing", "technology"]
+  },
+  {
+    "title": "How to Use TikTok for [Side Hustle Type]",
+    "description": "Demonstrate how to use TikTok to reach new audiences for your [Side Hustle Type].",
+    "tags": ["TikTok", "side hustle", "social media"],
+    "niches": ["marketing", "technology"]
+  },
+  {
+    "title": "How to Use Instagram for [Side Hustle Type]",
+    "description": "Show how to build a brand and attract customers for your [Side Hustle Type] on Instagram.",
+    "tags": ["Instagram", "side hustle", "social media"],
+    "niches": ["marketing", "technology"]
+  },
+  {
+    "title": "How to Use Facebook Groups for [Side Hustle Type]",
+    "description": "Teach viewers how to leverage Facebook Groups to build community and promote their [Side Hustle Type].",
+    "tags": ["Facebook", "side hustle", "community"],
+    "niches": ["marketing", "technology"]
+  },
+  {
+    "title": "How to Use LinkedIn for [Side Hustle Type]",
+    "description": "Show how to network and find clients for your [Side Hustle Type] using LinkedIn.",
+    "tags": ["LinkedIn", "side hustle", "networking"],
+    "niches": ["marketing", "technology"]
+  },
+  {
+    "title": "How to Use Pinterest for [Side Hustle Type]",
+    "description": "Explain how to drive traffic and sales for your [Side Hustle Type] using Pinterest.",
+    "tags": ["Pinterest", "side hustle", "social media"],
+    "niches": ["marketing", "technology"]
+  },
+  {
+    "title": "How to Use Twitter for [Side Hustle Type]",
+    "description": "Show how to engage with your audience and promote your [Side Hustle Type] on Twitter.",
+    "tags": ["Twitter", "side hustle", "social media"],
+    "niches": ["marketing", "technology"]
+  },
+  {
+    "title": "How to Use Reddit for [Side Hustle Type]",
+    "description": "Teach viewers how to participate in relevant subreddits to promote their [Side Hustle Type].",
+    "tags": ["Reddit", "side hustle", "community"],
+    "niches": ["marketing", "technology"]
+  },
+  {
+    "title": "How to Use Quora for [Side Hustle Type]",
+    "description": "Show how to answer questions and build authority for your [Side Hustle Type] on Quora.",
+    "tags": ["Quora", "side hustle", "authority"],
+    "niches": ["marketing", "technology"]
+  },
+  {
+    "title": "How to Use Medium for [Side Hustle Type]",
+    "description": "Explain how to write articles on Medium to share your [Side Hustle Type] expertise and attract clients.",
+    "tags": ["Medium", "side hustle", "writing"],
+    "niches": ["marketing", "technology"]
+  },
+  {
+    "title": "How to Use Gumroad for [Side Hustle Type]",
+    "description": "Show how to sell digital products for your [Side Hustle Type] using Gumroad.",
+    "tags": ["Gumroad", "side hustle", "digital products"],
+    "niches": ["business", "technology"]
+  },
+  {
+    "title": "How to Use Shopify for [Side Hustle Type]",
+    "description": "Teach viewers how to set up a Shopify store for their [Side Hustle Type].",
+    "tags": ["Shopify", "side hustle", "ecommerce"],
+    "niches": ["business", "technology"]
+  },
+  {
+    "title": "How to Use Amazon for [Side Hustle Type]",
+    "description": "Explain how to sell products or services related to your [Side Hustle Type] on Amazon.",
+    "tags": ["Amazon", "side hustle", "ecommerce"],
+    "niches": ["business", "technology"]
+  },
+  {
+    "title": "How to Use eBay for [Side Hustle Type]",
+    "description": "Show how to use eBay to sell products for your [Side Hustle Type].",
+    "tags": ["eBay", "side hustle", "ecommerce"],
+    "niches": ["business", "technology"]
+  },
+  {
+    "title": "How to Use Etsy for [Side Hustle Type]",
+    "description": "Teach viewers how to sell handmade or digital products for their [Side Hustle Type] on Etsy.",
+    "tags": ["Etsy", "side hustle", "ecommerce"],
+    "niches": ["business", "technology"]
+  },
+  {
+    "title": "How to Use Fiverr for [Side Hustle Type]",
+    "description": "Show how to offer services for your [Side Hustle Type] on Fiverr.",
+    "tags": ["Fiverr", "side hustle", "freelance"],
+    "niches": ["business", "technology"]
+  },
+  {
+    "title": "How to Use Upwork for [Side Hustle Type]",
+    "description": "Explain how to find freelance gigs for your [Side Hustle Type] on Upwork.",
+    "tags": ["Upwork", "side hustle", "freelance"],
+    "niches": ["business", "technology"]
+  },
+  {
+    "title": "How to Use Notion for [Side Hustle Type]",
+    "description": "Show how to organize and manage your [Side Hustle Type] using Notion.",
+    "tags": ["Notion", "side hustle", "productivity"],
+    "niches": ["technology", "productivity"]
+  },
+  {
+    "title": "How to Use Canva for [Side Hustle Type]",
+    "description": "Teach viewers how to create graphics and marketing materials for their [Side Hustle Type] using Canva.",
+    "tags": ["Canva", "side hustle", "design"],
+    "niches": ["technology", "marketing"]
+  },
+  {
+    "title": "How to Use Google Workspace for [Side Hustle Type]",
+    "description": "Show how to use Google Workspace tools to streamline your [Side Hustle Type] operations.",
+    "tags": ["Google Workspace", "side hustle", "productivity"],
+    "niches": ["technology", "business"]
+  },
+  {
+    "title": "How to Use Trello for [Side Hustle Type]",
+    "description": "Explain how to use Trello boards to manage projects for your [Side Hustle Type].",
+    "tags": ["Trello", "side hustle", "organization"],
+    "niches": ["technology", "productivity"]
+  },
+  {
+    "title": "How to Use Slack for [Side Hustle Type]",
+    "description": "Show how to use Slack for team communication in your [Side Hustle Type].",
+    "tags": ["Slack", "side hustle", "communication"],
+    "niches": ["technology", "business"]
+  },
+  {
+    "title": "How to Use Zoom for [Side Hustle Type]",
+    "description": "Teach viewers how to use Zoom for client meetings and collaboration in their [Side Hustle Type].",
+    "tags": ["Zoom", "side hustle", "meetings"],
+    "niches": ["technology", "business"]
+  },
+  {
+    "title": "How to Use Calendly for [Side Hustle Type]",
+    "description": "Show how to automate appointment scheduling for your [Side Hustle Type] using Calendly.",
+    "tags": ["Calendly", "side hustle", "scheduling"],
+    "niches": ["technology", "productivity"]
+  },
+  {
+    "title": "How to Use Stripe for [Side Hustle Type]",
+    "description": "Explain how to accept payments for your [Side Hustle Type] using Stripe.",
+    "tags": ["Stripe", "side hustle", "payments"],
+    "niches": ["technology", "business"]
+  },
+  {
+    "title": "How to Use PayPal for [Side Hustle Type]",
+    "description": "Show how to set up PayPal for receiving payments in your [Side Hustle Type].",
+    "tags": ["PayPal", "side hustle", "payments"],
+    "niches": ["technology", "business"]
+  },
+  {
+    "title": "How to Use QuickBooks for [Side Hustle Type]",
+    "description": "Teach viewers how to manage finances and bookkeeping for their [Side Hustle Type] using QuickBooks.",
+    "tags": ["QuickBooks", "side hustle", "finance"],
+    "niches": ["technology", "finance"]
+  },
+  {
+    "title": "How to Use Asana for [Side Hustle Type]",
+    "description": "Show how to use Asana to manage tasks and projects for your [Side Hustle Type].",
+    "tags": ["Asana", "side hustle", "project management"],
+    "niches": ["technology", "productivity"]
+  },
+  {
+    "title": "How to Use Zapier for [Side Hustle Type]",
+    "description": "Explain how to automate workflows for your [Side Hustle Type] using Zapier.",
+    "tags": ["Zapier", "side hustle", "automation"],
+    "niches": ["technology", "productivity"]
+  },
+  {
+    "title": "How to Use Mailchimp for [Side Hustle Type]",
+    "description": "Show how to use Mailchimp for email marketing in your [Side Hustle Type].",
+    "tags": ["Mailchimp", "side hustle", "email marketing"],
+    "niches": ["technology", "marketing"]
+  },
+  {
+    "title": "How to Use Buffer for [Side Hustle Type]",
+    "description": "Teach viewers how to schedule social media posts for their [Side Hustle Type] using Buffer.",
+    "tags": ["Buffer", "side hustle", "social media"],
+    "niches": ["technology", "marketing"]
+  },
+  {
+    "title": "How to Use Hootsuite for [Side Hustle Type]",
+    "description": "Show how to manage multiple social media accounts for your [Side Hustle Type] using Hootsuite.",
+    "tags": ["Hootsuite", "side hustle", "social media"],
+    "niches": ["technology", "marketing"]
+  },
+  {
+    "title": "How to Use Google Analytics for [Side Hustle Type]",
+    "description": "Explain how to track website traffic and performance for your [Side Hustle Type] using Google Analytics.",
+    "tags": ["Google Analytics", "side hustle", "analytics"],
+    "niches": ["technology", "marketing"]
+  },
+  {
+    "title": "How to Use Google Ads for [Side Hustle Type]",
+    "description": "Teach viewers how to run paid ads for their [Side Hustle Type] using Google Ads.",
+    "tags": ["Google Ads", "side hustle", "advertising"],
+    "niches": ["technology", "marketing"]
+  },
+  {
+    "title": "How to Use Facebook Ads for [Side Hustle Type]",
+    "description": "Show how to create and manage Facebook Ads for your [Side Hustle Type].",
+    "tags": ["Facebook Ads", "side hustle", "advertising"],
+    "niches": ["technology", "marketing"]
+  },
+  {
+    "title": "How to Use Instagram Ads for [Side Hustle Type]",
+    "description": "Explain how to run Instagram Ads to promote your [Side Hustle Type].",
+    "tags": ["Instagram Ads", "side hustle", "advertising"],
+    "niches": ["technology", "marketing"]
+  },
+  {
+    "title": "How to Use TikTok Ads for [Side Hustle Type]",
+    "description": "Teach viewers how to use TikTok Ads to reach new customers for their [Side Hustle Type].",
+    "tags": ["TikTok Ads", "side hustle", "advertising"],
+    "niches": ["technology", "marketing"]
+  },
+  {
+    "title": "How to Use YouTube Ads for [Side Hustle Type]",
+    "description": "Show how to create and run YouTube Ads for your [Side Hustle Type].",
+    "tags": ["YouTube Ads", "side hustle", "advertising"],
+    "niches": ["technology", "marketing"]
+  },
+  {
+    "title": "How to Use Influencer Marketing for [Side Hustle Type]",
+    "description": "Explain how to collaborate with influencers to promote your [Side Hustle Type].",
+    "tags": ["influencer marketing", "side hustle", "promotion"],
+    "niches": ["marketing", "business"]
+  },
+  {
+    "title": "How to Use Crowdfunding for [Side Hustle Type]",
+    "description": "Teach viewers how to launch a crowdfunding campaign for their [Side Hustle Type].",
+    "tags": ["crowdfunding", "side hustle", "fundraising"],
+    "niches": ["business", "finance"]
+  },
+  {
+    "title": "How to Use Patreon for [Side Hustle Type]",
+    "description": "Show how to use Patreon to earn recurring income from your [Side Hustle Type].",
+    "tags": ["Patreon", "side hustle", "membership"],
+    "niches": ["business", "technology"]
+  },
+  {
+    "title": "How to Use Substack for [Side Hustle Type]",
+    "description": "Explain how to start a paid newsletter for your [Side Hustle Type] using Substack.",
+    "tags": ["Substack", "side hustle", "newsletter"],
+    "niches": ["business", "technology"]
+  },
+  {
+    "title": "How to Use Discord for [Side Hustle Type]",
+    "description": "Show how to build a community for your [Side Hustle Type] using Discord.",
+    "tags": ["Discord", "side hustle", "community"],
+    "niches": ["technology", "marketing"]
+  },
+  {
+    "title": "How to Use Telegram for [Side Hustle Type]",
+    "description": "Teach viewers how to use Telegram to communicate with customers for their [Side Hustle Type].",
+    "tags": ["Telegram", "side hustle", "communication"],
+    "niches": ["technology", "marketing"]
+  },
+  {
+    "title": "How to Use WhatsApp for [Side Hustle Type]",
+    "description": "Show how to use WhatsApp for customer support and communication in your [Side Hustle Type].",
+    "tags": ["WhatsApp", "side hustle", "communication"],
+    "niches": ["technology", "marketing"]
+  },
+  {
+    "title": "How to Use SMS Marketing for [Side Hustle Type]",
+    "description": "Explain how to use SMS marketing to reach customers for your [Side Hustle Type].",
+    "tags": ["SMS marketing", "side hustle", "promotion"],
+    "niches": ["technology", "marketing"]
+  },
+  {
+    "title": "How to Use Google My Business for [Side Hustle Type]",
+    "description": "Teach viewers how to set up and optimize Google My Business for their [Side Hustle Type].",
+    "tags": ["Google My Business", "side hustle", "local marketing"],
+    "niches": ["technology", "marketing"]
+  },
+  {
+    "title": "How to Use Yelp for [Side Hustle Type]",
+    "description": "Show how to use Yelp to attract local customers for your [Side Hustle Type].",
+    "tags": ["Yelp", "side hustle", "local marketing"],
+    "niches": ["technology", "marketing"]
+  }
+]

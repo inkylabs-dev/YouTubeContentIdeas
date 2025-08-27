@@ -1,1 +1,296 @@
-[]
+[
+  {
+    "title": "Breaking Down [Team/Player]'s Performance in [Recent Game/Event]",
+    "description": "Analyze a recent performance. Expand with stats, key moments, and what it means for the season.",
+    "tags": ["analysis", "performance", "recap"],
+    "niches": ["sports news", "analysis", "commentary"]
+  },
+  {
+    "title": "Top [5/10] Takeaways from [Game/Match/Week]",
+    "description": "Summarize key points from a recent event. Expand with insights, surprises, and implications.",
+    "tags": ["takeaways", "recap", "insights"],
+    "niches": ["sports news", "analysis", "roundup"]
+  },
+  {
+    "title": "What [Team/Player] Needs to Do to Win [Championship/Next Game]",
+    "description": "Discuss strategies for success. Expand with strengths, weaknesses, and expert opinions.",
+    "tags": ["strategy", "preview", "analysis"],
+    "niches": ["sports news", "analysis", "predictions"]
+  },
+  {
+    "title": "The [Biggest/Most Surprising] Upset of [Season/Event]",
+    "description": "Cover a major upset. Expand with context, reactions, and what led to the result.",
+    "tags": ["upset", "surprise", "recap"],
+    "niches": ["sports news", "analysis", "commentary"]
+  },
+  {
+    "title": "How [Recent Trade/Transfer] Will Impact [Team/League]",
+    "description": "Analyze a major trade or transfer. Expand with team needs, player fit, and future outlook.",
+    "tags": ["trade", "transfer", "impact"],
+    "niches": ["sports news", "analysis", "transfers"]
+  },
+  {
+    "title": "Ranking the [Best/Worst] [Plays/Players/Teams] of [Week/Month/Season]",
+    "description": "Create a ranking list. Expand with highlights, stats, and justifications.",
+    "tags": ["ranking", "best", "worst"],
+    "niches": ["sports news", "analysis", "lists"]
+  },
+  {
+    "title": "The [Most Controversial] Call/Decision in [Recent Game/Event]",
+    "description": "Discuss a controversial moment. Expand with rules, reactions, and possible outcomes.",
+    "tags": ["controversy", "decisions", "rules"],
+    "niches": ["sports news", "analysis", "debate"]
+  },
+  {
+    "title": "Player Spotlight: [Player Name]'s Rise/Fall This Season",
+    "description": "Profile a player's journey. Expand with stats, key games, and future prospects.",
+    "tags": ["player", "spotlight", "profile"],
+    "niches": ["sports news", "analysis", "profiles"]
+  },
+  {
+    "title": "How Injuries Are Affecting [Team/League/Season]",
+    "description": "Analyze the impact of injuries. Expand with affected players, team adjustments, and predictions.",
+    "tags": ["injuries", "impact", "analysis"],
+    "niches": ["sports news", "analysis", "health"]
+  },
+  {
+    "title": "The [Biggest] Surprises of [Season/Event]",
+    "description": "Highlight unexpected outcomes. Expand with context, reasons, and what to watch next.",
+    "tags": ["surprises", "season", "analysis"],
+    "niches": ["sports news", "analysis", "recap"]
+  },
+  {
+    "title": "Predicting the Outcome of [Upcoming Game/Series]",
+    "description": "Make predictions for an upcoming event. Expand with analysis, stats, and key matchups.",
+    "tags": ["predictions", "preview", "analysis"],
+    "niches": ["sports news", "analysis", "predictions"]
+  },
+  {
+    "title": "The [Most Improved/Disappointing] Teams This Season",
+    "description": "Discuss teams that exceeded or fell short of expectations. Expand with reasons and future outlook.",
+    "tags": ["improvement", "disappointment", "teams"],
+    "niches": ["sports news", "analysis", "season review"]
+  },
+  {
+    "title": "How [Rule Change/Policy] Is Affecting the Game",
+    "description": "Analyze a recent rule or policy change. Expand with examples, reactions, and long-term effects.",
+    "tags": ["rules", "policy", "impact"],
+    "niches": ["sports news", "analysis", "debate"]
+  },
+  {
+    "title": "The [Best/Worst] Coaching Decisions in [Recent Game/Season]",
+    "description": "Review coaching choices. Expand with context, alternatives, and outcomes.",
+    "tags": ["coaching", "decisions", "review"],
+    "niches": ["sports news", "analysis", "coaching"]
+  },
+  {
+    "title": "Rookie Watch: [Player Name]'s Debut Season Analysis",
+    "description": "Analyze a rookie's performance. Expand with stats, highlights, and future potential.",
+    "tags": ["rookie", "debut", "analysis"],
+    "niches": ["sports news", "analysis", "profiles"]
+  },
+  {
+    "title": "The [Most Anticipated] Matchups of [Upcoming Event/Season]",
+    "description": "Preview exciting matchups. Expand with history, key players, and what’s at stake.",
+    "tags": ["matchups", "preview", "anticipation"],
+    "niches": ["sports news", "analysis", "previews"]
+  },
+  {
+    "title": "How [Weather/Conditions] Impacted [Game/Event]",
+    "description": "Discuss the role of weather or conditions. Expand with examples and player reactions.",
+    "tags": ["weather", "conditions", "impact"],
+    "niches": ["sports news", "analysis", "recap"]
+  },
+  {
+    "title": "The [Biggest] Off-Field Stories in [Sport/League]",
+    "description": "Cover major off-field news. Expand with background, implications, and reactions.",
+    "tags": ["off-field", "news", "stories"],
+    "niches": ["sports news", "analysis", "features"]
+  },
+  {
+    "title": "Comparing [Player/Team] Stats: Who Comes Out on Top?",
+    "description": "Compare stats between players or teams. Expand with analysis and visual breakdowns.",
+    "tags": ["stats", "comparison", "analysis"],
+    "niches": ["sports news", "analysis", "stats"]
+  },
+  {
+    "title": "The [Most Memorable] Moments from [Recent Tournament/Event]",
+    "description": "Recap highlights from a tournament. Expand with context and why they stood out.",
+    "tags": ["memorable", "moments", "recap"],
+    "niches": ["sports news", "analysis", "recap"]
+  },
+  {
+    "title": "How [Team/Player] Can Bounce Back After [Loss/Setback]",
+    "description": "Offer analysis and advice for recovery. Expand with strategies and historical examples.",
+    "tags": ["bounce back", "setback", "analysis"],
+    "niches": ["sports news", "analysis", "motivation"]
+  },
+  {
+    "title": "The [Most Underrated] Players in [League/Sport]",
+    "description": "Highlight underrated talent. Expand with stats, impact, and why they deserve more attention.",
+    "tags": ["underrated", "players", "analysis"],
+    "niches": ["sports news", "analysis", "profiles"]
+  },
+  {
+    "title": "How [Team/Player] Is Defying Expectations This Season",
+    "description": "Analyze overachievers. Expand with reasons, stats, and future outlook.",
+    "tags": ["expectations", "overachievers", "analysis"],
+    "niches": ["sports news", "analysis", "season review"]
+  },
+  {
+    "title": "The [Biggest] Storylines to Watch in [Upcoming Event/Season]",
+    "description": "Preview key narratives. Expand with background, players to watch, and potential twists.",
+    "tags": ["storylines", "preview", "anticipation"],
+    "niches": ["sports news", "analysis", "previews"]
+  },
+  {
+    "title": "How [Team/League] Is Handling [Controversy/Scandal]",
+    "description": "Discuss a recent controversy. Expand with facts, reactions, and possible outcomes.",
+    "tags": ["controversy", "scandal", "handling"],
+    "niches": ["sports news", "analysis", "debate"]
+  },
+  {
+    "title": "The [Best/Worst] Trades/Signings of [Season/Window]",
+    "description": "Review recent trades or signings. Expand with analysis, fit, and long-term impact.",
+    "tags": ["trades", "signings", "review"],
+    "niches": ["sports news", "analysis", "transfers"]
+  },
+  {
+    "title": "How [Team/Player] Is Adapting to [New Coach/Strategy]",
+    "description": "Analyze adaptation to changes. Expand with performance trends and expert opinions.",
+    "tags": ["adaptation", "coaching", "strategy"],
+    "niches": ["sports news", "analysis", "coaching"]
+  },
+  {
+    "title": "The [Most Impressive] Streaks in [Sport/League]",
+    "description": "Highlight ongoing or recent streaks. Expand with stats, context, and what’s next.",
+    "tags": ["streaks", "impressive", "records"],
+    "niches": ["sports news", "analysis", "records"]
+  },
+  {
+    "title": "How [Rule/Format] Changes Will Affect [Upcoming Season/Event]",
+    "description": "Preview the impact of changes. Expand with expert opinions and possible scenarios.",
+    "tags": ["rule change", "format", "impact"],
+    "niches": ["sports news", "analysis", "previews"]
+  },
+  {
+    "title": "The [Biggest] Winners and Losers of [Draft/Transfer Window]",
+    "description": "Analyze draft or transfer outcomes. Expand with team needs and future projections.",
+    "tags": ["winners", "losers", "draft"],
+    "niches": ["sports news", "analysis", "transfers"]
+  },
+  {
+    "title": "How [Analytics/Technology] Is Changing [Sport/League]",
+    "description": "Discuss the role of analytics or tech. Expand with examples, benefits, and drawbacks.",
+    "tags": ["analytics", "technology", "change"],
+    "niches": ["sports news", "analysis", "tech"]
+  },
+  {
+    "title": "The [Most Emotional] Post-Game Interviews of [Week/Season]",
+    "description": "Highlight emotional interviews. Expand with context and player reactions.",
+    "tags": ["interviews", "emotions", "post-game"],
+    "niches": ["sports news", "analysis", "features"]
+  },
+  {
+    "title": "How [Team/Player] Is Handling [Pressure/Expectations]",
+    "description": "Analyze performance under pressure. Expand with stats, quotes, and mental strategies.",
+    "tags": ["pressure", "expectations", "performance"],
+    "niches": ["sports news", "analysis", "psychology"]
+  },
+  {
+    "title": "The [Best/Worst] Fan Reactions to [Game/Event]",
+    "description": "Showcase fan responses. Expand with social media highlights and in-person reactions.",
+    "tags": ["fans", "reactions", "community"],
+    "niches": ["sports news", "analysis", "fan culture"]
+  },
+  {
+    "title": "How [Team/League] Is Promoting [Diversity/Inclusion]",
+    "description": "Discuss diversity initiatives. Expand with examples, interviews, and impact.",
+    "tags": ["diversity", "inclusion", "initiatives"],
+    "niches": ["sports news", "analysis", "features"]
+  },
+  {
+    "title": "The [Most Overrated] Players/Teams in [Sport/League]",
+    "description": "Debate overrated picks. Expand with stats, arguments, and counterpoints.",
+    "tags": ["overrated", "debate", "analysis"],
+    "niches": ["sports news", "analysis", "debate"]
+  },
+  {
+    "title": "How [Team/Player] Is Building Momentum for [Playoffs/Finals]",
+    "description": "Analyze momentum-building. Expand with recent trends, key wins, and what’s next.",
+    "tags": ["momentum", "playoffs", "analysis"],
+    "niches": ["sports news", "analysis", "previews"]
+  },
+  {
+    "title": "The [Biggest] What-Ifs of [Recent Game/Season]",
+    "description": "Explore alternate scenarios. Expand with analysis of key moments and possible outcomes.",
+    "tags": ["what-if", "scenarios", "analysis"],
+    "niches": ["sports news", "analysis", "debate"]
+  },
+  {
+    "title": "How [Team/Player] Is Coping with [Media Attention/Scrutiny]",
+    "description": "Discuss handling the spotlight. Expand with quotes, examples, and expert opinions.",
+    "tags": ["media", "scrutiny", "coping"],
+    "niches": ["sports news", "analysis", "media"]
+  },
+  {
+    "title": "The [Most Impressive] Rookie Performances of [Season/Event]",
+    "description": "Highlight standout rookies. Expand with stats, highlights, and future outlook.",
+    "tags": ["rookies", "impressive", "performance"],
+    "niches": ["sports news", "analysis", "profiles"]
+  },
+  {
+    "title": "How [Team/League] Is Responding to [Global Event/Issue]",
+    "description": "Analyze sports responses to global issues. Expand with actions, statements, and impact.",
+    "tags": ["global", "response", "issues"],
+    "niches": ["sports news", "analysis", "features"]
+  },
+  {
+    "title": "The [Best/Worst] Uniforms in [League/Sport]",
+    "description": "Rank and review uniforms. Expand with design analysis and fan opinions.",
+    "tags": ["uniforms", "design", "ranking"],
+    "niches": ["sports news", "analysis", "fan culture"]
+  },
+  {
+    "title": "How [Team/Player] Is Preparing for [Big Game/Event]",
+    "description": "Preview preparation strategies. Expand with training, mindset, and interviews.",
+    "tags": ["preparation", "big game", "preview"],
+    "niches": ["sports news", "analysis", "previews"]
+  },
+  {
+    "title": "The [Most Influential] Figures in [Sport/League] Right Now",
+    "description": "Profile influential people. Expand with achievements, impact, and future potential.",
+    "tags": ["influential", "figures", "profiles"],
+    "niches": ["sports news", "analysis", "profiles"]
+  },
+  {
+    "title": "How [Team/League] Is Embracing [Innovation/Change]",
+    "description": "Discuss new approaches. Expand with examples, results, and expert opinions.",
+    "tags": ["innovation", "change", "embracing"],
+    "niches": ["sports news", "analysis", "features"]
+  },
+  {
+    "title": "The [Biggest] Challenges Facing [Team/League] This Season",
+    "description": "Analyze current challenges. Expand with context, possible solutions, and predictions.",
+    "tags": ["challenges", "season", "analysis"],
+    "niches": ["sports news", "analysis", "season review"]
+  },
+  {
+    "title": "How [Team/Player] Is Making a Comeback After [Injury/Slump]",
+    "description": "Cover comeback stories. Expand with stats, interviews, and what’s next.",
+    "tags": ["comeback", "injury", "slump"],
+    "niches": ["sports news", "analysis", "motivation"]
+  },
+  {
+    "title": "The [Most Exciting] Young Talents in [Sport/League]",
+    "description": "Spotlight rising stars. Expand with stats, highlights, and future projections.",
+    "tags": ["young talent", "rising stars", "profiles"],
+    "niches": ["sports news", "analysis", "profiles"]
+  },
+  {
+    "title": "How [Team/League] Is Engaging with Fans in [Digital Era]",
+    "description": "Discuss fan engagement strategies. Expand with social media, events, and innovations.",
+    "tags": ["fan engagement", "digital", "community"],
+    "niches": ["sports news", "analysis", "fan culture"]
+  }
+]

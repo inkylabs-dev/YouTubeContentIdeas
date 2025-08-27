@@ -1,1 +1,548 @@
-[]
+[
+  {
+    "title": "Honest Review of [Product/Service]",
+    "description": "Share your genuine thoughts on [Product/Service], covering pros, cons, and who it's best for. Expand by including unboxing, demonstrations, and comparisons.",
+    "tags": ["review", "product", "honest"],
+    "niches": ["tech", "lifestyle", "consumer"]
+  },
+  {
+    "title": "Is [Product/Service] Worth It in [Year]?",
+    "description": "Evaluate if [Product/Service] is still a good buy in [Year], considering updates and competition. Expand by referencing user feedback and long-term use.",
+    "tags": ["review", "worth it", "current year"],
+    "niches": ["tech", "fashion", "gadgets"]
+  },
+  {
+    "title": "[Product/Service] vs [Competitor]: Which Should You Choose?",
+    "description": "Compare [Product/Service] with [Competitor] on features, price, and performance. Expand by using side-by-side tests and user scenarios.",
+    "tags": ["comparison", "review", "versus"],
+    "niches": ["tech", "appliances", "software"]
+  },
+  {
+    "title": "First Impressions of [Product/Service]",
+    "description": "Share your initial thoughts after trying [Product/Service] for the first time. Expand by highlighting standout features and any surprises.",
+    "tags": ["first impressions", "review", "unboxing"],
+    "niches": ["gadgets", "beauty", "fashion"]
+  },
+  {
+    "title": "In-Depth Review: [Product/Service]",
+    "description": "Provide a detailed analysis of [Product/Service], covering design, usability, and value. Expand by including technical tests and user experiences.",
+    "tags": ["in-depth", "review", "analysis"],
+    "niches": ["tech", "home", "fitness"]
+  },
+  {
+    "title": "Long-Term Review: [Product/Service] After [Time Period]",
+    "description": "Discuss how [Product/Service] has held up after [Time Period] of use. Expand by sharing wear and tear, updates, and ongoing issues.",
+    "tags": ["long-term", "review", "durability"],
+    "niches": ["tech", "appliances", "vehicles"]
+  },
+  {
+    "title": "Unboxing and Review: [Product/Service]",
+    "description": "Show the unboxing experience and give your review of [Product/Service]. Expand by discussing packaging, setup, and first use.",
+    "tags": ["unboxing", "review", "first look"],
+    "niches": ["gadgets", "beauty", "fashion"]
+  },
+  {
+    "title": "Top 5 Features of [Product/Service]",
+    "description": "Highlight the best features of [Product/Service] and explain why they matter. Expand by demonstrating each feature in action.",
+    "tags": ["features", "review", "top 5"],
+    "niches": ["tech", "software", "appliances"]
+  },
+  {
+    "title": "What I Wish I Knew Before Buying [Product/Service]",
+    "description": "Share insights and potential drawbacks of [Product/Service] that buyers should know. Expand by discussing alternatives and tips.",
+    "tags": ["review", "advice", "buyer tips"],
+    "niches": ["tech", "fashion", "home"]
+  },
+  {
+    "title": "Best Accessories for [Product/Service]",
+    "description": "Review the top accessories that enhance [Product/Service]. Expand by showing how each accessory improves the experience.",
+    "tags": ["accessories", "review", "enhancements"],
+    "niches": ["tech", "gaming", "photography"]
+  },
+  {
+    "title": "Budget vs Premium: [Product/Service] Showdown",
+    "description": "Compare a budget and a premium version of [Product/Service] to see which offers better value. Expand by testing both in real scenarios.",
+    "tags": ["budget", "premium", "review"],
+    "niches": ["tech", "appliances", "fashion"]
+  },
+  {
+    "title": "Is [Product/Service] Good for [Target Audience]?",
+    "description": "Assess if [Product/Service] meets the needs of [Target Audience]. Expand by discussing specific use cases and alternatives.",
+    "tags": ["review", "target audience", "recommendation"],
+    "niches": ["education", "fitness", "parenting"]
+  },
+  {
+    "title": "My Experience with [Subscription Service]",
+    "description": "Review your experience using [Subscription Service], including sign-up, features, and cancellation. Expand by comparing with competitors.",
+    "tags": ["subscription", "review", "experience"],
+    "niches": ["entertainment", "software", "education"]
+  },
+  {
+    "title": "Hands-On Review: [Product/Service]",
+    "description": "Demonstrate [Product/Service] in use and share your thoughts on its performance. Expand by testing in different scenarios.",
+    "tags": ["hands-on", "review", "demonstration"],
+    "niches": ["tech", "tools", "kitchen"]
+  },
+  {
+    "title": "Is [Product/Service] Beginner-Friendly?",
+    "description": "Evaluate how easy it is for beginners to use [Product/Service]. Expand by showing setup, learning curve, and support resources.",
+    "tags": ["beginner", "review", "usability"],
+    "niches": ["software", "musical instruments", "fitness"]
+  },
+  {
+    "title": "Best [Product/Service] for [Specific Need]",
+    "description": "Review the top [Product/Service] options for [Specific Need], comparing features and value. Expand by ranking your recommendations.",
+    "tags": ["best", "review", "recommendation"],
+    "niches": ["tech", "home", "travel"]
+  },
+  {
+    "title": "How [Product/Service] Compares to [Older Model]",
+    "description": "Compare the latest [Product/Service] with its previous version, highlighting improvements and drawbacks. Expand by showing side-by-side tests.",
+    "tags": ["comparison", "review", "upgrade"],
+    "niches": ["tech", "appliances", "vehicles"]
+  },
+  {
+    "title": "Is [Product/Service] Overhyped?",
+    "description": "Analyze whether [Product/Service] lives up to the hype. Expand by discussing marketing claims versus real-world performance.",
+    "tags": ["overhyped", "review", "expectations"],
+    "niches": ["tech", "fashion", "beauty"]
+  },
+  {
+    "title": "Best Value [Product/Service] Under [Price]",
+    "description": "Review the best [Product/Service] options available under [Price], focusing on value for money. Expand by comparing features and performance.",
+    "tags": ["value", "review", "budget"],
+    "niches": ["tech", "home", "gadgets"]
+  },
+  {
+    "title": "My [Month/Year] with [Product/Service]",
+    "description": "Share your experience after using [Product/Service] for [Month/Year], including pros, cons, and surprises. Expand by discussing changes over time.",
+    "tags": ["long-term", "review", "experience"],
+    "niches": ["tech", "fitness", "appliances"]
+  },
+  {
+    "title": "Top [Number] Alternatives to [Product/Service]",
+    "description": "Review the best alternatives to [Product/Service], comparing features and pricing. Expand by ranking and recommending the best choice.",
+    "tags": ["alternatives", "review", "comparison"],
+    "niches": ["tech", "software", "fashion"]
+  },
+  {
+    "title": "Is [Product/Service] Eco-Friendly?",
+    "description": "Assess the environmental impact of [Product/Service], including materials and energy use. Expand by comparing with greener options.",
+    "tags": ["eco-friendly", "review", "sustainability"],
+    "niches": ["home", "tech", "lifestyle"]
+  },
+  {
+    "title": "Best [Product/Service] for [Demographic]",
+    "description": "Review the top [Product/Service] choices for [Demographic], considering needs and preferences. Expand by including user testimonials.",
+    "tags": ["demographic", "review", "recommendation"],
+    "niches": ["parenting", "seniors", "students"]
+  },
+  {
+    "title": "How Durable Is [Product/Service]?",
+    "description": "Test and review the durability of [Product/Service] under various conditions. Expand by showing stress tests and long-term results.",
+    "tags": ["durability", "review", "testing"],
+    "niches": ["tech", "outdoors", "appliances"]
+  },
+  {
+    "title": "Best [Product/Service] for [Activity]",
+    "description": "Review the best [Product/Service] options for [Activity], comparing features and performance. Expand by demonstrating each in use.",
+    "tags": ["activity", "review", "recommendation"],
+    "niches": ["fitness", "travel", "photography"]
+  },
+  {
+    "title": "Is [Product/Service] Good for [Purpose]?",
+    "description": "Evaluate how well [Product/Service] performs for [Purpose]. Expand by testing in relevant scenarios.",
+    "tags": ["purpose", "review", "testing"],
+    "niches": ["tech", "home", "education"]
+  },
+  {
+    "title": "Best [Product/Service] for Small Spaces",
+    "description": "Review [Product/Service] options that are ideal for small spaces, focusing on size and functionality. Expand by showing them in real settings.",
+    "tags": ["small spaces", "review", "compact"],
+    "niches": ["home", "appliances", "furniture"]
+  },
+  {
+    "title": "Best [Product/Service] for Travel",
+    "description": "Review [Product/Service] options that are perfect for travel, considering portability and convenience. Expand by testing on trips.",
+    "tags": ["travel", "review", "portable"],
+    "niches": ["travel", "gadgets", "luggage"]
+  },
+  {
+    "title": "Best [Product/Service] for Students",
+    "description": "Review the top [Product/Service] choices for students, focusing on affordability and usefulness. Expand by including student testimonials.",
+    "tags": ["students", "review", "education"],
+    "niches": ["education", "tech", "stationery"]
+  },
+  {
+    "title": "Best [Product/Service] for Parents",
+    "description": "Review [Product/Service] options that make parenting easier, considering safety and practicality. Expand by sharing real-life experiences.",
+    "tags": ["parents", "review", "family"],
+    "niches": ["parenting", "home", "baby"]
+  },
+  {
+    "title": "Best [Product/Service] for Pets",
+    "description": "Review the best [Product/Service] for pets, focusing on safety, fun, and value. Expand by showing pets using the products.",
+    "tags": ["pets", "review", "animals"],
+    "niches": ["pets", "home", "lifestyle"]
+  },
+  {
+    "title": "Best [Product/Service] for Gamers",
+    "description": "Review the top [Product/Service] for gamers, considering performance and features. Expand by testing with popular games.",
+    "tags": ["gamers", "review", "gaming"],
+    "niches": ["gaming", "tech", "accessories"]
+  },
+  {
+    "title": "Best [Product/Service] for Creators",
+    "description": "Review [Product/Service] options ideal for content creators, focusing on features and workflow. Expand by demonstrating in creative projects.",
+    "tags": ["creators", "review", "content creation"],
+    "niches": ["photography", "video", "music"]
+  },
+  {
+    "title": "Best [Product/Service] for Fitness",
+    "description": "Review the best [Product/Service] for fitness enthusiasts, considering durability and features. Expand by testing during workouts.",
+    "tags": ["fitness", "review", "exercise"],
+    "niches": ["fitness", "health", "wearables"]
+  },
+  {
+    "title": "Best [Product/Service] for Cooking",
+    "description": "Review [Product/Service] options that make cooking easier or more fun. Expand by demonstrating recipes and tips.",
+    "tags": ["cooking", "review", "kitchen"],
+    "niches": ["kitchen", "home", "appliances"]
+  },
+  {
+    "title": "Best [Product/Service] for Outdoor Activities",
+    "description": "Review [Product/Service] designed for outdoor use, focusing on durability and weather resistance. Expand by testing outdoors.",
+    "tags": ["outdoor", "review", "adventure"],
+    "niches": ["outdoors", "sports", "camping"]
+  },
+  {
+    "title": "Best [Product/Service] for Home Office",
+    "description": "Review [Product/Service] that improve productivity in a home office. Expand by showing setup and workflow tips.",
+    "tags": ["home office", "review", "productivity"],
+    "niches": ["office", "tech", "furniture"]
+  },
+  {
+    "title": "Best [Product/Service] for Remote Work",
+    "description": "Review [Product/Service] that make remote work easier, focusing on connectivity and comfort. Expand by sharing remote work experiences.",
+    "tags": ["remote work", "review", "work from home"],
+    "niches": ["tech", "office", "lifestyle"]
+  },
+  {
+    "title": "Best [Product/Service] for Commuters",
+    "description": "Review [Product/Service] that help commuters, considering portability and convenience. Expand by testing during commutes.",
+    "tags": ["commuters", "review", "travel"],
+    "niches": ["travel", "gadgets", "lifestyle"]
+  },
+  {
+    "title": "Best [Product/Service] for DIY Projects",
+    "description": "Review [Product/Service] that are useful for DIY, focusing on versatility and ease of use. Expand by demonstrating a project.",
+    "tags": ["DIY", "review", "tools"],
+    "niches": ["home improvement", "tools", "crafts"]
+  },
+  {
+    "title": "Best [Product/Service] for Small Businesses",
+    "description": "Review [Product/Service] that help small businesses, considering cost and scalability. Expand by sharing business use cases.",
+    "tags": ["small business", "review", "entrepreneur"],
+    "niches": ["business", "software", "office"]
+  },
+  {
+    "title": "Best [Product/Service] for Artists",
+    "description": "Review [Product/Service] that benefit artists, focusing on creativity and usability. Expand by demonstrating in art projects.",
+    "tags": ["artists", "review", "art supplies"],
+    "niches": ["art", "crafts", "design"]
+  },
+  {
+    "title": "Best [Product/Service] for Musicians",
+    "description": "Review [Product/Service] for musicians, considering sound quality and features. Expand by demonstrating in music sessions.",
+    "tags": ["musicians", "review", "music gear"],
+    "niches": ["music", "audio", "instruments"]
+  },
+  {
+    "title": "Best [Product/Service] for Photographers",
+    "description": "Review [Product/Service] for photographers, focusing on image quality and usability. Expand by showing sample photos.",
+    "tags": ["photographers", "review", "camera gear"],
+    "niches": ["photography", "tech", "accessories"]
+  },
+  {
+    "title": "Best [Product/Service] for Video Editing",
+    "description": "Review [Product/Service] for video editors, considering performance and features. Expand by editing a sample video.",
+    "tags": ["video editing", "review", "software"],
+    "niches": ["video", "tech", "software"]
+  },
+  {
+    "title": "Best [Product/Service] for Streaming",
+    "description": "Review [Product/Service] for streamers, focusing on quality and ease of use. Expand by demonstrating a live stream setup.",
+    "tags": ["streaming", "review", "live"],
+    "niches": ["gaming", "video", "tech"]
+  },
+  {
+    "title": "Best [Product/Service] for Productivity",
+    "description": "Review [Product/Service] that boost productivity, considering features and integrations. Expand by sharing workflow tips.",
+    "tags": ["productivity", "review", "tools"],
+    "niches": ["office", "software", "tech"]
+  },
+  {
+    "title": "Best [Product/Service] for Learning",
+    "description": "Review [Product/Service] that help with learning, focusing on effectiveness and engagement. Expand by demonstrating learning outcomes.",
+    "tags": ["learning", "review", "education"],
+    "niches": ["education", "software", "books"]
+  },
+  {
+    "title": "Best [Product/Service] for Kids",
+    "description": "Review [Product/Service] for kids, considering safety and fun. Expand by showing kids using the products.",
+    "tags": ["kids", "review", "family"],
+    "niches": ["parenting", "toys", "education"]
+  },
+  {
+    "title": "Best [Product/Service] for Seniors",
+    "description": "Review [Product/Service] for seniors, focusing on accessibility and ease of use. Expand by including senior testimonials.",
+    "tags": ["seniors", "review", "accessibility"],
+    "niches": ["health", "home", "lifestyle"]
+  },
+  {
+    "title": "Best [Product/Service] for Health",
+    "description": "Review [Product/Service] that promote health, considering effectiveness and safety. Expand by sharing health tips.",
+    "tags": ["health", "review", "wellness"],
+    "niches": ["health", "fitness", "nutrition"]
+  },
+  {
+    "title": "Best [Product/Service] for Beauty",
+    "description": "Review [Product/Service] for beauty, focusing on results and ingredients. Expand by demonstrating application.",
+    "tags": ["beauty", "review", "skincare"],
+    "niches": ["beauty", "fashion", "lifestyle"]
+  },
+  {
+    "title": "Best [Product/Service] for Fashion",
+    "description": "Review [Product/Service] for fashion, considering style and comfort. Expand by showing outfit ideas.",
+    "tags": ["fashion", "review", "style"],
+    "niches": ["fashion", "lifestyle", "clothing"]
+  },
+  {
+    "title": "Best [Product/Service] for Home Decor",
+    "description": "Review [Product/Service] for home decor, focusing on aesthetics and quality. Expand by showing room makeovers.",
+    "tags": ["home decor", "review", "interior"],
+    "niches": ["home", "lifestyle", "design"]
+  },
+  {
+    "title": "Best [Product/Service] for Gardening",
+    "description": "Review [Product/Service] for gardening, considering effectiveness and ease of use. Expand by demonstrating in the garden.",
+    "tags": ["gardening", "review", "outdoors"],
+    "niches": ["gardening", "home", "outdoors"]
+  },
+  {
+    "title": "Best [Product/Service] for Cleaning",
+    "description": "Review [Product/Service] for cleaning, focusing on efficiency and results. Expand by showing before-and-after tests.",
+    "tags": ["cleaning", "review", "home"],
+    "niches": ["home", "appliances", "lifestyle"]
+  },
+  {
+    "title": "Best [Product/Service] for Organization",
+    "description": "Review [Product/Service] for organization, considering space-saving and usability. Expand by showing organization tips.",
+    "tags": ["organization", "review", "home"],
+    "niches": ["home", "office", "lifestyle"]
+  },
+  {
+    "title": "Best [Product/Service] for Safety",
+    "description": "Review [Product/Service] for safety, focusing on reliability and features. Expand by demonstrating safety tests.",
+    "tags": ["safety", "review", "security"],
+    "niches": ["home", "tech", "outdoors"]
+  },
+  {
+    "title": "Best [Product/Service] for Smart Homes",
+    "description": "Review [Product/Service] for smart homes, considering compatibility and automation. Expand by showing smart home setups.",
+    "tags": ["smart home", "review", "automation"],
+    "niches": ["tech", "home", "gadgets"]
+  },
+  {
+    "title": "Best [Product/Service] for Cars",
+    "description": "Review [Product/Service] for cars, focusing on performance and convenience. Expand by demonstrating in real driving conditions.",
+    "tags": ["cars", "review", "automotive"],
+    "niches": ["automotive", "tech", "accessories"]
+  },
+  {
+    "title": "Best [Product/Service] for Biking",
+    "description": "Review [Product/Service] for biking, considering safety and comfort. Expand by testing on rides.",
+    "tags": ["biking", "review", "outdoors"],
+    "niches": ["cycling", "sports", "outdoors"]
+  },
+  {
+    "title": "Best [Product/Service] for Hiking",
+    "description": "Review [Product/Service] for hiking, focusing on durability and usefulness. Expand by testing on trails.",
+    "tags": ["hiking", "review", "outdoors"],
+    "niches": ["outdoors", "sports", "adventure"]
+  },
+  {
+    "title": "Best [Product/Service] for Camping",
+    "description": "Review [Product/Service] for camping, considering portability and weather resistance. Expand by using on a camping trip.",
+    "tags": ["camping", "review", "outdoors"],
+    "niches": ["outdoors", "sports", "adventure"]
+  },
+  {
+    "title": "Best [Product/Service] for Travel Photography",
+    "description": "Review [Product/Service] for travel photography, focusing on portability and image quality. Expand by showing travel photos.",
+    "tags": ["travel photography", "review", "camera gear"],
+    "niches": ["photography", "travel", "tech"]
+  },
+  {
+    "title": "Best [Product/Service] for Vlogging",
+    "description": "Review [Product/Service] for vlogging, considering audio and video quality. Expand by filming a sample vlog.",
+    "tags": ["vlogging", "review", "video"],
+    "niches": ["video", "tech", "content creation"]
+  },
+  {
+    "title": "Best [Product/Service] for Streaming Music",
+    "description": "Review [Product/Service] for streaming music, focusing on sound quality and features. Expand by demonstrating playlists.",
+    "tags": ["music streaming", "review", "audio"],
+    "niches": ["music", "audio", "tech"]
+  },
+  {
+    "title": "Best [Product/Service] for Streaming Video",
+    "description": "Review [Product/Service] for streaming video, considering content and usability. Expand by showing streaming setup.",
+    "tags": ["video streaming", "review", "entertainment"],
+    "niches": ["video", "entertainment", "tech"]
+  },
+  {
+    "title": "Best [Product/Service] for Reading",
+    "description": "Review [Product/Service] for reading, focusing on comfort and features. Expand by demonstrating with different types of books.",
+    "tags": ["reading", "review", "books"],
+    "niches": ["books", "education", "tech"]
+  },
+  {
+    "title": "Best [Product/Service] for Writing",
+    "description": "Review [Product/Service] for writing, considering comfort and productivity. Expand by demonstrating writing sessions.",
+    "tags": ["writing", "review", "stationery"],
+    "niches": ["education", "office", "stationery"]
+  },
+  {
+    "title": "Best [Product/Service] for Drawing",
+    "description": "Review [Product/Service] for drawing, focusing on creativity and usability. Expand by demonstrating art projects.",
+    "tags": ["drawing", "review", "art supplies"],
+    "niches": ["art", "design", "crafts"]
+  },
+  {
+    "title": "Best [Product/Service] for Crafts",
+    "description": "Review [Product/Service] for crafts, considering versatility and ease of use. Expand by demonstrating a craft project.",
+    "tags": ["crafts", "review", "DIY"],
+    "niches": ["crafts", "art", "home"]
+  },
+  {
+    "title": "Best [Product/Service] for Baking",
+    "description": "Review [Product/Service] for baking, focusing on results and ease of use. Expand by demonstrating a baking recipe.",
+    "tags": ["baking", "review", "kitchen"],
+    "niches": ["kitchen", "home", "appliances"]
+  },
+  {
+    "title": "Best [Product/Service] for Entertaining",
+    "description": "Review [Product/Service] for entertaining guests, considering fun and practicality. Expand by showing a party setup.",
+    "tags": ["entertaining", "review", "party"],
+    "niches": ["home", "lifestyle", "kitchen"]
+  },
+  {
+    "title": "Best [Product/Service] for Relaxation",
+    "description": "Review [Product/Service] for relaxation, focusing on comfort and effectiveness. Expand by demonstrating relaxation routines.",
+    "tags": ["relaxation", "review", "wellness"],
+    "niches": ["health", "lifestyle", "home"]
+  },
+  {
+    "title": "Best [Product/Service] for Meditation",
+    "description": "Review [Product/Service] for meditation, considering effectiveness and features. Expand by demonstrating meditation sessions.",
+    "tags": ["meditation", "review", "wellness"],
+    "niches": ["health", "lifestyle", "wellness"]
+  },
+  {
+    "title": "Best [Product/Service] for Sleep",
+    "description": "Review [Product/Service] for sleep, focusing on comfort and results. Expand by demonstrating sleep routines.",
+    "tags": ["sleep", "review", "wellness"],
+    "niches": ["health", "home", "lifestyle"]
+  },
+  {
+    "title": "Best [Product/Service] for Saving Money",
+    "description": "Review [Product/Service] that help save money, considering value and effectiveness. Expand by sharing money-saving tips.",
+    "tags": ["saving money", "review", "budget"],
+    "niches": ["finance", "home", "tech"]
+  },
+  {
+    "title": "Best [Product/Service] for Making Money",
+    "description": "Review [Product/Service] that help make money, focusing on opportunities and ease of use. Expand by sharing success stories.",
+    "tags": ["making money", "review", "finance"],
+    "niches": ["finance", "business", "tech"]
+  },
+  {
+    "title": "Best [Product/Service] for Investing",
+    "description": "Review [Product/Service] for investing, considering features and returns. Expand by demonstrating investment strategies.",
+    "tags": ["investing", "review", "finance"],
+    "niches": ["finance", "business", "tech"]
+  },
+  {
+    "title": "Best [Product/Service] for Budgeting",
+    "description": "Review [Product/Service] for budgeting, focusing on usability and effectiveness. Expand by demonstrating budgeting workflows.",
+    "tags": ["budgeting", "review", "finance"],
+    "niches": ["finance", "home", "software"]
+  },
+  {
+    "title": "Best [Product/Service] for Shopping",
+    "description": "Review [Product/Service] that make shopping easier or cheaper. Expand by demonstrating shopping tips.",
+    "tags": ["shopping", "review", "deals"],
+    "niches": ["lifestyle", "tech", "finance"]
+  },
+  {
+    "title": "Best [Product/Service] for Traveling Abroad",
+    "description": "Review [Product/Service] for international travel, focusing on convenience and safety. Expand by sharing travel experiences.",
+    "tags": ["traveling abroad", "review", "travel"],
+    "niches": ["travel", "gadgets", "luggage"]
+  },
+  {
+    "title": "Best [Product/Service] for Language Learning",
+    "description": "Review [Product/Service] for learning languages, considering effectiveness and engagement. Expand by demonstrating lessons.",
+    "tags": ["language learning", "review", "education"],
+    "niches": ["education", "software", "books"]
+  },
+  {
+    "title": "Best [Product/Service] for Cooking Healthy Meals",
+    "description": "Review [Product/Service] that help with healthy cooking, focusing on nutrition and ease of use. Expand by demonstrating recipes.",
+    "tags": ["healthy cooking", "review", "kitchen"],
+    "niches": ["kitchen", "health", "nutrition"]
+  },
+  {
+    "title": "Best [Product/Service] for Meal Prep",
+    "description": "Review [Product/Service] for meal prepping, considering convenience and storage. Expand by demonstrating meal prep routines.",
+    "tags": ["meal prep", "review", "kitchen"],
+    "niches": ["kitchen", "health", "home"]
+  },
+  {
+    "title": "Best [Product/Service] for Quick Meals",
+    "description": "Review [Product/Service] that help make quick meals, focusing on speed and results. Expand by demonstrating recipes.",
+    "tags": ["quick meals", "review", "kitchen"],
+    "niches": ["kitchen", "home", "appliances"]
+  },
+  {
+    "title": "Best [Product/Service] for Coffee Lovers",
+    "description": "Review [Product/Service] for coffee enthusiasts, focusing on taste and convenience. Expand by demonstrating brewing methods.",
+    "tags": ["coffee", "review", "kitchen"],
+    "niches": ["kitchen", "home", "lifestyle"]
+  },
+  {
+    "title": "Best [Product/Service] for Tea Lovers",
+    "description": "Review [Product/Service] for tea enthusiasts, focusing on flavor and ease of use. Expand by demonstrating brewing techniques.",
+    "tags": ["tea", "review", "kitchen"],
+    "niches": ["kitchen", "home", "lifestyle"]
+  },
+  {
+    "title": "Best [Product/Service] for Wine Lovers",
+    "description": "Review [Product/Service] for wine lovers, focusing on taste and presentation. Expand by demonstrating wine tasting.",
+    "tags": ["wine", "review", "kitchen"],
+    "niches": ["kitchen", "lifestyle", "entertainment"]
+  },
+  {
+    "title": "Best [Product/Service] for Entertaining Kids",
+    "description": "Review [Product/Service] that keep kids entertained, focusing on fun and safety. Expand by showing kids using the products.",
+    "tags": ["kids", "entertainment", "review"],
+    "niches": ["parenting", "toys", "education"]
+  },
+  {
+    "title": "Best [Product/Service] for Family Fun",
+    "description": "Review [Product/Service] for family activities, focusing on engagement and value. Expand by demonstrating family games.",
+    "tags": ["family", "fun", "review"],
+    "niches": ["home", "lifestyle", "toys"]
+  }
+]

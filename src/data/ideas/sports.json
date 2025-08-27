@@ -1,1 +1,302 @@
-[]
+[
+  {
+    "title": "How to Master [Skill/Move] in [Sport]",
+    "description": "Break down the steps to learn a specific skill or move. Expand with drills, tips, and common mistakes.",
+    "tags": ["tutorial", "skills", "how-to"],
+    "niches": ["sports", "coaching", "education"]
+  },
+  {
+    "title": "The [Biggest/Most Shocking] Upset in [Sport/Event] History",
+    "description": "Analyze a famous upset. Expand with background, key moments, and its impact on the sport.",
+    "tags": ["history", "analysis", "upset"],
+    "niches": ["sports", "history", "analysis"]
+  },
+  {
+    "title": "What It’s Like to Train Like a [Pro Athlete/Champion]",
+    "description": "Document a day following a pro athlete's routine. Expand with challenges, surprises, and results.",
+    "tags": ["training", "challenge", "athlete"],
+    "niches": ["sports", "fitness", "vlogs"]
+  },
+  {
+    "title": "The [Most Iconic/Controversial] Moment in [Sport]",
+    "description": "Discuss a defining moment. Expand with context, reactions, and long-term effects.",
+    "tags": ["iconic", "controversy", "moments"],
+    "niches": ["sports", "history", "analysis"]
+  },
+  {
+    "title": "Beginner’s Guide to [Sport/Activity]",
+    "description": "Introduce the basics of a sport. Expand with rules, equipment, and starter tips.",
+    "tags": ["beginner", "guide", "how-to"],
+    "niches": ["sports", "education", "coaching"]
+  },
+  {
+    "title": "Why [Sport] Is the Best Sport (And Why You Should Try It)",
+    "description": "Make a case for your favorite sport. Expand with personal stories and unique features.",
+    "tags": ["opinion", "promotion", "sports"],
+    "niches": ["sports", "lifestyle", "vlogs"]
+  },
+  {
+    "title": "The [Funniest/Weirdest] Rules in [Sport]",
+    "description": "Highlight unusual rules. Expand with examples, history, and how they affect the game.",
+    "tags": ["rules", "funny", "weird"],
+    "niches": ["sports", "entertainment", "education"]
+  },
+  {
+    "title": "How to Recover from [Injury/Setback] in [Sport]",
+    "description": "Share recovery tips and stories. Expand with expert advice and personal experience.",
+    "tags": ["recovery", "injury", "health"],
+    "niches": ["sports", "health", "wellness"]
+  },
+  {
+    "title": "The [Greatest/Most Underrated] Athlete in [Sport]",
+    "description": "Profile an athlete. Expand with achievements, style, and why they stand out.",
+    "tags": ["athlete", "profile", "underrated"],
+    "niches": ["sports", "history", "analysis"]
+  },
+  {
+    "title": "How to Get Started with [Sport] on a Budget",
+    "description": "Share tips for affordable entry. Expand with gear hacks, free resources, and community options.",
+    "tags": ["budget", "beginner", "tips"],
+    "niches": ["sports", "lifestyle", "education"]
+  },
+  {
+    "title": "The [Most Intense/Exciting] Rivalries in [Sport]",
+    "description": "Explore famous rivalries. Expand with history, key games, and fan perspectives.",
+    "tags": ["rivalry", "history", "analysis"],
+    "niches": ["sports", "history", "entertainment"]
+  },
+  {
+    "title": "What I Learned from Playing [Sport] for [X] Years",
+    "description": "Reflect on long-term participation. Expand with lessons, growth, and advice for newcomers.",
+    "tags": ["reflection", "experience", "advice"],
+    "niches": ["sports", "vlogs", "self-improvement"]
+  },
+  {
+    "title": "The [Best/Worst] Sports Equipment I’ve Used",
+    "description": "Review gear. Expand with pros, cons, and recommendations for different levels.",
+    "tags": ["equipment", "review", "gear"],
+    "niches": ["sports", "reviews", "gear"]
+  },
+  {
+    "title": "How to Stay Motivated in [Sport/Training]",
+    "description": "Share motivation strategies. Expand with stories of setbacks and comebacks.",
+    "tags": ["motivation", "training", "mindset"],
+    "niches": ["sports", "self-improvement", "coaching"]
+  },
+  {
+    "title": "The [Most Common] Mistakes Beginners Make in [Sport]",
+    "description": "List typical beginner errors. Expand with fixes and how to avoid them.",
+    "tags": ["mistakes", "beginner", "tips"],
+    "niches": ["sports", "education", "coaching"]
+  },
+  {
+    "title": "How [Sport] Changed My Life",
+    "description": "Share a personal transformation story. Expand with before-and-after and advice for others.",
+    "tags": ["transformation", "personal", "story"],
+    "niches": ["sports", "self-improvement", "vlogs"]
+  },
+  {
+    "title": "The [Most Difficult] Part of [Sport/Training]",
+    "description": "Discuss tough aspects. Expand with personal struggles and how to overcome them.",
+    "tags": ["challenge", "training", "difficult"],
+    "niches": ["sports", "coaching", "self-improvement"]
+  },
+  {
+    "title": "How to Watch and Understand [Sport] as a New Fan",
+    "description": "Guide new fans. Expand with rules, jargon, and what to look for during games.",
+    "tags": ["fan", "guide", "watching"],
+    "niches": ["sports", "education", "entertainment"]
+  },
+  {
+    "title": "The [Biggest] Myths About [Sport]",
+    "description": "Debunk common misconceptions. Expand with facts and personal experience.",
+    "tags": ["myths", "facts", "debunking"],
+    "niches": ["sports", "education", "analysis"]
+  },
+  {
+    "title": "How to Balance [Sport] with [School/Work/Life]",
+    "description": "Share time management tips. Expand with routines, sacrifices, and benefits.",
+    "tags": ["balance", "time management", "lifestyle"],
+    "niches": ["sports", "lifestyle", "self-improvement"]
+  },
+  {
+    "title": "The [Most Inspiring] Comebacks in [Sport]",
+    "description": "Highlight comeback stories. Expand with context, key moments, and lessons.",
+    "tags": ["comeback", "inspiration", "stories"],
+    "niches": ["sports", "history", "motivation"]
+  },
+  {
+    "title": "How to Find the Right [Coach/Team] in [Sport]",
+    "description": "Give advice on choosing coaches or teams. Expand with red flags and success stories.",
+    "tags": ["coach", "team", "advice"],
+    "niches": ["sports", "coaching", "education"]
+  },
+  {
+    "title": "The [Funniest/Most Embarrassing] Moments in [Sport]",
+    "description": "Share hilarious or awkward moments. Expand with personal stories and famous bloopers.",
+    "tags": ["funny", "embarrassing", "moments"],
+    "niches": ["sports", "entertainment", "vlogs"]
+  },
+  {
+    "title": "How to Set and Achieve Goals in [Sport]",
+    "description": "Discuss goal-setting strategies. Expand with examples and tracking progress.",
+    "tags": ["goals", "achievement", "motivation"],
+    "niches": ["sports", "self-improvement", "coaching"]
+  },
+  {
+    "title": "The [Most Important] Skills for [Sport]",
+    "description": "List key skills. Expand with drills and how to develop them.",
+    "tags": ["skills", "training", "tips"],
+    "niches": ["sports", "coaching", "education"]
+  },
+  {
+    "title": "How to Deal with [Pressure/Competition] in [Sport]",
+    "description": "Share mental strategies. Expand with stories of high-pressure situations.",
+    "tags": ["pressure", "competition", "mindset"],
+    "niches": ["sports", "self-improvement", "coaching"]
+  },
+  {
+    "title": "The [Best/Worst] Sports Movies and What They Get Right/Wrong",
+    "description": "Review sports movies. Expand with comparisons to real-life sports.",
+    "tags": ["movies", "review", "media"],
+    "niches": ["sports", "entertainment", "media"]
+  },
+  {
+    "title": "How to Build Team Spirit in [Sport]",
+    "description": "Share team-building tips. Expand with activities and success stories.",
+    "tags": ["teamwork", "spirit", "coaching"],
+    "niches": ["sports", "coaching", "education"]
+  },
+  {
+    "title": "The [Most Impressive] Records in [Sport]",
+    "description": "Highlight record-breaking feats. Expand with context and what makes them special.",
+    "tags": ["records", "impressive", "history"],
+    "niches": ["sports", "history", "analysis"]
+  },
+  {
+    "title": "How to Handle [Winning/Losing] in [Sport]",
+    "description": "Discuss sportsmanship. Expand with personal stories and advice.",
+    "tags": ["winning", "losing", "sportsmanship"],
+    "niches": ["sports", "self-improvement", "coaching"]
+  },
+  {
+    "title": "The [Most Unique] Sports from Around the World",
+    "description": "Introduce unusual sports. Expand with rules, origins, and fun facts.",
+    "tags": ["unique", "world", "sports"],
+    "niches": ["sports", "education", "entertainment"]
+  },
+  {
+    "title": "How to Prepare for [Game/Competition] Day",
+    "description": "Share preparation routines. Expand with nutrition, mindset, and warm-ups.",
+    "tags": ["preparation", "competition", "routine"],
+    "niches": ["sports", "coaching", "education"]
+  },
+  {
+    "title": "The [Most Underrated] Positions in [Sport]",
+    "description": "Highlight overlooked roles. Expand with why they matter and famous examples.",
+    "tags": ["positions", "underrated", "roles"],
+    "niches": ["sports", "analysis", "education"]
+  },
+  {
+    "title": "How to Deal with [Injuries/Setbacks] Mentally",
+    "description": "Discuss mental recovery. Expand with coping strategies and stories of resilience.",
+    "tags": ["injury", "mental health", "resilience"],
+    "niches": ["sports", "wellness", "self-improvement"]
+  },
+  {
+    "title": "The [Best/Worst] Sports Superstitions",
+    "description": "Share funny or odd superstitions. Expand with origins and personal rituals.",
+    "tags": ["superstitions", "funny", "rituals"],
+    "niches": ["sports", "entertainment", "history"]
+  },
+  {
+    "title": "How to Improve Your [Speed/Strength/Agility] for [Sport]",
+    "description": "Give targeted training tips. Expand with exercises and progress tracking.",
+    "tags": ["training", "improvement", "fitness"],
+    "niches": ["sports", "fitness", "coaching"]
+  },
+  {
+    "title": "The [Most Memorable] Sports Events I’ve Attended",
+    "description": "Share stories from live events. Expand with atmosphere, surprises, and takeaways.",
+    "tags": ["events", "memorable", "stories"],
+    "niches": ["sports", "vlogs", "entertainment"]
+  },
+  {
+    "title": "How to Choose the Right [Gear/Equipment] for [Sport]",
+    "description": "Offer gear selection advice. Expand with comparisons and budget options.",
+    "tags": ["gear", "equipment", "tips"],
+    "niches": ["sports", "reviews", "education"]
+  },
+  {
+    "title": "The [Most Inspiring] Underdog Stories in [Sport]",
+    "description": "Tell underdog tales. Expand with context, key moments, and lessons.",
+    "tags": ["underdog", "inspiration", "stories"],
+    "niches": ["sports", "motivation", "history"]
+  },
+  {
+    "title": "How to Make [Practice/Training] Fun",
+    "description": "Share ways to keep training enjoyable. Expand with games, challenges, and group activities.",
+    "tags": ["practice", "fun", "motivation"],
+    "niches": ["sports", "coaching", "education"]
+  },
+  {
+    "title": "The [Most Surprising] Facts About [Sport]",
+    "description": "Share little-known facts. Expand with history, trivia, and personal reactions.",
+    "tags": ["facts", "surprising", "trivia"],
+    "niches": ["sports", "education", "entertainment"]
+  },
+  {
+    "title": "How to Support Your [Team/Player] as a Fan",
+    "description": "Give fan engagement tips. Expand with traditions, chants, and community involvement.",
+    "tags": ["fans", "support", "community"],
+    "niches": ["sports", "community", "entertainment"]
+  },
+  {
+    "title": "The [Most Difficult] Sports to Learn (And Why)",
+    "description": "Rank tough sports. Expand with what makes them challenging and tips for beginners.",
+    "tags": ["difficult", "learning", "ranking"],
+    "niches": ["sports", "education", "analysis"]
+  },
+  {
+    "title": "How to Deal with [Bad Calls/Referees] in [Sport]",
+    "description": "Discuss handling unfair situations. Expand with stories and advice for players and fans.",
+    "tags": ["referees", "bad calls", "sportsmanship"],
+    "niches": ["sports", "education", "entertainment"]
+  },
+  {
+    "title": "The [Best/Worst] Sports Traditions",
+    "description": "Highlight unique traditions. Expand with origins, stories, and personal experiences.",
+    "tags": ["traditions", "best", "worst"],
+    "niches": ["sports", "history", "entertainment"]
+  },
+  {
+    "title": "How to Stay Fit During the [Off-Season/Break]",
+    "description": "Share off-season fitness tips. Expand with routines, nutrition, and motivation.",
+    "tags": ["off-season", "fitness", "training"],
+    "niches": ["sports", "fitness", "self-improvement"]
+  },
+  {
+    "title": "The [Most Impressive] Feats of Athleticism in [Sport]",
+    "description": "Showcase amazing athletic achievements. Expand with analysis and what it takes to reach that level.",
+    "tags": ["athleticism", "impressive", "analysis"],
+    "niches": ["sports", "history", "motivation"]
+  },
+  {
+    "title": "How to Handle [Trash Talk/Rivalries] in [Sport]",
+    "description": "Discuss dealing with competitive banter. Expand with stories and tips for keeping it fun.",
+    "tags": ["trash talk", "rivalries", "sportsmanship"],
+    "niches": ["sports", "entertainment", "coaching"]
+  },
+  {
+    "title": "The [Most Influential] Coaches in [Sport] History",
+    "description": "Profile legendary coaches. Expand with their philosophies and impact on the sport.",
+    "tags": ["coaches", "history", "influence"],
+    "niches": ["sports", "history", "coaching"]
+  },
+  {
+    "title": "How to Overcome [Fear/Anxiety] in [Sport]",
+    "description": "Share mental strategies for overcoming fear. Expand with personal stories and expert advice.",
+    "tags": ["fear", "anxiety", "mindset"],
+    "niches": ["sports", "self-improvement", "coaching"]
+  }
+]

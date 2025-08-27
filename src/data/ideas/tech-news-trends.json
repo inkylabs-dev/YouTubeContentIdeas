@@ -1,1 +1,302 @@
-[]
+[
+  {
+    "title": "Top [Number] [Tech Topic] News Stories This Week",
+    "description": "Summarize the most important news stories in a specific tech topic for the week. Expand by adding expert opinions, implications, and predictions.",
+    "tags": ["news", "weekly", "summary"],
+    "niches": ["technology", "news", "trends"]
+  },
+  {
+    "title": "What is [Emerging Technology]? Everything You Need to Know",
+    "description": "Introduce an emerging technology, explain how it works, and discuss its potential impact. Expand with use cases, industry reactions, and future outlook.",
+    "tags": ["emerging tech", "explainer", "future"],
+    "niches": ["technology", "innovation", "education"]
+  },
+  {
+    "title": "How [Tech Company] is Changing the [Industry]",
+    "description": "Analyze how a major tech company is disrupting or transforming a specific industry. Expand with examples, expert interviews, and market data.",
+    "tags": ["company", "industry", "disruption"],
+    "niches": ["business", "technology", "startups"]
+  },
+  {
+    "title": "[Tech Product] Review: Is It Worth the Hype?",
+    "description": "Provide a detailed review of a trending tech product. Expand with pros and cons, comparisons, and user feedback.",
+    "tags": ["review", "product", "trending"],
+    "niches": ["gadgets", "consumer tech", "electronics"]
+  },
+  {
+    "title": "Explained: The Latest [Tech Regulation/Policy]",
+    "description": "Break down a new tech regulation or policy and its implications. Expand with expert commentary, affected parties, and future scenarios.",
+    "tags": ["policy", "regulation", "explainer"],
+    "niches": ["technology", "law", "business"]
+  },
+  {
+    "title": "How [Tech Trend] Will Affect [Audience/Industry]",
+    "description": "Discuss the impact of a current tech trend on a specific audience or industry. Expand with case studies, data, and actionable advice.",
+    "tags": ["trend", "impact", "analysis"],
+    "niches": ["business", "technology", "education"]
+  },
+  {
+    "title": "The Rise of [Tech Buzzword]: What You Need to Know",
+    "description": "Explain a trending tech buzzword, its origins, and why it's important. Expand with examples, expert insights, and future predictions.",
+    "tags": ["buzzword", "trend", "explainer"],
+    "niches": ["technology", "innovation", "news"]
+  },
+  {
+    "title": "[Tech Event] Recap: Key Announcements and Takeaways",
+    "description": "Summarize the highlights and major announcements from a recent tech event. Expand with analysis, interviews, and what it means for the industry.",
+    "tags": ["event", "recap", "announcements"],
+    "niches": ["technology", "conferences", "news"]
+  },
+  {
+    "title": "What’s New in [Tech Platform/Software] This Month?",
+    "description": "Cover the latest updates and features in a popular tech platform or software. Expand with demos, user reactions, and tips for getting started.",
+    "tags": ["updates", "software", "platform"],
+    "niches": ["apps", "software", "technology"]
+  },
+  {
+    "title": "How [Tech Acquisition/Merger] Will Change the Market",
+    "description": "Analyze a recent tech acquisition or merger and its market implications. Expand with background, expert opinions, and potential outcomes.",
+    "tags": ["acquisition", "merger", "market"],
+    "niches": ["business", "technology", "startups"]
+  },
+  {
+    "title": "The Future of [Tech Sector]: Predictions for [Year]",
+    "description": "Share predictions for a specific tech sector in an upcoming year. Expand with trends, expert forecasts, and potential challenges.",
+    "tags": ["future", "predictions", "sector"],
+    "niches": ["technology", "innovation", "business"]
+  },
+  {
+    "title": "How [Tech Law] Impacts [Users/Companies]",
+    "description": "Explain a new or proposed tech law and its effects on users or companies. Expand with scenarios, compliance tips, and expert analysis.",
+    "tags": ["law", "impact", "compliance"],
+    "niches": ["technology", "law", "business"]
+  },
+  {
+    "title": "The [Number] Biggest Tech Fails of [Year]",
+    "description": "Highlight major tech failures from a specific year. Expand with causes, lessons learned, and industry reactions.",
+    "tags": ["fail", "news", "recap"],
+    "niches": ["technology", "news", "business"]
+  },
+  {
+    "title": "How [Tech Trend] is Shaping [Daily Life/Work]",
+    "description": "Discuss how a tech trend is influencing everyday life or work. Expand with examples, user stories, and practical tips.",
+    "tags": ["trend", "lifestyle", "work"],
+    "niches": ["technology", "productivity", "wellness"]
+  },
+  {
+    "title": "The [Number] Most Anticipated Tech Products of [Year]",
+    "description": "Preview the most awaited tech products launching in a given year. Expand with specs, rumors, and expected impact.",
+    "tags": ["anticipation", "products", "preview"],
+    "niches": ["gadgets", "consumer tech", "electronics"]
+  },
+  {
+    "title": "How [Tech Startup] is Disrupting [Market/Industry]",
+    "description": "Profile a tech startup and its disruptive impact. Expand with founder interviews, product demos, and market analysis.",
+    "tags": ["startup", "disruption", "profile"],
+    "niches": ["startups", "technology", "business"]
+  },
+  {
+    "title": "What [Tech Patent] Means for the Future of [Industry]",
+    "description": "Explain a recent tech patent and its potential industry impact. Expand with expert opinions, competitor responses, and future scenarios.",
+    "tags": ["patent", "future", "industry"],
+    "niches": ["technology", "innovation", "business"]
+  },
+  {
+    "title": "How [Tech Trend] is Affecting Privacy and Security",
+    "description": "Analyze the privacy and security implications of a tech trend. Expand with risks, best practices, and expert advice.",
+    "tags": ["privacy", "security", "trend"],
+    "niches": ["technology", "cybersecurity", "news"]
+  },
+  {
+    "title": "The [Number] Most Influential People in Tech Right Now",
+    "description": "Highlight influential figures in the tech world. Expand with their achievements, impact, and future projects.",
+    "tags": ["influencers", "tech leaders", "profile"],
+    "niches": ["technology", "business", "news"]
+  },
+  {
+    "title": "How [Tech Trend] is Changing [Education/Healthcare/Finance]",
+    "description": "Discuss the impact of a tech trend on a specific sector. Expand with case studies, expert interviews, and future outlook.",
+    "tags": ["trend", "sector", "impact"],
+    "niches": ["education", "healthcare", "finance"]
+  },
+  {
+    "title": "What’s Next for [Tech Giant] After [Recent Event/Launch]",
+    "description": "Analyze the future direction of a tech giant after a major event. Expand with expert opinions, market analysis, and predictions.",
+    "tags": ["company", "future", "analysis"],
+    "niches": ["technology", "business", "news"]
+  },
+  {
+    "title": "How [Tech Trend] is Influencing [Pop Culture/Media]",
+    "description": "Explore the intersection of tech trends and pop culture. Expand with examples, collaborations, and audience reactions.",
+    "tags": ["pop culture", "media", "trend"],
+    "niches": ["technology", "media", "entertainment"]
+  },
+  {
+    "title": "The [Number] Biggest Tech Myths Debunked",
+    "description": "Debunk common myths or misconceptions in tech. Expand with facts, expert commentary, and real-world examples.",
+    "tags": ["myths", "debunked", "facts"],
+    "niches": ["technology", "education", "news"]
+  },
+  {
+    "title": "How [Tech Trend] is Impacting the Environment",
+    "description": "Discuss the environmental effects of a tech trend. Expand with data, green alternatives, and expert opinions.",
+    "tags": ["environment", "sustainability", "trend"],
+    "niches": ["technology", "environment", "innovation"]
+  },
+  {
+    "title": "The [Number] Most Innovative Startups to Watch in [Year]",
+    "description": "List and profile innovative startups making waves. Expand with product demos, founder stories, and market potential.",
+    "tags": ["startups", "innovation", "watchlist"],
+    "niches": ["startups", "technology", "business"]
+  },
+  {
+    "title": "How [Tech Trend] is Affecting Jobs and Careers",
+    "description": "Analyze how a tech trend is changing the job market. Expand with new roles, required skills, and career advice.",
+    "tags": ["jobs", "careers", "trend"],
+    "niches": ["technology", "career", "education"]
+  },
+  {
+    "title": "The [Number] Most Important Tech Conferences in [Year]",
+    "description": "Highlight key tech conferences and what to expect. Expand with speaker lineups, major topics, and how to attend.",
+    "tags": ["conferences", "events", "networking"],
+    "niches": ["technology", "business", "networking"]
+  },
+  {
+    "title": "How [Tech Trend] is Changing Shopping and E-Commerce",
+    "description": "Explore the impact of tech trends on shopping habits. Expand with new platforms, consumer behavior, and future predictions.",
+    "tags": ["e-commerce", "shopping", "trend"],
+    "niches": ["technology", "business", "retail"]
+  },
+  {
+    "title": "The [Number] Most Controversial Tech Stories of [Year]",
+    "description": "Discuss controversial tech news stories. Expand with background, public reactions, and expert analysis.",
+    "tags": ["controversy", "news", "debate"],
+    "niches": ["technology", "news", "business"]
+  },
+  {
+    "title": "How [Tech Trend] is Affecting Data Privacy",
+    "description": "Analyze the data privacy implications of a tech trend. Expand with risks, regulations, and user tips.",
+    "tags": ["data privacy", "trend", "security"],
+    "niches": ["technology", "cybersecurity", "news"]
+  },
+  {
+    "title": "The [Number] Most Exciting Tech Breakthroughs of [Year]",
+    "description": "Highlight major tech breakthroughs and their significance. Expand with demos, expert commentary, and future impact.",
+    "tags": ["breakthroughs", "innovation", "news"],
+    "niches": ["technology", "innovation", "science"]
+  },
+  {
+    "title": "How [Tech Trend] is Changing Communication",
+    "description": "Discuss how a tech trend is transforming communication. Expand with new tools, platforms, and user experiences.",
+    "tags": ["communication", "trend", "technology"],
+    "niches": ["technology", "media", "business"]
+  },
+  {
+    "title": "The [Number] Most Useful Tech Tools for [Profession/Industry]",
+    "description": "List and review tech tools tailored for a specific profession. Expand with demos, user reviews, and productivity tips.",
+    "tags": ["tools", "review", "productivity"],
+    "niches": ["technology", "business", "education"]
+  },
+  {
+    "title": "How [Tech Trend] is Affecting Health and Wellness",
+    "description": "Explore the impact of tech trends on health and wellness. Expand with new devices, apps, and expert advice.",
+    "tags": ["health", "wellness", "trend"],
+    "niches": ["technology", "health", "wellness"]
+  },
+  {
+    "title": "The [Number] Most Important Tech Skills to Learn in [Year]",
+    "description": "Highlight essential tech skills for the year. Expand with learning resources, career paths, and expert tips.",
+    "tags": ["skills", "learning", "career"],
+    "niches": ["technology", "education", "career"]
+  },
+  {
+    "title": "How [Tech Trend] is Changing Transportation",
+    "description": "Discuss the impact of tech trends on transportation. Expand with new vehicles, infrastructure, and future predictions.",
+    "tags": ["transportation", "trend", "mobility"],
+    "niches": ["technology", "mobility", "innovation"]
+  },
+  {
+    "title": "The [Number] Most Popular Tech Podcasts Right Now",
+    "description": "List and review trending tech podcasts. Expand with episode highlights, host profiles, and listener feedback.",
+    "tags": ["podcasts", "media", "review"],
+    "niches": ["technology", "media", "education"]
+  },
+  {
+    "title": "How [Tech Trend] is Affecting Entertainment",
+    "description": "Analyze the influence of tech trends on entertainment. Expand with new platforms, content formats, and audience engagement.",
+    "tags": ["entertainment", "trend", "media"],
+    "niches": ["technology", "media", "entertainment"]
+  },
+  {
+    "title": "The [Number] Most Important Tech IPOs to Watch",
+    "description": "Highlight upcoming or recent tech IPOs. Expand with company profiles, market analysis, and investment tips.",
+    "tags": ["IPO", "investment", "market"],
+    "niches": ["technology", "business", "finance"]
+  },
+  {
+    "title": "How [Tech Trend] is Changing Social Media",
+    "description": "Discuss the impact of tech trends on social media platforms. Expand with new features, user behavior, and future outlook.",
+    "tags": ["social media", "trend", "platforms"],
+    "niches": ["technology", "media", "communication"]
+  },
+  {
+    "title": "The [Number] Most Important Tech Lawsuits of [Year]",
+    "description": "Cover major tech lawsuits and their implications. Expand with background, legal analysis, and industry impact.",
+    "tags": ["lawsuit", "legal", "news"],
+    "niches": ["technology", "law", "business"]
+  },
+  {
+    "title": "How [Tech Trend] is Affecting Cybersecurity",
+    "description": "Analyze the cybersecurity challenges posed by a tech trend. Expand with risks, solutions, and expert advice.",
+    "tags": ["cybersecurity", "trend", "security"],
+    "niches": ["technology", "cybersecurity", "news"]
+  },
+  {
+    "title": "The [Number] Most Promising Tech Careers for [Year]",
+    "description": "Highlight promising tech careers and required skills. Expand with salary data, job outlook, and learning resources.",
+    "tags": ["careers", "jobs", "future"],
+    "niches": ["technology", "career", "education"]
+  },
+  {
+    "title": "How [Tech Trend] is Changing the Workplace",
+    "description": "Discuss how tech trends are transforming the workplace. Expand with new tools, remote work, and productivity tips.",
+    "tags": ["workplace", "trend", "productivity"],
+    "niches": ["technology", "business", "career"]
+  },
+  {
+    "title": "The [Number] Most Important Tech Partnerships of [Year]",
+    "description": "Highlight key tech partnerships and their significance. Expand with company profiles, collaboration details, and market impact.",
+    "tags": ["partnerships", "collaboration", "news"],
+    "niches": ["technology", "business", "innovation"]
+  },
+  {
+    "title": "How [Tech Trend] is Affecting Global Markets",
+    "description": "Analyze the global market impact of a tech trend. Expand with data, regional differences, and expert commentary.",
+    "tags": ["global", "markets", "trend"],
+    "niches": ["technology", "business", "finance"]
+  },
+  {
+    "title": "The [Number] Most Important Tech Funding Rounds of [Year]",
+    "description": "Cover major tech funding rounds and their implications. Expand with startup profiles, investor interviews, and market analysis.",
+    "tags": ["funding", "startups", "investment"],
+    "niches": ["technology", "business", "startups"]
+  },
+  {
+    "title": "How [Tech Trend] is Affecting Accessibility",
+    "description": "Discuss how tech trends are improving or challenging accessibility. Expand with new tools, user stories, and expert advice.",
+    "tags": ["accessibility", "trend", "inclusion"],
+    "niches": ["technology", "inclusion", "innovation"]
+  },
+  {
+    "title": "The [Number] Most Important Tech Mergers of [Year]",
+    "description": "Highlight significant tech mergers and their industry impact. Expand with company backgrounds, deal details, and market analysis.",
+    "tags": ["mergers", "business", "news"],
+    "niches": ["technology", "business", "finance"]
+  },
+  {
+    "title": "How [Tech Trend] is Affecting Artificial Intelligence",
+    "description": "Analyze the influence of a tech trend on AI development. Expand with new breakthroughs, applications, and ethical considerations.",
+    "tags": ["AI", "trend", "innovation"],
+    "niches": ["technology", "AI", "innovation"]
+  }
+]

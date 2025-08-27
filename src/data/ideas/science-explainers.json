@@ -1,1 +1,608 @@
-[]
+[
+  {
+    "title": "The Science Behind [Phenomenon]",
+    "description": "Explain the underlying scientific principles of [Phenomenon], such as why it happens, what causes it, and its real-world implications. Expand by including experiments, animations, or interviews with experts.",
+    "tags": ["science", "explanation", "phenomenon"],
+    "niches": ["general science", "education"]
+  },
+  {
+    "title": "How Does [Technology] Work?",
+    "description": "Break down the mechanics and science behind [Technology]. Expand by showing diagrams, real-life applications, and historical development.",
+    "tags": ["technology", "science", "explainer"],
+    "niches": ["technology", "engineering"]
+  },
+  {
+    "title": "What If [Event] Happened?",
+    "description": "Explore the scientific consequences and possibilities if [Event] occurred. Expand by referencing scientific theories, simulations, and expert opinions.",
+    "tags": ["what if", "science", "theory"],
+    "niches": ["physics", "general science"]
+  },
+  {
+    "title": "The Mystery of [Unsolved Problem]",
+    "description": "Delve into the details of [Unsolved Problem], current hypotheses, and ongoing research. Expand by discussing historical context and future directions.",
+    "tags": ["mystery", "science", "unsolved"],
+    "niches": ["physics", "biology", "astronomy"]
+  },
+  {
+    "title": "How Scientists Discovered [Discovery]",
+    "description": "Narrate the story of how [Discovery] was made, including key experiments, people involved, and its impact. Expand by dramatizing events or using visuals.",
+    "tags": ["discovery", "history", "science"],
+    "niches": ["history of science", "education"]
+  },
+  {
+    "title": "Explaining [Scientific Law or Theory]",
+    "description": "Break down [Scientific Law or Theory] in simple terms, using analogies and examples. Expand by showing real-world applications and experiments.",
+    "tags": ["law", "theory", "science"],
+    "niches": ["physics", "chemistry", "biology"]
+  },
+  {
+    "title": "The Life Cycle of [Organism or Object]",
+    "description": "Describe the stages in the life cycle of [Organism or Object], using visuals and timelines. Expand by comparing with similar cycles.",
+    "tags": ["life cycle", "biology", "science"],
+    "niches": ["biology", "education"]
+  },
+  {
+    "title": "Why Do We [Human Behavior or Trait]?",
+    "description": "Explore the scientific reasons behind [Human Behavior or Trait], referencing biology, psychology, or evolution. Expand by including studies and expert interviews.",
+    "tags": ["human", "behavior", "science"],
+    "niches": ["psychology", "biology"]
+  },
+  {
+    "title": "The Chemistry of [Everyday Item]",
+    "description": "Explain the chemical makeup and reactions involved in [Everyday Item]. Expand by showing experiments or practical uses.",
+    "tags": ["chemistry", "everyday", "science"],
+    "niches": ["chemistry", "education"]
+  },
+  {
+    "title": "How [Natural Disaster] Happens",
+    "description": "Describe the science behind [Natural Disaster], including causes, effects, and prevention. Expand by using simulations and case studies.",
+    "tags": ["disaster", "nature", "science"],
+    "niches": ["earth science", "geology"]
+  },
+  {
+    "title": "The Physics of [Sport or Activity]",
+    "description": "Break down the physics principles at play in [Sport or Activity]. Expand by using slow-motion footage and diagrams.",
+    "tags": ["physics", "sport", "science"],
+    "niches": ["physics", "sports science"]
+  },
+  {
+    "title": "How [Medical Technology] Saves Lives",
+    "description": "Explain how [Medical Technology] works and its impact on healthcare. Expand by including patient stories and expert commentary.",
+    "tags": ["medicine", "technology", "science"],
+    "niches": ["medicine", "healthcare"]
+  },
+  {
+    "title": "The Evolution of [Species or Technology]",
+    "description": "Trace the development of [Species or Technology] over time, highlighting key changes and adaptations. Expand with timelines and fossil records or patents.",
+    "tags": ["evolution", "history", "science"],
+    "niches": ["biology", "technology"]
+  },
+  {
+    "title": "How [Body Part] Works",
+    "description": "Describe the anatomy and function of [Body Part], using diagrams and animations. Expand by comparing with other species.",
+    "tags": ["anatomy", "biology", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "The Science of [Food or Cooking Process]",
+    "description": "Explain the chemical and physical changes in [Food or Cooking Process]. Expand by showing experiments or recipes.",
+    "tags": ["food", "chemistry", "science"],
+    "niches": ["food science", "chemistry"]
+  },
+  {
+    "title": "Why Is [Scientific Fact] True?",
+    "description": "Present evidence and experiments that support [Scientific Fact]. Expand by debunking common misconceptions.",
+    "tags": ["fact", "evidence", "science"],
+    "niches": ["general science", "education"]
+  },
+  {
+    "title": "The Role of [Element or Compound] in Our Lives",
+    "description": "Discuss the importance and uses of [Element or Compound], including where it's found and how it's used. Expand with demonstrations.",
+    "tags": ["element", "compound", "science"],
+    "niches": ["chemistry", "education"]
+  },
+  {
+    "title": "How [Animal] Survives in [Habitat]",
+    "description": "Explore the adaptations that allow [Animal] to thrive in [Habitat]. Expand by comparing with other animals.",
+    "tags": ["animal", "habitat", "science"],
+    "niches": ["biology", "zoology"]
+  },
+  {
+    "title": "The Math Behind [Real-World Problem]",
+    "description": "Show how mathematics is used to solve [Real-World Problem], with step-by-step explanations. Expand by providing practical examples.",
+    "tags": ["math", "problem solving", "science"],
+    "niches": ["mathematics", "education"]
+  },
+  {
+    "title": "How [Space Phenomenon] Works",
+    "description": "Explain the science behind [Space Phenomenon], using visuals and analogies. Expand by discussing its discovery and significance.",
+    "tags": ["space", "astronomy", "science"],
+    "niches": ["astronomy", "physics"]
+  },
+  {
+    "title": "The Genetics of [Trait or Disease]",
+    "description": "Describe the genetic basis of [Trait or Disease], including inheritance patterns and recent research. Expand by discussing ethical implications.",
+    "tags": ["genetics", "biology", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "How [Plant] Grows",
+    "description": "Detail the growth process of [Plant], from seed to maturity. Expand by showing time-lapse footage and discussing environmental factors.",
+    "tags": ["plant", "growth", "science"],
+    "niches": ["botany", "biology"]
+  },
+  {
+    "title": "The Science of [Weather Event]",
+    "description": "Break down the causes and effects of [Weather Event]. Expand by using weather models and historical data.",
+    "tags": ["weather", "climate", "science"],
+    "niches": ["meteorology", "earth science"]
+  },
+  {
+    "title": "How [Material] Is Made",
+    "description": "Explain the process of creating [Material], from raw resources to finished product. Expand by visiting factories or labs.",
+    "tags": ["material", "manufacturing", "science"],
+    "niches": ["engineering", "chemistry"]
+  },
+  {
+    "title": "The Science of [Sound or Music]",
+    "description": "Explore the physics and biology behind [Sound or Music], including how we perceive it. Expand by using demonstrations and instruments.",
+    "tags": ["sound", "music", "science"],
+    "niches": ["physics", "music"]
+  },
+  {
+    "title": "Why Do [Animals] Behave This Way?",
+    "description": "Investigate the scientific reasons for [Animals]' behavior, referencing studies and evolutionary theory. Expand by comparing species.",
+    "tags": ["animal", "behavior", "science"],
+    "niches": ["zoology", "biology"]
+  },
+  {
+    "title": "The Science of [Illusion or Trick]",
+    "description": "Explain the scientific principles behind [Illusion or Trick], such as perception or physics. Expand by recreating the illusion.",
+    "tags": ["illusion", "perception", "science"],
+    "niches": ["psychology", "physics"]
+  },
+  {
+    "title": "How [Invention] Changed the World",
+    "description": "Discuss the impact of [Invention] on society and science. Expand by showing before-and-after scenarios.",
+    "tags": ["invention", "history", "science"],
+    "niches": ["history of science", "technology"]
+  },
+  {
+    "title": "The Biology of [Disease or Condition]",
+    "description": "Describe the biological mechanisms behind [Disease or Condition], including symptoms and treatments. Expand by interviewing doctors.",
+    "tags": ["biology", "disease", "science"],
+    "niches": ["medicine", "biology"]
+  },
+  {
+    "title": "How [Chemical Reaction] Works",
+    "description": "Break down the steps and outcomes of [Chemical Reaction], using visuals and experiments. Expand by discussing real-world uses.",
+    "tags": ["chemistry", "reaction", "science"],
+    "niches": ["chemistry", "education"]
+  },
+  {
+    "title": "The Science of [Color or Light]",
+    "description": "Explain how [Color or Light] is produced and perceived, referencing physics and biology. Expand by using demonstrations.",
+    "tags": ["color", "light", "science"],
+    "niches": ["physics", "biology"]
+  },
+  {
+    "title": "Why Is [Substance] Dangerous/Safe?",
+    "description": "Discuss the properties of [Substance] that make it dangerous or safe, including case studies and safety tips. Expand by showing experiments.",
+    "tags": ["substance", "safety", "science"],
+    "niches": ["chemistry", "health"]
+  },
+  {
+    "title": "The Science of [Energy Source]",
+    "description": "Explain how [Energy Source] is generated and used, including pros and cons. Expand by comparing with other sources.",
+    "tags": ["energy", "source", "science"],
+    "niches": ["physics", "engineering"]
+  },
+  {
+    "title": "How [Virus or Bacteria] Spreads",
+    "description": "Describe the mechanisms of transmission for [Virus or Bacteria], and how to prevent it. Expand by referencing recent outbreaks.",
+    "tags": ["virus", "bacteria", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "The Science of [Memory or Learning]",
+    "description": "Explore how [Memory or Learning] works in the brain, referencing neuroscience and psychology. Expand by including tips for improvement.",
+    "tags": ["memory", "learning", "science"],
+    "niches": ["psychology", "neuroscience"]
+  },
+  {
+    "title": "How [Machine] Works",
+    "description": "Break down the components and operation of [Machine], using diagrams and animations. Expand by showing real-world applications.",
+    "tags": ["machine", "engineering", "science"],
+    "niches": ["engineering", "technology"]
+  },
+  {
+    "title": "The Science of [Habit or Addiction]",
+    "description": "Explain the biological and psychological factors behind [Habit or Addiction]. Expand by discussing treatments and prevention.",
+    "tags": ["habit", "addiction", "science"],
+    "niches": ["psychology", "medicine"]
+  },
+  {
+    "title": "Why Do We Need [Nutrient or Vitamin]?",
+    "description": "Discuss the role of [Nutrient or Vitamin] in the body, including sources and deficiency effects. Expand by showing dietary examples.",
+    "tags": ["nutrition", "vitamin", "science"],
+    "niches": ["nutrition", "biology"]
+  },
+  {
+    "title": "The Science of [Sleep or Dreaming]",
+    "description": "Explore what happens during [Sleep or Dreaming], referencing biology and psychology. Expand by discussing sleep disorders.",
+    "tags": ["sleep", "dream", "science"],
+    "niches": ["psychology", "biology"]
+  },
+  {
+    "title": "How [Ecosystem] Functions",
+    "description": "Describe the interactions and balance within [Ecosystem], using food webs and case studies. Expand by discussing threats and conservation.",
+    "tags": ["ecosystem", "environment", "science"],
+    "niches": ["ecology", "biology"]
+  },
+  {
+    "title": "The Science of [Aging or Longevity]",
+    "description": "Explain the biological processes behind [Aging or Longevity], and current research on extending life. Expand by discussing lifestyle factors.",
+    "tags": ["aging", "longevity", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "How [Senses] Work",
+    "description": "Break down the biology and physics behind [Senses], such as sight, hearing, or taste. Expand by including demonstrations.",
+    "tags": ["senses", "biology", "science"],
+    "niches": ["biology", "psychology"]
+  },
+  {
+    "title": "The Science of [Time or Space]",
+    "description": "Explore the concepts of [Time or Space] in physics, using analogies and experiments. Expand by discussing theories and paradoxes.",
+    "tags": ["time", "space", "science"],
+    "niches": ["physics", "astronomy"]
+  },
+  {
+    "title": "How [Weather Instrument] Works",
+    "description": "Explain the mechanics and science behind [Weather Instrument], and how it's used in forecasting. Expand by showing real data.",
+    "tags": ["weather", "instrument", "science"],
+    "niches": ["meteorology", "engineering"]
+  },
+  {
+    "title": "The Science of [Emotion]",
+    "description": "Describe the biological and psychological basis of [Emotion], referencing studies and brain imaging. Expand by discussing cultural differences.",
+    "tags": ["emotion", "psychology", "science"],
+    "niches": ["psychology", "neuroscience"]
+  },
+  {
+    "title": "How [Renewable Energy Technology] Works",
+    "description": "Break down the science and engineering behind [Renewable Energy Technology], including efficiency and challenges. Expand by comparing with traditional energy.",
+    "tags": ["renewable", "energy", "science"],
+    "niches": ["engineering", "physics"]
+  },
+  {
+    "title": "The Science of [Artificial Intelligence]",
+    "description": "Explain the principles and algorithms behind [Artificial Intelligence], and its applications. Expand by discussing ethical issues.",
+    "tags": ["AI", "technology", "science"],
+    "niches": ["computer science", "technology"]
+  },
+  {
+    "title": "How [Drug or Medicine] Works",
+    "description": "Describe the mechanism of action for [Drug or Medicine], including how it's developed and tested. Expand by discussing side effects.",
+    "tags": ["medicine", "drug", "science"],
+    "niches": ["medicine", "pharmacology"]
+  },
+  {
+    "title": "The Science of [Recycling or Waste Management]",
+    "description": "Explain the processes and technologies behind [Recycling or Waste Management], and their environmental impact. Expand by showing local examples.",
+    "tags": ["recycling", "waste", "science"],
+    "niches": ["environment", "engineering"]
+  },
+  {
+    "title": "How [Body System] Functions",
+    "description": "Break down the organs and processes in [Body System], using diagrams and animations. Expand by discussing diseases and treatments.",
+    "tags": ["body", "system", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "The Science of [Flight or Aerodynamics]",
+    "description": "Explain the physics behind [Flight or Aerodynamics], using models and experiments. Expand by discussing applications in nature and technology.",
+    "tags": ["flight", "aerodynamics", "science"],
+    "niches": ["physics", "engineering"]
+  },
+  {
+    "title": "How [Computer or Device] Processes Information",
+    "description": "Describe the hardware and software involved in [Computer or Device] operation. Expand by showing real-world uses.",
+    "tags": ["computer", "device", "science"],
+    "niches": ["computer science", "technology"]
+  },
+  {
+    "title": "The Science of [Pollution or Environmental Issue]",
+    "description": "Break down the causes and effects of [Pollution or Environmental Issue], and possible solutions. Expand by showing case studies.",
+    "tags": ["pollution", "environment", "science"],
+    "niches": ["environment", "earth science"]
+  },
+  {
+    "title": "How [Spacecraft or Satellite] Works",
+    "description": "Explain the engineering and science behind [Spacecraft or Satellite], including missions and discoveries. Expand by showing animations.",
+    "tags": ["spacecraft", "satellite", "science"],
+    "niches": ["astronomy", "engineering"]
+  },
+  {
+    "title": "The Science of [Genetic Engineering or CRISPR]",
+    "description": "Describe the principles and applications of [Genetic Engineering or CRISPR], and ethical considerations. Expand by showing real-world examples.",
+    "tags": ["genetics", "engineering", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "How [Sensor or Detector] Works",
+    "description": "Break down the technology and science behind [Sensor or Detector], and its uses. Expand by showing experiments.",
+    "tags": ["sensor", "detector", "science"],
+    "niches": ["engineering", "technology"]
+  },
+  {
+    "title": "The Science of [Vaccines or Immunity]",
+    "description": "Explain how [Vaccines or Immunity] protect us, referencing biology and epidemiology. Expand by discussing vaccine development.",
+    "tags": ["vaccine", "immunity", "science"],
+    "niches": ["medicine", "biology"]
+  },
+  {
+    "title": "How [Chemical Element] Was Discovered",
+    "description": "Tell the story of the discovery of [Chemical Element], including experiments and scientists involved. Expand by discussing its uses.",
+    "tags": ["element", "discovery", "science"],
+    "niches": ["chemistry", "history of science"]
+  },
+  {
+    "title": "The Science of [Quantum Phenomenon]",
+    "description": "Break down the basics of [Quantum Phenomenon], using analogies and experiments. Expand by discussing implications for technology.",
+    "tags": ["quantum", "physics", "science"],
+    "niches": ["physics", "technology"]
+  },
+  {
+    "title": "How [Weather Pattern] Affects the Planet",
+    "description": "Explain the causes and global effects of [Weather Pattern], using maps and data. Expand by discussing climate change.",
+    "tags": ["weather", "climate", "science"],
+    "niches": ["meteorology", "earth science"]
+  },
+  {
+    "title": "The Science of [Forensics or Crime Solving]",
+    "description": "Describe the scientific techniques used in [Forensics or Crime Solving], including real cases. Expand by showing lab demonstrations.",
+    "tags": ["forensics", "crime", "science"],
+    "niches": ["forensics", "chemistry"]
+  },
+  {
+    "title": "How [Renewable Resource] Is Harvested",
+    "description": "Explain the process of collecting and using [Renewable Resource], and its benefits. Expand by comparing with non-renewable resources.",
+    "tags": ["renewable", "resource", "science"],
+    "niches": ["environment", "engineering"]
+  },
+  {
+    "title": "The Science of [Microorganism]",
+    "description": "Describe the biology and impact of [Microorganism], including beneficial and harmful effects. Expand by showing microscope footage.",
+    "tags": ["microorganism", "biology", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "How [Material Property] Is Measured",
+    "description": "Explain the methods and tools used to measure [Material Property], with demonstrations. Expand by discussing applications.",
+    "tags": ["material", "measurement", "science"],
+    "niches": ["engineering", "physics"]
+  },
+  {
+    "title": "The Science of [Nanotechnology]",
+    "description": "Break down the principles and applications of [Nanotechnology], and its future potential. Expand by showing real-world uses.",
+    "tags": ["nanotechnology", "technology", "science"],
+    "niches": ["engineering", "physics"]
+  },
+  {
+    "title": "How [Weather Event] Is Predicted",
+    "description": "Describe the science and technology behind forecasting [Weather Event], using models and data. Expand by showing real forecasts.",
+    "tags": ["weather", "prediction", "science"],
+    "niches": ["meteorology", "earth science"]
+  },
+  {
+    "title": "The Science of [Biomimicry]",
+    "description": "Explain how [Biomimicry] uses nature's designs to solve human problems. Expand by showing examples in technology and architecture.",
+    "tags": ["biomimicry", "nature", "science"],
+    "niches": ["biology", "engineering"]
+  },
+  {
+    "title": "How [Body Defense Mechanism] Works",
+    "description": "Describe the biological processes behind [Body Defense Mechanism], such as immune response. Expand by showing animations.",
+    "tags": ["defense", "biology", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "The Science of [Climate Change Solution]",
+    "description": "Explain the principles and effectiveness of [Climate Change Solution], using data and case studies. Expand by discussing challenges.",
+    "tags": ["climate", "solution", "science"],
+    "niches": ["environment", "engineering"]
+  },
+  {
+    "title": "How [Astronomical Object] Was Discovered",
+    "description": "Tell the story of the discovery of [Astronomical Object], including observations and technology used. Expand by discussing its significance.",
+    "tags": ["astronomy", "discovery", "science"],
+    "niches": ["astronomy", "history of science"]
+  },
+  {
+    "title": "The Science of [Communication Technology]",
+    "description": "Break down the science behind [Communication Technology], such as radio, fiber optics, or the internet. Expand by showing real-world uses.",
+    "tags": ["communication", "technology", "science"],
+    "niches": ["engineering", "technology"]
+  },
+  {
+    "title": "How [Body Adaptation] Helps Survival",
+    "description": "Explain the evolutionary advantage of [Body Adaptation], using examples from nature. Expand by comparing species.",
+    "tags": ["adaptation", "evolution", "science"],
+    "niches": ["biology", "zoology"]
+  },
+  {
+    "title": "The Science of [Data or Statistics]",
+    "description": "Explain how [Data or Statistics] are collected, analyzed, and interpreted in science. Expand by showing practical examples.",
+    "tags": ["data", "statistics", "science"],
+    "niches": ["mathematics", "education"]
+  },
+  {
+    "title": "How [Chemical Process] Is Used in Industry",
+    "description": "Describe the steps and importance of [Chemical Process] in manufacturing. Expand by visiting factories or labs.",
+    "tags": ["chemical", "industry", "science"],
+    "niches": ["chemistry", "engineering"]
+  },
+  {
+    "title": "The Science of [Weather Modification]",
+    "description": "Explain the methods and ethics of [Weather Modification], such as cloud seeding. Expand by discussing real-world attempts.",
+    "tags": ["weather", "modification", "science"],
+    "niches": ["meteorology", "engineering"]
+  },
+  {
+    "title": "How [Body Repair Mechanism] Works",
+    "description": "Describe how the body heals itself through [Body Repair Mechanism], such as cell regeneration. Expand by showing medical advances.",
+    "tags": ["repair", "biology", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "The Science of [Robotics]",
+    "description": "Break down the principles and applications of [Robotics], including sensors, AI, and mechanics. Expand by showing robots in action.",
+    "tags": ["robotics", "technology", "science"],
+    "niches": ["engineering", "computer science"]
+  },
+  {
+    "title": "How [Body Signal] Is Transmitted",
+    "description": "Explain the biological and chemical processes behind [Body Signal], such as nerve impulses. Expand by showing animations.",
+    "tags": ["signal", "biology", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "The Science of [Material Innovation]",
+    "description": "Describe the development and uses of [Material Innovation], such as graphene or smart materials. Expand by showing applications.",
+    "tags": ["material", "innovation", "science"],
+    "niches": ["engineering", "chemistry"]
+  },
+  {
+    "title": "How [Body Measurement] Is Done",
+    "description": "Explain the tools and science behind measuring [Body Measurement], such as blood pressure or BMI. Expand by showing demonstrations.",
+    "tags": ["measurement", "biology", "science"],
+    "niches": ["medicine", "biology"]
+  },
+  {
+    "title": "The Science of [Space Exploration]",
+    "description": "Break down the technology and science behind [Space Exploration], including missions and discoveries. Expand by showing animations.",
+    "tags": ["space", "exploration", "science"],
+    "niches": ["astronomy", "engineering"]
+  },
+  {
+    "title": "How [Body Reflex] Works",
+    "description": "Describe the biological basis of [Body Reflex], such as the knee-jerk reaction. Expand by showing experiments.",
+    "tags": ["reflex", "biology", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "The Science of [Sustainable Agriculture]",
+    "description": "Explain the principles and practices of [Sustainable Agriculture], and its impact on the environment. Expand by showing case studies.",
+    "tags": ["agriculture", "sustainability", "science"],
+    "niches": ["environment", "biology"]
+  },
+  {
+    "title": "How [Body Temperature] Is Regulated",
+    "description": "Explain the biological mechanisms that control [Body Temperature], including feedback systems. Expand by discussing disorders.",
+    "tags": ["temperature", "biology", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "The Science of [Renewable Material]",
+    "description": "Describe the properties and uses of [Renewable Material], and its environmental benefits. Expand by showing real-world examples.",
+    "tags": ["renewable", "material", "science"],
+    "niches": ["engineering", "environment"]
+  },
+  {
+    "title": "How [Body Movement] Is Controlled",
+    "description": "Break down the muscles, nerves, and brain regions involved in [Body Movement]. Expand by showing demonstrations.",
+    "tags": ["movement", "biology", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "The Science of [Extreme Environment]",
+    "description": "Explain how life or technology survives in [Extreme Environment], such as deep sea or space. Expand by showing examples.",
+    "tags": ["extreme", "environment", "science"],
+    "niches": ["biology", "engineering"]
+  },
+  {
+    "title": "How [Body Fluid] Functions",
+    "description": "Describe the role and composition of [Body Fluid], such as blood or lymph. Expand by showing medical tests.",
+    "tags": ["fluid", "biology", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "The Science of [Sustainable Energy]",
+    "description": "Explain the principles and technologies behind [Sustainable Energy], and its future potential. Expand by comparing with fossil fuels.",
+    "tags": ["sustainable", "energy", "science"],
+    "niches": ["engineering", "environment"]
+  },
+  {
+    "title": "How [Body Organ] Filters or Processes",
+    "description": "Explain the function of [Body Organ] in filtering or processing substances, such as the liver or kidneys. Expand by showing diagrams.",
+    "tags": ["organ", "biology", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "The Science of [Space Mission]",
+    "description": "Describe the goals, technology, and discoveries of [Space Mission]. Expand by showing mission footage and interviews.",
+    "tags": ["space", "mission", "science"],
+    "niches": ["astronomy", "engineering"]
+  },
+  {
+    "title": "How [Body Cell] Communicates",
+    "description": "Explain the chemical and electrical signals used by [Body Cell] to communicate. Expand by showing animations.",
+    "tags": ["cell", "biology", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "The Science of [Sustainable Building]",
+    "description": "Break down the materials and design principles of [Sustainable Building], and their environmental impact. Expand by showing examples.",
+    "tags": ["sustainable", "building", "science"],
+    "niches": ["engineering", "environment"]
+  },
+  {
+    "title": "How [Body Hormone] Affects Us",
+    "description": "Describe the role of [Body Hormone] in the body, including effects and regulation. Expand by discussing disorders.",
+    "tags": ["hormone", "biology", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "The Science of [Space Weather]",
+    "description": "Explain the causes and effects of [Space Weather], such as solar flares. Expand by discussing impacts on technology.",
+    "tags": ["space", "weather", "science"],
+    "niches": ["astronomy", "physics"]
+  },
+  {
+    "title": "How [Body Enzyme] Works",
+    "description": "Break down the function and importance of [Body Enzyme] in biological processes. Expand by showing experiments.",
+    "tags": ["enzyme", "biology", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "The Science of [Sustainable Transportation]",
+    "description": "Describe the technologies and principles behind [Sustainable Transportation], and its environmental benefits. Expand by showing examples.",
+    "tags": ["sustainable", "transportation", "science"],
+    "niches": ["engineering", "environment"]
+  },
+  {
+    "title": "How [Body Organism] Interacts with Its Environment",
+    "description": "Explain the adaptations and behaviors that allow [Body Organism] to survive in its environment. Expand by showing case studies.",
+    "tags": ["organism", "environment", "science"],
+    "niches": ["biology", "ecology"]
+  },
+  {
+    "title": "The Science of [Sustainable Water Use]",
+    "description": "Explain the technologies and practices for [Sustainable Water Use], and their impact. Expand by showing real-world examples.",
+    "tags": ["sustainable", "water", "science"],
+    "niches": ["environment", "engineering"]
+  },
+  {
+    "title": "How [Body Immune Response] Protects Us",
+    "description": "Describe the steps and importance of [Body Immune Response] in fighting disease. Expand by showing animations.",
+    "tags": ["immune", "biology", "science"],
+    "niches": ["biology", "medicine"]
+  },
+  {
+    "title": "The Science of [Sustainable Food Production]",
+    "description": "Break down the methods and benefits of [Sustainable Food Production], and its impact on health and environment. Expand by showing examples.",
+    "tags": ["sustainable", "food", "science"],
+    "niches": ["environment", "biology"]
+  }
+]

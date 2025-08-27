@@ -1,1 +1,644 @@
-[]
+[
+  {
+    "title": "Speedrun: [Game Title] Any% in [Time]",
+    "description": "Showcase a full Any% speedrun of [Game Title], aiming to complete the game as fast as possible. Explain routing, glitches, and strategies used. Expand by comparing with world record runs or adding commentary.",
+    "tags": ["speedrun", "any%", "gaming", "walkthrough"],
+    "niches": ["gaming", "speedrunning"]
+  },
+  {
+    "title": "100% Speedrun of [Game Title]",
+    "description": "Complete every objective, collectible, and side quest in [Game Title] as quickly as possible. Discuss route planning and optimization. Expand by including splits and post-run analysis.",
+    "tags": ["speedrun", "100%", "completionist", "gaming"],
+    "niches": ["gaming", "speedrunning"]
+  },
+  {
+    "title": "Glitchless Speedrun: [Game Title]",
+    "description": "Perform a glitchless speedrun of [Game Title], focusing on pure skill and game mechanics. Expand by explaining the difference between glitchless and glitched categories.",
+    "tags": ["speedrun", "glitchless", "gaming", "challenge"],
+    "niches": ["gaming", "speedrunning"]
+  },
+  {
+    "title": "Speedrun Race: [Game Title] vs [Friend/Streamer]",
+    "description": "Race against another player in [Game Title] and commentate on the action. Expand by discussing strategies and providing split-screen footage.",
+    "tags": ["speedrun", "race", "multiplayer", "gaming"],
+    "niches": ["gaming", "speedrunning", "collaboration"]
+  },
+  {
+    "title": "Speedrun Tutorial: How to Start Running [Game Title]",
+    "description": "Guide beginners through the basics of speedrunning [Game Title], including setup, routing, and essential tricks. Expand by linking resources and communities.",
+    "tags": ["speedrun", "tutorial", "guide", "how-to"],
+    "niches": ["gaming", "education", "speedrunning"]
+  },
+  {
+    "title": "World Record Analysis: [Game Title] Speedrun",
+    "description": "Break down the current world record speedrun for [Game Title], highlighting key moments and strategies. Expand by comparing with previous records.",
+    "tags": ["speedrun", "world record", "analysis", "gaming"],
+    "niches": ["gaming", "speedrunning", "analysis"]
+  },
+  {
+    "title": "Speedrun Challenge: [Game Title] Blindfolded",
+    "description": "Attempt to speedrun [Game Title] while blindfolded. Discuss preparation and unique challenges. Expand by inviting viewers to try or react to attempts.",
+    "tags": ["speedrun", "challenge", "blindfolded", "gaming"],
+    "niches": ["gaming", "speedrunning", "challenge"]
+  },
+  {
+    "title": "Speedrun Commentary: [Game Title] Live Run",
+    "description": "Perform a live speedrun of [Game Title] with real-time commentary. Expand by answering chat questions or explaining techniques as you play.",
+    "tags": ["speedrun", "live", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "livestream"]
+  },
+  {
+    "title": "Speedrun History: Evolution of [Game Title] Records",
+    "description": "Explore how speedrun records for [Game Title] have changed over time. Expand by interviewing top runners or showing milestone runs.",
+    "tags": ["speedrun", "history", "records", "gaming"],
+    "niches": ["gaming", "speedrunning", "history"]
+  },
+  {
+    "title": "Speedrun with Unusual Controller: [Game Title] with [Controller Type]",
+    "description": "Attempt a speedrun of [Game Title] using a non-standard controller (e.g., dance pad, steering wheel). Expand by discussing the challenges and adapting strategies.",
+    "tags": ["speedrun", "controller", "challenge", "gaming"],
+    "niches": ["gaming", "speedrunning", "challenge"]
+  },
+  {
+    "title": "Speedrun Category Showcase: [Game Title] [Category]",
+    "description": "Demonstrate a specific speedrun category for [Game Title], such as Low%, Pacifist, or No Major Glitches. Expand by explaining category rules and unique strategies.",
+    "tags": ["speedrun", "category", "showcase", "gaming"],
+    "niches": ["gaming", "speedrunning"]
+  },
+  {
+    "title": "Speedrun Practice Session: [Game Title] [Level/Segment]",
+    "description": "Focus on practicing a difficult segment or level in [Game Title] speedruns. Expand by sharing tips and showing improvement over time.",
+    "tags": ["speedrun", "practice", "segment", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun Q&A: Answering Viewer Questions about [Game Title]",
+    "description": "Host a Q&A session about speedrunning [Game Title], addressing common questions and misconceptions. Expand by inviting guest runners.",
+    "tags": ["speedrun", "Q&A", "community", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun Meme Categories: [Game Title] [Funny Category]",
+    "description": "Attempt a meme or joke speedrun category in [Game Title], such as 'Any% with Toaster' or 'No Jump'. Expand by explaining the origins and showing highlights.",
+    "tags": ["speedrun", "meme", "funny", "gaming"],
+    "niches": ["gaming", "speedrunning", "entertainment"]
+  },
+  {
+    "title": "Speedrun Fails Compilation: [Game Title]",
+    "description": "Compile and react to funny or frustrating speedrun fails in [Game Title]. Expand by analyzing what went wrong and how to avoid mistakes.",
+    "tags": ["speedrun", "fails", "compilation", "gaming"],
+    "niches": ["gaming", "speedrunning", "entertainment"]
+  },
+  {
+    "title": "Speedrun PB (Personal Best) Progression: [Game Title]",
+    "description": "Document your journey to improve your personal best in [Game Title] speedruns. Expand by sharing splits, strategies, and setbacks.",
+    "tags": ["speedrun", "PB", "progression", "gaming"],
+    "niches": ["gaming", "speedrunning", "personal"]
+  },
+  {
+    "title": "Speedrun Community Highlights: [Game Title]",
+    "description": "Showcase impressive runs, clips, or achievements from the [Game Title] speedrunning community. Expand by interviewing top runners.",
+    "tags": ["speedrun", "community", "highlights", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun Route Comparison: [Game Title] Old vs New",
+    "description": "Compare old and new speedrun routes for [Game Title], discussing why changes were made and their impact on times. Expand by showing side-by-side footage.",
+    "tags": ["speedrun", "route", "comparison", "gaming"],
+    "niches": ["gaming", "speedrunning", "analysis"]
+  },
+  {
+    "title": "Speedrun with Mods: [Game Title] Modded Run",
+    "description": "Attempt a speedrun of [Game Title] with popular or funny mods installed. Expand by discussing how mods affect gameplay and routing.",
+    "tags": ["speedrun", "mods", "modded", "gaming"],
+    "niches": ["gaming", "speedrunning", "modding"]
+  },
+  {
+    "title": "Speedrun Charity Stream: [Game Title]",
+    "description": "Host a charity speedrun event for [Game Title], encouraging donations and community participation. Expand by setting milestones or incentives.",
+    "tags": ["speedrun", "charity", "livestream", "gaming"],
+    "niches": ["gaming", "speedrunning", "charity"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Every Trick in [Game Title]",
+    "description": "Perform a speedrun of [Game Title] while explaining every trick and glitch used. Expand by providing timestamps and detailed breakdowns.",
+    "tags": ["speedrun", "commentary", "explanation", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun Bingo: [Game Title] Randomized Objectives",
+    "description": "Play a speedrun bingo for [Game Title], completing randomized objectives as fast as possible. Expand by racing friends or viewers.",
+    "tags": ["speedrun", "bingo", "randomizer", "gaming"],
+    "niches": ["gaming", "speedrunning", "challenge"]
+  },
+  {
+    "title": "Speedrun with Restrictions: [Game Title] No [Ability/Item]",
+    "description": "Attempt a speedrun of [Game Title] without using a key ability or item. Expand by discussing how this changes routing and difficulty.",
+    "tags": ["speedrun", "challenge", "restriction", "gaming"],
+    "niches": ["gaming", "speedrunning", "challenge"]
+  },
+  {
+    "title": "Speedrun Reaction: Watching [Game Title] World Record",
+    "description": "React to and analyze the current world record speedrun for [Game Title]. Expand by pausing to explain key moments and strategies.",
+    "tags": ["speedrun", "reaction", "world record", "gaming"],
+    "niches": ["gaming", "speedrunning", "reaction"]
+  },
+  {
+    "title": "Speedrun with Viewers: [Game Title] Community Race",
+    "description": "Organize a community speedrun race for [Game Title], inviting viewers to participate. Expand by featuring top runs and giving shoutouts.",
+    "tags": ["speedrun", "community", "race", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun Tech Breakdown: [Game Title] Advanced Tricks",
+    "description": "Explain and demonstrate advanced speedrun techniques in [Game Title]. Expand by providing slow-motion replays and tutorials.",
+    "tags": ["speedrun", "tech", "tricks", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Randomizer: [Game Title] Randomized Run",
+    "description": "Attempt a speedrun of [Game Title] with a randomizer mod, making item locations and progression unpredictable. Expand by discussing routing on the fly.",
+    "tags": ["speedrun", "randomizer", "mod", "gaming"],
+    "niches": ["gaming", "speedrunning", "modding"]
+  },
+  {
+    "title": "Speedrun Co-op: [Game Title] with [Partner]",
+    "description": "Team up with a partner to speedrun [Game Title] in co-op mode. Expand by discussing teamwork and coordination strategies.",
+    "tags": ["speedrun", "co-op", "multiplayer", "gaming"],
+    "niches": ["gaming", "speedrunning", "collaboration"]
+  },
+  {
+    "title": "Speedrun Marathon Submission: [Game Title] Practice Run",
+    "description": "Record a practice run of [Game Title] for marathon submission. Expand by explaining marathon safety strats and commentary tips.",
+    "tags": ["speedrun", "marathon", "practice", "gaming"],
+    "niches": ["gaming", "speedrunning", "marathon"]
+  },
+  {
+    "title": "Speedrun Setup Guide: Preparing [Game Title] for Runs",
+    "description": "Show how to set up [Game Title] for speedrunning, including timer setup, splits, and emulator settings. Expand by troubleshooting common issues.",
+    "tags": ["speedrun", "setup", "guide", "how-to"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun Commentary: Explaining RNG in [Game Title]",
+    "description": "Discuss the role of RNG (randomness) in [Game Title] speedruns and how to manipulate or adapt to it. Expand by showing examples from runs.",
+    "tags": ["speedrun", "RNG", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with One Hand: [Game Title] Challenge",
+    "description": "Attempt to speedrun [Game Title] using only one hand. Expand by discussing accessibility and adapting controls.",
+    "tags": ["speedrun", "challenge", "one hand", "gaming"],
+    "niches": ["gaming", "speedrunning", "challenge"]
+  },
+  {
+    "title": "Speedrun with Voice Commands: [Game Title]",
+    "description": "Try to speedrun [Game Title] using only voice commands or speech recognition. Expand by showing setup and discussing limitations.",
+    "tags": ["speedrun", "voice commands", "challenge", "gaming"],
+    "niches": ["gaming", "speedrunning", "challenge"]
+  },
+  {
+    "title": "Speedrun with No Damage: [Game Title] Flawless Run",
+    "description": "Complete a speedrun of [Game Title] without taking any damage. Expand by discussing strategies for avoiding hits and risky sections.",
+    "tags": ["speedrun", "no damage", "challenge", "gaming"],
+    "niches": ["gaming", "speedrunning", "challenge"]
+  },
+  {
+    "title": "Speedrun with Permadeath: [Game Title] Hardcore Run",
+    "description": "Attempt a speedrun of [Game Title] with permadeath rules—one mistake ends the run. Expand by discussing risk management.",
+    "tags": ["speedrun", "permadeath", "hardcore", "gaming"],
+    "niches": ["gaming", "speedrunning", "challenge"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Movement Tech in [Game Title]",
+    "description": "Focus on movement techniques in [Game Title] speedruns, explaining how to optimize and practice them. Expand by comparing beginner and advanced movement.",
+    "tags": ["speedrun", "movement", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Custom Rules: [Game Title] [Rule Set]",
+    "description": "Create and attempt a custom speedrun rule set for [Game Title], such as 'No Save & Quit' or 'Pacifist'. Expand by inviting viewers to try the challenge.",
+    "tags": ["speedrun", "custom rules", "challenge", "gaming"],
+    "niches": ["gaming", "speedrunning", "challenge"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Boss Fights in [Game Title]",
+    "description": "Break down boss fights in [Game Title] speedruns, explaining strategies and quick kills. Expand by showing failed and successful attempts.",
+    "tags": ["speedrun", "boss fights", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Minimal Items: [Game Title] Low% Run",
+    "description": "Complete a Low% speedrun of [Game Title], collecting as few items as possible. Expand by discussing routing and unique challenges.",
+    "tags": ["speedrun", "Low%", "minimal items", "gaming"],
+    "niches": ["gaming", "speedrunning", "challenge"]
+  },
+  {
+    "title": "Speedrun with Random Seed: [Game Title] Procedural Run",
+    "description": "Attempt a speedrun of [Game Title] with a randomly generated seed or layout. Expand by discussing adaptability and improvisation.",
+    "tags": ["speedrun", "random seed", "procedural", "gaming"],
+    "niches": ["gaming", "speedrunning", "challenge"]
+  },
+  {
+    "title": "Speedrun with No Glitches: [Game Title] Pure Skill Run",
+    "description": "Showcase a speedrun of [Game Title] without using any glitches, focusing on skill and execution. Expand by comparing with glitched runs.",
+    "tags": ["speedrun", "no glitches", "pure skill", "gaming"],
+    "niches": ["gaming", "speedrunning", "challenge"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Menuing in [Game Title]",
+    "description": "Discuss the importance of fast and efficient menuing in [Game Title] speedruns. Expand by showing menuing tricks and practice drills.",
+    "tags": ["speedrun", "menuing", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with No Upgrades: [Game Title] Base Equipment Run",
+    "description": "Complete a speedrun of [Game Title] using only base equipment or abilities. Expand by discussing the impact on difficulty and routing.",
+    "tags": ["speedrun", "no upgrades", "base equipment", "gaming"],
+    "niches": ["gaming", "speedrunning", "challenge"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining RNG Manipulation in [Game Title]",
+    "description": "Explain how to manipulate RNG in [Game Title] speedruns for optimal outcomes. Expand by showing practical examples and failed attempts.",
+    "tags": ["speedrun", "RNG manipulation", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with No Deaths: [Game Title] Flawless Run",
+    "description": "Complete a speedrun of [Game Title] without dying. Expand by discussing risky sections and safety strategies.",
+    "tags": ["speedrun", "no deaths", "flawless", "gaming"],
+    "niches": ["gaming", "speedrunning", "challenge"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Sequence Breaks in [Game Title]",
+    "description": "Show and explain sequence breaks in [Game Title] speedruns, detailing how they save time. Expand by comparing with intended routes.",
+    "tags": ["speedrun", "sequence breaks", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with No Saves: [Game Title] Ironman Run",
+    "description": "Attempt a speedrun of [Game Title] without saving or using checkpoints. Expand by discussing risk and reward.",
+    "tags": ["speedrun", "no saves", "ironman", "gaming"],
+    "niches": ["gaming", "speedrunning", "challenge"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Cutscene Skips in [Game Title]",
+    "description": "Demonstrate and explain how to skip cutscenes in [Game Title] speedruns. Expand by showing the impact on run times.",
+    "tags": ["speedrun", "cutscene skips", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with No Glitches or Skips: [Game Title] True Any%",
+    "description": "Complete a speedrun of [Game Title] Any% without using glitches or major skips. Expand by discussing the differences from standard Any%.",
+    "tags": ["speedrun", "no glitches", "no skips", "gaming"],
+    "niches": ["gaming", "speedrunning", "challenge"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Route Planning in [Game Title]",
+    "description": "Discuss how to plan and optimize routes for [Game Title] speedruns. Expand by showing route maps and decision points.",
+    "tags": ["speedrun", "route planning", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Timer Splits in [Game Title]",
+    "description": "Explain how to set up and use timer splits in [Game Title] speedruns. Expand by showing live split examples and analysis.",
+    "tags": ["speedrun", "timer splits", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Input Tricks in [Game Title]",
+    "description": "Showcase input tricks and shortcuts used in [Game Title] speedruns. Expand by providing controller cam and slow-motion replays.",
+    "tags": ["speedrun", "input tricks", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Save Warps in [Game Title]",
+    "description": "Demonstrate save warping techniques in [Game Title] speedruns. Expand by explaining when and why to use them.",
+    "tags": ["speedrun", "save warps", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Out of Bounds in [Game Title]",
+    "description": "Show and explain out-of-bounds glitches in [Game Title] speedruns. Expand by discussing risks and how to practice them.",
+    "tags": ["speedrun", "out of bounds", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Frame Perfect Tricks in [Game Title]",
+    "description": "Break down frame-perfect tricks in [Game Title] speedruns. Expand by showing practice methods and success rates.",
+    "tags": ["speedrun", "frame perfect", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Early Game Strategies in [Game Title]",
+    "description": "Focus on early game strategies for [Game Title] speedruns. Expand by comparing different approaches and their impact on overall time.",
+    "tags": ["speedrun", "early game", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Late Game Strategies in [Game Title]",
+    "description": "Discuss late game strategies and how to maintain pace in [Game Title] speedruns. Expand by showing examples from top runs.",
+    "tags": ["speedrun", "late game", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Backup Strats in [Game Title]",
+    "description": "Show backup strategies for when things go wrong in [Game Title] speedruns. Expand by demonstrating common mistakes and recoveries.",
+    "tags": ["speedrun", "backup strats", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Movement Optimization in [Game Title]",
+    "description": "Explain how to optimize movement in [Game Title] speedruns for maximum speed. Expand by showing side-by-side comparisons.",
+    "tags": ["speedrun", "movement optimization", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Menu Buffering in [Game Title]",
+    "description": "Discuss menu buffering techniques in [Game Title] speedruns. Expand by showing practical uses and timing tips.",
+    "tags": ["speedrun", "menu buffering", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Quick Kills in [Game Title]",
+    "description": "Show how to perform quick kills on bosses or enemies in [Game Title] speedruns. Expand by breaking down timing and positioning.",
+    "tags": ["speedrun", "quick kills", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Inventory Management in [Game Title]",
+    "description": "Explain inventory management strategies for [Game Title] speedruns. Expand by showing how to minimize menu time.",
+    "tags": ["speedrun", "inventory management", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining RNG Routes in [Game Title]",
+    "description": "Discuss how to adapt routes based on RNG in [Game Title] speedruns. Expand by showing live examples and decision making.",
+    "tags": ["speedrun", "RNG routes", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Trick Consistency in [Game Title]",
+    "description": "Explain how to practice and achieve consistency with difficult tricks in [Game Title] speedruns. Expand by sharing drills and tips.",
+    "tags": ["speedrun", "trick consistency", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Split Optimization in [Game Title]",
+    "description": "Show how to optimize individual splits in [Game Title] speedruns. Expand by analyzing time saves and losses.",
+    "tags": ["speedrun", "split optimization", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Resources for [Game Title]",
+    "description": "Highlight useful community resources for [Game Title] speedrunners, such as guides, forums, and tools. Expand by showing how to use them.",
+    "tags": ["speedrun", "community resources", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Patch Differences in [Game Title]",
+    "description": "Discuss how different game patches affect speedrunning in [Game Title]. Expand by showing examples of tricks that work on some versions but not others.",
+    "tags": ["speedrun", "patch differences", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "analysis"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Emulator vs Console in [Game Title]",
+    "description": "Compare speedrunning [Game Title] on emulator versus original console. Expand by discussing pros, cons, and timing differences.",
+    "tags": ["speedrun", "emulator", "console", "commentary"],
+    "niches": ["gaming", "speedrunning", "analysis"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Input Display in [Game Title]",
+    "description": "Show how to set up and use input display for [Game Title] speedruns. Expand by explaining how it helps with learning and analysis.",
+    "tags": ["speedrun", "input display", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Timer Setup in [Game Title]",
+    "description": "Guide viewers through setting up a timer for [Game Title] speedruns. Expand by showing different timer software and features.",
+    "tags": ["speedrun", "timer setup", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Memes in [Game Title]",
+    "description": "Explain popular memes and inside jokes in the [Game Title] speedrunning community. Expand by showing examples from runs and forums.",
+    "tags": ["speedrun", "memes", "community", "commentary"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Leaderboard Submissions for [Game Title]",
+    "description": "Show how to record, verify, and submit speedruns for [Game Title] to leaderboards. Expand by discussing rules and common mistakes.",
+    "tags": ["speedrun", "leaderboard", "submission", "commentary"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Verification Process for [Game Title]",
+    "description": "Discuss the verification process for [Game Title] speedruns. Expand by interviewing moderators or showing behind-the-scenes.",
+    "tags": ["speedrun", "verification", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Marathon Safety Strats in [Game Title]",
+    "description": "Explain safety strategies for marathon speedruns of [Game Title]. Expand by showing examples from live events.",
+    "tags": ["speedrun", "marathon", "safety strats", "commentary"],
+    "niches": ["gaming", "speedrunning", "marathon"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Events for [Game Title]",
+    "description": "Highlight community events and races for [Game Title] speedrunners. Expand by showing how to participate and what to expect.",
+    "tags": ["speedrun", "community events", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Practice Tools for [Game Title]",
+    "description": "Showcase practice tools and software for [Game Title] speedrunners. Expand by demonstrating how to use them effectively.",
+    "tags": ["speedrun", "practice tools", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Split Comparison in [Game Title]",
+    "description": "Explain how to compare splits and analyze performance in [Game Title] speedruns. Expand by showing real examples and improvement tracking.",
+    "tags": ["speedrun", "split comparison", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Challenges in [Game Title]",
+    "description": "Discuss ongoing community challenges and how to participate in [Game Title] speedrunning. Expand by featuring top submissions.",
+    "tags": ["speedrun", "community challenges", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Patch Notes Impact in [Game Title]",
+    "description": "Analyze how recent patch notes have affected speedrunning in [Game Title]. Expand by showing before and after footage.",
+    "tags": ["speedrun", "patch notes", "analysis", "commentary"],
+    "niches": ["gaming", "speedrunning", "analysis"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Discords for [Game Title]",
+    "description": "Introduce viewers to Discord servers for [Game Title] speedrunners. Expand by showing how to join and participate.",
+    "tags": ["speedrun", "discord", "community", "commentary"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Speedrun Terminology in [Game Title]",
+    "description": "Define and explain common speedrun terminology used in [Game Title]. Expand by giving examples and context.",
+    "tags": ["speedrun", "terminology", "education", "commentary"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Memes in [Game Title]",
+    "description": "Discuss the origins and meanings of community memes in [Game Title] speedrunning. Expand by showing meme runs or clips.",
+    "tags": ["speedrun", "memes", "community", "commentary"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Frame Rules in [Game Title]",
+    "description": "Explain frame rules and their impact on [Game Title] speedruns. Expand by showing how to manipulate or optimize them.",
+    "tags": ["speedrun", "frame rules", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Races in [Game Title]",
+    "description": "Show how to join and participate in community races for [Game Title] speedruns. Expand by featuring race highlights.",
+    "tags": ["speedrun", "community races", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Leaderboard Categories in [Game Title]",
+    "description": "Break down the different leaderboard categories for [Game Title] speedruns. Expand by explaining rules and popular choices.",
+    "tags": ["speedrun", "leaderboard categories", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "education"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Resources in [Game Title]",
+    "description": "Highlight and explain community resources for [Game Title] speedrunners. Expand by showing how to access and use them.",
+    "tags": ["speedrun", "community resources", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Moderation in [Game Title]",
+    "description": "Discuss the role of moderators in [Game Title] speedrunning. Expand by interviewing mods or explaining the verification process.",
+    "tags": ["speedrun", "moderation", "community", "commentary"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Events in [Game Title]",
+    "description": "Showcase upcoming and past community events for [Game Title] speedrunners. Expand by encouraging participation.",
+    "tags": ["speedrun", "community events", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Tools in [Game Title]",
+    "description": "Demonstrate useful community tools for [Game Title] speedrunners. Expand by showing setup and practical uses.",
+    "tags": ["speedrun", "community tools", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Guides in [Game Title]",
+    "description": "Highlight and explain the best community guides for [Game Title] speedrunning. Expand by reviewing and recommending resources.",
+    "tags": ["speedrun", "community guides", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Memes in [Game Title]",
+    "description": "Discuss and react to popular memes in the [Game Title] speedrunning community. Expand by sharing your own meme runs.",
+    "tags": ["speedrun", "memes", "community", "commentary"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community History in [Game Title]",
+    "description": "Explore the history of the [Game Title] speedrunning community. Expand by interviewing veteran runners and showing milestone runs.",
+    "tags": ["speedrun", "history", "community", "commentary"],
+    "niches": ["gaming", "speedrunning", "history"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Discords in [Game Title]",
+    "description": "Introduce and explain the main Discord servers for [Game Title] speedrunners. Expand by showing how to join and participate.",
+    "tags": ["speedrun", "discord", "community", "commentary"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Challenges in [Game Title]",
+    "description": "Discuss ongoing and past community challenges for [Game Title] speedrunners. Expand by featuring top submissions.",
+    "tags": ["speedrun", "community challenges", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Memes in [Game Title]",
+    "description": "Explain and react to inside jokes and memes in the [Game Title] speedrunning community. Expand by sharing your own experiences.",
+    "tags": ["speedrun", "memes", "community", "commentary"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Events in [Game Title]",
+    "description": "Showcase and explain major community events for [Game Title] speedrunners. Expand by encouraging viewer participation.",
+    "tags": ["speedrun", "community events", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Tools in [Game Title]",
+    "description": "Demonstrate and explain the most useful community tools for [Game Title] speedrunners. Expand by showing setup and usage.",
+    "tags": ["speedrun", "community tools", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Guides in [Game Title]",
+    "description": "Review and explain the top community guides for [Game Title] speedrunning. Expand by recommending resources for beginners.",
+    "tags": ["speedrun", "community guides", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community History in [Game Title]",
+    "description": "Explore the origins and growth of the [Game Title] speedrunning community. Expand by interviewing long-time members.",
+    "tags": ["speedrun", "history", "community", "commentary"],
+    "niches": ["gaming", "speedrunning", "history"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Discords in [Game Title]",
+    "description": "Introduce viewers to the main Discord servers for [Game Title] speedrunners. Expand by showing how to get involved.",
+    "tags": ["speedrun", "discord", "community", "commentary"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Challenges in [Game Title]",
+    "description": "Discuss and participate in community challenges for [Game Title] speedrunners. Expand by featuring viewer submissions.",
+    "tags": ["speedrun", "community challenges", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Memes in [Game Title]",
+    "description": "React to and explain the funniest memes in the [Game Title] speedrunning community. Expand by sharing your own meme runs.",
+    "tags": ["speedrun", "memes", "community", "commentary"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Events in [Game Title]",
+    "description": "Highlight and explain the biggest community events for [Game Title] speedrunners. Expand by encouraging viewers to join.",
+    "tags": ["speedrun", "community events", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Tools in [Game Title]",
+    "description": "Showcase and explain the best community tools for [Game Title] speedrunners. Expand by demonstrating their use.",
+    "tags": ["speedrun", "community tools", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Guides in [Game Title]",
+    "description": "Review and recommend the top community guides for [Game Title] speedrunning. Expand by showing how to use them.",
+    "tags": ["speedrun", "community guides", "commentary", "gaming"],
+    "niches": ["gaming", "speedrunning", "community"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community History in [Game Title]",
+    "description": "Explore the history and milestones of the [Game Title] speedrunning community. Expand by interviewing key members.",
+    "tags": ["speedrun", "history", "community", "commentary"],
+    "niches": ["gaming", "speedrunning", "history"]
+  },
+  {
+    "title": "Speedrun with Commentary: Explaining Community Discords in [Game Title]",
+    "description": "Introduce and explain the main Discord servers for [Game Title] speedrunners. Expand by showing how to join and participate.",
+    "tags": ["speedrun", "discord", "community", "commentary"],
+    "niches": ["gaming", "speedrunning", "community"]
+  }
+]

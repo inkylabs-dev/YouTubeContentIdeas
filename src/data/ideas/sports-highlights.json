@@ -1,1 +1,284 @@
-[]
+[
+  {
+    "title": "Top [5/10] Plays from [Game/Event/Week]",
+    "description": "Showcase the best plays from a specific game or time period. Expand with slow-motion replays and commentary.",
+    "tags": ["highlights", "top plays", "recap"],
+    "niches": ["sports highlights", "entertainment", "recap"]
+  },
+  {
+    "title": "Best [Dunks/Goals/Touchdowns] in [Sport/Season]",
+    "description": "Compile the most impressive moments in a category. Expand with stats and player reactions.",
+    "tags": ["best", "moments", "category"],
+    "niches": ["sports highlights", "entertainment", "analysis"]
+  },
+  {
+    "title": "The [Most Shocking] Moments from [Game/Event]",
+    "description": "Highlight unexpected or game-changing moments. Expand with context and crowd reactions.",
+    "tags": ["shocking", "moments", "game"],
+    "niches": ["sports highlights", "recap", "entertainment"]
+  },
+  {
+    "title": "Top [Rookie/Veteran] Performances This [Week/Season]",
+    "description": "Spotlight standout performances by rookies or veterans. Expand with stats and comparisons.",
+    "tags": ["rookie", "veteran", "performance"],
+    "niches": ["sports highlights", "profiles", "analysis"]
+  },
+  {
+    "title": "Best [Comebacks] in [Game/Season]",
+    "description": "Showcase incredible comebacks. Expand with before-and-after scores and key plays.",
+    "tags": ["comeback", "highlights", "game"],
+    "niches": ["sports highlights", "motivation", "recap"]
+  },
+  {
+    "title": "Top [Saves/Blocks/Defensive Plays] in [Sport/Event]",
+    "description": "Feature the best defensive moments. Expand with breakdowns and player spotlights.",
+    "tags": ["defense", "saves", "blocks"],
+    "niches": ["sports highlights", "analysis", "entertainment"]
+  },
+  {
+    "title": "The [Funniest/Weirdest] Moments in [Game/Season]",
+    "description": "Highlight humorous or bizarre moments. Expand with slow-motion and commentary.",
+    "tags": ["funny", "weird", "moments"],
+    "niches": ["sports highlights", "entertainment", "recap"]
+  },
+  {
+    "title": "Best [Teamwork/Assists] in [Game/Season]",
+    "description": "Showcase great team plays and assists. Expand with analysis of strategy and execution.",
+    "tags": ["teamwork", "assists", "plays"],
+    "niches": ["sports highlights", "analysis", "team"]
+  },
+  {
+    "title": "Top [Buzzer Beaters/Game Winners] in [Sport/Season]",
+    "description": "Feature last-second winning plays. Expand with crowd reactions and player interviews.",
+    "tags": ["buzzer beater", "game winner", "clutch"],
+    "niches": ["sports highlights", "entertainment", "recap"]
+  },
+  {
+    "title": "The [Most Controversial] Calls in [Game/Event]",
+    "description": "Highlight disputed referee decisions. Expand with replays and expert opinions.",
+    "tags": ["controversy", "calls", "referee"],
+    "niches": ["sports highlights", "debate", "analysis"]
+  },
+  {
+    "title": "Best [Underdog] Moments in [Game/Season]",
+    "description": "Showcase underdog teams or players succeeding. Expand with context and reactions.",
+    "tags": ["underdog", "moments", "success"],
+    "niches": ["sports highlights", "motivation", "recap"]
+  },
+  {
+    "title": "Top [Fails/Bloopers] in [Sport/Season]",
+    "description": "Compile funny or unexpected mistakes. Expand with slow-motion and lighthearted commentary.",
+    "tags": ["fails", "bloopers", "funny"],
+    "niches": ["sports highlights", "entertainment", "recap"]
+  },
+  {
+    "title": "Best [Individual] Performances in [Game/Event]",
+    "description": "Spotlight outstanding solo efforts. Expand with stats and key moments.",
+    "tags": ["individual", "performance", "spotlight"],
+    "niches": ["sports highlights", "profiles", "analysis"]
+  },
+  {
+    "title": "Top [Rivalry] Moments in [Sport/Season]",
+    "description": "Highlight intense rivalry moments. Expand with background and crowd energy.",
+    "tags": ["rivalry", "moments", "intense"],
+    "niches": ["sports highlights", "entertainment", "recap"]
+  },
+  {
+    "title": "The [Most Emotional] Moments in [Game/Season]",
+    "description": "Showcase moments of joy, heartbreak, or triumph. Expand with interviews and reactions.",
+    "tags": ["emotional", "moments", "reaction"],
+    "niches": ["sports highlights", "motivation", "recap"]
+  },
+  {
+    "title": "Best [Trick Plays/Creative Moves] in [Sport/Event]",
+    "description": "Feature creative or unexpected plays. Expand with breakdowns and player insights.",
+    "tags": ["trick play", "creative", "moves"],
+    "niches": ["sports highlights", "entertainment", "analysis"]
+  },
+  {
+    "title": "Top [Goal Celebrations/Player Reactions] in [Game/Season]",
+    "description": "Showcase memorable celebrations and reactions. Expand with slow-motion and crowd shots.",
+    "tags": ["celebration", "reaction", "goals"],
+    "niches": ["sports highlights", "entertainment", "recap"]
+  },
+  {
+    "title": "The [Most Unexpected] Turnarounds in [Game/Event]",
+    "description": "Highlight games where the outcome changed dramatically. Expand with key plays and analysis.",
+    "tags": ["turnaround", "unexpected", "comeback"],
+    "niches": ["sports highlights", "recap", "motivation"]
+  },
+  {
+    "title": "Best [Long-Range Shots/Distance Plays] in [Sport/Season]",
+    "description": "Feature impressive long-distance plays. Expand with stats and player techniques.",
+    "tags": ["long-range", "distance", "shots"],
+    "niches": ["sports highlights", "analysis", "entertainment"]
+  },
+  {
+    "title": "Top [Rookie] Highlights of [Season/Event]",
+    "description": "Spotlight the best moments from new players. Expand with comparisons and future outlook.",
+    "tags": ["rookie", "highlights", "newcomer"],
+    "niches": ["sports highlights", "profiles", "recap"]
+  },
+  {
+    "title": "The [Most Dominant] Team Performances in [Game/Season]",
+    "description": "Showcase teams that controlled the game. Expand with stats and key strategies.",
+    "tags": ["dominant", "team", "performance"],
+    "niches": ["sports highlights", "analysis", "recap"]
+  },
+  {
+    "title": "Best [Clutch] Moments in [Game/Season]",
+    "description": "Highlight high-pressure plays. Expand with context and player interviews.",
+    "tags": ["clutch", "moments", "pressure"],
+    "niches": ["sports highlights", "entertainment", "recap"]
+  },
+  {
+    "title": "Top [Overtime/Extra Time] Highlights in [Sport/Season]",
+    "description": "Feature the most exciting overtime moments. Expand with analysis and reactions.",
+    "tags": ["overtime", "extra time", "highlights"],
+    "niches": ["sports highlights", "entertainment", "recap"]
+  },
+  {
+    "title": "The [Most Surprising] Upsets in [Game/Season]",
+    "description": "Showcase unexpected victories. Expand with context and post-game reactions.",
+    "tags": ["upset", "surprise", "victory"],
+    "niches": ["sports highlights", "recap", "motivation"]
+  },
+  {
+    "title": "Best [Last-Minute] Plays in [Game/Event]",
+    "description": "Highlight plays that happened in the final moments. Expand with slow-motion and commentary.",
+    "tags": ["last-minute", "plays", "highlights"],
+    "niches": ["sports highlights", "entertainment", "recap"]
+  },
+  {
+    "title": "Top [Penalty/Free Kick] Goals in [Sport/Season]",
+    "description": "Feature the best set-piece goals. Expand with breakdowns and player techniques.",
+    "tags": ["penalty", "free kick", "goals"],
+    "niches": ["sports highlights", "analysis", "entertainment"]
+  },
+  {
+    "title": "The [Most Iconic] Moments in [Game/Event]",
+    "description": "Showcase legendary moments. Expand with historical context and player interviews.",
+    "tags": ["iconic", "moments", "legendary"],
+    "niches": ["sports highlights", "history", "recap"]
+  },
+  {
+    "title": "Best [Fast Break/Counter Attack] Plays in [Sport/Season]",
+    "description": "Highlight quick offensive plays. Expand with analysis and player insights.",
+    "tags": ["fast break", "counter attack", "offense"],
+    "niches": ["sports highlights", "analysis", "entertainment"]
+  },
+  {
+    "title": "Top [Goalkeeper/Defensive] Highlights in [Game/Season]",
+    "description": "Showcase the best defensive efforts. Expand with stats and slow-motion replays.",
+    "tags": ["goalkeeper", "defense", "highlights"],
+    "niches": ["sports highlights", "analysis", "recap"]
+  },
+  {
+    "title": "The [Most Heartbreaking] Losses in [Game/Season]",
+    "description": "Highlight close or unexpected losses. Expand with reactions and what went wrong.",
+    "tags": ["heartbreaking", "loss", "moments"],
+    "niches": ["sports highlights", "recap", "motivation"]
+  },
+  {
+    "title": "Best [Crowd/Fan] Reactions in [Game/Event]",
+    "description": "Showcase memorable fan moments. Expand with crowd shots and interviews.",
+    "tags": ["crowd", "fan", "reaction"],
+    "niches": ["sports highlights", "fan culture", "entertainment"]
+  },
+  {
+    "title": "Top [Multi-Score] Games in [Sport/Season]",
+    "description": "Highlight games with high scoring. Expand with key plays and turning points.",
+    "tags": ["multi-score", "high scoring", "games"],
+    "niches": ["sports highlights", "recap", "entertainment"]
+  },
+  {
+    "title": "The [Most Impressive] Athletic Feats in [Game/Season]",
+    "description": "Showcase displays of athleticism. Expand with slow-motion and analysis.",
+    "tags": ["athletic", "impressive", "feats"],
+    "niches": ["sports highlights", "analysis", "entertainment"]
+  },
+  {
+    "title": "Best [Coach/Bench] Reactions in [Game/Event]",
+    "description": "Highlight memorable coach or bench moments. Expand with interviews and context.",
+    "tags": ["coach", "bench", "reaction"],
+    "niches": ["sports highlights", "entertainment", "recap"]
+  },
+  {
+    "title": "Top [Injury Comeback] Highlights in [Sport/Season]",
+    "description": "Showcase players returning from injury. Expand with before-and-after and interviews.",
+    "tags": ["injury", "comeback", "highlights"],
+    "niches": ["sports highlights", "motivation", "recap"]
+  },
+  {
+    "title": "The [Most Unexpected] Hero in [Game/Event]",
+    "description": "Spotlight unlikely players who made a difference. Expand with background and reactions.",
+    "tags": ["hero", "unexpected", "moments"],
+    "niches": ["sports highlights", "motivation", "recap"]
+  },
+  {
+    "title": "Best [Season/Playoff] Highlights in [Sport]",
+    "description": "Compile the top moments from a season or playoffs. Expand with context and analysis.",
+    "tags": ["season", "playoff", "highlights"],
+    "niches": ["sports highlights", "recap", "entertainment"]
+  },
+  {
+    "title": "Top [International] Highlights in [Sport/Event]",
+    "description": "Showcase the best moments from international competitions. Expand with cultural context.",
+    "tags": ["international", "highlights", "competition"],
+    "niches": ["sports highlights", "global", "recap"]
+  },
+  {
+    "title": "The [Most Viral] Sports Highlights of [Year/Season]",
+    "description": "Feature highlights that went viral. Expand with social media reactions and memes.",
+    "tags": ["viral", "highlights", "trending"],
+    "niches": ["sports highlights", "entertainment", "social media"]
+  },
+  {
+    "title": "Best [Sibling/Family] Moments in [Game/Season]",
+    "description": "Showcase family connections in sports. Expand with interviews and background stories.",
+    "tags": ["family", "sibling", "moments"],
+    "niches": ["sports highlights", "profiles", "recap"]
+  },
+  {
+    "title": "Top [Weather-Influenced] Plays in [Sport/Event]",
+    "description": "Highlight plays affected by weather. Expand with analysis and player interviews.",
+    "tags": ["weather", "influence", "plays"],
+    "niches": ["sports highlights", "recap", "entertainment"]
+  },
+  {
+    "title": "The [Most Creative] Celebrations in [Game/Season]",
+    "description": "Showcase unique celebrations. Expand with slow-motion and fan reactions.",
+    "tags": ["creative", "celebration", "moments"],
+    "niches": ["sports highlights", "entertainment", "recap"]
+  },
+  {
+    "title": "Best [Mic'd Up] Moments in [Game/Season]",
+    "description": "Feature the funniest or most insightful mic'd up moments. Expand with context and reactions.",
+    "tags": ["mic'd up", "audio", "moments"],
+    "niches": ["sports highlights", "entertainment", "recap"]
+  },
+  {
+    "title": "Top [Sportsmanship] Moments in [Game/Season]",
+    "description": "Highlight acts of fair play and respect. Expand with interviews and analysis.",
+    "tags": ["sportsmanship", "fair play", "moments"],
+    "niches": ["sports highlights", "motivation", "recap"]
+  },
+  {
+    "title": "The [Most Iconic] Jersey Swaps in [Sport/Event]",
+    "description": "Showcase memorable jersey exchanges. Expand with background and player interviews.",
+    "tags": ["jersey swap", "iconic", "moments"],
+    "niches": ["sports highlights", "fan culture", "recap"]
+  },
+  {
+    "title": "Best [Post-Game] Interviews and Reactions",
+    "description": "Feature the most memorable post-game interviews. Expand with analysis and context.",
+    "tags": ["post-game", "interview", "reaction"],
+    "niches": ["sports highlights", "entertainment", "recap"]
+  },
+  {
+    "title": "Top [Historic] Highlights in [Sport/Event]",
+    "description": "Showcase highlights from historic games. Expand with context and legacy.",
+    "tags": ["historic", "highlights", "legacy"],
+    "niches": ["sports highlights", "history", "recap"]
+  }
+]

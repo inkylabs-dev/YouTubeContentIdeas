@@ -1,1 +1,302 @@
-[]
+[
+  {
+    "title": "The [Greatest/Most Shocking] Upset in [Sport] History",
+    "description": "Explore a legendary upset. Expand with background, key moments, and its impact on the sport.",
+    "tags": ["upset", "history", "legendary"],
+    "niches": ["sports history", "analysis", "storytelling"]
+  },
+  {
+    "title": "How [Sport] Was Invented: The Origins of [Game/Event]",
+    "description": "Dive into the origins of a sport or event. Expand with early rules, inventors, and evolution.",
+    "tags": ["origins", "invention", "history"],
+    "niches": ["sports history", "education", "documentary"]
+  },
+  {
+    "title": "The [Most Influential] Athletes in [Sport] History",
+    "description": "Profile athletes who changed the game. Expand with achievements and cultural impact.",
+    "tags": ["athletes", "influential", "profile"],
+    "niches": ["sports history", "biography", "analysis"]
+  },
+  {
+    "title": "The Evolution of [Sport/Equipment/Rules] Over Time",
+    "description": "Trace how a sport or its rules have changed. Expand with key milestones and reasons for changes.",
+    "tags": ["evolution", "rules", "equipment"],
+    "niches": ["sports history", "education", "analysis"]
+  },
+  {
+    "title": "The [Biggest] Controversies in [Sport] History",
+    "description": "Discuss major controversies. Expand with context, reactions, and long-term effects.",
+    "tags": ["controversy", "history", "debate"],
+    "niches": ["sports history", "analysis", "debate"]
+  },
+  {
+    "title": "How [Country/Region] Became a Powerhouse in [Sport]",
+    "description": "Analyze the rise of a nation in a sport. Expand with historical context and key figures.",
+    "tags": ["country", "powerhouse", "rise"],
+    "niches": ["sports history", "geography", "analysis"]
+  },
+  {
+    "title": "The [Most Memorable] Olympic Moments",
+    "description": "Highlight unforgettable Olympic events. Expand with stories, athletes, and global impact.",
+    "tags": ["olympics", "memorable", "moments"],
+    "niches": ["sports history", "olympics", "storytelling"]
+  },
+  {
+    "title": "The [Oldest/Longest Running] Sports Events in the World",
+    "description": "Explore the history of ancient or long-standing events. Expand with traditions and evolution.",
+    "tags": ["oldest", "events", "tradition"],
+    "niches": ["sports history", "events", "documentary"]
+  },
+  {
+    "title": "The [Most Unbreakable] Records in [Sport]",
+    "description": "Discuss records that stand the test of time. Expand with context and attempts to break them.",
+    "tags": ["records", "unbreakable", "history"],
+    "niches": ["sports history", "records", "analysis"]
+  },
+  {
+    "title": "How [Rule Change] Changed [Sport] Forever",
+    "description": "Analyze a pivotal rule change. Expand with before-and-after comparisons and reactions.",
+    "tags": ["rule change", "impact", "history"],
+    "niches": ["sports history", "analysis", "education"]
+  },
+  {
+    "title": "The [Greatest] Dynasties in [Sport]",
+    "description": "Profile dominant teams or eras. Expand with key players, achievements, and legacy.",
+    "tags": ["dynasty", "teams", "dominance"],
+    "niches": ["sports history", "teams", "analysis"]
+  },
+  {
+    "title": "The [Most Iconic] Venues in Sports History",
+    "description": "Explore legendary stadiums and arenas. Expand with historic events and architectural features.",
+    "tags": ["venues", "iconic", "history"],
+    "niches": ["sports history", "architecture", "events"]
+  },
+  {
+    "title": "The [Biggest] Scandals in [Sport]",
+    "description": "Discuss infamous scandals. Expand with details, fallout, and how the sport responded.",
+    "tags": ["scandal", "controversy", "history"],
+    "niches": ["sports history", "analysis", "debate"]
+  },
+  {
+    "title": "How [Technology/Innovation] Changed [Sport]",
+    "description": "Examine technological advances. Expand with examples, benefits, and controversies.",
+    "tags": ["technology", "innovation", "change"],
+    "niches": ["sports history", "tech", "analysis"]
+  },
+  {
+    "title": "The [Most Emotional] Comebacks in Sports History",
+    "description": "Tell comeback stories. Expand with context, key moments, and legacy.",
+    "tags": ["comeback", "emotional", "history"],
+    "niches": ["sports history", "motivation", "storytelling"]
+  },
+  {
+    "title": "The [Most Surprising] Underdog Stories in [Sport]",
+    "description": "Highlight underdog victories. Expand with background, key games, and impact.",
+    "tags": ["underdog", "surprise", "history"],
+    "niches": ["sports history", "motivation", "analysis"]
+  },
+  {
+    "title": "The [Most Famous] Rivalries in [Sport]",
+    "description": "Explore legendary rivalries. Expand with origins, key moments, and cultural significance.",
+    "tags": ["rivalry", "famous", "history"],
+    "niches": ["sports history", "analysis", "storytelling"]
+  },
+  {
+    "title": "How [Sport] Spread Around the World",
+    "description": "Trace the global expansion of a sport. Expand with milestones and cultural adaptations.",
+    "tags": ["global", "expansion", "history"],
+    "niches": ["sports history", "geography", "education"]
+  },
+  {
+    "title": "The [Most Influential] Coaches in Sports History",
+    "description": "Profile legendary coaches. Expand with philosophies, achievements, and legacy.",
+    "tags": ["coaches", "influential", "history"],
+    "niches": ["sports history", "coaching", "biography"]
+  },
+  {
+    "title": "The [Most Controversial] Moments in [Olympics/World Cup]",
+    "description": "Discuss controversial global sports moments. Expand with context and aftermath.",
+    "tags": ["controversy", "olympics", "world cup"],
+    "niches": ["sports history", "events", "analysis"]
+  },
+  {
+    "title": "How [Women/Minorities] Broke Barriers in [Sport]",
+    "description": "Tell stories of barrier-breakers. Expand with challenges, achievements, and legacy.",
+    "tags": ["barriers", "diversity", "history"],
+    "niches": ["sports history", "diversity", "motivation"]
+  },
+  {
+    "title": "The [Most Memorable] World Records in [Sport]",
+    "description": "Highlight world record moments. Expand with context, attempts, and significance.",
+    "tags": ["world record", "memorable", "history"],
+    "niches": ["sports history", "records", "analysis"]
+  },
+  {
+    "title": "The [Biggest] Rule Changes in [Sport] History",
+    "description": "Discuss major rule changes. Expand with reasons, reactions, and impact.",
+    "tags": ["rule change", "history", "impact"],
+    "niches": ["sports history", "education", "analysis"]
+  },
+  {
+    "title": "The [Most Unusual] Sports Ever Played",
+    "description": "Explore strange or forgotten sports. Expand with origins, rules, and why they faded.",
+    "tags": ["unusual", "sports", "history"],
+    "niches": ["sports history", "entertainment", "education"]
+  },
+  {
+    "title": "How [Political/Social] Events Shaped [Sport]",
+    "description": "Analyze the intersection of sports and society. Expand with examples and long-term effects.",
+    "tags": ["politics", "society", "impact"],
+    "niches": ["sports history", "society", "analysis"]
+  },
+  {
+    "title": "The [Most Iconic] Sports Photos and Their Stories",
+    "description": "Showcase famous sports photos. Expand with context and the story behind each image.",
+    "tags": ["photos", "iconic", "history"],
+    "niches": ["sports history", "media", "storytelling"]
+  },
+  {
+    "title": "The [Greatest] Comebacks in [Sport] Finals",
+    "description": "Detail epic final comebacks. Expand with play-by-play and aftermath.",
+    "tags": ["comeback", "finals", "history"],
+    "niches": ["sports history", "motivation", "analysis"]
+  },
+  {
+    "title": "How [Sport] Became an Olympic Event",
+    "description": "Trace the journey of a sport to the Olympics. Expand with milestones and controversies.",
+    "tags": ["olympics", "sport", "history"],
+    "niches": ["sports history", "olympics", "education"]
+  },
+  {
+    "title": "The [Most Famous] Sports Quotes and Their Origins",
+    "description": "Share iconic quotes. Expand with who said them and their impact.",
+    "tags": ["quotes", "famous", "history"],
+    "niches": ["sports history", "media", "storytelling"]
+  },
+  {
+    "title": "The [Biggest] Doping Scandals in Sports History",
+    "description": "Discuss doping cases. Expand with details, fallout, and changes in policy.",
+    "tags": ["doping", "scandal", "history"],
+    "niches": ["sports history", "controversy", "analysis"]
+  },
+  {
+    "title": "How [Sport] Changed After [Major Event/Tragedy]",
+    "description": "Analyze the impact of a major event. Expand with before-and-after and lessons learned.",
+    "tags": ["change", "event", "history"],
+    "niches": ["sports history", "analysis", "education"]
+  },
+  {
+    "title": "The [Most Decorated] Athletes in [Sport]",
+    "description": "Profile athletes with the most titles. Expand with career highlights and records.",
+    "tags": ["decorated", "athletes", "history"],
+    "niches": ["sports history", "biography", "records"]
+  },
+  {
+    "title": "The [Most Surprising] Rule Origins in [Sport]",
+    "description": "Explore how odd rules came to be. Expand with stories and their impact.",
+    "tags": ["rules", "origins", "history"],
+    "niches": ["sports history", "education", "analysis"]
+  },
+  {
+    "title": "The [Greatest] Sports Teams of All Time",
+    "description": "Rank legendary teams. Expand with achievements, rosters, and legacy.",
+    "tags": ["teams", "greatest", "history"],
+    "niches": ["sports history", "analysis", "storytelling"]
+  },
+  {
+    "title": "How [Sport] Was Played 100 Years Ago",
+    "description": "Compare past and present versions of a sport. Expand with rules, equipment, and gameplay.",
+    "tags": ["history", "comparison", "evolution"],
+    "niches": ["sports history", "education", "documentary"]
+  },
+  {
+    "title": "The [Most Iconic] Sports Uniforms and Their Stories",
+    "description": "Showcase famous uniforms. Expand with design evolution and cultural impact.",
+    "tags": ["uniforms", "iconic", "history"],
+    "niches": ["sports history", "fashion", "storytelling"]
+  },
+  {
+    "title": "The [Biggest] Fan Moments in Sports History",
+    "description": "Highlight unforgettable fan actions. Expand with stories and their impact on games.",
+    "tags": ["fans", "moments", "history"],
+    "niches": ["sports history", "fan culture", "storytelling"]
+  },
+  {
+    "title": "How [Sport] Became Popular in [Country/Region]",
+    "description": "Trace the rise of a sport in a region. Expand with key figures and cultural shifts.",
+    "tags": ["popularity", "country", "history"],
+    "niches": ["sports history", "geography", "education"]
+  },
+  {
+    "title": "The [Most Memorable] Sports Announcers and Calls",
+    "description": "Feature legendary announcers. Expand with famous calls and their significance.",
+    "tags": ["announcers", "calls", "memorable"],
+    "niches": ["sports history", "media", "storytelling"]
+  },
+  {
+    "title": "The [Most Unlikely] Champions in [Sport]",
+    "description": "Tell stories of unexpected champions. Expand with their journey and legacy.",
+    "tags": ["champions", "unlikely", "history"],
+    "niches": ["sports history", "motivation", "analysis"]
+  },
+  {
+    "title": "How [Sport] Was Affected by [War/Global Event]",
+    "description": "Analyze the impact of global events. Expand with stories and long-term changes.",
+    "tags": ["war", "global event", "impact"],
+    "niches": ["sports history", "society", "analysis"]
+  },
+  {
+    "title": "The [Most Famous] Sports Rivalries Explained",
+    "description": "Break down famous rivalries. Expand with history, key games, and cultural meaning.",
+    "tags": ["rivalries", "famous", "history"],
+    "niches": ["sports history", "analysis", "storytelling"]
+  },
+  {
+    "title": "The [Most Surprising] Sports Innovations",
+    "description": "Highlight game-changing innovations. Expand with their origins and impact.",
+    "tags": ["innovation", "surprising", "history"],
+    "niches": ["sports history", "tech", "education"]
+  },
+  {
+    "title": "How [Legendary Athlete] Changed [Sport]",
+    "description": "Profile a game-changing athlete. Expand with achievements and influence.",
+    "tags": ["legend", "athlete", "change"],
+    "niches": ["sports history", "biography", "analysis"]
+  },
+  {
+    "title": "The [Most Dramatic] Finishes in Sports History",
+    "description": "Relive dramatic endings. Expand with play-by-play and fan reactions.",
+    "tags": ["dramatic", "finishes", "history"],
+    "niches": ["sports history", "entertainment", "storytelling"]
+  },
+  {
+    "title": "The [Most Important] Sports Moments of the [Decade/Century]",
+    "description": "Highlight defining moments. Expand with context and long-term effects.",
+    "tags": ["important", "moments", "history"],
+    "niches": ["sports history", "analysis", "education"]
+  },
+  {
+    "title": "How [Sport] Broke Cultural Barriers",
+    "description": "Explore sports as a force for unity. Expand with stories and global impact.",
+    "tags": ["culture", "barriers", "unity"],
+    "niches": ["sports history", "society", "motivation"]
+  },
+  {
+    "title": "The [Most Iconic] Sports Logos and Their History",
+    "description": "Showcase famous logos. Expand with design stories and brand evolution.",
+    "tags": ["logos", "iconic", "history"],
+    "niches": ["sports history", "branding", "storytelling"]
+  },
+  {
+    "title": "The [Biggest] Rule Controversies in [Sport]",
+    "description": "Discuss rule disputes. Expand with examples and their impact on the sport.",
+    "tags": ["rule", "controversy", "history"],
+    "niches": ["sports history", "debate", "analysis"]
+  },
+  {
+    "title": "How [Sport] Became a Global Phenomenon",
+    "description": "Trace the globalization of a sport. Expand with milestones and cultural shifts.",
+    "tags": ["global", "phenomenon", "history"],
+    "niches": ["sports history", "geography", "education"]
+  }
+]

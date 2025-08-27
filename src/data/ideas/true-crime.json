@@ -100,7 +100,5 @@
         "description": "Explore the operations of the [Type of Organized Crime] syndicate in [City]. Expand by discussing their history, activities, and law enforcement efforts.",
         "tags": ["organized crime", "syndicate", "investigation"],
         "niches": ["true crime", "organized crime"]
-    },
-    {
-        "title": "The [Type of Stalker] Who Targeted [Victim Name]",
-        "description": "Detail the case of the [Type of Stalker] who targeted [Victim Name]. Expand by outlining the stalking behavior, investigation, and outcome.",
+    }
+]
