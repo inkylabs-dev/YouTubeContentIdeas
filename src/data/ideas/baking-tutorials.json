@@ -1,0 +1,290 @@
+[
+  {
+    "title": "Perfect [Baked Good] Recipe: [Technique] Method Explained",
+    "description": "Create a comprehensive tutorial for a specific baked good, breaking down the science behind each step and ingredient. Explain temperature importance, mixing techniques, timing, and visual cues for doneness. Include common mistakes and how to fix them, ingredient substitutions, and variations. Show both hand mixing and machine methods, discussing when each is appropriate. Include troubleshooting section for when things go wrong.",
+    "tags": ["recipe tutorial", "baking technique", "ingredient science", "step-by-step", "troubleshooting"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "[Number] Ingredient [Baked Item]: Minimal Ingredients, Maximum Flavor",
+    "description": "Demonstrate how to create delicious baked goods with minimal ingredients, focusing on technique and quality of ingredients. Explain how each ingredient contributes to the final product and why fewer ingredients can sometimes mean better results. Include variations using the same base ingredients and how to elevate simple recipes with technique and presentation.",
+    "tags": ["minimal ingredients", "simple baking", "technique focus", "ingredient quality", "variations"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Baking Science: Why [Technique/Ingredient] Works in [Baked Good]",
+    "description": "Deep dive into the scientific principles behind specific baking techniques or ingredients. Explain chemical reactions, gluten development, leavening processes, and how different factors affect texture and flavor. Use visual demonstrations, side-by-side comparisons, and experiments to illustrate concepts. Make complex science accessible to home bakers.",
+    "tags": ["baking science", "food chemistry", "technique explanation", "visual demonstration", "educational"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Beginner's Guide to [Baking Category]: Start Here",
+    "description": "Create comprehensive beginner-friendly tutorials for specific categories like bread, pastry, or cakes. Cover essential equipment, basic techniques, ingredient selection, and foolproof starter recipes. Include confidence-building exercises, common beginner mistakes to avoid, and progression path to more advanced techniques. Make baking accessible and less intimidating.",
+    "tags": ["beginner baking", "basic techniques", "equipment guide", "confidence building", "progression"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Advanced [Technique]: Mastering Professional [Skill]",
+    "description": "Teach advanced baking techniques used by professionals, breaking them down for home bakers. Include lamination, tempering, advanced shaping, or decorating techniques. Show practice exercises, common advanced mistakes, and how to achieve professional results at home. Include equipment considerations and alternatives for home kitchens.",
+    "tags": ["advanced techniques", "professional skills", "skill development", "practice exercises", "home adaptation"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Fix Your [Baking Problem]: Troubleshooting Common Issues",
+    "description": "Address specific baking problems with systematic troubleshooting approaches. Show examples of failed bakes, analyze what went wrong, and demonstrate corrections. Include prevention strategies, diagnostic techniques, and when to start over versus salvage attempts. Create problem-solving frameworks that apply to multiple baking scenarios.",
+    "tags": ["troubleshooting", "problem solving", "failed bakes", "correction techniques", "prevention"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "[Dietary Restriction] Baking: [Baked Good] Without [Ingredient]",
+    "description": "Adapt traditional recipes for dietary restrictions like gluten-free, vegan, or sugar-free baking. Explain ingredient substitutions, technique modifications, and expected texture/flavor differences. Include multiple substitution options, testing results, and tips for success with alternative ingredients. Address common challenges with restricted baking.",
+    "tags": ["dietary restrictions", "ingredient substitutions", "gluten-free", "vegan", "alternative baking"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "One Dough, [Number] Ways: Versatile [Base Dough] Variations",
+    "description": "Show how a single base dough can be transformed into multiple different baked goods through various techniques, additions, and shaping methods. Demonstrate efficiency in baking, batch preparation, and creative variations. Include storage methods for base doughs and timeline planning for multiple products.",
+    "tags": ["versatile dough", "efficiency", "variations", "batch baking", "time management"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Seasonal Baking: [Season] Flavors in [Baked Good Category]",
+    "description": "Incorporate seasonal ingredients and flavors into classic baked goods, showing ingredient selection, flavor pairing, and seasonal presentation ideas. Include preservation techniques for seasonal ingredients, flavor intensity adjustments, and creating seasonal traditions through baking.",
+    "tags": ["seasonal baking", "seasonal ingredients", "flavor pairing", "preservation", "seasonal traditions"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Decorating Basics: [Decoration Type] for [Baked Good]",
+    "description": "Teach fundamental decorating skills like piping, glazing, or fondant work with step-by-step instruction. Include tool recommendations, practice exercises, design principles, and troubleshooting decoration problems. Show progression from simple to more complex designs and how to develop personal decorating style.",
+    "tags": ["decoration techniques", "piping", "design principles", "skill progression", "creative expression"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Professional Techniques at Home: [Bakery Method] Adaptation",
+    "description": "Adapt professional bakery techniques for home kitchens, showing equipment alternatives, scaling adjustments, and technique modifications. Include timing strategies, quality control methods, and achieving consistent results. Show how to think like a professional baker while working with home equipment.",
+    "tags": ["professional techniques", "home adaptation", "scaling", "consistency", "quality control"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Temperature Control: [Baked Good] Success Through Precision",
+    "description": "Demonstrate the critical importance of temperature control in baking, from ingredient temperatures to oven management. Show how temperature affects different stages of baking, troubleshooting temperature-related problems, and achieving precision without professional equipment. Include thermometer usage and calibration.",
+    "tags": ["temperature control", "precision baking", "oven management", "thermometer usage", "consistency"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Scaling Recipes: Making [Recipe] for [Different Quantity]",
+    "description": "Teach proper recipe scaling techniques, explaining why simple multiplication doesn't always work. Cover ingredient ratio adjustments, equipment considerations, timing changes, and quality maintenance when scaling up or down. Include examples of successful scaling and common scaling mistakes.",
+    "tags": ["recipe scaling", "proportion adjustment", "quantity changes", "ratio understanding", "scaling challenges"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Ingredient Deep Dive: Everything About [Baking Ingredient]",
+    "description": "Comprehensive exploration of specific baking ingredients, including varieties, quality indicators, storage methods, and functional properties. Show how different versions of the same ingredient affect results, substitution guidelines, and optimal usage techniques. Include sourcing recommendations and cost considerations.",
+    "tags": ["ingredient knowledge", "quality selection", "storage", "functional properties", "substitutions"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Time Management: Baking [Complex Item] Efficiently",
+    "description": "Demonstrate efficient baking workflows for complex items requiring multiple steps or extended time. Show preparation scheduling, multitasking strategies, make-ahead components, and timeline planning. Include organization tips, mise en place principles, and stress reduction through proper planning.",
+    "tags": ["time management", "workflow efficiency", "planning", "organization", "multitasking"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Equipment Review: [Baking Tool] Comparison and Usage",
+    "description": "Compare different versions of essential baking equipment, showing usage techniques, maintenance, and value assessment. Include budget alternatives, professional versus home versions, and when equipment upgrades actually improve results. Demonstrate proper usage and care for longevity.",
+    "tags": ["equipment review", "tool comparison", "maintenance", "value assessment", "proper usage"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "[Cultural] Baking Tradition: Authentic [Traditional Baked Good]",
+    "description": "Explore traditional baking from different cultures, showing authentic techniques, cultural significance, and historical context. Include ingredient sourcing, traditional methods, cultural respect, and adaptation for modern kitchens while maintaining authenticity. Share stories and cultural connections through baking.",
+    "tags": ["cultural baking", "traditional techniques", "authenticity", "cultural respect", "historical context"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Texture Mastery: Achieving [Desired Texture] in [Baked Good]",
+    "description": "Focus on achieving specific textures through technique manipulation, ingredient selection, and process control. Show side-by-side comparisons of different approaches, explain the science behind texture development, and troubleshoot texture problems. Include sensory evaluation and preference considerations.",
+    "tags": ["texture control", "technique manipulation", "sensory evaluation", "comparison", "quality assessment"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Flavor Development: Building Complex Flavors in [Baked Good]",
+    "description": "Demonstrate techniques for developing complex, layered flavors through ingredient selection, timing, temperature, and combination strategies. Include flavor pairing principles, intensity balancing, and creating signature flavor profiles. Show how time and technique enhance natural flavors.",
+    "tags": ["flavor development", "complexity", "pairing principles", "signature flavors", "enhancement techniques"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Storage and Freshness: Keeping [Baked Good] Perfect",
+    "description": "Teach proper storage techniques for different types of baked goods, including packaging, freezing, and freshness preservation. Show how to restore day-old baked goods, prevent common storage problems, and maintain quality over time. Include food safety considerations and shelf-life optimization.",
+    "tags": ["storage techniques", "freshness preservation", "packaging", "food safety", "quality maintenance"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Presentation Skills: Making [Baked Good] Instagram-Worthy",
+    "description": "Combine baking skills with presentation techniques for visually appealing results. Include plating, photography tips, styling techniques, and creating bakery-quality presentation at home. Show how small details make big impacts and develop personal presentation style.",
+    "tags": ["presentation", "visual appeal", "styling", "photography", "professional appearance"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Batch Baking: Preparing [Number] [Items] Efficiently",
+    "description": "Demonstrate efficient techniques for large-batch baking, including workflow organization, equipment management, quality consistency, and storage planning. Show time-saving techniques, batch preparation methods, and maintaining standards when increasing quantity.",
+    "tags": ["batch baking", "large quantity", "workflow", "efficiency", "consistency"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Sourdough Journey: [Stage] of Natural Fermentation",
+    "description": "Document different stages of sourdough baking, from starter creation to advanced fermentation techniques. Show timing, environmental factors, troubleshooting fermentation problems, and developing fermentation intuition. Include flavor development through fermentation control.",
+    "tags": ["sourdough", "fermentation", "starter maintenance", "timing", "flavor development"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Holiday Baking: [Holiday] Traditions and Techniques",
+    "description": "Prepare traditional holiday baked goods with cultural context and family tradition elements. Include make-ahead strategies, gift packaging, scaling for gatherings, and creating new traditions. Show how holiday baking connects generations and cultures.",
+    "tags": ["holiday baking", "traditions", "family recipes", "gift giving", "cultural connections"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Pastry Fundamentals: [Pastry Type] Base and Variations",
+    "description": "Master fundamental pastry techniques like pâte brisée, pâte sucrée, or choux pastry, showing proper technique, common mistakes, and multiple applications. Include texture goals, handling techniques, and troubleshooting pastry problems.",
+    "tags": ["pastry fundamentals", "technique mastery", "multiple applications", "texture goals", "handling"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Chocolate Work: [Chocolate Technique] for [Application]",
+    "description": "Explore chocolate work techniques like tempering, ganache making, or molding, showing temperature control, quality selection, and professional techniques. Include troubleshooting chocolate problems, storage considerations, and creative applications.",
+    "tags": ["chocolate work", "tempering", "temperature control", "quality selection", "professional techniques"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Bread Science: Understanding [Bread Type] Development",
+    "description": "Deep dive into bread science, showing gluten development, fermentation processes, shaping techniques, and baking stages. Include dough assessment skills, timing adjustments, and environmental factor impacts. Make bread science accessible and practical.",
+    "tags": ["bread science", "gluten development", "fermentation", "dough assessment", "environmental factors"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Cost-Effective Baking: [Baked Good] on a Budget",
+    "description": "Show how to create quality baked goods while minimizing costs through smart shopping, ingredient substitutions, and efficient techniques. Include cost analysis, value ingredient selection, and maintaining quality while reducing expense. Demonstrate frugal baking strategies.",
+    "tags": ["budget baking", "cost analysis", "value ingredients", "frugal strategies", "cost-effective"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Allergen-Free Baking: [Baked Good] Without [Common Allergen]",
+    "description": "Address specific allergen concerns in baking, showing safe substitutions, cross-contamination prevention, and maintaining flavor and texture without common allergens. Include labeling, ingredient sourcing, and family-friendly adaptations.",
+    "tags": ["allergen-free", "safe substitutions", "cross-contamination", "family-friendly", "dietary safety"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Regional Specialties: [Region]'s Traditional [Baked Good]",
+    "description": "Explore regional baking specialties, showing traditional techniques, local ingredients, cultural significance, and authentic preparation methods. Include historical context, ingredient sourcing, and respectful cultural presentation.",
+    "tags": ["regional baking", "traditional techniques", "local ingredients", "cultural significance", "authenticity"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Rescue Operations: Saving [Failed Bake] from Disaster",
+    "description": "Demonstrate salvage techniques for baking disasters, showing creative solutions, repurposing methods, and when rescue is possible versus starting over. Include prevention strategies and learning from failures to improve future baking.",
+    "tags": ["baking rescue", "salvage techniques", "creative solutions", "failure recovery", "prevention"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Precision Baking: [Technique] Measurements and Timing",
+    "description": "Emphasize precision in baking through proper measuring techniques, timing accuracy, and consistency protocols. Show how small variations affect results, proper scale usage, and developing precision habits for reliable results.",
+    "tags": ["precision", "measuring techniques", "timing accuracy", "consistency", "reliable results"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Creative Variations: [Base Recipe] [Number] Ways",
+    "description": "Transform a basic recipe into multiple creative variations through flavor additions, technique modifications, and presentation changes. Show how understanding base recipes enables creativity and personal expression in baking.",
+    "tags": ["creative variations", "recipe transformation", "personal expression", "flavor additions", "creativity"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Professional Finishing: [Technique] for Bakery-Quality Results",
+    "description": "Teach professional finishing techniques that elevate home baking to commercial standards. Include glazing, garnishing, presentation, and attention to detail that distinguishes professional work. Show how small touches create big impacts.",
+    "tags": ["professional finishing", "attention to detail", "commercial standards", "presentation", "quality elevation"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Baking Chemistry: How [Process] Changes [Ingredient]",
+    "description": "Explore the chemical processes in baking, showing how heat, time, and combinations transform ingredients. Use visual demonstrations, experiments, and scientific explanations to illustrate baking chemistry. Make science practical and applicable.",
+    "tags": ["baking chemistry", "chemical processes", "transformation", "scientific explanation", "practical application"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Tool Techniques: Mastering [Baking Tool] Usage",
+    "description": "Demonstrate proper usage techniques for specific baking tools, showing efficiency, safety, and optimal results. Include maintenance, troubleshooting, and getting maximum value from baking equipment. Show both basic and advanced applications.",
+    "tags": ["tool mastery", "proper usage", "efficiency", "maintenance", "maximum value"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Timing Coordination: [Complex Bake] Timeline Management",
+    "description": "Show how to coordinate complex baking projects with multiple components, timing requirements, and coordination challenges. Include scheduling strategies, preparation phases, and maintaining quality when managing multiple elements simultaneously.",
+    "tags": ["timing coordination", "project management", "scheduling", "quality maintenance", "complexity management"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Flavor Pairing: [Ingredient] Combinations in [Baked Good]",
+    "description": "Explore flavor pairing principles specific to baking, showing complementary and contrasting combinations, intensity balancing, and creating harmonious flavor profiles. Include cultural influences and personal preference development.",
+    "tags": ["flavor pairing", "combination principles", "harmony", "cultural influences", "preference development"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Texture Contrast: Creating [Texture] Elements in [Baked Good]",
+    "description": "Show how to incorporate contrasting textures within single baked goods, creating interest and sophistication through texture variation. Include technique combinations, ingredient selections, and balancing competing textures successfully.",
+    "tags": ["texture contrast", "sophistication", "technique combination", "balance", "interest creation"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Altitude Adjustments: Baking [Item] at [Elevation]",
+    "description": "Address high-altitude baking challenges, showing recipe modifications, technique adjustments, and environmental considerations. Include scientific explanations for altitude effects, testing approaches, and achieving consistent results in challenging conditions.",
+    "tags": ["altitude baking", "recipe modification", "environmental adaptation", "challenging conditions", "consistency"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Speed Baking: [Baked Good] in [Short Time]",
+    "description": "Demonstrate time-saving techniques for quick baking without sacrificing quality. Include preparation shortcuts, efficient workflows, and identifying where time can be saved versus where patience is essential. Show realistic time expectations.",
+    "tags": ["speed baking", "time-saving", "efficient workflows", "shortcuts", "realistic expectations"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Sustainability: Eco-Friendly [Baking Practice]",
+    "description": "Incorporate sustainable practices into baking, showing waste reduction, local sourcing, energy efficiency, and environmental consciousness. Include cost benefits, quality impacts, and making responsible choices in ingredient selection and preparation methods.",
+    "tags": ["sustainable baking", "waste reduction", "environmental consciousness", "responsible choices", "eco-friendly"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Sensory Evaluation: Tasting and Adjusting [Baked Good]",
+    "description": "Develop sensory evaluation skills for baking, showing how to taste critically, identify improvement opportunities, and make adjustments for optimal results. Include palate development, objective assessment, and continuous improvement approaches.",
+    "tags": ["sensory evaluation", "critical tasting", "improvement", "palate development", "continuous improvement"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Historical Baking: [Historical Period] [Baked Good] Methods",
+    "description": "Explore historical baking methods and recipes, showing how techniques have evolved and what can be learned from traditional approaches. Include historical context, ingredient availability, and adapting historical methods for modern kitchens.",
+    "tags": ["historical baking", "traditional methods", "evolution", "historical context", "modern adaptation"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Competition Preparation: [Baking Competition] Strategy",
+    "description": "Prepare for baking competitions, showing strategy development, time management under pressure, consistency achievement, and handling competitive stress. Include practice techniques, quality standards, and performance optimization.",
+    "tags": ["competition baking", "strategy development", "pressure management", "consistency", "performance optimization"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Teaching Baking: Helping [Student Type] Learn [Technique]",
+    "description": "Demonstrate effective methods for teaching baking skills to different audiences, showing communication techniques, skill progression, error correction, and building confidence in student bakers. Include patience development and encouragement strategies.",
+    "tags": ["baking education", "teaching methods", "skill progression", "confidence building", "communication"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Innovation: Creating New [Baked Good Category] Combinations",
+    "description": "Show creative innovation in baking, combining traditional techniques with new ideas, fusion concepts, and personal creativity. Include experimentation approaches, failure acceptance, and developing signature creations that reflect individual style.",
+    "tags": ["baking innovation", "creativity", "experimentation", "signature creations", "personal style"],
+    "niches": ["baking-tutorials"]
+  },
+  {
+    "title": "Quality Control: Maintaining Standards in [Production Setting]",
+    "description": "Establish quality control systems for consistent baking results, showing testing protocols, standard establishment, and maintaining consistency across batches. Include documentation, troubleshooting systems, and continuous quality improvement.",
+    "tags": ["quality control", "consistency", "standards", "testing protocols", "continuous improvement"],
+    "niches": ["baking-tutorials"]
+  }
+]

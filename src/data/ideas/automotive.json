@@ -1,0 +1,302 @@
+[
+  {
+    "title": "[Car Model] Long-Term Review: [Mileage] Miles Later",
+    "description": "Provide comprehensive long-term ownership experience of a specific vehicle after significant mileage accumulation. Document maintenance costs, reliability issues, performance changes over time, and overall ownership satisfaction. Include repair records, fuel economy tracking, and comparison with manufacturer claims. Show how the vehicle ages, what breaks first, and whether it lives up to initial expectations.",
+    "tags": ["long-term review", "reliability", "maintenance costs", "ownership experience", "mileage tracking"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Budget] Best Cars: Maximum Value Under $[Amount]",
+    "description": "Comprehensive analysis of the best vehicle options within specific budget constraints. Research market prices, evaluate condition expectations, highlight common issues to watch for, and provide buying tips for each price range. Include both dealer and private party options, financing considerations, and total cost of ownership projections.",
+    "tags": ["budget cars", "value analysis", "buying guide", "cost comparison", "market research"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Track Day Battle: [Car A] vs [Car B] vs [Car C] Performance Test",
+    "description": "Conduct head-to-head performance comparisons on a closed track, testing acceleration, braking, handling, and lap times. Include professional driver perspectives, telemetry data analysis, and real-world performance differences. Document setup modifications, tire selection impact, and how each vehicle responds to aggressive driving.",
+    "tags": ["performance comparison", "track testing", "lap times", "handling analysis", "racing"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Barn Find Restoration: Bringing [Classic Car] Back to Life",
+    "description": "Document complete restoration process of a neglected classic vehicle, from initial assessment through final reveal. Show bodywork, engine rebuilding, interior restoration, and parts sourcing challenges. Include cost tracking, time investment, and decisions between originality versus modernization. Feature expert craftsmen and restoration techniques.",
+    "tags": ["restoration", "classic cars", "barn find", "bodywork", "engine rebuild"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Modification Type] Guide: Upgrading [Car Model] Performance",
+    "description": "Comprehensive modification guide showing specific upgrades for popular vehicle models. Detail installation processes, performance gains, cost analysis, and potential reliability impacts. Include before/after dyno testing, handling improvements, and real-world performance differences. Address warranty concerns and reversibility of modifications.",
+    "tags": ["modifications", "performance upgrades", "installation guide", "dyno testing", "tuning"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Electric vs Gas: [EV Model] vs [ICE Equivalent] Real World Comparison",
+    "description": "Compare electric vehicles against internal combustion engine equivalents in real-world scenarios. Test range accuracy, charging infrastructure challenges, performance differences, and total cost of ownership. Include road trip testing, daily commuting scenarios, and long-term reliability considerations.",
+    "tags": ["electric vehicles", "EV comparison", "range testing", "charging", "cost analysis"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Winter Survival: Testing [Vehicle Type] in Extreme Cold Conditions",
+    "description": "Document vehicle performance in extreme winter conditions, testing starting reliability, heating system effectiveness, traction control systems, and cold weather fuel economy. Include winter tire comparisons, battery performance, and preparation tips for cold climate driving.",
+    "tags": ["winter testing", "cold weather", "reliability", "winter tires", "extreme conditions"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Used Car Inspection: What to Look for When Buying [Vehicle Type]",
+    "description": "Comprehensive used vehicle inspection guide specific to vehicle types or models. Demonstrate common problem areas, inspection techniques, negotiation strategies, and red flags to avoid. Include professional inspection services, documentation review, and test drive evaluation criteria.",
+    "tags": ["used car buying", "inspection guide", "problem areas", "negotiation", "buyer protection"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Luxury Brand] Ownership Reality: True Cost Beyond the Purchase Price",
+    "description": "Analyze the real costs of luxury vehicle ownership including maintenance, insurance, depreciation, and repair expenses. Interview service technicians, parts specialists, and long-term owners to provide realistic ownership cost expectations. Compare certified pre-owned versus new purchase strategies.",
+    "tags": ["luxury cars", "ownership costs", "maintenance", "depreciation", "insurance"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Project Car Series: Building [Custom Build Type] from [Starting Point]",
+    "description": "Document complete custom build project from planning through completion. Show parts selection, fabrication work, assembly process, and problem-solving throughout the build. Include budget tracking, timeline challenges, and lessons learned during the project.",
+    "tags": ["project car", "custom build", "fabrication", "assembly", "build documentation"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[MPG] Hypermiling Challenge: Maximum Efficiency in [Vehicle]",
+    "description": "Attempt to achieve maximum fuel economy in various vehicles using hypermiling techniques. Document driving strategies, route planning, vehicle modifications, and efficiency monitoring. Compare results against EPA ratings and demonstrate practical fuel-saving techniques for everyday drivers.",
+    "tags": ["fuel economy", "hypermiling", "efficiency", "driving techniques", "conservation"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Supercar Experience: Living with [Exotic Car] for [Time Period]",
+    "description": "Document the reality of exotic car ownership or extended rental experience. Show daily usability challenges, maintenance requirements, public reactions, and whether supercars work as practical transportation. Include performance capabilities and special driving experiences.",
+    "tags": ["supercars", "exotic cars", "daily usability", "ownership experience", "performance"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Car Era] Legends: Why [Classic Model] Still Matters Today",
+    "description": "Explore historically significant vehicles and their lasting impact on automotive design, technology, or culture. Include period-correct driving experiences, comparison with modern equivalents, and interviews with designers, engineers, or owners from the era.",
+    "tags": ["classic cars", "automotive history", "cultural impact", "design significance", "legends"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Off-Road Adventure: [Vehicle] Tackles [Terrain Type] Challenge",
+    "description": "Test vehicle capabilities in challenging off-road conditions including rock crawling, sand dunes, mud, or mountain trails. Document preparation requirements, driving techniques, vehicle modifications, and recovery procedures. Show both successes and failures in difficult terrain.",
+    "tags": ["off-roading", "terrain challenges", "4x4 capability", "adventure", "outdoor driving"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "DIY Maintenance: [Service Type] on [Vehicle] at Home",
+    "description": "Demonstrate specific maintenance procedures that owners can perform themselves. Show proper techniques, required tools, safety considerations, and cost savings compared to professional service. Include troubleshooting common issues and knowing when professional help is needed.",
+    "tags": ["DIY maintenance", "home repair", "service procedures", "cost savings", "automotive education"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Car Show/Event] Experience: Best of [Automotive Event]",
+    "description": "Comprehensive coverage of major automotive events, car shows, or racing events. Interview participants, showcase unique vehicles, document event highlights, and provide insider access to special displays or behind-the-scenes activities.",
+    "tags": ["car shows", "automotive events", "unique vehicles", "event coverage", "community"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Insurance Reality Check: [Vehicle Type] Coverage Costs and Claims",
+    "description": "Investigate real-world insurance costs for different vehicle types, coverage options, and claim experiences. Interview insurance professionals, document claim processes, and provide guidance for optimizing coverage while controlling costs.",
+    "tags": ["auto insurance", "coverage costs", "claims process", "insurance education", "cost optimization"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Technology] Deep Dive: How [Automotive Tech] Actually Works",
+    "description": "Explain complex automotive technologies in accessible terms, demonstrating how systems like AWD, turbocharging, hybrid systems, or advanced safety features actually function. Include cutaway demonstrations, engineering interviews, and real-world performance impacts.",
+    "tags": ["automotive technology", "technical education", "system explanation", "engineering", "innovation"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Dealer vs Private: [Vehicle] Purchase Strategy Comparison",
+    "description": "Compare different vehicle purchasing strategies including new car dealers, used car lots, private party sales, and online platforms. Document negotiation processes, financing options, warranty coverage, and total transaction costs for each approach.",
+    "tags": ["car buying", "purchase strategies", "dealer vs private", "negotiation", "financing"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Racing Series] Behind the Scenes: Life in Professional Motorsports",
+    "description": "Provide behind-the-scenes access to professional racing teams, showing preparation, strategy, crew coordination, and the business side of motorsports. Interview drivers, crew chiefs, and team owners about the realities of professional racing.",
+    "tags": ["professional racing", "motorsports", "behind the scenes", "racing teams", "competition"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Towing Test: [Vehicle] Pulls [Load Type] to Its Limits",
+    "description": "Test vehicle towing capabilities with progressively heavier loads, documenting performance changes, fuel economy impacts, handling characteristics, and safety considerations. Include proper hitching techniques, weight distribution, and legal requirements.",
+    "tags": ["towing capacity", "load testing", "fuel economy", "safety", "truck capability"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Deceased Manufacturer] Retrospective: Rise and Fall of [Brand]",
+    "description": "Document the history of defunct automotive manufacturers, analyzing their innovations, market position, reasons for failure, and lasting legacy. Include rare vehicles, former employees interviews, and impact on automotive industry development.",
+    "tags": ["automotive history", "defunct manufacturers", "industry analysis", "legacy vehicles", "business failure"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Autonomous Driving Reality: [Semi-Autonomous Vehicle] Real-World Test",
+    "description": "Test autonomous and semi-autonomous driving systems in various real-world conditions, documenting capabilities, limitations, and safety considerations. Show system interventions, edge cases, and comparison with human driving performance.",
+    "tags": ["autonomous driving", "driver assistance", "technology testing", "safety systems", "future mobility"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Enthusiast Community] Culture: Inside [Car Community] Scene",
+    "description": "Explore specific automotive enthusiast communities, documenting their culture, events, vehicle modifications, and community dynamics. Show both the positive aspects and potential challenges within enthusiast groups.",
+    "tags": ["car culture", "enthusiast communities", "modification culture", "automotive lifestyle", "community"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Salvage Title Investigation: [Vehicle] Damage History and Repair",
+    "description": "Investigate salvage title vehicles, documenting damage assessment, repair quality, and whether rebuilt vehicles represent good value. Include inspection techniques, legal considerations, and insurance implications of salvage title purchases.",
+    "tags": ["salvage title", "damage assessment", "rebuilt vehicles", "inspection", "legal considerations"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Fuel Type] Conversion: Converting [Vehicle] to Run on [Alternative Fuel]",
+    "description": "Document alternative fuel conversion processes such as propane, natural gas, or biofuel systems. Show installation procedures, performance impacts, cost analysis, and environmental benefits. Include regulatory compliance and safety considerations.",
+    "tags": ["alternative fuels", "fuel conversion", "environmental impact", "cost analysis", "regulatory compliance"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Factory Tour: How [Vehicle Model] is Built at [Manufacturing Plant]",
+    "description": "Take viewers inside automotive manufacturing facilities to show modern production techniques, quality control processes, and robotics integration. Interview plant workers, engineers, and quality control specialists about modern automotive manufacturing.",
+    "tags": ["manufacturing", "factory tour", "production process", "quality control", "automotive industry"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Safety Rating] Deep Dive: Real-World Safety in [Vehicle Category]",
+    "description": "Analyze safety ratings and real-world crash performance data for different vehicle categories. Include crash test footage, safety technology effectiveness, and insurance industry data on injury rates and claim frequencies.",
+    "tags": ["vehicle safety", "crash testing", "safety ratings", "injury statistics", "safety technology"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Import Process: Bringing [Foreign Vehicle] to [Country] Legally",
+    "description": "Document the complex process of importing vehicles not sold domestically, including legal requirements, modification necessities, cost analysis, and registration challenges. Show both successful imports and common pitfalls to avoid.",
+    "tags": ["vehicle imports", "legal requirements", "modifications", "registration", "import process"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Driving Technique] Masterclass: Professional Instruction in [Skill]",
+    "description": "Provide professional driving instruction in specific techniques such as heel-toe downshifting, trail braking, or performance driving lines. Include professional instructor guidance, practice progressions, and common mistakes to avoid.",
+    "tags": ["driving techniques", "professional instruction", "performance driving", "skill development", "driver education"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Depreciation Analysis: [Vehicle] Value Over [Time Period]",
+    "description": "Track vehicle depreciation patterns over time, analyzing factors that affect resale value including mileage, condition, market trends, and model popularity. Compare different vehicle categories and provide guidance for value retention.",
+    "tags": ["depreciation", "resale value", "market trends", "value retention", "investment analysis"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Transmission Type] Explained: Manual vs Automatic vs [Other] Performance",
+    "description": "Compare different transmission technologies in terms of performance, efficiency, driving experience, and maintenance requirements. Include demonstration of proper techniques for each transmission type and discussion of future transmission technology.",
+    "tags": ["transmissions", "performance comparison", "efficiency", "driving techniques", "technology"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "First Car Guide: Best Options for [New Driver Demographic]",
+    "description": "Comprehensive guide for first-time car buyers, focusing on safety, reliability, insurance costs, and learning-friendly features. Include parent perspectives, driving instructor recommendations, and budget considerations for new drivers.",
+    "tags": ["first car", "new drivers", "safety", "reliability", "budget guide"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Weather Condition] Driving: [Vehicle] Performance and Safety Tips",
+    "description": "Test vehicle performance in specific weather conditions such as heavy rain, snow, or extreme heat. Demonstrate proper driving techniques, vehicle preparation, and safety equipment for challenging weather driving.",
+    "tags": ["weather driving", "driving safety", "vehicle preparation", "driving techniques", "weather performance"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Auction Reality: Buying [Vehicle Type] at [Auction Type]",
+    "description": "Document the vehicle auction experience, showing bidding strategies, inspection processes, hidden costs, and post-auction procedures. Include both successful purchases and cautionary tales about auction buying pitfalls.",
+    "tags": ["vehicle auctions", "bidding strategies", "inspection", "auction buying", "hidden costs"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Vehicle Segment] Evolution: How [Category] Changed Over [Decades]",
+    "description": "Trace the evolution of specific vehicle segments over time, showing how design, technology, safety, and performance have changed. Compare vehicles from different eras and analyze market forces driving changes.",
+    "tags": ["automotive evolution", "design history", "technology advancement", "market analysis", "historical comparison"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Custom Fabrication: Building [Unique Part] for [Project Vehicle]",
+    "description": "Document custom fabrication processes for unique vehicle modifications or repairs. Show welding techniques, machining processes, design considerations, and testing of custom-built components.",
+    "tags": ["custom fabrication", "welding", "machining", "custom parts", "fabrication techniques"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Tire Type] Testing: Performance in [Specific Conditions]",
+    "description": "Compare different tire types and brands in specific conditions such as wet weather, snow, track use, or longevity testing. Include objective performance measurements, subjective driving impressions, and cost-per-mile analysis.",
+    "tags": ["tire testing", "performance comparison", "condition testing", "tire technology", "safety"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Engine Swap Project: [New Engine] in [Recipient Vehicle]",
+    "description": "Document complete engine swap project including planning, fabrication, wiring, tuning, and testing. Show challenges overcome, cost tracking, and performance results of the completed swap.",
+    "tags": ["engine swap", "custom project", "fabrication", "tuning", "performance"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Driving Event] Experience: [Track Day/Rally/Autocross] Beginner Guide",
+    "description": "Guide newcomers through their first driving events, showing registration processes, preparation requirements, safety briefings, and on-track experiences. Include tips for maximizing learning and enjoyment at driving events.",
+    "tags": ["driving events", "beginner guide", "track days", "motorsports", "driver education"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Reliability Champions: [High-Mileage Vehicle] Longevity Secrets",
+    "description": "Profile vehicles known for exceptional longevity, interviewing owners with high-mileage examples and documenting maintenance practices that contribute to extended vehicle life. Include mechanic insights and component analysis.",
+    "tags": ["vehicle longevity", "high mileage", "maintenance", "reliability", "durability"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Future Technology] Preview: Next-Generation Automotive Innovation",
+    "description": "Explore emerging automotive technologies such as solid-state batteries, advanced materials, or new manufacturing techniques. Include industry expert interviews, prototype demonstrations, and timeline predictions for mainstream adoption.",
+    "tags": ["future technology", "automotive innovation", "emerging tech", "industry trends", "technology preview"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Road Trip Reality: [Vehicle] Cross-Country Journey Test",
+    "description": "Document extended road trip experiences, testing vehicle comfort, reliability, fuel economy, and cargo capacity over long distances. Include route planning, charging infrastructure (for EVs), and real-world touring capability assessment.",
+    "tags": ["road trip", "long distance", "touring capability", "comfort", "reliability"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Motorsport] Tech Transfer: Racing Technology in [Road Car]",
+    "description": "Explore how racing technology influences production vehicles, showing specific examples of race-derived features in consumer cars. Include engineer interviews and demonstration of technology benefits in real-world driving.",
+    "tags": ["racing technology", "tech transfer", "motorsport influence", "engineering", "performance"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Fleet Analysis: [Commercial Vehicle] Total Cost of Operation",
+    "description": "Analyze commercial vehicle operations including purchase costs, fuel economy, maintenance expenses, reliability, and resale value from a fleet manager perspective. Include real-world usage data and operational efficiency comparisons.",
+    "tags": ["commercial vehicles", "fleet management", "operational costs", "efficiency", "business analysis"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Specific Problem] Diagnosis: Troubleshooting [Common Issue] in [Vehicle]",
+    "description": "Demonstrate systematic diagnostic approaches for common vehicle problems, showing proper use of diagnostic tools, interpretation of symptoms, and step-by-step troubleshooting procedures. Include both DIY and professional diagnostic techniques.",
+    "tags": ["diagnostics", "troubleshooting", "common problems", "diagnostic tools", "repair procedures"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Startup Spotlight: [New Automotive Company] Disrupting [Market Segment]",
+    "description": "Profile emerging automotive companies attempting to disrupt traditional markets, analyzing their business models, technology innovations, market challenges, and prospects for success. Include founder interviews and product demonstrations.",
+    "tags": ["automotive startups", "market disruption", "innovation", "business analysis", "emerging companies"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Vehicle Customization] Culture: Personal Expression Through [Modification Type]",
+    "description": "Explore specific vehicle customization cultures such as lowriders, drift cars, or overlanding builds. Document the artistry, community aspects, and personal expression through vehicle modification.",
+    "tags": ["customization culture", "vehicle modification", "personal expression", "automotive art", "community"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "Driving Instructor Insights: Teaching [Driving Skill] to New Drivers",
+    "description": "Work with professional driving instructors to demonstrate proper teaching techniques for specific driving skills. Show common student mistakes, effective instruction methods, and progression from basic to advanced techniques.",
+    "tags": ["driver education", "instruction techniques", "teaching methods", "driving skills", "student learning"],
+    "niches": ["automotive"]
+  },
+  {
+    "title": "[Price Range] Performance Comparison: Best Bang for Buck in [Category]",
+    "description": "Compare performance vehicles within specific price ranges, analyzing acceleration, handling, features, and overall value proposition. Include both new and used options, modification potential, and long-term ownership considerations.",
+    "tags": ["performance comparison", "value analysis", "price range", "bang for buck", "performance value"],
+    "niches": ["automotive"]
+  }
+]

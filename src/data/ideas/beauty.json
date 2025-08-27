@@ -1,0 +1,296 @@
+[
+  {
+    "title": "[Drugstore Brand] vs [High-End Brand]: [Product Category] Comparison",
+    "description": "Conduct comprehensive side-by-side comparisons of drugstore and luxury beauty products in the same category. Test application, longevity, pigmentation, and overall performance. Include cost-per-use analysis, ingredient comparison, packaging assessment, and determine whether higher price equals better performance. Show swatches, wear tests, and honest opinions about value for money.",
+    "tags": ["product comparison", "drugstore vs high-end", "value analysis", "wear test", "honest review"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Full Face Using Only [Color] Products Challenge",
+    "description": "Create complete makeup looks using products in only one color family, showing creativity with monochromatic palettes. Demonstrate color theory, undertone matching, and creating depth and dimension with limited color options. Include both subtle and bold interpretations, different finish combinations, and tips for making monochromatic looks interesting.",
+    "tags": ["makeup challenge", "monochromatic", "color theory", "creative makeup", "color coordination"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Skin Type] Skincare Routine: Morning and Evening",
+    "description": "Create comprehensive skincare routines tailored to specific skin types, explaining product selection, application order, and timing. Include ingredient explanations, seasonal adjustments, common mistakes to avoid, and realistic expectations. Show actual application techniques, layering methods, and how to customize routines for individual needs.",
+    "tags": ["skincare routine", "skin type specific", "product layering", "application techniques", "customization"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Time Limit] Makeup Challenge: Complete Look Fast",
+    "description": "Create polished makeup looks within strict time constraints, showing prioritization, multi-tasking techniques, and efficient application methods. Include both everyday quick looks and more glamorous speed challenges. Demonstrate which steps can be skipped, combined, or done simultaneously for maximum efficiency.",
+    "tags": ["speed makeup", "time management", "efficiency", "quick application", "prioritization"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Makeup for [Specific Occasion]: Complete Tutorial",
+    "description": "Create occasion-specific makeup tutorials for events like weddings, job interviews, date nights, or formal events. Include color selection, longevity considerations, photography concerns, and appropriateness for the setting. Show both subtle and dramatic options, and how to adapt looks for different lighting conditions.",
+    "tags": ["occasion makeup", "event appropriate", "longevity", "setting specific", "adaptable looks"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Age Group] Makeup: Age-Appropriate Beauty Tips",
+    "description": "Address makeup approaches for different age groups, showing techniques that enhance rather than distract. Include mature skin considerations, teenage-appropriate looks, and evolving beauty needs throughout life stages. Demonstrate inclusive beauty that celebrates aging while addressing specific concerns.",
+    "tags": ["age-appropriate", "mature makeup", "life stages", "inclusive beauty", "aging gracefully"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Ingredient Spotlight: [Beauty Ingredient] Benefits and Usage",
+    "description": "Deep dive into specific beauty ingredients, explaining benefits, proper usage, potential side effects, and product recommendations. Include ingredient interaction warnings, concentration recommendations, and realistic expectation setting. Show before/after results when possible and address common misconceptions.",
+    "tags": ["ingredient education", "skincare science", "product knowledge", "safety", "realistic expectations"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Season] Beauty Transition: Adapting Your Routine",
+    "description": "Show how to adapt beauty routines for seasonal changes, including color palette shifts, skin needs adjustments, and weather-appropriate formulations. Include sun protection considerations, humidity effects, and seasonal trend incorporation. Demonstrate gradual transition techniques and seasonal storage tips.",
+    "tags": ["seasonal beauty", "routine adaptation", "weather appropriate", "seasonal trends", "transition tips"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Fixing Beauty Disasters: [Common Problem] Solutions",
+    "description": "Address common beauty problems with practical solutions and prevention strategies. Include emergency fixes, damage repair techniques, and professional intervention recommendations. Show both quick fixes and long-term improvement strategies, with realistic timelines for seeing results.",
+    "tags": ["problem solving", "beauty disasters", "emergency fixes", "prevention", "repair techniques"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Culture/Ethnicity] Beauty Traditions: Modern Applications",
+    "description": "Explore traditional beauty practices from different cultures, showing respectful modern adaptations and ingredients. Include historical context, cultural significance, and proper attribution. Demonstrate techniques that can be incorporated into contemporary routines while honoring their origins.",
+    "tags": ["cultural beauty", "traditional practices", "respectful adaptation", "historical context", "cultural appreciation"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "DIY Beauty: Making [Product Type] at Home",
+    "description": "Create homemade beauty products using natural ingredients, showing formulation, safety considerations, and effectiveness comparisons with commercial products. Include proper storage, shelf life, and customization options. Address when DIY is appropriate versus when professional products are better.",
+    "tags": ["DIY beauty", "natural ingredients", "homemade products", "safety", "customization"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Makeup Style] Tutorial: Achieving the Look",
+    "description": "Create tutorials for specific makeup styles like 'no-makeup makeup', editorial looks, or vintage-inspired styles. Break down the key elements, necessary products, and techniques that define each style. Show variations for different skill levels and face shapes.",
+    "tags": ["makeup styles", "technique tutorial", "style definition", "skill progression", "face shape adaptation"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Tools and Brushes: [Category] Essential Guide",
+    "description": "Comprehensive guide to beauty tools, showing proper usage, cleaning methods, and value assessment. Include brush types, application techniques, and when to replace tools. Compare different price points and materials, showing how proper tools improve application results.",
+    "tags": ["beauty tools", "brush guide", "application techniques", "tool maintenance", "value assessment"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Skin Concern] Solutions: Products and Techniques That Work",
+    "description": "Address specific skin concerns with targeted product recommendations and application techniques. Include professional treatment options, realistic timelines, and maintenance strategies. Show both covering and treating approaches, with emphasis on long-term skin health.",
+    "tags": ["skin concerns", "targeted solutions", "treatment options", "maintenance", "skin health"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Budget Beauty: Complete [Look/Routine] Under $[Amount]",
+    "description": "Create complete beauty looks or routines within strict budget constraints, showing value hunting strategies, multi-use products, and cost-effective techniques. Include cost-per-use calculations and comparison with expensive alternatives to prove budget doesn't mean sacrificing quality.",
+    "tags": ["budget beauty", "value products", "cost-effective", "multi-use", "smart shopping"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Special Feature] Makeup: Enhancing [Unique Characteristics]",
+    "description": "Create tutorials for enhancing unique facial features, showing techniques for different eye shapes, face structures, or distinctive characteristics. Emphasize enhancement rather than covering, and celebrate individual beauty rather than conforming to standards.",
+    "tags": ["feature enhancement", "unique characteristics", "individual beauty", "celebration", "enhancement techniques"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Long-Wear Testing: [Product] [Time] Hour Challenge",
+    "description": "Test product longevity in real-world conditions, documenting wear throughout extended periods. Include different activity levels, weather conditions, and touch-up needs. Show honest assessment of claims versus reality and provide realistic expectations for product performance.",
+    "tags": ["longevity testing", "wear test", "real-world conditions", "honest assessment", "performance evaluation"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Trend] Recreation: Achieving Viral Beauty Looks",
+    "description": "Recreate popular beauty trends from social media, showing step-by-step techniques and providing modifications for different skill levels. Include wearability assessments, occasion appropriateness, and budget-friendly alternatives to achieve trending looks.",
+    "tags": ["trend recreation", "viral looks", "social media trends", "modification", "accessibility"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Sensitive Skin Beauty: [Product Category] for Reactive Skin",
+    "description": "Address beauty needs for sensitive or reactive skin, showing gentle products, patch testing methods, and hypoallergenic alternatives. Include ingredient awareness, application techniques that minimize irritation, and building tolerance gradually.",
+    "tags": ["sensitive skin", "hypoallergenic", "gentle products", "patch testing", "irritation prevention"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Professional Techniques: [Makeup Artist Method] at Home",
+    "description": "Translate professional makeup techniques for home use, showing tool adaptations, skill development, and achieving professional results with consumer products. Include practice tips, common amateur mistakes, and progression toward advanced techniques.",
+    "tags": ["professional techniques", "skill development", "home adaptation", "practice tips", "advancement"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Climate] Beauty: Adapting to [Weather Conditions]",
+    "description": "Show how to adapt beauty routines for extreme climates, including humidity, cold, heat, or altitude effects. Include product formulation considerations, application modifications, and maintenance techniques for challenging environmental conditions.",
+    "tags": ["climate adaptation", "environmental conditions", "formulation", "maintenance", "challenging weather"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Color Analysis: Finding Your Perfect [Product] Shades",
+    "description": "Guide viewers through color analysis for makeup and hair color selection, showing undertone identification, seasonal color theory, and shade matching techniques. Include professional versus DIY analysis methods and building personalized color palettes.",
+    "tags": ["color analysis", "shade matching", "undertones", "color theory", "personalized palettes"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Makeup Bag Essentials: [Lifestyle] Must-Haves",
+    "description": "Curate essential makeup collections for different lifestyles, showing multi-purpose products, space-saving options, and priority selections. Include travel considerations, daily touch-up needs, and building efficient collections that cover all needs.",
+    "tags": ["makeup essentials", "lifestyle specific", "multi-purpose", "efficiency", "collection building"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Treatment] Review: [Professional Service] Experience",
+    "description": "Document professional beauty treatments, showing consultation process, treatment experience, immediate and long-term results, and value assessment. Include aftercare requirements, maintenance needs, and honest evaluation of whether treatments meet expectations.",
+    "tags": ["professional treatments", "service review", "results documentation", "value assessment", "experience sharing"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Makeup Mistakes: Common [Error Type] and How to Fix Them",
+    "description": "Address frequent makeup mistakes, showing incorrect versus correct techniques, common causes, and prevention strategies. Include both beginner and advanced mistakes, with emphasis on learning and improvement rather than perfection.",
+    "tags": ["mistake correction", "technique improvement", "learning", "prevention", "skill development"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Hair Type] Care: Routine for [Specific Hair Needs]",
+    "description": "Create comprehensive hair care routines for specific hair types and concerns, showing product selection, application techniques, and styling considerations. Include seasonal adjustments, damage prevention, and realistic maintenance expectations.",
+    "tags": ["hair care", "hair type specific", "routine development", "damage prevention", "maintenance"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Eyebrow Evolution: Shaping [Brow Type] for [Face Shape]",
+    "description": "Show eyebrow shaping and grooming techniques tailored to different face shapes and natural brow types. Include professional versus at-home methods, maintenance schedules, and trend adaptation while maintaining face harmony.",
+    "tags": ["eyebrow shaping", "face shape", "grooming", "maintenance", "facial harmony"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Fragrance Guide: Finding Your Signature [Scent Category]",
+    "description": "Guide viewers through fragrance selection, showing scent families, testing methods, and personal fragrance wardrobe development. Include application techniques, longevity factors, and building a collection that suits different occasions and seasons.",
+    "tags": ["fragrance selection", "scent families", "testing methods", "application", "collection building"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Age] Anti-Aging: Preventative vs Corrective Approaches",
+    "description": "Address anti-aging at different life stages, showing preventative measures, corrective treatments, and realistic expectation setting. Include ingredient knowledge, professional versus at-home options, and embracing aging while maintaining skin health.",
+    "tags": ["anti-aging", "prevention", "correction", "realistic expectations", "skin health"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Makeup for Glasses: Techniques for [Lens Type] Wearers",
+    "description": "Show makeup adaptations for glasses wearers, including eye makeup visibility, under-eye coverage, and frame flattering techniques. Include different lens types, prescription considerations, and maintaining makeup integrity under glasses.",
+    "tags": ["glasses makeup", "frame flattering", "visibility", "adaptation techniques", "prescription considerations"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Occasion] Hair: Styling for [Event Type]",
+    "description": "Create event-appropriate hairstyles, showing styling techniques, longevity considerations, and adaptation for different hair types. Include professional versus DIY approaches, weather resistance, and photography considerations.",
+    "tags": ["event hair", "styling techniques", "occasion appropriate", "longevity", "adaptation"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Body Care Routine: [Season/Concern] Focus",
+    "description": "Develop comprehensive body care routines addressing seasonal needs or specific concerns like dryness, ingrown hairs, or sun protection. Include product selection, application techniques, and realistic maintenance schedules.",
+    "tags": ["body care", "seasonal routine", "specific concerns", "maintenance", "application techniques"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Decade] Makeup: Modern Take on [Era] Beauty",
+    "description": "Recreate vintage makeup looks with modern updates, showing historical accuracy versus contemporary adaptation. Include era-appropriate techniques, updated color selections, and wearability for current lifestyles.",
+    "tags": ["vintage makeup", "historical recreation", "modern adaptation", "era appropriate", "contemporary updates"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Contouring Guide: [Face Shape] Specific Techniques",
+    "description": "Show contouring and highlighting techniques tailored to different face shapes, including subtle everyday approaches and dramatic evening looks. Include product selection, tool usage, and blending techniques for natural-looking results.",
+    "tags": ["contouring", "face shape specific", "highlighting", "blending techniques", "natural results"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Lifestyle] Beauty: Routines for [Active/Busy] People",
+    "description": "Create beauty routines adapted for specific lifestyles, showing time-saving techniques, long-wearing products, and low-maintenance approaches. Include gym-appropriate makeup, professional settings, and travel considerations.",
+    "tags": ["lifestyle beauty", "time-saving", "low-maintenance", "lifestyle specific", "practical routines"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Nail Art Tutorial: [Design Style] Step-by-Step",
+    "description": "Create detailed nail art tutorials showing technique progression from simple to complex designs. Include tool recommendations, color combinations, durability improvements, and troubleshooting common nail art problems.",
+    "tags": ["nail art", "design tutorial", "technique progression", "tools", "durability"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Product Launch] First Impressions: Testing New [Brand] Release",
+    "description": "Provide first impression reviews of new product launches, showing initial testing, application experience, and early performance assessment. Include packaging evaluation, color range assessment, and comparison with similar existing products.",
+    "tags": ["product launch", "first impressions", "new releases", "initial testing", "comparison"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Beauty Routine Evolution: [Timeframe] Journey",
+    "description": "Document beauty routine evolution over time, showing how preferences, needs, and techniques change. Include learning progression, product discoveries, and philosophy shifts in beauty approach. Show both positive changes and lessons learned from mistakes.",
+    "tags": ["routine evolution", "learning progression", "philosophy shifts", "time progression", "personal growth"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Skin Tone] Makeup: Celebrating [Deep/Medium/Fair] Complexions",
+    "description": "Create makeup tutorials specifically celebrating different skin tones, showing shade selection, undertone considerations, and techniques that enhance natural beauty. Include diverse product recommendations and avoiding ashy or unflattering shades.",
+    "tags": ["skin tone celebration", "shade selection", "undertones", "natural beauty", "inclusive beauty"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Multi-Use Products: [Number] Ways to Use [Product]",
+    "description": "Demonstrate creative uses for beauty products beyond their intended purpose, showing versatility, value maximization, and space-saving strategies. Include application techniques for alternative uses and effectiveness comparisons.",
+    "tags": ["multi-use products", "versatility", "value maximization", "creative usage", "space-saving"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Texture] Product Guide: [Matte/Dewy/Satin] Finish Mastery",
+    "description": "Focus on achieving specific makeup finishes, showing product selection, application techniques, and maintenance throughout wear. Include skin type considerations, occasion appropriateness, and combining different finishes harmoniously.",
+    "tags": ["finish mastery", "texture focus", "application techniques", "skin type considerations", "finish combination"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Beauty Subscription Box: [Service] Monthly Review",
+    "description": "Evaluate beauty subscription services, showing monthly contents, value assessment, product testing, and subscription worthiness. Include variety evaluation, sample sizes, and comparison with retail purchasing for value determination.",
+    "tags": ["subscription review", "value assessment", "service evaluation", "monthly contents", "cost comparison"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Coverage] Foundation: Finding Your Perfect Match",
+    "description": "Guide viewers through foundation selection for different coverage needs, showing shade matching, undertone identification, and formula selection. Include application techniques, longevity testing, and building coverage gradually.",
+    "tags": ["foundation matching", "coverage levels", "shade selection", "formula selection", "application techniques"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Beauty Declutter: Organizing [Collection Type]",
+    "description": "Show beauty collection organization, decluttering strategies, and storage solutions. Include expiration date checking, product evaluation, and creating functional organization systems that encourage product usage and prevent waste.",
+    "tags": ["beauty organization", "decluttering", "storage solutions", "product evaluation", "functional systems"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Concern] Skincare: Targeting [Specific Issue]",
+    "description": "Address specific skincare concerns with targeted product recommendations, application techniques, and realistic timeline expectations. Include professional treatment options, ingredient knowledge, and prevention strategies.",
+    "tags": ["targeted skincare", "specific concerns", "treatment options", "realistic timelines", "prevention strategies"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Makeup for Photography: [Setting] Specific Techniques",
+    "description": "Show makeup adaptations for photography, including flash considerations, color translation, and longevity for photo shoots. Include professional versus personal photo makeup and how lighting affects makeup appearance.",
+    "tags": ["photography makeup", "lighting considerations", "color translation", "photo longevity", "professional techniques"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Brand] Brand Focus: Complete [Brand] Review",
+    "description": "Comprehensive brand evaluation showing product range, quality consistency, value proposition, and brand philosophy alignment. Include brand history, standout products, and overall recommendation for different beauty needs.",
+    "tags": ["brand review", "comprehensive evaluation", "quality assessment", "brand philosophy", "product range"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "Beauty Wellness: [Internal Factor] Impact on [External Beauty]",
+    "description": "Explore connections between internal health and external beauty, showing how nutrition, sleep, stress, and lifestyle factors affect skin, hair, and overall appearance. Include holistic beauty approaches and wellness integration.",
+    "tags": ["beauty wellness", "holistic approach", "internal health", "lifestyle factors", "wellness integration"],
+    "niches": ["beauty"]
+  },
+  {
+    "title": "[Special Needs] Beauty: Adaptive Techniques and Tools",
+    "description": "Show beauty adaptations for people with disabilities or mobility limitations, including specialized tools, modified techniques, and accessible application methods. Focus on inclusion and adapting beauty routines for different abilities.",
+    "tags": ["adaptive beauty", "accessibility", "specialized tools", "inclusion", "modified techniques"],
+    "niches": ["beauty"]
+  }
+]
