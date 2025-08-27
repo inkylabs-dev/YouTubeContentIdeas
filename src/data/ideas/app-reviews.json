@@ -1,0 +1,368 @@
+[
+  {
+    "title": "I Tried [App Name] for [Time Period] - Here's What Happened",
+    "description": "Document your extended experience using a specific app over a set period (week, month, 30 days, etc.). Detail the testing methodology, daily usage patterns, feature exploration, and evolution of your opinion. Include before/after comparisons, productivity metrics if applicable, and honest assessment of whether the app delivered on its promises. Show real usage scenarios and discuss both positive surprises and disappointing discoveries.",
+    "tags": ["long-term review", "user experience", "app testing", "honest review", "daily usage"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[App Category] Apps: Free vs Premium - Which is Worth It?",
+    "description": "Compare free versions of apps in a specific category against their premium counterparts or competing paid apps. Create detailed feature comparison charts, test limitations of free versions, evaluate premium features' value proposition, and calculate cost-per-feature ratios. Include real-world usage scenarios where premium features make a difference and situations where free versions suffice.",
+    "tags": ["free vs premium", "app comparison", "value analysis", "feature comparison", "cost analysis"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Testing [Viral App] - Is the Hype Real?",
+    "description": "Evaluate trending or viral apps with objective analysis beyond the social media buzz. Research the app's background, test core features thoroughly, analyze user reviews and ratings, and compare actual functionality against marketing claims. Include discussion of privacy concerns, monetization methods, and whether the viral popularity is justified by the app's quality and utility.",
+    "tags": ["viral apps", "trend analysis", "hype evaluation", "objective review", "social media trends"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Number] [App Type] Apps Tested in [Time Frame] - Ranking the Best",
+    "description": "Conduct comprehensive testing of multiple apps in the same category within a specific timeframe. Create standardized testing criteria, rate each app across multiple dimensions (UI/UX, features, performance, value), and provide final rankings with detailed justifications. Include comparison tables, pros/cons lists, and recommendations for different user types or use cases.",
+    "tags": ["app roundup", "comparative review", "ranking", "multiple apps", "comprehensive testing"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Can [App Name] Replace [Traditional Tool/Method]?",
+    "description": "Test whether a modern app can effectively replace traditional tools, methods, or established software solutions. Compare workflow efficiency, feature completeness, learning curves, and total cost of ownership. Include scenarios where the app excels and situations where traditional methods remain superior. Discuss migration challenges and compatibility issues.",
+    "tags": ["replacement analysis", "traditional vs digital", "workflow comparison", "migration", "efficiency"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[App Name] After [Major Update] - Everything You Need to Know",
+    "description": "Comprehensive review of an app following a significant update or redesign. Compare old vs new versions, test new features thoroughly, assess impact on existing workflows, and evaluate whether changes improve or hurt the user experience. Include migration tips, feature comparisons, and advice on whether users should update immediately or wait.",
+    "tags": ["app updates", "version comparison", "new features", "redesign review", "update analysis"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Why I'm Switching from [App A] to [App B]",
+    "description": "Document the decision-making process behind switching from one app to another in the same category. Explain limitations or frustrations with the original app, research process for finding alternatives, detailed comparison of features and pricing, and step-by-step migration experience. Include tips for others considering similar switches and honest assessment of trade-offs.",
+    "tags": ["app switching", "migration", "decision making", "alternatives", "user journey"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Budget/Free] Apps That Work Better Than Expensive Ones",
+    "description": "Discover and review budget-friendly or free apps that outperform their expensive competitors. Test apps across multiple price points in various categories, compare feature sets and performance, and identify situations where expensive doesn't mean better. Include cost-benefit analysis and recommendations for users on different budgets.",
+    "tags": ["budget apps", "value for money", "cost comparison", "hidden gems", "affordable alternatives"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Actually Help with [Specific Problem/Goal]",
+    "description": "Focus on apps designed to solve a particular problem or achieve a specific goal (productivity, fitness, learning, etc.). Test multiple solutions, evaluate effectiveness through real-world usage, and measure actual results against promised outcomes. Include success stories, failure cases, and recommendations for different personality types or situations.",
+    "tags": ["problem-solving", "goal achievement", "effectiveness", "real results", "targeted solutions"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Platform] Exclusive Apps Worth Getting [Device] For",
+    "description": "Review platform-exclusive apps that might justify choosing one ecosystem over another. Test flagship exclusive apps, evaluate their quality against cross-platform alternatives, and assess whether exclusive features create meaningful advantages. Discuss ecosystem lock-in effects and help viewers make informed platform decisions.",
+    "tags": ["platform exclusives", "ecosystem", "device justification", "platform comparison", "exclusive features"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps I Wish I'd Found Sooner - Hidden Gems of [Year]",
+    "description": "Showcase lesser-known apps that deserve more recognition, focusing on unique features, excellent execution, or innovative approaches. Research each app's background, test thoroughly, and explain why they stand out from crowded app categories. Include discovery tips for finding similar hidden gems and discuss what makes an app truly special.",
+    "tags": ["hidden gems", "underrated apps", "app discovery", "unique features", "innovation"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Professional Field] Apps: What Actually Works for [Professionals]",
+    "description": "Review apps specifically designed for professionals in particular fields (doctors, lawyers, teachers, etc.). Test apps in realistic professional scenarios, evaluate industry-specific features, assess security and compliance considerations, and interview professionals who use these tools daily. Include workflow integration and ROI analysis.",
+    "tags": ["professional apps", "industry specific", "workflow", "professional tools", "specialized features"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Privacy Nightmare or Safe? Testing [App Name]'s Data Practices",
+    "description": "Conduct in-depth privacy and security analysis of popular apps. Review privacy policies, test data collection practices, analyze permissions and data sharing, and use privacy auditing tools. Explain findings in accessible terms, provide privacy recommendations, and suggest alternatives for privacy-conscious users.",
+    "tags": ["privacy analysis", "data security", "app permissions", "privacy policy", "data collection"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Building My Perfect [Workflow Type] with Apps",
+    "description": "Document the process of creating an optimized workflow using multiple apps that work together. Test various app combinations, evaluate integration capabilities, measure workflow efficiency, and refine the system over time. Include setup tutorials, troubleshooting tips, and alternative configurations for different needs.",
+    "tags": ["workflow optimization", "app integration", "productivity system", "multi-app setup", "efficiency"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[App Name] vs [Competitor] - The Ultimate Comparison",
+    "description": "Head-to-head comparison between two major competitors in the same app category. Create standardized tests, compare features side-by-side, evaluate pricing models, test performance and reliability, and gather user feedback. Provide clear recommendations for different user types and use cases.",
+    "tags": ["head-to-head", "competitor analysis", "feature comparison", "detailed comparison", "recommendation"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Failed Me When I Needed Them Most",
+    "description": "Honest review of apps that disappointed during critical moments or important tasks. Analyze failure points, discuss reliability issues, evaluate customer support responses, and explain why certain apps can't be trusted for important work. Include lessons learned and more reliable alternatives.",
+    "tags": ["app failures", "reliability issues", "critical moments", "disappointment", "trust"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Device Type] Apps That Actually Use [Hardware Feature] Well",
+    "description": "Review apps that effectively utilize specific hardware features (camera, sensors, stylus, etc.). Test how well apps integrate with hardware capabilities, evaluate performance and innovation, and compare implementations across different apps. Discuss whether hardware features add genuine value or are just gimmicks.",
+    "tags": ["hardware integration", "device features", "hardware utilization", "innovation", "performance"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "One Week Without [Popular App] - Survival Challenge",
+    "description": "Document the experience of avoiding a widely-used app for a set period and finding alternatives. Test replacement apps, evaluate withdrawal symptoms or productivity impacts, and assess how dependent users really are on popular apps. Include tips for reducing app dependency and finding healthier alternatives.",
+    "tags": ["app dependency", "digital detox", "alternatives", "usage habits", "app addiction"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Age Group] Should (Not) Use These Apps - Parent's Guide",
+    "description": "Age-appropriate app recommendations and warnings for parents and educators. Review apps from safety, educational value, and developmental appropriateness perspectives. Include parental control features, in-app purchase risks, and social interaction concerns. Provide guidance for different age ranges and developmental stages.",
+    "tags": ["parental guidance", "age appropriate", "child safety", "educational apps", "family apps"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Are Surprisingly Good at [Unexpected Use Case]",
+    "description": "Discover and test apps being used successfully for purposes beyond their original design. Research creative use cases, test unconventional applications, and evaluate how well apps adapt to unexpected workflows. Include user stories and creative implementation ideas.",
+    "tags": ["creative usage", "unexpected applications", "alternative uses", "innovative thinking", "adaptability"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Country/Region] Apps That Should Go Global",
+    "description": "Review excellent apps that are popular in specific regions but unavailable globally. Test unique features, evaluate cultural adaptations, assess localization quality, and discuss barriers to global expansion. Include methods for accessing region-locked apps where appropriate.",
+    "tags": ["regional apps", "localization", "global expansion", "cultural adaptation", "geographical restrictions"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Testing AI-Powered [App Category] - Future or Hype?",
+    "description": "Evaluate apps that heavily utilize artificial intelligence or machine learning features. Test AI accuracy and usefulness, compare AI-powered features against traditional implementations, and assess whether AI adds genuine value or is just marketing. Include privacy considerations around AI data usage.",
+    "tags": ["AI apps", "machine learning", "artificial intelligence", "future technology", "AI evaluation"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Actually Sync Properly Across [Multiple Devices]",
+    "description": "Test and review apps with excellent cross-device synchronization capabilities. Evaluate sync speed, reliability, conflict resolution, and feature parity across platforms. Compare different sync technologies and recommend apps for users who work across multiple devices regularly.",
+    "tags": ["cross-device sync", "multi-platform", "synchronization", "device compatibility", "seamless experience"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Subscription App] - Is It Worth the Monthly Cost?",
+    "description": "Detailed cost-benefit analysis of subscription-based apps. Calculate total annual costs, evaluate feature access and updates, compare against one-time purchase alternatives, and assess long-term value proposition. Include break-even analysis and recommendations for different usage patterns.",
+    "tags": ["subscription model", "cost analysis", "value proposition", "recurring costs", "financial evaluation"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Make [Complex Task] Actually Simple",
+    "description": "Review apps that successfully simplify traditionally complex tasks (video editing, accounting, design, etc.). Test learning curves, evaluate feature accessibility, and compare against professional tools. Assess whether simplification sacrifices important functionality.",
+    "tags": ["simplification", "complex tasks", "user-friendly", "accessibility", "ease of use"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Why [App Name] Keeps Crashing and How to Fix It",
+    "description": "Troubleshooting guide for problematic apps with common stability issues. Research known problems, test various solutions, document fix procedures, and evaluate whether stability issues are deal-breakers. Include prevention tips and alternative apps for users who can't resolve issues.",
+    "tags": ["troubleshooting", "app crashes", "stability issues", "bug fixes", "technical problems"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Niche Interest] Apps You Didn't Know Existed",
+    "description": "Discover and review apps for very specific interests or hobbies that most people aren't aware of. Test unique features, evaluate community aspects, and assess whether niche apps provide better experiences than general-purpose alternatives. Include tips for finding apps for unusual interests.",
+    "tags": ["niche apps", "specialized interests", "hobby apps", "unique features", "community"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Work Great Offline vs Those That Don't",
+    "description": "Test and compare apps based on their offline functionality and performance. Evaluate which features remain available without internet, assess offline data sync, and recommend apps for users with limited connectivity. Include travel and remote work scenarios.",
+    "tags": ["offline functionality", "no internet", "connectivity", "travel apps", "remote work"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[App Name] Accessibility Review - How Inclusive Is It?",
+    "description": "Comprehensive accessibility evaluation of apps from the perspective of users with disabilities. Test screen reader compatibility, voice control, visual accessibility features, and motor accessibility options. Include feedback from users with disabilities and recommendations for improvements.",
+    "tags": ["accessibility", "inclusive design", "disability", "screen reader", "universal design"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Gaming Apps That Aren't Actually Games",
+    "description": "Review apps that use game mechanics and design principles for non-gaming purposes (fitness, productivity, learning, etc.). Evaluate gamification effectiveness, assess long-term engagement, and compare against traditional app approaches. Discuss whether gamification genuinely improves outcomes.",
+    "tags": ["gamification", "game mechanics", "non-gaming apps", "engagement", "behavioral design"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Open Source App] vs [Commercial Alternative] - David vs Goliath",
+    "description": "Compare open-source apps against their commercial competitors. Evaluate feature completeness, community support, update frequency, and total cost of ownership. Discuss philosophy differences, customization options, and long-term viability of open-source alternatives.",
+    "tags": ["open source", "commercial apps", "community support", "cost comparison", "philosophy"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Genuinely Improve Your [Life Aspect]",
+    "description": "Focus on apps that create measurable positive changes in specific life areas (health, relationships, finances, etc.). Test apps over extended periods, track actual improvements, and provide evidence-based recommendations. Include before/after metrics and realistic expectations.",
+    "tags": ["life improvement", "measurable results", "positive change", "long-term benefits", "evidence-based"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Platform] Apps That Should Exist on [Other Platform]",
+    "description": "Review excellent apps that are exclusive to one platform and discuss why they should expand to others. Evaluate technical barriers, business reasons for exclusivity, and potential benefits of cross-platform availability. Include user demand analysis and workarounds where possible.",
+    "tags": ["platform exclusivity", "cross-platform", "expansion", "technical barriers", "user demand"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Speed Test: [App Category] Performance Championship",
+    "description": "Conduct systematic performance testing across multiple apps in the same category. Test loading times, processing speed, battery usage, and resource consumption. Create performance benchmarks and identify the fastest, most efficient options for performance-conscious users.",
+    "tags": ["performance testing", "speed comparison", "efficiency", "benchmarks", "resource usage"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Respect Your Time vs Time Wasters",
+    "description": "Compare apps designed for efficiency against those that encourage excessive usage. Evaluate design choices, notification strategies, and features that promote healthy usage patterns. Discuss attention economy impacts and recommend apps that genuinely serve user interests.",
+    "tags": ["time management", "attention economy", "user respect", "healthy usage", "efficiency"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[New/Beta App] First Look - Worth the Early Adoption Risk?",
+    "description": "Early review of newly released or beta apps, evaluating potential against current limitations. Test core functionality, assess development progress, and evaluate whether early adoption risks are justified by unique features or advantages. Include stability and feature completeness analysis.",
+    "tags": ["beta testing", "early adoption", "new releases", "development progress", "risk assessment"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Failed at [Specific Feature] Despite Everything Else",
+    "description": "Review apps that excel in most areas but fail critically in one important aspect. Analyze why certain features are poorly implemented, discuss impact on overall user experience, and evaluate whether strengths outweigh weaknesses. Include suggestions for improvements.",
+    "tags": ["critical failures", "mixed reviews", "feature analysis", "strengths vs weaknesses", "improvement suggestions"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Industry Standard] Apps - Are They Worth the Hype?",
+    "description": "Objective review of apps that are considered industry standards or widely recommended by professionals. Test against alternatives, evaluate whether reputation is deserved, and assess if standard recommendations serve all user types. Include contrarian perspectives where appropriate.",
+    "tags": ["industry standards", "professional recommendations", "reputation analysis", "contrarian views", "objective evaluation"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Building a [Specific Workflow] - App Stack Review",
+    "description": "Document the process of building a complete workflow using multiple complementary apps. Test integration points, evaluate workflow efficiency, and optimize app combinations over time. Include alternative configurations and troubleshooting common integration issues.",
+    "tags": ["workflow building", "app stack", "integration", "optimization", "multi-app workflow"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Look Great But Work Terribly",
+    "description": "Review apps with excellent visual design but poor functionality or user experience. Analyze the disconnect between appearance and performance, discuss the importance of substance over style, and evaluate whether good design can compensate for functional problems.",
+    "tags": ["design vs function", "visual appeal", "user experience", "style over substance", "functional problems"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Demographic] Apps - Made By Them, For Them",
+    "description": "Review apps developed by and for specific demographic groups (seniors, students, parents, etc.). Evaluate how well apps address specific needs, assess cultural sensitivity and representation, and compare against general-purpose alternatives. Include community feedback and adoption patterns.",
+    "tags": ["demographic-specific", "targeted design", "representation", "community feedback", "specialized needs"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Emergency Apps That Could Save Your Life",
+    "description": "Review critical apps for emergency situations (medical, safety, natural disasters, etc.). Test functionality under stress, evaluate offline capabilities, assess accuracy of information, and verify emergency contact features. Include real-world scenario testing where safely possible.",
+    "tags": ["emergency apps", "life-saving", "crisis situations", "safety", "critical functionality"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Make Money vs Apps That Make Sense",
+    "description": "Compare apps optimized for revenue generation against those focused on user value. Analyze monetization strategies, evaluate user experience impacts, and discuss business model sustainability. Include recommendations for users who prioritize functionality over flashiness.",
+    "tags": ["monetization", "business models", "user value", "revenue optimization", "sustainable apps"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Creative Field] Apps: Professional vs Hobbyist Options",
+    "description": "Compare apps designed for creative professionals against those targeting hobbyists and casual users. Evaluate feature depth, learning curves, output quality, and pricing structures. Help users choose appropriate tools based on their skill level and goals.",
+    "tags": ["creative apps", "professional vs hobbyist", "skill levels", "feature depth", "appropriate tools"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Changed Their Purpose Completely",
+    "description": "Review apps that underwent major pivots or completely changed their core functionality. Analyze reasons for changes, evaluate success of transformations, and assess impact on existing user base. Include lessons about app evolution and adaptation.",
+    "tags": ["app pivots", "functionality changes", "evolution", "transformation", "adaptation"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Minimalist/Bloated] Apps - Less vs More Features",
+    "description": "Compare minimalist apps with focused functionality against feature-rich alternatives. Evaluate whether simplicity or comprehensiveness better serves users, assess learning curves and efficiency, and recommend approaches for different user preferences and needs.",
+    "tags": ["minimalism", "feature comparison", "simplicity vs complexity", "user preferences", "efficiency"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Work Better Than Their Websites",
+    "description": "Review mobile apps that significantly outperform their web counterparts. Compare functionality, performance, and user experience between platforms. Analyze why some services excel in app form and evaluate whether app-first approaches benefit users.",
+    "tags": ["app vs web", "platform comparison", "mobile optimization", "user experience", "app-first design"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Learning/Educational] Apps That Actually Teach",
+    "description": "Evaluate educational apps based on learning effectiveness rather than entertainment value. Test knowledge retention, assess teaching methodologies, and compare against traditional learning methods. Include long-term learning outcome analysis and pedagogical evaluation.",
+    "tags": ["educational apps", "learning effectiveness", "teaching methods", "knowledge retention", "pedagogy"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Survive vs Die After [Major OS Update]",
+    "description": "Review how different apps handle major operating system updates. Test compatibility, evaluate adaptation speed, and assess developer responsiveness to OS changes. Identify apps that consistently maintain compatibility and those that struggle with updates.",
+    "tags": ["OS compatibility", "system updates", "developer responsiveness", "adaptation", "long-term viability"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Community-Driven] Apps vs [Corporate] Alternatives",
+    "description": "Compare community-developed or community-driven apps against corporate alternatives. Evaluate development approaches, user feedback incorporation, feature priorities, and long-term sustainability. Discuss pros and cons of different development philosophies.",
+    "tags": ["community-driven", "corporate apps", "development philosophy", "user feedback", "sustainability"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Promise [Specific Outcome] - Do They Deliver?",
+    "description": "Test apps that make specific, measurable promises (weight loss, productivity increase, skill development, etc.). Conduct controlled testing over appropriate timeframes, measure actual outcomes against promises, and provide evidence-based assessments of effectiveness.",
+    "tags": ["outcome promises", "measurable results", "effectiveness testing", "evidence-based", "accountability"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Seasonal/Temporary] Apps - Worth Downloading for [Short Period]?",
+    "description": "Review apps designed for seasonal or temporary use (tax preparation, holiday planning, event-specific apps, etc.). Evaluate whether limited-time functionality justifies download and setup effort, assess annual update quality, and compare against year-round alternatives.",
+    "tags": ["seasonal apps", "temporary use", "limited functionality", "periodic value", "setup effort"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Got Worse After [Acquisition/Major Change]",
+    "description": "Review apps that declined in quality following acquisitions, major updates, or ownership changes. Analyze what changed, evaluate user impact, and assess whether original value can be recovered. Include alternative recommendations for displaced users.",
+    "tags": ["app decline", "acquisitions", "quality degradation", "ownership changes", "user displacement"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Local/Regional] Service Apps vs National Competitors",
+    "description": "Compare local or regional service apps against national competitors in the same category. Evaluate local market understanding, service quality, feature differences, and community integration. Assess advantages of supporting local versus using established platforms.",
+    "tags": ["local services", "regional apps", "national competitors", "community integration", "local support"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Integrate with [Specific Platform/Service] Best",
+    "description": "Review apps with excellent integration capabilities for specific platforms or services. Test integration depth, reliability, and feature completeness. Evaluate whether third-party integrations add genuine value or create unnecessary complexity.",
+    "tags": ["platform integration", "third-party connectivity", "integration depth", "reliability", "added value"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Data Export] Test - Which Apps Let You Leave Easily?",
+    "description": "Evaluate apps based on data portability and export capabilities. Test ease of data extraction, format compatibility, and completeness of exported information. Discuss user rights, vendor lock-in concerns, and recommend apps that respect user data ownership.",
+    "tags": ["data export", "portability", "vendor lock-in", "user rights", "data ownership"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Actually Use [Device Feature] Innovation",
+    "description": "Review apps that creatively and effectively utilize cutting-edge device features (advanced cameras, sensors, processing power, etc.). Evaluate innovation quality, practical benefits, and whether advanced features enhance real-world usage or are just technological showcasing.",
+    "tags": ["device innovation", "advanced features", "creative usage", "practical benefits", "technological advancement"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Power User] Features vs [Casual User] Simplicity",
+    "description": "Compare apps that cater to power users with advanced features against those prioritizing casual user simplicity. Evaluate whether apps successfully serve both audiences or if specialization is more effective. Include recommendations based on user expertise levels.",
+    "tags": ["power users", "casual users", "feature complexity", "specialization", "user expertise"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Handle [Specific File Type] Best",
+    "description": "Review and compare apps specialized in handling specific file formats or media types. Test format support, conversion capabilities, editing features, and integration with other tools. Evaluate whether specialized apps outperform general-purpose alternatives.",
+    "tags": ["file formats", "media handling", "format support", "specialized apps", "conversion"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "[Security-Focused] Apps - Paranoid or Practical?",
+    "description": "Review apps with strong security and privacy focuses, evaluating whether security features are practical for average users or only useful for high-security needs. Test usability impacts of security measures and assess threat model appropriateness.",
+    "tags": ["security apps", "privacy focus", "threat models", "usability vs security", "practical security"],
+    "niches": ["app-reviews"]
+  },
+  {
+    "title": "Apps That Break Without [Internet/Subscription/Hardware]",
+    "description": "Identify and review apps with critical dependencies that limit functionality. Evaluate graceful degradation when dependencies are unavailable, assess value proposition given limitations, and recommend alternatives with fewer dependencies.",
+    "tags": ["dependencies", "critical limitations", "graceful degradation", "functionality restrictions", "alternatives"],
+    "niches": ["app-reviews"]
+  }
+]
