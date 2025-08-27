@@ -1,0 +1,572 @@
+[
+  {
+    "title": "Weekly News Roundup: What You Missed This Week",
+    "description": "Comprehensive summary of the week's most important news stories across politics, technology, science, and culture. Expand with analysis, context, and implications for viewers.",
+    "tags": ["current events", "news", "weekly", "summary"],
+    "niches": ["news", "current events"]
+  },
+  {
+    "title": "Breaking Down Complex Political Issues Simply",
+    "description": "Explain complicated political topics, policies, and controversies in accessible language for general audiences. Expand with multiple perspectives and fact-checking.",
+    "tags": ["current events", "politics", "explanation", "simple"],
+    "niches": ["news", "politics"]
+  },
+  {
+    "title": "Climate Change News: Latest Developments and Solutions",
+    "description": "Regular updates on climate science, environmental policies, and innovative solutions. Expand with local impacts and actionable steps for individuals.",
+    "tags": ["current events", "climate change", "environment", "solutions"],
+    "niches": ["news", "environment"]
+  },
+  {
+    "title": "Technology Trends and Their Societal Impact",
+    "description": "Analyze emerging technologies, their potential benefits and risks, and how they might reshape society. Expand with expert interviews and real-world applications.",
+    "tags": ["current events", "technology", "society", "trends"],
+    "niches": ["news", "technology"]
+  },
+  {
+    "title": "Global Economic Updates and Market Analysis",
+    "description": "Explain economic trends, market movements, and their impact on everyday people. Expand with historical context and personal finance implications.",
+    "tags": ["current events", "economy", "markets", "finance"],
+    "niches": ["news", "finance"]
+  },
+  {
+    "title": "Social Justice Movements: Progress and Challenges",
+    "description": "Cover ongoing social justice issues, activism updates, and policy changes. Expand with diverse perspectives and historical context.",
+    "tags": ["current events", "social justice", "activism", "progress"],
+    "niches": ["news", "social issues"]
+  },
+  {
+    "title": "International Relations and Diplomatic Developments",
+    "description": "Analyze global political relationships, treaties, conflicts, and diplomatic negotiations. Expand with geopolitical context and historical background.",
+    "tags": ["current events", "international", "diplomacy", "geopolitics"],
+    "niches": ["news", "international"]
+  },
+  {
+    "title": "Public Health Updates and Medical Breakthroughs",
+    "description": "Report on health policy changes, medical research developments, and public health initiatives. Expand with expert analysis and practical health advice.",
+    "tags": ["current events", "health", "medical", "public policy"],
+    "niches": ["news", "health"]
+  },
+  {
+    "title": "Election Coverage and Voter Information",
+    "description": "Provide nonpartisan election coverage, candidate information, and voting guides. Expand with policy comparisons and civic education resources.",
+    "tags": ["current events", "elections", "voting", "civic"],
+    "niches": ["news", "politics"]
+  },
+  {
+    "title": "Natural Disasters and Emergency Response Updates",
+    "description": "Cover natural disasters, emergency responses, and recovery efforts while providing safety information. Expand with climate change connections and preparedness tips.",
+    "tags": ["current events", "disasters", "emergency", "safety"],
+    "niches": ["news", "safety"]
+  },
+  {
+    "title": "Corporate News and Business Developments",
+    "description": "Analyze major business decisions, mergers, scandals, and their impact on consumers and markets. Expand with corporate accountability and economic implications.",
+    "tags": ["current events", "business", "corporate", "economy"],
+    "niches": ["news", "business"]
+  },
+  {
+    "title": "Legal System Updates and Court Decisions",
+    "description": "Explain significant court cases, legal precedents, and changes in law. Expand with constitutional analysis and societal implications.",
+    "tags": ["current events", "legal", "courts", "law"],
+    "niches": ["news", "legal"]
+  },
+  {
+    "title": "Education Policy and Academic Research News",
+    "description": "Cover education reforms, academic studies, and their implications for students and society. Expand with expert commentary and student perspectives.",
+    "tags": ["current events", "education", "policy", "research"],
+    "niches": ["news", "education"]
+  },
+  {
+    "title": "Space Exploration and Scientific Discoveries",
+    "description": "Report on space missions, astronomical discoveries, and their significance for humanity. Expand with scientific explanation and future implications.",
+    "tags": ["current events", "space", "science", "discovery"],
+    "niches": ["news", "science"]
+  },
+  {
+    "title": "Immigration and Border Policy Updates",
+    "description": "Cover immigration news, policy changes, and human stories behind the statistics. Expand with legal analysis and humanitarian perspectives.",
+    "tags": ["current events", "immigration", "policy", "human rights"],
+    "niches": ["news", "social issues"]
+  },
+  {
+    "title": "Cybersecurity Incidents and Digital Rights",
+    "description": "Report on major cyberattacks, data breaches, and digital privacy developments. Expand with security tips and policy implications.",
+    "tags": ["current events", "cybersecurity", "privacy", "digital rights"],
+    "niches": ["news", "technology"]
+  },
+  {
+    "title": "Sports News Beyond the Scores",
+    "description": "Cover sports stories focusing on social impact, athlete activism, and business aspects rather than just game results. Expand with cultural significance analysis.",
+    "tags": ["current events", "sports", "social impact", "culture"],
+    "niches": ["news", "sports"]
+  },
+  {
+    "title": "Local Community Issues and Solutions",
+    "description": "Focus on local government decisions, community problems, and grassroots solutions. Expand with civic engagement opportunities and success stories.",
+    "tags": ["current events", "local", "community", "civic"],
+    "niches": ["news", "local"]
+  },
+  {
+    "title": "Media Literacy and Misinformation Updates",
+    "description": "Analyze media manipulation, fact-check viral claims, and teach critical thinking skills. Expand with source verification techniques and media bias analysis.",
+    "tags": ["current events", "media literacy", "misinformation", "critical thinking"],
+    "niches": ["news", "education"]
+  },
+  {
+    "title": "Fact-Checking Viral Claims and Conspiracy Theories",
+    "description": "Investigate popular claims, debunk misinformation, and explain the truth behind viral stories. Expand with research methodology and logical reasoning.",
+    "tags": ["current events", "fact-checking", "misinformation", "truth"],
+    "niches": ["news", "education"]
+  },
+  {
+    "title": "International Trade Wars and Economic Sanctions Analysis",
+    "description": "Examine trade disputes, tariffs, and economic sanctions between nations. Expand with impact on global supply chains, consumer prices, and diplomatic relations.",
+    "tags": ["current events", "trade", "economics", "international relations"],
+    "niches": ["news", "finance", "international"]
+  },
+  {
+    "title": "Mental Health Policy and Treatment Access Updates",
+    "description": "Report on mental health legislation, treatment accessibility, and destigmatization efforts. Expand with expert interviews and personal recovery stories.",
+    "tags": ["current events", "mental health", "healthcare", "policy"],
+    "niches": ["news", "health", "social issues"]
+  },
+  {
+    "title": "Infrastructure Investment and Modernization Projects",
+    "description": "Cover major infrastructure initiatives, smart city developments, and transportation improvements. Expand with economic impact analysis and environmental considerations.",
+    "tags": ["current events", "infrastructure", "urban planning", "transportation"],
+    "niches": ["news", "urban development"]
+  },
+  {
+    "title": "Renewable Energy Transition and Policy Changes",
+    "description": "Track renewable energy adoption, grid modernization, and energy policy shifts. Expand with technological innovations and job market implications.",
+    "tags": ["current events", "renewable energy", "policy", "sustainability"],
+    "niches": ["news", "environment", "technology"]
+  },
+  {
+    "title": "Artificial Intelligence Regulation and Ethics Debates",
+    "description": "Analyze AI governance proposals, ethical concerns, and industry self-regulation efforts. Expand with expert perspectives and real-world case studies.",
+    "tags": ["current events", "artificial intelligence", "regulation", "ethics"],
+    "niches": ["news", "technology", "ethics"]
+  },
+  {
+    "title": "Refugee Crisis and Humanitarian Response Updates",
+    "description": "Cover global refugee situations, humanitarian aid efforts, and resettlement programs. Expand with human stories and international cooperation analysis.",
+    "tags": ["current events", "refugees", "humanitarian", "human rights"],
+    "niches": ["news", "social issues", "international"]
+  },
+  {
+    "title": "Criminal Justice Reform and Prison System Changes",
+    "description": "Report on sentencing reform, rehabilitation programs, and prison conditions. Expand with recidivism data and successful reform examples.",
+    "tags": ["current events", "criminal justice", "reform", "rehabilitation"],
+    "niches": ["news", "social issues", "legal"]
+  },
+  {
+    "title": "Pandemic Preparedness and Public Health Infrastructure",
+    "description": "Analyze lessons learned from recent pandemics and preparedness improvements. Expand with expert recommendations and global cooperation efforts.",
+    "tags": ["current events", "pandemic", "public health", "preparedness"],
+    "niches": ["news", "health", "policy"]
+  },
+  {
+    "title": "Agricultural Innovation and Food Security Issues",
+    "description": "Cover farming technology, crop yields, and global food distribution challenges. Expand with sustainability practices and nutritional security analysis.",
+    "tags": ["current events", "agriculture", "food security", "innovation"],
+    "niches": ["news", "environment", "technology"]
+  },
+  {
+    "title": "Water Rights and Conservation Efforts Worldwide",
+    "description": "Report on water scarcity, conservation technologies, and international water disputes. Expand with local solutions and policy recommendations.",
+    "tags": ["current events", "water conservation", "resources", "environment"],
+    "niches": ["news", "environment", "policy"]
+  },
+  {
+    "title": "Electoral System Reforms and Voting Rights Developments",
+    "description": "Cover voting accessibility, election security, and democratic process improvements. Expand with international comparisons and civic participation data.",
+    "tags": ["current events", "voting rights", "democracy", "electoral reform"],
+    "niches": ["news", "politics", "civic"]
+  },
+  {
+    "title": "Cryptocurrency Regulation and Financial Innovation",
+    "description": "Analyze digital currency policies, blockchain applications, and fintech developments. Expand with regulatory compliance and consumer protection aspects.",
+    "tags": ["current events", "cryptocurrency", "fintech", "regulation"],
+    "niches": ["news", "finance", "technology"]
+  },
+  {
+    "title": "Scientific Research Funding and Policy Priorities",
+    "description": "Report on research budget allocations, scientific priorities, and funding controversies. Expand with innovation impact and international research collaboration.",
+    "tags": ["current events", "science", "research funding", "policy"],
+    "niches": ["news", "science", "policy"]
+  },
+  {
+    "title": "Labor Union Activity and Workers' Rights Movements",
+    "description": "Cover unionization efforts, strike actions, and workplace rights developments. Expand with economic impact analysis and worker testimonials.",
+    "tags": ["current events", "labor unions", "workers rights", "strikes"],
+    "niches": ["news", "labor", "social issues"]
+  },
+  {
+    "title": "Housing Market Trends and Affordable Housing Crisis",
+    "description": "Analyze housing costs, market conditions, and affordable housing solutions. Expand with policy proposals and successful community initiatives.",
+    "tags": ["current events", "housing", "affordability", "real estate"],
+    "niches": ["news", "economics", "urban development"]
+  },
+  {
+    "title": "Gender Equality Progress and Workplace Discrimination",
+    "description": "Report on gender pay gaps, workplace policies, and equality legislation. Expand with data analysis and success story highlighting.",
+    "tags": ["current events", "gender equality", "workplace", "discrimination"],
+    "niches": ["news", "social issues", "workplace"]
+  },
+  {
+    "title": "Indigenous Rights and Land Sovereignty Issues",
+    "description": "Cover indigenous community struggles, land rights, and cultural preservation efforts. Expand with historical context and contemporary legal developments.",
+    "tags": ["current events", "indigenous rights", "land rights", "sovereignty"],
+    "niches": ["news", "social issues", "legal"]
+  },
+  {
+    "title": "Ocean Conservation and Marine Protection Policies",
+    "description": "Report on marine ecosystem threats, conservation efforts, and international ocean agreements. Expand with scientific research and sustainable fishing practices.",
+    "tags": ["current events", "ocean conservation", "marine life", "environment"],
+    "niches": ["news", "environment", "conservation"]
+  },
+  {
+    "title": "Space Commerce and Privatization Developments",
+    "description": "Analyze commercial space ventures, satellite deployment, and space tourism. Expand with regulatory frameworks and economic implications.",
+    "tags": ["current events", "space commerce", "privatization", "technology"],
+    "niches": ["news", "space", "business"]
+  },
+  {
+    "title": "Digital Privacy Rights and Surveillance Debates",
+    "description": "Cover data protection laws, government surveillance, and privacy technology. Expand with legal analysis and consumer protection strategies.",
+    "tags": ["current events", "digital privacy", "surveillance", "data protection"],
+    "niches": ["news", "technology", "privacy"]
+  },
+  {
+    "title": "Medical Technology Breakthroughs and Healthcare Access",
+    "description": "Report on medical innovations, treatment accessibility, and healthcare disparities. Expand with cost analysis and patient outcome studies.",
+    "tags": ["current events", "medical technology", "healthcare access", "innovation"],
+    "niches": ["news", "health", "technology"]
+  },
+  {
+    "title": "Cultural Heritage Preservation and Museum Controversies",
+    "description": "Cover artifact repatriation, cultural preservation efforts, and museum ethics. Expand with community perspectives and international cooperation.",
+    "tags": ["current events", "cultural heritage", "museums", "preservation"],
+    "niches": ["news", "culture", "history"]
+  },
+  {
+    "title": "Transportation Evolution and Urban Mobility Solutions",
+    "description": "Analyze public transit improvements, autonomous vehicles, and sustainable transportation. Expand with environmental impact and accessibility considerations.",
+    "tags": ["current events", "transportation", "mobility", "urban planning"],
+    "niches": ["news", "transportation", "urban development"]
+  },
+  {
+    "title": "Religious Freedom and Faith-Based Policy Debates",
+    "description": "Report on religious liberty issues, faith-based legislation, and interfaith dialogue. Expand with constitutional analysis and community impact studies.",
+    "tags": ["current events", "religious freedom", "faith", "policy"],
+    "niches": ["news", "religion", "legal"]
+  },
+  {
+    "title": "Military Technology and Defense Strategy Updates",
+    "description": "Cover defense spending, military innovation, and strategic partnerships. Expand with geopolitical analysis and arms control discussions.",
+    "tags": ["current events", "military", "defense", "strategy"],
+    "niches": ["news", "military", "international"]
+  },
+  {
+    "title": "Educational Technology and Digital Learning Trends",
+    "description": "Analyze online learning platforms, educational apps, and digital divide issues. Expand with learning outcome studies and accessibility improvements.",
+    "tags": ["current events", "educational technology", "digital learning", "education"],
+    "niches": ["news", "education", "technology"]
+  },
+  {
+    "title": "Senior Citizens Policy and Aging Population Issues",
+    "description": "Report on elderly care, retirement security, and age discrimination. Expand with demographic analysis and intergenerational policy discussions.",
+    "tags": ["current events", "senior citizens", "aging", "policy"],
+    "niches": ["news", "social issues", "demographics"]
+  },
+  {
+    "title": "Disaster Recovery and Climate Adaptation Strategies",
+    "description": "Cover post-disaster rebuilding, climate resilience planning, and community preparedness. Expand with successful adaptation examples and funding mechanisms.",
+    "tags": ["current events", "disaster recovery", "climate adaptation", "resilience"],
+    "niches": ["news", "environment", "emergency management"]
+  },
+  {
+    "title": "International Development Aid and Global Poverty",
+    "description": "Analyze foreign aid effectiveness, development programs, and poverty reduction efforts. Expand with success metrics and sustainable development goals.",
+    "tags": ["current events", "international aid", "poverty", "development"],
+    "niches": ["news", "international", "social issues"]
+  },
+  {
+    "title": "Entertainment Industry Labor and Creative Rights",
+    "description": "Report on entertainment strikes, artist rights, and industry working conditions. Expand with economic impact and creative compensation analysis.",
+    "tags": ["current events", "entertainment", "labor rights", "creative industry"],
+    "niches": ["news", "entertainment", "labor"]
+  },
+  {
+    "title": "Child Welfare and Youth Protection Policies",
+    "description": "Cover child safety legislation, youth services, and protection program effectiveness. Expand with advocacy efforts and successful intervention programs.",
+    "tags": ["current events", "child welfare", "youth protection", "policy"],
+    "niches": ["news", "social issues", "family"]
+  },
+  {
+    "title": "Nuclear Energy Policy and Safety Regulations",
+    "description": "Analyze nuclear power developments, safety protocols, and waste management. Expand with environmental impact comparisons and energy security discussions.",
+    "tags": ["current events", "nuclear energy", "safety", "regulation"],
+    "niches": ["news", "energy", "environment"]
+  },
+  {
+    "title": "Historic Anniversary Coverage and Lessons Learned",
+    "description": "Commemorate significant historical events and analyze their contemporary relevance. Expand with expert commentary and educational resources.",
+    "tags": ["current events", "history", "anniversaries", "lessons"],
+    "niches": ["news", "history", "education"]
+  },
+  {
+    "title": "Biotechnology Ethics and Genetic Research Developments",
+    "description": "Report on genetic engineering, bioethics debates, and medical research advances. Expand with regulatory frameworks and societal implications.",
+    "tags": ["current events", "biotechnology", "genetics", "ethics"],
+    "niches": ["news", "science", "ethics"]
+  },
+  {
+    "title": "Social Media Regulation and Platform Accountability",
+    "description": "Cover content moderation policies, platform responsibilities, and free speech debates. Expand with international regulatory comparisons and user impact studies.",
+    "tags": ["current events", "social media", "regulation", "accountability"],
+    "niches": ["news", "technology", "social issues"]
+  },
+  {
+    "title": "Supply Chain Disruptions and Economic Resilience",
+    "description": "Analyze global supply chain vulnerabilities, disruption responses, and resilience building. Expand with industry case studies and policy recommendations.",
+    "tags": ["current events", "supply chain", "economics", "resilience"],
+    "niches": ["news", "economics", "business"]
+  },
+  {
+    "title": "Disability Rights and Accessibility Improvements",
+    "description": "Report on disability legislation, accessibility technology, and inclusion efforts. Expand with community perspectives and successful implementation examples.",
+    "tags": ["current events", "disability rights", "accessibility", "inclusion"],
+    "niches": ["news", "social issues", "accessibility"]
+  },
+  {
+    "title": "Urban Development and Smart City Initiatives",
+    "description": "Cover city planning innovations, smart technology integration, and sustainable development. Expand with citizen engagement and environmental impact analysis.",
+    "tags": ["current events", "urban development", "smart cities", "planning"],
+    "niches": ["news", "urban development", "technology"]
+  },
+  {
+    "title": "International Human Rights and Advocacy Efforts",
+    "description": "Report on global human rights violations, advocacy campaigns, and international responses. Expand with legal mechanisms and grassroots movement coverage.",
+    "tags": ["current events", "human rights", "advocacy", "international"],
+    "niches": ["news", "human rights", "international"]
+  },
+  {
+    "title": "Pharmaceutical Industry and Drug Pricing Policies",
+    "description": "Analyze medication costs, pharmaceutical regulations, and access to treatments. Expand with patient advocacy and international pricing comparisons.",
+    "tags": ["current events", "pharmaceuticals", "drug pricing", "healthcare"],
+    "niches": ["news", "health", "policy"]
+  },
+  {
+    "title": "Wildlife Conservation and Endangered Species Protection",
+    "description": "Cover conservation efforts, species recovery programs, and habitat protection. Expand with scientific research and community-based conservation success stories.",
+    "tags": ["current events", "wildlife conservation", "endangered species", "environment"],
+    "niches": ["news", "environment", "conservation"]
+  },
+  {
+    "title": "Veteran Affairs and Military Service Member Support",
+    "description": "Report on veteran healthcare, benefits, and transition assistance programs. Expand with policy analysis and veteran advocacy organization efforts.",
+    "tags": ["current events", "veterans", "military support", "healthcare"],
+    "niches": ["news", "military", "healthcare"]
+  },
+  {
+    "title": "Manufacturing Renaissance and Industrial Policy",
+    "description": "Analyze domestic manufacturing initiatives, industrial competitiveness, and job creation. Expand with automation impact and workforce development programs.",
+    "tags": ["current events", "manufacturing", "industrial policy", "jobs"],
+    "niches": ["news", "economics", "manufacturing"]
+  },
+  {
+    "title": "Rural Development and Agricultural Community Support",
+    "description": "Cover rural broadband expansion, agricultural subsidies, and small-town revitalization. Expand with demographic trends and economic development strategies.",
+    "tags": ["current events", "rural development", "agriculture", "community"],
+    "niches": ["news", "rural", "agriculture"]
+  },
+  {
+    "title": "Waste Management and Circular Economy Initiatives",
+    "description": "Report on recycling innovations, waste reduction programs, and sustainable packaging. Expand with corporate responsibility and consumer behavior changes.",
+    "tags": ["current events", "waste management", "circular economy", "sustainability"],
+    "niches": ["news", "environment", "sustainability"]
+  },
+  {
+    "title": "Teacher Shortages and Education System Challenges",
+    "description": "Analyze educator recruitment, retention strategies, and classroom conditions. Expand with policy solutions and successful district improvement programs.",
+    "tags": ["current events", "education", "teacher shortage", "challenges"],
+    "niches": ["news", "education", "policy"]
+  },
+  {
+    "title": "Public Transportation and Commuter Infrastructure",
+    "description": "Cover transit system improvements, commuter challenges, and sustainable transportation options. Expand with ridership data and environmental benefits.",
+    "tags": ["current events", "public transportation", "infrastructure", "commuting"],
+    "niches": ["news", "transportation", "urban development"]
+  },
+  {
+    "title": "Emergency Services and First Responder Resources",
+    "description": "Report on emergency response capabilities, first responder training, and resource allocation. Expand with community preparedness and technology integration.",
+    "tags": ["current events", "emergency services", "first responders", "public safety"],
+    "niches": ["news", "public safety", "emergency management"]
+  },
+  {
+    "title": "Cultural Diversity and Multicultural Policy Developments",
+    "description": "Cover diversity initiatives, multicultural programs, and cultural celebration support. Expand with community impact studies and inclusion measurement.",
+    "tags": ["current events", "cultural diversity", "multiculturalism", "inclusion"],
+    "niches": ["news", "culture", "social issues"]
+  },
+  {
+    "title": "Postal Service and Communication Infrastructure Updates",
+    "description": "Analyze postal system modernization, rural service challenges, and digital communication integration. Expand with economic impact and accessibility considerations.",
+    "tags": ["current events", "postal service", "communication", "infrastructure"],
+    "niches": ["news", "infrastructure", "communication"]
+  },
+  {
+    "title": "Arts Funding and Cultural Institution Support",
+    "description": "Report on arts education, cultural funding, and creative community development. Expand with economic impact studies and community engagement programs.",
+    "tags": ["current events", "arts funding", "culture", "creative economy"],
+    "niches": ["news", "arts", "culture"]
+  },
+  {
+    "title": "Financial Literacy and Consumer Protection Initiatives",
+    "description": "Cover financial education programs, consumer fraud prevention, and banking regulation. Expand with community outreach efforts and protection mechanism effectiveness.",
+    "tags": ["current events", "financial literacy", "consumer protection", "education"],
+    "niches": ["news", "finance", "consumer protection"]
+  },
+  {
+    "title": "Addiction Treatment and Mental Health Support Services",
+    "description": "Report on addiction recovery programs, treatment accessibility, and mental health service expansion. Expand with recovery success stories and policy effectiveness.",
+    "tags": ["current events", "addiction treatment", "mental health", "recovery"],
+    "niches": ["news", "health", "social services"]
+  },
+  {
+    "title": "Small Business Support and Entrepreneurship Programs",
+    "description": "Cover small business assistance, startup ecosystems, and entrepreneurship education. Expand with success metrics and economic development impact.",
+    "tags": ["current events", "small business", "entrepreneurship", "economic development"],
+    "niches": ["news", "business", "economics"]
+  },
+  {
+    "title": "Data Security Breaches and Corporate Accountability",
+    "description": "Analyze major data breaches, corporate response strategies, and regulatory enforcement. Expand with consumer impact and prevention recommendations.",
+    "tags": ["current events", "data security", "breaches", "corporate accountability"],
+    "niches": ["news", "technology", "cybersecurity"]
+  },
+  {
+    "title": "Foreign Policy Shifts and Diplomatic Relations",
+    "description": "Report on international agreements, diplomatic initiatives, and foreign policy changes. Expand with regional impact analysis and historical context.",
+    "tags": ["current events", "foreign policy", "diplomacy", "international relations"],
+    "niches": ["news", "international", "politics"]
+  },
+  {
+    "title": "Library Services and Information Access Initiatives",
+    "description": "Cover library modernization, digital access programs, and community services expansion. Expand with literacy impact and technology integration benefits.",
+    "tags": ["current events", "libraries", "information access", "community services"],
+    "niches": ["news", "education", "community"]
+  },
+  {
+    "title": "Historic Preservation and Community Heritage Projects",
+    "description": "Report on landmark preservation, heritage tourism, and cultural site protection. Expand with economic benefits and community identity preservation.",
+    "tags": ["current events", "historic preservation", "heritage", "community"],
+    "niches": ["news", "history", "community"]
+  },
+  {
+    "title": "Judicial System Reform and Court Modernization",
+    "description": "Cover court efficiency improvements, judicial appointments, and legal system accessibility. Expand with technology integration and equal justice initiatives.",
+    "tags": ["current events", "judicial reform", "courts", "legal system"],
+    "niches": ["news", "legal", "justice"]
+  },
+  {
+    "title": "Renewable Technology Innovation and Market Adoption",
+    "description": "Analyze solar, wind, and other renewable technology advances and market penetration. Expand with cost comparisons and grid integration challenges.",
+    "tags": ["current events", "renewable technology", "innovation", "energy market"],
+    "niches": ["news", "technology", "energy"]
+  },
+  {
+    "title": "International Student Exchange and Education Diplomacy",
+    "description": "Report on study abroad programs, educational partnerships, and cultural exchange initiatives. Expand with soft power implications and global education trends.",
+    "tags": ["current events", "international education", "student exchange", "diplomacy"],
+    "niches": ["news", "education", "international"]
+  },
+  {
+    "title": "Corporate Social Responsibility and Environmental Impact",
+    "description": "Cover business sustainability initiatives, environmental reporting, and stakeholder accountability. Expand with impact measurement and greenwashing detection.",
+    "tags": ["current events", "corporate responsibility", "sustainability", "business ethics"],
+    "niches": ["news", "business", "environment"]
+  },
+  {
+    "title": "Public Health Emergency Preparedness and Response",
+    "description": "Analyze epidemic preparedness, emergency response systems, and international health cooperation. Expand with lesson learned and system improvements.",
+    "tags": ["current events", "public health", "emergency preparedness", "response"],
+    "niches": ["news", "health", "emergency management"]
+  },
+  {
+    "title": "Intellectual Property and Patent System Developments",
+    "description": "Report on patent disputes, intellectual property law changes, and innovation protection. Expand with technology sector impact and international agreements.",
+    "tags": ["current events", "intellectual property", "patents", "innovation"],
+    "niches": ["news", "legal", "technology"]
+  },
+  {
+    "title": "Community Policing and Law Enforcement Reform",
+    "description": "Cover police reform initiatives, community relations, and law enforcement training. Expand with accountability measures and successful reform examples.",
+    "tags": ["current events", "police reform", "community policing", "law enforcement"],
+    "niches": ["news", "public safety", "social issues"]
+  },
+  {
+    "title": "Affordable Care Act and Healthcare System Evolution",
+    "description": "Analyze healthcare policy changes, insurance market developments, and access improvements. Expand with patient impact studies and cost analysis.",
+    "tags": ["current events", "healthcare policy", "affordable care", "health insurance"],
+    "niches": ["news", "health", "policy"]
+  },
+  {
+    "title": "Climate Justice and Environmental Equity Initiatives",
+    "description": "Report on environmental justice movements, pollution disparities, and equitable climate solutions. Expand with community organizing and policy advocacy.",
+    "tags": ["current events", "climate justice", "environmental equity", "social justice"],
+    "niches": ["news", "environment", "social issues"]
+  },
+  {
+    "title": "Technology Transfer and Research Commercialization",
+    "description": "Cover university-industry partnerships, research commercialization, and innovation ecosystems. Expand with economic impact and knowledge transfer success stories.",
+    "tags": ["current events", "technology transfer", "research", "commercialization"],
+    "niches": ["news", "technology", "research"]
+  },
+  {
+    "title": "Maritime Security and Ocean Resource Management",
+    "description": "Report on shipping security, maritime disputes, and ocean resource conservation. Expand with international law and economic implications.",
+    "tags": ["current events", "maritime security", "ocean resources", "international law"],
+    "niches": ["news", "international", "maritime"]
+  },
+  {
+    "title": "Streaming Media Regulation and Content Creator Rights",
+    "description": "Analyze streaming platform policies, creator compensation, and content regulation debates. Expand with industry economics and artistic freedom considerations.",
+    "tags": ["current events", "streaming media", "content creators", "regulation"],
+    "niches": ["news", "entertainment", "technology"]
+  },
+  {
+    "title": "International Sanctions and Economic Diplomacy",
+    "description": "Cover economic sanctions effectiveness, diplomatic negotiations, and trade relationship management. Expand with humanitarian impact and alternative diplomacy approaches.",
+    "tags": ["current events", "sanctions", "economic diplomacy", "international relations"],
+    "niches": ["news", "international", "economics"]
+  },
+  {
+    "title": "Youth Mental Health and School Support Services",
+    "description": "Report on student mental health programs, counseling services, and crisis intervention. Expand with prevention strategies and family support resources.",
+    "tags": ["current events", "youth mental health", "school services", "student support"],
+    "niches": ["news", "health", "education"]
+  },
+  {
+    "title": "Election Security and Voting Technology Updates",
+    "description": "Cover voting system security, election integrity measures, and technology modernization. Expand with cybersecurity protocols and public confidence building.",
+    "tags": ["current events", "election security", "voting technology", "integrity"],
+    "niches": ["news", "technology", "elections"]
+  },
+  {
+    "title": "Pandemic Recovery and Economic Resilience Building",
+    "description": "Analyze post-pandemic economic recovery, business adaptation, and resilience planning. Expand with sector-specific impacts and long-term strategy development.",
+    "tags": ["current events", "pandemic recovery", "economic resilience", "adaptation"],
+    "niches": ["news", "economics", "recovery"]
+  },
+  {
+    "title": "Global Health Initiatives and International Cooperation",
+    "description": "Report on worldwide health programs, vaccine distribution, and international medical assistance. Expand with funding mechanisms and effectiveness measurement.",
+    "tags": ["current events", "global health", "international cooperation", "medical assistance"],
+    "niches": ["news", "health", "international"]
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "title": "[Company Name]'s Rise and Fall: A Complete Business Autopsy",
+    "description": "Comprehensive analysis of a company's complete lifecycle from founding through failure, examining strategic decisions, market conditions, leadership choices, and external factors that contributed to both success and eventual downfall. Include financial analysis, competitive positioning, cultural factors, and lessons for modern businesses. Interview former employees, industry experts, and analyze public records to create definitive case study.",
+    "tags": ["business failure", "company analysis", "strategic decisions", "market dynamics", "lessons learned"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "How [Successful Company] Disrupted [Industry]: Innovation Strategy Breakdown",
+    "description": "Deep dive into how innovative companies successfully disrupted established industries, analyzing their unique value propositions, go-to-market strategies, technology adoption, and competitive responses. Examine timing factors, resource allocation, risk management, and scalability decisions that enabled market transformation.",
+    "tags": ["industry disruption", "innovation strategy", "market transformation", "competitive analysis", "strategic innovation"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Crisis] Management: How [Company] Survived [Major Challenge]",
+    "description": "Analyze how companies successfully navigated major crises including economic downturns, PR disasters, regulatory challenges, or competitive threats. Examine crisis response strategies, stakeholder communication, operational adjustments, and long-term recovery plans. Include both successful and failed crisis management approaches.",
+    "tags": ["crisis management", "business survival", "stakeholder communication", "recovery strategies", "risk management"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Startup] to [Unicorn]: Scaling Strategy Case Study",
+    "description": "Detailed analysis of rapid scaling from startup to billion-dollar valuation, examining growth strategies, funding decisions, team building, operational scaling, and market expansion. Include challenges overcome, mistakes made, and critical success factors that enabled exponential growth.",
+    "tags": ["startup scaling", "rapid growth", "unicorn companies", "growth strategies", "operational scaling"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[International Expansion] Case Study: [Company]'s Global Strategy",
+    "description": "Examine successful and failed international expansion strategies, analyzing market entry methods, cultural adaptation, regulatory compliance, and operational challenges. Include localization strategies, partnership decisions, and resource allocation for international growth.",
+    "tags": ["international expansion", "global strategy", "market entry", "cultural adaptation", "cross-border business"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Acquisition] Analysis: Why [Company A] + [Company B] [Succeeded/Failed]",
+    "description": "Comprehensive merger and acquisition case study examining deal rationale, valuation methods, integration challenges, cultural clashes, and post-merger performance. Analyze synergy realization, cost savings achievement, and strategic objectives fulfillment.",
+    "tags": ["mergers acquisitions", "integration challenges", "deal analysis", "synergy realization", "strategic combinations"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Digital Transformation] Journey: [Traditional Company]'s Tech Evolution",
+    "description": "Document traditional companies' digital transformation efforts, analyzing technology adoption, cultural change management, process reengineering, and competitive repositioning. Include investment decisions, change resistance, and measurable transformation outcomes.",
+    "tags": ["digital transformation", "technology adoption", "change management", "process innovation", "competitive repositioning"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Supply Chain] Revolution: How [Company] Optimized [Operations]",
+    "description": "Analyze supply chain innovation and optimization strategies, examining logistics improvements, technology integration, vendor relationships, and cost reduction initiatives. Include sustainability considerations, risk mitigation, and performance measurement systems.",
+    "tags": ["supply chain", "operational efficiency", "logistics optimization", "vendor management", "process improvement"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Customer Experience] Transformation: [Company]'s Service Innovation",
+    "description": "Examine customer experience transformation initiatives, analyzing service design, technology integration, employee training, and customer feedback systems. Include measurement methodologies, competitive differentiation, and revenue impact of experience improvements.",
+    "tags": ["customer experience", "service innovation", "customer satisfaction", "service design", "experience transformation"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Business Model] Innovation: How [Company] Reinvented [Revenue Streams]",
+    "description": "Analyze business model innovations including subscription services, platform strategies, freemium models, or ecosystem approaches. Examine implementation challenges, customer adoption, competitive responses, and financial performance of new business models.",
+    "tags": ["business model innovation", "revenue streams", "subscription models", "platform strategy", "monetization"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Leadership] Case Study: [CEO/Executive]'s Turnaround Strategy",
+    "description": "Examine leadership strategies in corporate turnarounds, analyzing decision-making processes, communication strategies, organizational restructuring, and culture change initiatives. Include stakeholder management, strategic vision implementation, and measurable performance improvements.",
+    "tags": ["leadership analysis", "corporate turnaround", "strategic vision", "organizational change", "executive decision making"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Marketing] Revolution: [Company]'s Customer Acquisition Strategy",
+    "description": "Deep dive into innovative marketing strategies that drove exceptional growth, analyzing channel selection, message positioning, creative execution, and performance measurement. Include budget allocation, ROI optimization, and competitive differentiation through marketing.",
+    "tags": ["marketing strategy", "customer acquisition", "growth marketing", "brand positioning", "marketing ROI"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Sustainability] Business Case: [Company]'s Environmental Strategy",
+    "description": "Analyze companies that successfully integrated sustainability into business strategy, examining environmental initiatives, stakeholder engagement, cost-benefit analysis, and competitive advantages. Include regulatory compliance, consumer response, and long-term value creation.",
+    "tags": ["sustainability strategy", "environmental business", "stakeholder engagement", "green innovation", "sustainable competitive advantage"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Product] Development: [Company]'s Innovation Process Case Study",
+    "description": "Examine product development processes from concept to market, analyzing research and development strategies, customer validation methods, iterative improvement, and market launch tactics. Include failure analysis and lessons learned from product development cycles.",
+    "tags": ["product development", "innovation process", "R&D strategy", "market validation", "product lifecycle"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Franchise] Expansion: [Company]'s Scaling Through Partnerships",
+    "description": "Analyze franchise business models and expansion strategies, examining partner selection, training systems, quality control, and brand consistency maintenance. Include geographic expansion, cultural adaptation, and franchise relationship management.",
+    "tags": ["franchise business", "partnership strategy", "brand expansion", "quality control", "relationship management"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Financial] Crisis: How [Company] Managed [Cash Flow/Debt] Problems",
+    "description": "Examine financial crisis management including liquidity challenges, debt restructuring, investor relations, and operational adjustments. Analyze financial strategies, stakeholder negotiations, and recovery planning that enabled company survival.",
+    "tags": ["financial crisis", "cash flow management", "debt restructuring", "financial recovery", "stakeholder management"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Technology] Adoption: [Company]'s Implementation of [Emerging Tech]",
+    "description": "Case study of emerging technology adoption including AI, blockchain, IoT, or automation, analyzing implementation strategies, organizational change management, performance outcomes, and competitive advantages gained through technology leadership.",
+    "tags": ["technology adoption", "emerging technology", "implementation strategy", "competitive advantage", "tech leadership"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Regulatory] Challenge: [Company]'s Compliance and Strategy Response",
+    "description": "Analyze how companies respond to regulatory changes, examining compliance strategies, lobbying efforts, business model adaptations, and competitive implications. Include cost analysis, implementation timelines, and strategic positioning around regulation.",
+    "tags": ["regulatory compliance", "policy response", "business adaptation", "lobbying strategy", "regulatory risk"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Partnership] Strategy: [Company A] and [Company B]'s Strategic Alliance",
+    "description": "Examine strategic partnerships and joint ventures, analyzing partner selection criteria, collaboration structures, value creation mechanisms, and relationship management. Include success metrics, conflict resolution, and partnership evolution over time.",
+    "tags": ["strategic partnerships", "joint ventures", "collaboration strategy", "partner management", "alliance success"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Data] Strategy: How [Company] Monetized Information Assets",
+    "description": "Analyze data monetization strategies including data collection, analysis capabilities, privacy compliance, and revenue generation from information assets. Examine technology infrastructure, analytics capabilities, and competitive advantages from data strategy.",
+    "tags": ["data monetization", "analytics strategy", "information assets", "data privacy", "competitive intelligence"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Workplace] Culture: [Company]'s Employee Engagement Revolution",
+    "description": "Examine organizational culture transformation initiatives, analyzing employee engagement strategies, workplace innovation, retention programs, and productivity improvements. Include culture measurement, change management, and ROI of culture investments.",
+    "tags": ["organizational culture", "employee engagement", "workplace innovation", "culture transformation", "human capital"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Economic] Downturn: [Industry] Survival Strategies During [Crisis]",
+    "description": "Analyze industry-wide responses to economic challenges, comparing successful and failed strategies across multiple companies. Examine cost management, revenue diversification, strategic pivots, and recovery positioning during economic uncertainty.",
+    "tags": ["economic downturn", "industry analysis", "crisis survival", "strategic pivots", "economic resilience"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Brand] Repositioning: [Company]'s Identity Transformation",
+    "description": "Case study of major brand repositioning efforts, analyzing market research, creative strategy, implementation challenges, and market response. Include competitor reactions, customer acceptance, and measurable impact on business performance.",
+    "tags": ["brand repositioning", "identity transformation", "brand strategy", "market positioning", "brand management"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Manufacturing] Innovation: [Company]'s Production Revolution",
+    "description": "Examine manufacturing innovation including automation, lean processes, quality improvements, and cost reduction initiatives. Analyze technology adoption, workforce training, supplier relationships, and competitive manufacturing advantages.",
+    "tags": ["manufacturing innovation", "production optimization", "automation strategy", "lean manufacturing", "operational excellence"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Customer] Retention: [Company]'s Loyalty Strategy Success",
+    "description": "Deep dive into customer retention and loyalty programs, analyzing program design, customer segmentation, engagement strategies, and lifetime value optimization. Include technology platforms, personalization, and ROI measurement of retention investments.",
+    "tags": ["customer retention", "loyalty programs", "customer lifetime value", "engagement strategy", "retention ROI"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Pricing] Strategy: How [Company] Optimized Revenue Through [Model]",
+    "description": "Analyze pricing strategy innovations including dynamic pricing, value-based pricing, subscription models, or bundling strategies. Examine implementation challenges, customer acceptance, competitive responses, and revenue optimization outcomes.",
+    "tags": ["pricing strategy", "revenue optimization", "pricing models", "value pricing", "pricing innovation"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Talent] War: [Company]'s Human Capital Strategy",
+    "description": "Examine talent acquisition and retention strategies in competitive markets, analyzing recruitment innovation, compensation strategies, career development, and workplace culture. Include diversity initiatives, remote work strategies, and talent pipeline development.",
+    "tags": ["talent strategy", "human capital", "recruitment innovation", "talent retention", "workforce development"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Innovation] Lab: [Company]'s R&D and Future Strategy",
+    "description": "Case study of corporate innovation labs and R&D strategies, analyzing investment approaches, project management, collaboration with startups, and commercialization of research. Include innovation metrics, portfolio management, and technology transfer.",
+    "tags": ["corporate innovation", "R&D strategy", "innovation labs", "technology commercialization", "innovation management"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Competitive] Response: [Company]'s Strategy Against [Competitor]",
+    "description": "Analyze competitive strategy and response tactics, examining market positioning, competitive intelligence, strategic moves, and countermoves. Include price wars, feature competition, market share battles, and long-term competitive positioning.",
+    "tags": ["competitive strategy", "competitive response", "market competition", "strategic positioning", "competitive intelligence"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Social] Impact: [Company]'s Purpose-Driven Business Model",
+    "description": "Examine companies that successfully integrate social impact with profitability, analyzing stakeholder capitalism, ESG strategies, community engagement, and impact measurement. Include investor response, consumer behavior, and sustainable value creation.",
+    "tags": ["social impact", "purpose-driven business", "ESG strategy", "stakeholder capitalism", "sustainable value"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Platform] Economy: [Company]'s Network Effects Strategy",
+    "description": "Analyze platform business models and network effects, examining user acquisition, engagement strategies, monetization approaches, and ecosystem development. Include platform governance, competitive moats, and scaling challenges.",
+    "tags": ["platform business", "network effects", "ecosystem strategy", "platform governance", "digital platforms"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Distribution] Innovation: [Company]'s Channel Strategy Revolution",
+    "description": "Case study of distribution channel innovation including direct-to-consumer shifts, omnichannel strategies, or disintermediation efforts. Analyze channel conflict management, customer experience integration, and performance optimization across channels.",
+    "tags": ["distribution strategy", "channel innovation", "omnichannel", "direct-to-consumer", "channel management"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Quality] Transformation: [Company]'s Excellence Journey",
+    "description": "Examine quality improvement initiatives including Six Sigma, Total Quality Management, or continuous improvement programs. Analyze implementation methodology, cultural change, measurement systems, and business impact of quality investments.",
+    "tags": ["quality management", "operational excellence", "continuous improvement", "process optimization", "quality systems"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Risk] Management: [Company]'s Enterprise Risk Strategy",
+    "description": "Analyze comprehensive risk management strategies including operational, financial, strategic, and reputation risks. Examine risk assessment methodologies, mitigation strategies, insurance approaches, and crisis preparedness planning.",
+    "tags": ["risk management", "enterprise risk", "risk mitigation", "crisis preparedness", "risk assessment"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Intellectual Property] Strategy: [Company]'s Patent and IP Management",
+    "description": "Case study of intellectual property strategy including patent portfolios, licensing agreements, IP protection, and monetization strategies. Analyze IP litigation, defensive strategies, and competitive advantages through intellectual property.",
+    "tags": ["intellectual property", "patent strategy", "IP management", "licensing", "IP monetization"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Vertical Integration] Decision: [Company]'s Make vs Buy Strategy",
+    "description": "Examine vertical integration decisions and supply chain control strategies, analyzing cost-benefit trade-offs, strategic control, quality management, and competitive positioning. Include outsourcing decisions, supplier relationships, and integration challenges.",
+    "tags": ["vertical integration", "make vs buy", "supply chain strategy", "strategic control", "integration analysis"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Subscription] Business: [Company]'s Recurring Revenue Model",
+    "description": "Deep dive into subscription business model implementation, analyzing customer acquisition, retention strategies, pricing optimization, and churn reduction. Include unit economics, lifetime value optimization, and scaling subscription operations.",
+    "tags": ["subscription business", "recurring revenue", "customer retention", "unit economics", "subscription scaling"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Corporate] Governance: [Company]'s Board and Leadership Structure",
+    "description": "Analyze corporate governance structures and effectiveness, examining board composition, executive compensation, shareholder relations, and oversight mechanisms. Include governance reforms, stakeholder representation, and governance impact on performance.",
+    "tags": ["corporate governance", "board effectiveness", "executive leadership", "shareholder relations", "governance reform"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Exit] Strategy: [Company]'s IPO/Acquisition Journey",
+    "description": "Case study of successful exits including IPO preparation, acquisition negotiations, or private equity transactions. Analyze valuation strategies, due diligence processes, stakeholder management, and post-transaction integration or public company transition.",
+    "tags": ["exit strategy", "IPO preparation", "acquisition process", "valuation", "transaction management"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Family] Business: [Company]'s Generational Transition Strategy",
+    "description": "Examine family business succession planning and generational transitions, analyzing governance structures, conflict resolution, professional management integration, and family wealth preservation. Include succession planning, family employment, and business continuity.",
+    "tags": ["family business", "succession planning", "generational transition", "family governance", "business continuity"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Agile] Transformation: [Company]'s Organizational Redesign",
+    "description": "Case study of organizational transformation to agile methodologies, analyzing structural changes, cultural shifts, process redesign, and performance improvements. Include change management, employee adoption, and measurable agility outcomes.",
+    "tags": ["agile transformation", "organizational redesign", "process improvement", "change management", "organizational agility"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Crisis] Communication: [Company]'s Reputation Management Strategy",
+    "description": "Analyze crisis communication and reputation management strategies during significant challenges, examining stakeholder communication, media relations, social media management, and reputation recovery. Include message consistency, transparency decisions, and long-term reputation impact.",
+    "tags": ["crisis communication", "reputation management", "stakeholder communication", "media relations", "reputation recovery"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Performance] Turnaround: [Company]'s Operational Improvement Journey",
+    "description": "Examine comprehensive performance improvement initiatives including cost reduction, revenue enhancement, operational efficiency, and strategic refocusing. Analyze implementation methodology, resistance management, and sustainable performance improvements.",
+    "tags": ["performance turnaround", "operational improvement", "cost reduction", "efficiency gains", "performance management"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Innovation] Ecosystem: [Company]'s Startup and University Partnerships",
+    "description": "Case study of corporate innovation ecosystems including startup partnerships, university collaborations, venture capital arms, and open innovation initiatives. Analyze partnership models, innovation sourcing, and technology transfer mechanisms.",
+    "tags": ["innovation ecosystem", "startup partnerships", "open innovation", "technology transfer", "corporate ventures"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Market] Entry: [Company]'s New Market Penetration Strategy",
+    "description": "Analyze new market entry strategies including geographic expansion, customer segment penetration, or product category extension. Examine market research, entry barriers, competitive analysis, and go-to-market execution.",
+    "tags": ["market entry", "market penetration", "geographic expansion", "go-to-market", "competitive analysis"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Automation] Implementation: [Company]'s Workforce and Technology Balance",
+    "description": "Case study of automation implementation and workforce transition, analyzing technology adoption, employee retraining, job displacement management, and productivity improvements. Include change management, skills development, and human-technology collaboration.",
+    "tags": ["automation implementation", "workforce transition", "technology adoption", "employee training", "human-tech collaboration"],
+    "niches": ["business-case-studies"]
+  },
+  {
+    "title": "[Strategic] Alliance: [Industry] Collaboration Case Study",
+    "description": "Examine industry-wide strategic alliances and collaborative initiatives, analyzing cooperation strategies, shared value creation, competitive coopetition, and alliance governance. Include standard setting, research collaboration, and market development partnerships.",
+    "tags": ["strategic alliances", "industry collaboration", "cooperative competition", "shared value", "alliance governance"],
+    "niches": ["business-case-studies"]
+  }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "title": "[How to] Set Up Your [Van Type] for [Activity]",
+        "description": "Create a step-by-step guide showing how to set up a specific type of van (e.g., Sprinter, Transit) for a particular activity like working remotely, cooking, or sleeping. Expand by including tips, gear recommendations, and common mistakes.",
+        "tags": ["setup", "van type", "activity", "guide"],
+        "niches": ["van life", "DIY", "travel"]
+    },
+    {
+        "title": "[Top X] Must-Have Gadgets for [Van Life Scenario]",
+        "description": "List and review essential gadgets for a specific van life scenario, such as off-grid living, winter travel, or solo journeys. Expand by demonstrating each gadget in use and sharing pros and cons.",
+        "tags": ["gadgets", "reviews", "essentials"],
+        "niches": ["van life", "tech", "gear"]
+    },
+    {
+        "title": "[Budget Breakdown] Cost of Living in a Van for [Time Period]",
+        "description": "Break down the monthly or yearly costs of van life, including fuel, food, maintenance, and insurance. Expand by comparing different budgets and offering money-saving tips.",
+        "tags": ["budget", "cost", "finance"],
+        "niches": ["van life", "personal finance", "minimalism"]
+    },
+    {
+        "title": "[Day in the Life] of a [Type of Van Lifer]",
+        "description": "Showcase a typical day for a specific type of van lifer, such as a digital nomad, family, or pet owner. Expand by highlighting routines, challenges, and favorite moments.",
+        "tags": ["daily routine", "lifestyle", "vlog"],
+        "niches": ["van life", "lifestyle", "vlogging"]
+    },
+    {
+        "title": "[Van Tour] Inside a [Unique Feature] Van",
+        "description": "Give a tour of a van with a unique feature, such as a wood stove, rooftop deck, or hidden storage. Expand by explaining the build process and benefits of the feature.",
+        "tags": ["van tour", "features", "build"],
+        "niches": ["van life", "DIY", "tiny homes"]
+    },
+    {
+        "title": "[Meal Prep] in a [Small/Minimal] Van Kitchen",
+        "description": "Demonstrate how to prepare meals in a compact van kitchen, focusing on space-saving techniques and easy recipes. Expand by sharing shopping lists and storage hacks.",
+        "tags": ["cooking", "meal prep", "kitchen"],
+        "niches": ["van life", "food", "minimalism"]
+    },
+    {
+        "title": "[Essential Tips] for [Season] Van Life",
+        "description": "Share tips for thriving in a specific season, such as winterizing your van or staying cool in summer. Expand by discussing gear, clothing, and location recommendations.",
+        "tags": ["seasonal", "tips", "weather"],
+        "niches": ["van life", "travel", "outdoors"]
+    },
+    {
+        "title": "[How I Work Remotely] from My Van",
+        "description": "Explain your remote work setup, including internet solutions, power management, and workspace organization. Expand by addressing common challenges and productivity hacks.",
+        "tags": ["remote work", "productivity", "workspace"],
+        "niches": ["van life", "digital nomad", "technology"]
+    },
+    {
+        "title": "[Van Build] Mistakes to Avoid for [Beginners/Advanced]",
+        "description": "Highlight common mistakes made during van builds, tailored for beginners or advanced builders. Expand by offering solutions and sharing personal experiences.",
+        "tags": ["van build", "mistakes", "advice"],
+        "niches": ["van life", "DIY", "education"]
+    },
+    {
+        "title": "[Packing List] for [Type of Trip] in a Van",
+        "description": "Provide a comprehensive packing list for a specific type of trip, such as a weekend getaway, long-term travel, or off-grid adventure. Expand by explaining why each item is important.",
+        "tags": ["packing", "checklist", "travel"],
+        "niches": ["van life", "travel", "planning"]
+    },
+    {
+        "title": "[How to Find] Free Campsites for [Van Lifers]",
+        "description": "Guide viewers on finding free or low-cost campsites, using apps, websites, and local knowledge. Expand by sharing safety tips and etiquette.",
+        "tags": ["camping", "free", "locations"],
+        "niches": ["van life", "camping", "budget travel"]
+    },
+    {
+        "title": "[Van Life Q&A] Answering Your [Most Asked] Questions",
+        "description": "Host a Q&A session addressing the most common questions about van life. Expand by inviting viewers to submit questions and sharing personal stories.",
+        "tags": ["Q&A", "community", "advice"],
+        "niches": ["van life", "education", "community"]
+    },
+    {
+        "title": "[Pet Life] on the Road: Traveling with [Pet Type]",
+        "description": "Share tips and experiences about traveling with pets, focusing on a specific animal like dogs or cats. Expand by discussing safety, comfort, and pet-friendly destinations.",
+        "tags": ["pets", "travel", "tips"],
+        "niches": ["van life", "pets", "travel"]
+    },
+    {
+        "title": "[How to Stay Healthy] While Living in a Van",
+        "description": "Discuss strategies for maintaining physical and mental health on the road, including exercise routines, healthy eating, and self-care. Expand by sharing resources and routines.",
+        "tags": ["health", "wellness", "self-care"],
+        "niches": ["van life", "health", "wellness"]
+    },
+    {
+        "title": "[Van Life Myths] Debunked: [Common Misconceptions]",
+        "description": "Address and debunk common myths or misconceptions about van life. Expand by providing facts, statistics, and real-life examples.",
+        "tags": ["myths", "facts", "education"],
+        "niches": ["van life", "education", "awareness"]
+    },
+    {
+        "title": "[How to] Stay Connected: Internet Solutions for [Van Lifers]",
+        "description": "Review different internet solutions for van life, such as hotspots, boosters, and satellite. Expand by comparing costs, reliability, and setup tips.",
+        "tags": ["internet", "technology", "connectivity"],
+        "niches": ["van life", "technology", "remote work"]
+    },
+    {
+        "title": "[Safety Tips] for Solo [Female/Male/Nonbinary] Van Lifers",
+        "description": "Share safety tips tailored for solo travelers, focusing on awareness, self-defense, and safe parking. Expand by including personal anecdotes and recommended products.",
+        "tags": ["safety", "solo travel", "tips"],
+        "niches": ["van life", "safety", "solo travel"]
+    },
+    {
+        "title": "[How to Make Money] on the Road: [Job Ideas] for Van Lifers",
+        "description": "Explore different ways to earn income while living in a van, such as freelancing, seasonal work, or remote jobs. Expand by sharing resources, platforms, and success stories.",
+        "tags": ["income", "jobs", "remote work"],
+        "niches": ["van life", "finance", "digital nomad"]
+    }
+]

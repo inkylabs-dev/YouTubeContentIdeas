@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Unboxing [Product Type]: First Impressions & Honest Review",
+        "description": "Unbox a [Product Type] and share your initial thoughts, focusing on packaging, build quality, and included accessories. Expand by comparing it to similar products or previous versions.",
+        "tags": ["unboxing", "review", "first impressions", "product"],
+        "niches": ["tech", "gadgets", "lifestyle"]
+    },
+    {
+        "title": "Mystery Box Unboxing: What's Inside the [Theme] Box?",
+        "description": "Open a mystery box themed around [Theme] and react to each item. Expand by rating the value and usefulness of each item, and suggest who might enjoy this box.",
+        "tags": ["mystery box", "unboxing", "surprise", "review"],
+        "niches": ["subscription boxes", "collectibles", "gifts"]
+    },
+    {
+        "title": "Unboxing [Brand] [Product]: Is It Worth the Hype?",
+        "description": "Unbox a popular [Brand] [Product] and discuss whether it lives up to expectations. Expand by highlighting unique features and comparing it to competitors.",
+        "tags": ["unboxing", "brand", "review", "comparison"],
+        "niches": ["electronics", "fashion", "beauty"]
+    },
+    {
+        "title": "Budget vs Premium: Unboxing [Cheap Product] vs [Expensive Product]",
+        "description": "Unbox both a budget and a premium version of [Product] and compare their contents. Expand by discussing which offers better value for money.",
+        "tags": ["unboxing", "comparison", "budget", "premium"],
+        "niches": ["tech", "home", "gadgets"]
+    },
+    {
+        "title": "Unboxing [Subscription Box]: Monthly Surprises Revealed",
+        "description": "Showcase the contents of a [Subscription Box] and discuss your favorite items. Expand by sharing tips on how to get the most out of the subscription.",
+        "tags": ["unboxing", "subscription box", "monthly", "review"],
+        "niches": ["lifestyle", "food", "beauty"]
+    },
+    {
+        "title": "Unboxing [Limited Edition Product]: Is It Collectible?",
+        "description": "Unbox a limited edition [Product] and evaluate its collectible value. Expand by discussing rarity, packaging, and potential resale value.",
+        "tags": ["unboxing", "limited edition", "collectibles", "review"],
+        "niches": ["toys", "gaming", "pop culture"]
+    },
+    {
+        "title": "Unboxing [Eco-Friendly Product]: Sustainable Packaging Review",
+        "description": "Unbox an eco-friendly [Product] and focus on the sustainability of its packaging and materials. Expand by suggesting ways to reuse or recycle the packaging.",
+        "tags": ["unboxing", "eco-friendly", "sustainability", "review"],
+        "niches": ["green living", "home", "lifestyle"]
+    },
+    {
+        "title": "Unboxing [DIY Kit]: Step-by-Step Assembly & First Look",
+        "description": "Unbox a [DIY Kit] and walk through the assembly process. Expand by sharing tips for beginners and showcasing the finished product.",
+        "tags": ["unboxing", "DIY", "assembly", "how-to"],
+        "niches": ["crafts", "education", "hobbies"]
+    },
+    {
+        "title": "Unboxing [Kids Toy]: Parent & Child Reactions",
+        "description": "Unbox a [Kids Toy] with a child and capture both perspectives. Expand by discussing safety, educational value, and entertainment factor.",
+        "tags": ["unboxing", "kids", "toys", "family"],
+        "niches": ["parenting", "toys", "education"]
+    },
+    {
+        "title": "Unboxing [Beauty Box]: Testing Every Product Inside",
+        "description": "Unbox a [Beauty Box] and try out each product on camera. Expand by giving mini-reviews and sharing which items you would repurchase.",
+        "tags": ["unboxing", "beauty", "makeup", "review"],
+        "niches": ["beauty", "skincare", "lifestyle"]
+    },
+    {
+        "title": "Unboxing [Tech Gadget]: Setup & First Use",
+        "description": "Unbox a [Tech Gadget], walk through the setup process, and demonstrate its first use. Expand by sharing troubleshooting tips and initial performance impressions.",
+        "tags": ["unboxing", "tech", "setup", "review"],
+        "niches": ["technology", "gadgets", "electronics"]
+    },
+    {
+        "title": "Unboxing [Fashion Haul]: Try-On & Styling Tips",
+        "description": "Unbox a haul of [Fashion Items] and try them on. Expand by offering styling tips and discussing fit, quality, and value.",
+        "tags": ["unboxing", "fashion", "haul", "try-on"],
+        "niches": ["fashion", "lifestyle", "shopping"]
+    },
+    {
+        "title": "Unboxing [Pet Product]: Pet Reactions & Review",
+        "description": "Unbox a [Pet Product] with your pet and capture their reactions. Expand by discussing product durability, safety, and pet enjoyment.",
+        "tags": ["unboxing", "pets", "review", "animals"],
+        "niches": ["pets", "animals", "lifestyle"]
+    },
+    {
+        "title": "Unboxing [Food Subscription]: Taste Test & Honest Thoughts",
+        "description": "Unbox a [Food Subscription Box] and taste each item on camera. Expand by rating flavors, packaging, and overall value.",
+        "tags": ["unboxing", "food", "taste test", "subscription"],
+        "niches": ["food", "snacks", "lifestyle"]
+    },
+    {
+        "title": "Unboxing [Fitness Gear]: First Workout & Impressions",
+        "description": "Unbox new [Fitness Gear] and use it in a quick workout. Expand by discussing comfort, effectiveness, and who it's best suited for.",
+        "tags": ["unboxing", "fitness", "gear", "review"],
+        "niches": ["fitness", "health", "sports"]
+    },
+    {
+        "title": "Unboxing [Book Box]: What's Inside for Book Lovers?",
+        "description": "Unbox a [Book Subscription Box] and reveal the books and goodies inside. Expand by sharing first impressions and reading plans.",
+        "tags": ["unboxing", "books", "subscription", "review"],
+        "niches": ["books", "reading", "education"]
+    },
+    {
+        "title": "Unboxing [Art Supplies]: Testing & Creating First Artwork",
+        "description": "Unbox new [Art Supplies] and create a simple artwork to test them. Expand by reviewing quality, usability, and recommending for skill levels.",
+        "tags": ["unboxing", "art", "supplies", "review"],
+        "niches": ["art", "crafts", "education"]
+    },
+    {
+        "title": "Unboxing [Home Gadget]: Does It Make Life Easier?",
+        "description": "Unbox a [Home Gadget] and demonstrate how it works. Expand by discussing practicality, ease of use, and who would benefit most.",
+        "tags": ["unboxing", "home", "gadgets", "review"],
+        "niches": ["home", "lifestyle", "technology"]
+    }
+]

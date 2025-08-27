@@ -1,0 +1,296 @@
+[
+  {
+    "title": "[Number] Easy [Diet Type] Recipes for Beginners",
+    "description": "Create a beginner-friendly guide to [Diet Type] cooking with simple, accessible recipes. Expand with ingredient substitutions, shopping lists, meal prep tips, and nutritional information for each dish.",
+    "tags": ["diet cooking", "recipes", "beginner", "meal planning"],
+    "niches": ["health", "cooking"]
+  },
+  {
+    "title": "[Diet Type] Meal Prep: [Number] Days of Meals",
+    "description": "Show how to meal prep for [Number] days following [Diet Type] guidelines. Expand with storage tips, reheating instructions, portion control, and maintaining food safety throughout the week.",
+    "tags": ["diet cooking", "meal prep", "weekly planning", "batch cooking"],
+    "niches": ["health", "meal prep"]
+  },
+  {
+    "title": "Budget [Diet Type] Cooking: Feed a Family on $[Amount]",
+    "description": "Demonstrate how to cook [Diet Type] meals for a family while spending only $[Amount]. Expand with cost-saving shopping strategies, bulk cooking, seasonal ingredient usage, and leftover transformations.",
+    "tags": ["diet cooking", "budget", "family meals", "affordable"],
+    "niches": ["health", "budget cooking"]
+  },
+  {
+    "title": "[Diet Type] Comfort Foods: Healthy Makeovers",
+    "description": "Transform classic comfort foods into [Diet Type]-compliant versions. Expand with ingredient swaps, cooking technique modifications, nutritional comparisons, and satisfying flavor profiles.",
+    "tags": ["diet cooking", "comfort food", "healthy makeover", "substitutions"],
+    "niches": ["health", "comfort food"]
+  },
+  {
+    "title": "[Number]-Minute [Diet Type] Dinners for Busy Weeknights",
+    "description": "Quick [Diet Type] dinner solutions that take [Number] minutes or less. Expand with one-pot recipes, prep-ahead tips, kitchen efficiency strategies, and family-friendly options.",
+    "tags": ["diet cooking", "quick meals", "weeknight dinners", "time-saving"],
+    "niches": ["health", "quick cooking"]
+  },
+  {
+    "title": "[Diet Type] Holiday Menu: Traditional Dishes Reimagined",
+    "description": "Create complete holiday menus following [Diet Type] principles while maintaining traditional flavors. Expand with make-ahead strategies, serving large groups, and accommodating mixed dietary needs.",
+    "tags": ["diet cooking", "holiday meals", "traditional", "entertaining"],
+    "niches": ["health", "holiday cooking"]
+  },
+  {
+    "title": "[Diet Type] Baking: Bread, Cakes, and Desserts",
+    "description": "Master [Diet Type] baking with recipes for bread, cakes, and desserts. Expand with alternative flour discussions, sweetener options, texture tips, and troubleshooting common baking issues.",
+    "tags": ["diet cooking", "baking", "desserts", "alternative ingredients"],
+    "niches": ["health", "baking"]
+  },
+  {
+    "title": "Restaurant-Style [Diet Type] Dishes at Home",
+    "description": "Recreate popular restaurant dishes in [Diet Type] versions at home. Expand with professional cooking techniques, plating presentation, flavor balancing, and cost comparison to dining out.",
+    "tags": ["diet cooking", "restaurant style", "copycat recipes", "techniques"],
+    "niches": ["health", "restaurant cooking"]
+  },
+  {
+    "title": "[Diet Type] Snacks and Appetizers for Parties",
+    "description": "Create impressive [Diet Type] party foods and snacks that everyone will enjoy. Expand with make-ahead options, presentation ideas, portion planning, and accommodating guests with different dietary needs.",
+    "tags": ["diet cooking", "snacks", "party food", "entertaining"],
+    "niches": ["health", "party planning"]
+  },
+  {
+    "title": "[Diet Type] Breakfast Revolution: Beyond Basic Meals",
+    "description": "Innovative [Diet Type] breakfast ideas that go beyond typical morning meals. Expand with make-ahead breakfast options, grab-and-go solutions, weekend brunch ideas, and nutritional balance.",
+    "tags": ["diet cooking", "breakfast", "innovation", "morning meals"],
+    "niches": ["health", "breakfast"]
+  },
+  {
+    "title": "[Diet Type] International Cuisine: [Country] Flavors",
+    "description": "Explore [Country]'s cuisine through [Diet Type] adaptations of traditional dishes. Expand with authentic spice usage, cultural cooking methods, ingredient sourcing, and historical food context.",
+    "tags": ["diet cooking", "international", "cultural cuisine", "adaptation"],
+    "niches": ["health", "international cooking"]
+  },
+  {
+    "title": "[Diet Type] Smoothies and Beverages: [Number] Recipes",
+    "description": "Create delicious [Diet Type]-compliant smoothies and beverages. Expand with nutritional boosters, seasonal variations, kid-friendly options, and storage tips for busy schedules.",
+    "tags": ["diet cooking", "smoothies", "beverages", "nutrition"],
+    "niches": ["health", "beverages"]
+  },
+  {
+    "title": "Seasonal [Diet Type] Cooking: [Season] Ingredients",
+    "description": "Maximize [Season] produce in [Diet Type] cooking with seasonal ingredient spotlights. Expand with preservation methods, farmer's market shopping, peak flavor timing, and seasonal nutrition benefits.",
+    "tags": ["diet cooking", "seasonal", "fresh ingredients", "produce"],
+    "niches": ["health", "seasonal cooking"]
+  },
+  {
+    "title": "[Diet Type] Fermented Foods and Gut Health",
+    "description": "Explore fermentation in [Diet Type] cooking for optimal gut health. Expand with fermentation science, equipment needs, safety guidelines, and incorporating fermented foods into daily meals.",
+    "tags": ["diet cooking", "fermented foods", "gut health", "probiotics"],
+    "niches": ["health", "fermentation"]
+  },
+  {
+    "title": "[Diet Type] One-Pot Wonders: Minimal Cleanup Meals",
+    "description": "Simple [Diet Type] recipes that require only one pot or pan. Expand with cooking technique variations, flavor layering, timing coordination, and equipment recommendations for best results.",
+    "tags": ["diet cooking", "one-pot", "easy cleanup", "simple cooking"],
+    "niches": ["health", "easy cooking"]
+  },
+  {
+    "title": "[Diet Type] Pantry Staples: Building Your Foundation",
+    "description": "Essential pantry items for successful [Diet Type] cooking. Expand with storage methods, shelf life information, versatile ingredient uses, and building meals from pantry basics.",
+    "tags": ["diet cooking", "pantry", "staples", "meal foundation"],
+    "niches": ["health", "pantry organization"]
+  },
+  {
+    "title": "[Diet Type] Lunch Box Ideas for Work and School",
+    "description": "Creative [Diet Type] lunch solutions that travel well and stay fresh. Expand with container recommendations, food safety tips, variety strategies, and satisfying portable options.",
+    "tags": ["diet cooking", "lunch box", "portable meals", "work lunches"],
+    "niches": ["health", "portable food"]
+  },
+  {
+    "title": "[Diet Type] Soup and Stew Collection",
+    "description": "Warming [Diet Type] soups and stews perfect for any season. Expand with broth-making techniques, flavor development, texture variations, and batch cooking for freezer storage.",
+    "tags": ["diet cooking", "soups", "stews", "comfort food"],
+    "niches": ["health", "soup making"]
+  },
+  {
+    "title": "[Diet Type] Condiments and Sauces from Scratch",
+    "description": "Homemade [Diet Type] condiments and sauces to enhance any meal. Expand with preservation techniques, flavor customization, gift-giving ideas, and cost savings compared to store-bought versions.",
+    "tags": ["diet cooking", "condiments", "sauces", "homemade"],
+    "niches": ["health", "sauce making"]
+  },
+  {
+    "title": "[Diet Type] Kids' Favorites: Family-Friendly Adaptations",
+    "description": "Transform kid-favorite foods into [Diet Type] versions the whole family will love. Expand with sneaky nutrition additions, fun presentation ideas, involving kids in cooking, and overcoming picky eating.",
+    "tags": ["diet cooking", "kids meals", "family friendly", "picky eaters"],
+    "niches": ["health", "family cooking"]
+  },
+  {
+    "title": "[Diet Type] Grilling and BBQ Masterclass",
+    "description": "Master outdoor cooking with [Diet Type] grilling and barbecue techniques. Expand with marinades, smoking methods, vegetable grilling, and outdoor cooking safety for dietary restrictions.",
+    "tags": ["diet cooking", "grilling", "BBQ", "outdoor cooking"],
+    "niches": ["health", "grilling"]
+  },
+  {
+    "title": "[Diet Type] Meal Planning: Monthly Menu System",
+    "description": "Comprehensive meal planning system for [Diet Type] eating. Expand with template creation, shopping list automation, batch prep scheduling, and adapting plans for busy weeks.",
+    "tags": ["diet cooking", "meal planning", "monthly menu", "organization"],
+    "niches": ["health", "meal planning"]
+  },
+  {
+    "title": "[Diet Type] Slow Cooker Magic: Set and Forget Meals",
+    "description": "Effortless [Diet Type] slow cooker recipes for busy lifestyles. Expand with timing guides, ingredient prep order, texture optimization, and adapting regular recipes for slow cooking.",
+    "tags": ["diet cooking", "slow cooker", "easy meals", "convenience"],
+    "niches": ["health", "slow cooking"]
+  },
+  {
+    "title": "[Diet Type] Raw Food Preparation and Techniques",
+    "description": "Explore raw food preparation within [Diet Type] guidelines. Expand with food safety considerations, equipment needs, flavor development without cooking, and nutritional benefits.",
+    "tags": ["diet cooking", "raw food", "no cook", "preparation"],
+    "niches": ["health", "raw food"]
+  },
+  {
+    "title": "[Diet Type] Pressure Cooker Shortcuts",
+    "description": "Speed up [Diet Type] cooking with pressure cooker techniques. Expand with safety guidelines, timing conversions, texture considerations, and adapting traditional recipes for pressure cooking.",
+    "tags": ["diet cooking", "pressure cooker", "quick cooking", "efficiency"],
+    "niches": ["health", "pressure cooking"]
+  },
+  {
+    "title": "[Diet Type] Breakfast Prep: Week's Worth of Mornings",
+    "description": "Prepare an entire week of [Diet Type] breakfasts in advance. Expand with overnight options, freezer-friendly choices, reheating instructions, and maintaining nutritional balance throughout the week.",
+    "tags": ["diet cooking", "breakfast prep", "meal prep", "morning routine"],
+    "niches": ["health", "breakfast prep"]
+  },
+  {
+    "title": "[Diet Type] Dinner Party Menu Planning",
+    "description": "Create impressive [Diet Type] dinner party menus that wow guests. Expand with timeline planning, dietary accommodation strategies, elegant presentation, and stress-free entertaining tips.",
+    "tags": ["diet cooking", "dinner party", "entertaining", "menu planning"],
+    "niches": ["health", "entertaining"]
+  },
+  {
+    "title": "[Diet Type] Preservation: Canning, Freezing, Dehydrating",
+    "description": "Preserve seasonal abundance with [Diet Type]-compliant preservation methods. Expand with safety protocols, equipment recommendations, storage optimization, and creative preservation projects.",
+    "tags": ["diet cooking", "preservation", "canning", "storage"],
+    "niches": ["health", "food preservation"]
+  },
+  {
+    "title": "[Diet Type] Restaurant Reviews and Dining Out",
+    "description": "Navigate restaurant dining while maintaining [Diet Type] principles. Expand with menu decoding, special request strategies, chain restaurant options, and travel dining tips.",
+    "tags": ["diet cooking", "dining out", "restaurants", "travel"],
+    "niches": ["health", "dining out"]
+  },
+  {
+    "title": "[Diet Type] Energy Balls and Portable Snacks",
+    "description": "Create nutrient-dense [Diet Type] snacks perfect for on-the-go lifestyles. Expand with no-bake options, allergen considerations, kid-friendly variations, and storage solutions.",
+    "tags": ["diet cooking", "energy balls", "snacks", "portable"],
+    "niches": ["health", "snack making"]
+  },
+  {
+    "title": "[Diet Type] Kitchen Equipment Essentials",
+    "description": "Must-have kitchen tools and equipment for successful [Diet Type] cooking. Expand with budget-friendly alternatives, space-saving solutions, equipment care, and maximizing tool versatility.",
+    "tags": ["diet cooking", "kitchen equipment", "tools", "essentials"],
+    "niches": ["health", "kitchen setup"]
+  },
+  {
+    "title": "[Diet Type] Batch Cooking for Freezer Meals",
+    "description": "Create freezer-friendly [Diet Type] meals through strategic batch cooking. Expand with freezing techniques, container recommendations, thawing strategies, and maintaining food quality.",
+    "tags": ["diet cooking", "batch cooking", "freezer meals", "meal prep"],
+    "niches": ["health", "freezer cooking"]
+  },
+  {
+    "title": "[Diet Type] Salad Evolution: Beyond Basic Greens",
+    "description": "Transform salads into satisfying [Diet Type] meals with creative ingredients and preparations. Expand with protein additions, seasonal variations, dressing recipes, and meal-worthy combinations.",
+    "tags": ["diet cooking", "salads", "creative", "meal salads"],
+    "niches": ["health", "salad making"]
+  },
+  {
+    "title": "[Diet Type] Bread and Pizza Alternatives",
+    "description": "Create satisfying bread and pizza alternatives within [Diet Type] guidelines. Expand with various base ingredients, texture techniques, topping combinations, and baking tips for best results.",
+    "tags": ["diet cooking", "bread alternatives", "pizza", "substitutions"],
+    "niches": ["health", "alternative baking"]
+  },
+  {
+    "title": "[Diet Type] Spice Blends and Seasoning Mastery",
+    "description": "Master flavor creation with [Diet Type]-compliant spice blends and seasonings. Expand with spice sourcing, blend ratios, storage methods, and using spices to enhance nutrition.",
+    "tags": ["diet cooking", "spices", "seasonings", "flavor"],
+    "niches": ["health", "spice blending"]
+  },
+  {
+    "title": "[Diet Type] Breakfast Smoothie Bowls",
+    "description": "Create Instagram-worthy [Diet Type] smoothie bowls that taste as good as they look. Expand with base recipes, topping combinations, nutritional balance, and presentation techniques.",
+    "tags": ["diet cooking", "smoothie bowls", "breakfast", "presentation"],
+    "niches": ["health", "smoothie bowls"]
+  },
+  {
+    "title": "[Diet Type] Cooking for Special Occasions",
+    "description": "Navigate birthdays, anniversaries, and celebrations while maintaining [Diet Type] eating. Expand with celebration alternatives, gift ideas, potluck strategies, and maintaining social connections.",
+    "tags": ["diet cooking", "special occasions", "celebrations", "social"],
+    "niches": ["health", "celebration cooking"]
+  },
+  {
+    "title": "[Diet Type] Kitchen Hacks and Time-Savers",
+    "description": "Clever shortcuts and hacks to streamline [Diet Type] cooking. Expand with prep techniques, multi-use ingredients, equipment hacks, and efficiency strategies for busy cooks.",
+    "tags": ["diet cooking", "kitchen hacks", "time savers", "efficiency"],
+    "niches": ["health", "cooking tips"]
+  },
+  {
+    "title": "[Diet Type] Cookbook Review and Recipe Testing",
+    "description": "Review popular [Diet Type] cookbooks and test signature recipes. Expand with adaptation suggestions, difficulty assessments, ingredient accessibility, and value comparisons.",
+    "tags": ["diet cooking", "cookbook review", "recipe testing", "recommendations"],
+    "niches": ["health", "cookbook reviews"]
+  },
+  {
+    "title": "[Diet Type] Cooking Show: Live Kitchen Sessions",
+    "description": "Host live cooking demonstrations featuring [Diet Type] recipes with real-time interaction. Expand with Q&A sessions, troubleshooting help, viewer recipe requests, and community building.",
+    "tags": ["diet cooking", "live cooking", "interactive", "community"],
+    "niches": ["health", "live cooking"]
+  },
+  {
+    "title": "[Diet Type] Ingredient Spotlight: [Specific Ingredient]",
+    "description": "Deep dive into [Specific Ingredient] and its uses in [Diet Type] cooking. Expand with nutritional benefits, preparation methods, recipe variations, and sourcing information.",
+    "tags": ["diet cooking", "ingredient spotlight", "education", "nutrition"],
+    "niches": ["health", "ingredient education"]
+  },
+  {
+    "title": "[Diet Type] Meal Makeovers: Before and After",
+    "description": "Transform standard meals into [Diet Type] versions with before-and-after comparisons. Expand with nutritional analysis, taste testing, cost comparisons, and family acceptance strategies.",
+    "tags": ["diet cooking", "meal makeover", "transformation", "comparison"],
+    "niches": ["health", "meal transformation"]
+  },
+  {
+    "title": "[Diet Type] Emergency Meals: Pantry to Plate",
+    "description": "Create satisfying [Diet Type] meals from pantry staples when fresh ingredients aren't available. Expand with shelf-stable ingredients, creative substitutions, and meal planning for emergencies.",
+    "tags": ["diet cooking", "emergency meals", "pantry cooking", "preparation"],
+    "niches": ["health", "emergency cooking"]
+  },
+  {
+    "title": "[Diet Type] Cooking with Kids: Teaching Nutrition",
+    "description": "Involve children in [Diet Type] cooking while teaching nutrition and cooking skills. Expand with age-appropriate tasks, safety guidelines, educational activities, and building healthy habits.",
+    "tags": ["diet cooking", "cooking with kids", "education", "family"],
+    "niches": ["health", "family cooking"]
+  },
+  {
+    "title": "[Diet Type] Travel Food Prep and Portable Meals",
+    "description": "Maintain [Diet Type] eating while traveling with portable meal solutions. Expand with TSA-friendly foods, car trip meals, hotel room cooking, and international travel strategies.",
+    "tags": ["diet cooking", "travel food", "portable", "meal prep"],
+    "niches": ["health", "travel food"]
+  },
+  {
+    "title": "[Diet Type] Nutrition Myths: Facts vs Fiction",
+    "description": "Address common myths and misconceptions about [Diet Type] nutrition. Expand with scientific evidence, expert interviews, practical applications, and debunking misinformation.",
+    "tags": ["diet cooking", "nutrition myths", "education", "science"],
+    "niches": ["health", "nutrition education"]
+  },
+  {
+    "title": "[Diet Type] Recipe Conversion: Adapting Family Favorites",
+    "description": "Convert beloved family recipes into [Diet Type] versions without losing traditional flavors. Expand with substitution strategies, ratio adjustments, technique modifications, and family taste testing.",
+    "tags": ["diet cooking", "recipe conversion", "family recipes", "adaptation"],
+    "niches": ["health", "recipe adaptation"]
+  },
+  {
+    "title": "[Diet Type] Cooking Competition: Home Cook Challenge",
+    "description": "Host cooking competitions featuring [Diet Type] recipes with home cook participants. Expand with judging criteria, prize ideas, viewer voting, and showcasing amateur talent.",
+    "tags": ["diet cooking", "competition", "challenge", "community"],
+    "niches": ["health", "cooking competition"]
+  },
+  {
+    "title": "[Diet Type] Meal Planning Apps and Tools Review",
+    "description": "Review and compare meal planning apps and tools specifically for [Diet Type] eating. Expand with feature comparisons, cost analysis, user experience, and integration with shopping lists.",
+    "tags": ["diet cooking", "meal planning apps", "technology", "reviews"],
+    "niches": ["health", "technology"]
+  }
+]

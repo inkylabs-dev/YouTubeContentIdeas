@@ -1,0 +1,302 @@
+[
+  {
+    "title": "A Day in the Life of a [Profession]",
+    "description": "Follow someone through their typical workday in [Profession]. Expand by showing morning routines, work challenges, tools used, interactions with colleagues or clients, and evening wind-down. Include salary discussions, education requirements, and career advice.",
+    "tags": ["day in the life", "career", "profession", "work"],
+    "niches": ["lifestyle", "career"]
+  },
+  {
+    "title": "24 Hours in [City Name]",
+    "description": "Document a full day exploring [City Name] from sunrise to midnight. Expand with local breakfast spots, must-see attractions, hidden gems, transportation tips, cultural experiences, and nightlife. Include budget breakdowns and practical travel advice.",
+    "tags": ["day in the life", "travel", "city guide", "24 hours"],
+    "niches": ["travel", "lifestyle"]
+  },
+  {
+    "title": "My Life as a [Age]-Year-Old [Identity/Role]",
+    "description": "Showcase daily life at a specific age and role combination like '25-year-old entrepreneur' or '40-year-old single parent'. Expand with age-specific challenges, lifestyle choices, goals, relationships, and future planning.",
+    "tags": ["day in the life", "age", "lifestyle", "personal"],
+    "niches": ["lifestyle", "personal development"]
+  },
+  {
+    "title": "Living in a [Unique Living Situation]",
+    "description": "Document daily life in unique living arrangements like tiny houses, van life, co-living spaces, or off-grid homes. Expand with space optimization, daily routines, challenges, costs, and lifestyle benefits.",
+    "tags": ["day in the life", "unique living", "lifestyle", "housing"],
+    "niches": ["lifestyle", "alternative living"]
+  },
+  {
+    "title": "Day in the Life: [Number] Kids Under [Age]",
+    "description": "Show the reality of parenting multiple young children. Expand with morning chaos, meal prep strategies, activities, naptime routines, evening schedules, and self-care tips for busy parents.",
+    "tags": ["day in the life", "parenting", "family", "kids"],
+    "niches": ["family", "parenting"]
+  },
+  {
+    "title": "Student Life at [University/School Name]",
+    "description": "Follow a typical day at [University/School Name] including classes, study sessions, campus life, and social activities. Expand with academic workload, extracurriculars, dining options, and campus culture.",
+    "tags": ["day in the life", "student", "education", "campus"],
+    "niches": ["education", "student life"]
+  },
+  {
+    "title": "Working From Home as a [Remote Job Title]",
+    "description": "Document a full remote workday in [Remote Job Title] role. Expand with home office setup, productivity strategies, virtual meetings, work-life balance challenges, and remote work tools.",
+    "tags": ["day in the life", "remote work", "work from home", "productivity"],
+    "niches": ["work", "productivity"]
+  },
+  {
+    "title": "Life with [Medical Condition/Disability]",
+    "description": "Share daily experiences living with [Medical Condition/Disability]. Expand with morning routines, medication management, accessibility considerations, adaptive strategies, and positive mindset approaches.",
+    "tags": ["day in the life", "disability", "health", "awareness"],
+    "niches": ["health", "disability awareness"]
+  },
+  {
+    "title": "My Morning Routine as a [Lifestyle Type]",
+    "description": "Showcase morning routines specific to [Lifestyle Type] like minimalist, fitness enthusiast, or busy executive. Expand with timing, products used, mindset practices, and how it sets up the day.",
+    "tags": ["day in the life", "morning routine", "lifestyle", "productivity"],
+    "niches": ["lifestyle", "productivity"]
+  },
+  {
+    "title": "Weekend in the Life: [Hobby/Interest] Enthusiast",
+    "description": "Follow weekend activities of someone passionate about [Hobby/Interest]. Expand with gear preparation, community involvement, skill development, competitions, and lifestyle integration.",
+    "tags": ["day in the life", "weekend", "hobbies", "passion"],
+    "niches": ["hobbies", "lifestyle"]
+  },
+  {
+    "title": "Day in the Life: New [Life Change/Transition]",
+    "description": "Document daily life during major transitions like 'new parent', 'recent graduate', or 'newly retired'. Expand with adjustment challenges, new routines, emotional journey, and adaptation strategies.",
+    "tags": ["day in the life", "life changes", "transitions", "adaptation"],
+    "niches": ["lifestyle", "personal development"]
+  },
+  {
+    "title": "Living on $[Budget Amount] a Day in [Location]",
+    "description": "Show how to live on a specific budget in [Location]. Expand with meal planning, transportation choices, free activities, money-saving tips, and quality of life on a tight budget.",
+    "tags": ["day in the life", "budget", "frugal living", "money"],
+    "niches": ["finance", "lifestyle"]
+  },
+  {
+    "title": "My Routine as a [Fitness Goal] Trainer",
+    "description": "Follow a fitness professional specializing in [Fitness Goal] like weight loss, muscle building, or sports performance. Expand with client sessions, personal workouts, nutrition, and business aspects.",
+    "tags": ["day in the life", "fitness", "trainer", "health"],
+    "niches": ["fitness", "career"]
+  },
+  {
+    "title": "Life in [Unique Geographic Location]",
+    "description": "Document daily life in unusual locations like remote islands, desert towns, or mountain villages. Expand with environmental challenges, community dynamics, resource access, and lifestyle adaptations.",
+    "tags": ["day in the life", "geography", "unique locations", "lifestyle"],
+    "niches": ["travel", "lifestyle"]
+  },
+  {
+    "title": "Day in the Life: [Seasonal Job/Activity]",
+    "description": "Follow someone during peak season for [Seasonal Job/Activity] like ski instructor, summer camp counselor, or holiday retail worker. Expand with seasonal preparation, peak demands, and off-season life.",
+    "tags": ["day in the life", "seasonal work", "jobs", "lifestyle"],
+    "niches": ["career", "seasonal living"]
+  },
+  {
+    "title": "My Life as a [Creative Professional]",
+    "description": "Document the daily routine of [Creative Professional] like photographer, writer, or musician. Expand with creative process, client work, personal projects, inspiration sources, and business management.",
+    "tags": ["day in the life", "creative", "artist", "freelance"],
+    "niches": ["creative", "career"]
+  },
+  {
+    "title": "Living the [Lifestyle Philosophy] Life",
+    "description": "Show daily application of [Lifestyle Philosophy] like minimalism, zero waste, or slow living. Expand with philosophical principles, practical implementation, challenges, and benefits to wellbeing.",
+    "tags": ["day in the life", "philosophy", "lifestyle", "mindful living"],
+    "niches": ["lifestyle", "philosophy"]
+  },
+  {
+    "title": "Day in the Life: [Number] Months [Life Stage]",
+    "description": "Document life at specific stages like '6 months pregnant', '3 months into retirement', or '1 month post-surgery'. Expand with stage-specific experiences, changes, and adaptations.",
+    "tags": ["day in the life", "life stages", "transitions", "experience"],
+    "niches": ["lifestyle", "life transitions"]
+  },
+  {
+    "title": "My Routine as a [Dietary Lifestyle] Eater",
+    "description": "Follow daily eating and meal prep for [Dietary Lifestyle] like vegan, keto, or raw food. Expand with meal planning, shopping, cooking techniques, dining out strategies, and nutritional considerations.",
+    "tags": ["day in the life", "diet", "nutrition", "meal prep"],
+    "niches": ["health", "nutrition"]
+  },
+  {
+    "title": "Life as a [Family Structure] Family",
+    "description": "Show daily dynamics of [Family Structure] like blended family, single parent household, or multi-generational home. Expand with unique challenges, communication strategies, and family bonding activities.",
+    "tags": ["day in the life", "family", "relationships", "dynamics"],
+    "niches": ["family", "relationships"]
+  },
+  {
+    "title": "Day in the Life: [Age] and Learning [New Skill]",
+    "description": "Follow someone at [Age] learning [New Skill] like '60 and learning piano' or '30 and learning to code'. Expand with learning methods, challenges, progress tracking, and age-related considerations.",
+    "tags": ["day in the life", "learning", "skills", "age"],
+    "niches": ["education", "personal development"]
+  },
+  {
+    "title": "My Morning to Night Routine in [Season]",
+    "description": "Show how daily routines change with [Season] like winter, summer, or monsoon season. Expand with seasonal adjustments, clothing choices, activities, mood changes, and seasonal self-care.",
+    "tags": ["day in the life", "seasons", "routines", "adaptation"],
+    "niches": ["lifestyle", "seasonal living"]
+  },
+  {
+    "title": "Living with [Number] Pets as a [Lifestyle]",
+    "description": "Document daily pet care routines with multiple animals while maintaining [Lifestyle] like busy professional or stay-at-home parent. Expand with pet schedules, training, costs, and lifestyle integration.",
+    "tags": ["day in the life", "pets", "animal care", "lifestyle"],
+    "niches": ["pets", "lifestyle"]
+  },
+  {
+    "title": "Day in the Life: [Transportation Method] Commuter",
+    "description": "Follow someone who commutes primarily by [Transportation Method] like bicycle, public transit, or walking. Expand with route planning, weather considerations, costs, health benefits, and time management.",
+    "tags": ["day in the life", "commuting", "transportation", "urban living"],
+    "niches": ["lifestyle", "urban living"]
+  },
+  {
+    "title": "My Life Running a [Business Type] Business",
+    "description": "Document daily operations of [Business Type] like food truck, online store, or consulting firm. Expand with business tasks, customer interactions, financial management, marketing, and work-life balance.",
+    "tags": ["day in the life", "business", "entrepreneur", "small business"],
+    "niches": ["business", "entrepreneurship"]
+  },
+  {
+    "title": "Day in the Life: [Relationship Status] at [Age]",
+    "description": "Show daily life experience of [Relationship Status] like 'single at 35' or 'newlywed at 22'. Expand with social dynamics, personal growth, dating experiences, and lifestyle choices.",
+    "tags": ["day in the life", "relationships", "dating", "personal"],
+    "niches": ["relationships", "lifestyle"]
+  },
+  {
+    "title": "Living in [Square Footage] Square Feet",
+    "description": "Document daily life in extremely small or large living spaces. Expand with space utilization, storage solutions, daily routines, entertaining, and psychological impacts of space size.",
+    "tags": ["day in the life", "small spaces", "living space", "lifestyle"],
+    "niches": ["lifestyle", "home"]
+  },
+  {
+    "title": "My Routine as a [Shift Schedule] Worker",
+    "description": "Follow someone working [Shift Schedule] like night shift, rotating shifts, or 4-day work weeks. Expand with sleep schedules, meal timing, social life impacts, and health considerations.",
+    "tags": ["day in the life", "shift work", "work schedule", "lifestyle"],
+    "niches": ["work", "lifestyle"]
+  },
+  {
+    "title": "Day in the Life: [Age] Years Old in [Country]",
+    "description": "Show cultural daily life at specific ages in different countries. Expand with cultural norms, daily customs, work-life balance, social expectations, and generational differences.",
+    "tags": ["day in the life", "culture", "international", "age"],
+    "niches": ["culture", "international"]
+  },
+  {
+    "title": "Living Car-Free in [City Type]",
+    "description": "Document daily transportation and lifestyle without owning a car in [City Type] like suburban area, small town, or major city. Expand with mobility solutions, cost savings, and lifestyle adaptations.",
+    "tags": ["day in the life", "car-free", "sustainable living", "transportation"],
+    "niches": ["lifestyle", "sustainability"]
+  },
+  {
+    "title": "My Life as a [Caregiver Type]",
+    "description": "Follow daily routines of [Caregiver Type] like elderly parent caregiver, special needs child parent, or pet foster parent. Expand with care tasks, emotional challenges, support systems, and self-care.",
+    "tags": ["day in the life", "caregiving", "family", "responsibility"],
+    "niches": ["family", "caregiving"]
+  },
+  {
+    "title": "Day in the Life: Preparing for [Major Event]",
+    "description": "Document daily preparation routines for [Major Event] like wedding, marathon, or job interview. Expand with preparation timeline, stress management, skill building, and countdown excitement.",
+    "tags": ["day in the life", "preparation", "goals", "events"],
+    "niches": ["lifestyle", "goal achievement"]
+  },
+  {
+    "title": "My Routine During [Challenge Period]",
+    "description": "Show daily coping strategies during [Challenge Period] like job search, health recovery, or financial hardship. Expand with resilience strategies, support systems, daily structure, and positive mindset.",
+    "tags": ["day in the life", "challenges", "resilience", "coping"],
+    "niches": ["personal development", "mental health"]
+  },
+  {
+    "title": "Living the [Time Schedule] Schedule",
+    "description": "Document life following [Time Schedule] like 4am-8pm day, polyphasic sleep, or Mediterranean siesta schedule. Expand with schedule benefits, social impacts, energy levels, and productivity effects.",
+    "tags": ["day in the life", "schedule", "time management", "productivity"],
+    "niches": ["productivity", "lifestyle"]
+  },
+  {
+    "title": "Day in the Life: [Hobby] Competition Prep",
+    "description": "Follow intensive preparation for [Hobby] competition like chess tournament, cooking contest, or dance competition. Expand with training routines, skill development, mental preparation, and competition day nerves.",
+    "tags": ["day in the life", "competition", "hobbies", "preparation"],
+    "niches": ["hobbies", "competition"]
+  },
+  {
+    "title": "My Life in a [Living Arrangement] Community",
+    "description": "Document daily community life in [Living Arrangement] like co-housing, intentional community, or commune. Expand with shared responsibilities, decision-making processes, conflicts resolution, and community benefits.",
+    "tags": ["day in the life", "community", "alternative living", "social"],
+    "niches": ["lifestyle", "community"]
+  },
+  {
+    "title": "Day in the Life: [Fitness Level] Getting Fit",
+    "description": "Follow fitness journey of someone at [Fitness Level] like complete beginner, post-injury recovery, or returning after break. Expand with workout progression, nutrition changes, motivation strategies, and milestone celebrations.",
+    "tags": ["day in the life", "fitness journey", "health", "transformation"],
+    "niches": ["fitness", "health"]
+  },
+  {
+    "title": "Living on [Income Source] Only",
+    "description": "Document daily life sustained by [Income Source] like passive income, disability benefits, or retirement funds. Expand with budgeting strategies, lifestyle adjustments, financial planning, and quality of life considerations.",
+    "tags": ["day in the life", "income", "financial", "budgeting"],
+    "niches": ["finance", "lifestyle"]
+  },
+  {
+    "title": "My Routine as a [Learning Style] Learner",
+    "description": "Show how [Learning Style] like visual, auditory, or kinesthetic learners structure their daily learning and work routines. Expand with learning strategies, environment setup, tools used, and productivity tips.",
+    "tags": ["day in the life", "learning styles", "education", "productivity"],
+    "niches": ["education", "personal development"]
+  },
+  {
+    "title": "Day in the Life: [Technology Level] User",
+    "description": "Document daily tech interaction of [Technology Level] users like digital minimalist, tech enthusiast, or senior citizen learning tech. Expand with device usage, app choices, digital wellness, and tech challenges.",
+    "tags": ["day in the life", "technology", "digital life", "lifestyle"],
+    "niches": ["technology", "lifestyle"]
+  },
+  {
+    "title": "Living with [Mental Health Condition] Successfully",
+    "description": "Show daily management strategies for [Mental Health Condition] like anxiety, depression, or ADHD. Expand with coping mechanisms, therapy routines, medication management, and positive lifestyle choices.",
+    "tags": ["day in the life", "mental health", "wellness", "coping"],
+    "niches": ["mental health", "wellness"]
+  },
+  {
+    "title": "My Life as a [Side Hustle] Entrepreneur",
+    "description": "Document balancing full-time work with [Side Hustle] like online business, freelancing, or creative projects. Expand with time management, energy allocation, goal setting, and scaling strategies.",
+    "tags": ["day in the life", "side hustle", "entrepreneur", "time management"],
+    "niches": ["business", "productivity"]
+  },
+  {
+    "title": "Day in the Life: [Number] Years Into [Major Change]",
+    "description": "Follow someone [Number] years into [Major Change] like sobriety, career switch, or relocation. Expand with progress reflection, ongoing challenges, new perspectives, and future planning.",
+    "tags": ["day in the life", "life changes", "progress", "reflection"],
+    "niches": ["personal development", "life transitions"]
+  },
+  {
+    "title": "My Routine During [Weather Extreme] Season",
+    "description": "Show daily adaptations during [Weather Extreme] like polar vortex, heat wave, or monsoon season. Expand with clothing choices, activity modifications, mood management, and seasonal preparation.",
+    "tags": ["day in the life", "weather", "seasons", "adaptation"],
+    "niches": ["lifestyle", "seasonal living"]
+  },
+  {
+    "title": "Living as a [Age] Year Old [Unconventional Choice]",
+    "description": "Document life making unconventional choices at specific ages like '22-year-old homeowner' or '50-year-old college student'. Expand with decision-making process, challenges, benefits, and societal reactions.",
+    "tags": ["day in the life", "unconventional", "age", "choices"],
+    "niches": ["lifestyle", "personal development"]
+  },
+  {
+    "title": "Day in the Life: Managing [Number] Responsibilities",
+    "description": "Follow someone juggling multiple major responsibilities like work, school, caregiving, and volunteering. Expand with prioritization strategies, time blocking, stress management, and maintaining quality in all areas.",
+    "tags": ["day in the life", "multiple responsibilities", "time management", "balance"],
+    "niches": ["productivity", "lifestyle"]
+  },
+  {
+    "title": "My Life Using Only [Constraint/Rule]",
+    "description": "Document daily life following specific constraints like 'only using public transportation', 'spending under $50/day', or 'no single-use items'. Expand with creative solutions, unexpected benefits, and lifestyle insights.",
+    "tags": ["day in the life", "constraints", "challenges", "mindful living"],
+    "niches": ["lifestyle", "sustainability"]
+  },
+  {
+    "title": "Day in the Life: [Milestone] Celebration Year",
+    "description": "Follow someone during milestone years like 30th birthday year, 25th anniversary year, or retirement year. Expand with reflection practices, celebration planning, goal reassessment, and future visioning.",
+    "tags": ["day in the life", "milestones", "celebration", "reflection"],
+    "niches": ["lifestyle", "personal development"]
+  },
+  {
+    "title": "Living in [Housing Type] at [Life Stage]",
+    "description": "Document daily life in specific housing during life stages like 'apartment living with toddlers' or 'multigenerational home as newlyweds'. Expand with space challenges, community aspects, and lifestyle adaptations.",
+    "tags": ["day in the life", "housing", "life stages", "adaptation"],
+    "niches": ["lifestyle", "home"]
+  },
+  {
+    "title": "My Routine as Someone Who [Unique Characteristic]",
+    "description": "Show daily life accommodating unique characteristics like 'never uses alarm clocks', 'meal preps for entire month', or 'works only in 25-minute intervals'. Expand with system development, benefits, and practical tips.",
+    "tags": ["day in the life", "unique habits", "personal systems", "lifestyle"],
+    "niches": ["lifestyle", "productivity"]
+  }
+]

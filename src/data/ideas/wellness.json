@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Morning [Wellness Routine]",
+    "description": "Share a morning wellness routine that boosts energy. Expand with hydration tips, light stretching, and mindfulness practices.",
+    "tags": ["wellness", "morning", "routine", "energy"],
+    "niches": ["wellness", "lifestyle"]
+  },
+  {
+    "title": "Top 5 [Healthy Snacks]",
+    "description": "Highlight five healthy snack options. Expand by including quick recipes, nutritional benefits, and alternatives.",
+    "tags": ["healthy", "snacks", "nutrition", "food"],
+    "niches": ["wellness", "nutrition"]
+  },
+  {
+    "title": "Simple [Breathing Exercise]",
+    "description": "Teach a simple breathing exercise for relaxation. Expand with guided steps, benefits, and variations.",
+    "tags": ["breathing", "calm", "relaxation", "stress relief"],
+    "niches": ["wellness", "meditation"]
+  },
+  {
+    "title": "Evening [Self-Care Routine]",
+    "description": "Create a self-care routine to wind down at night. Expand with skincare, journaling, and meditation tips.",
+    "tags": ["self-care", "evening", "routine", "wellness"],
+    "niches": ["wellness", "lifestyle"]
+  },
+  {
+    "title": "Quick [Desk Stretches]",
+    "description": "Show easy stretches for office workers. Expand with posture tips and reminders to move regularly.",
+    "tags": ["stretching", "office", "desk", "mobility"],
+    "niches": ["wellness", "fitness"]
+  },
+  {
+    "title": "Daily [Gratitude Practice]",
+    "description": "Introduce a gratitude journaling practice. Expand with prompts, digital vs. paper journaling, and sharing ideas.",
+    "tags": ["gratitude", "journaling", "positivity", "mental health"],
+    "niches": ["wellness", "mindfulness"]
+  },
+  {
+    "title": "Beginner [Meditation Guide]",
+    "description": "Offer a guide for beginners to start meditating. Expand with techniques, common challenges, and daily schedules.",
+    "tags": ["meditation", "mindfulness", "beginner", "calm"],
+    "niches": ["wellness", "meditation"]
+  },
+  {
+    "title": "5-Minute [Mindfulness Break]",
+    "description": "Demonstrate a short mindfulness practice. Expand with body scans, visualization, or mindful listening exercises.",
+    "tags": ["mindfulness", "short", "calm", "relaxation"],
+    "niches": ["wellness", "mindfulness"]
+  },
+  {
+    "title": "Healthy [Morning Smoothies]",
+    "description": "Share smoothie recipes with nutritional benefits. Expand with seasonal fruits, superfoods, and meal-prep tips.",
+    "tags": ["smoothies", "healthy eating", "nutrition", "recipes"],
+    "niches": ["wellness", "nutrition"]
+  },
+  {
+    "title": "Relaxing [Sleep Ritual]",
+    "description": "Create a ritual to improve sleep quality. Expand with calming music, teas, and digital detox ideas.",
+    "tags": ["sleep", "ritual", "relaxation", "wellness"],
+    "niches": ["wellness", "lifestyle"]
+  },
+  {
+    "title": "Top [Hydration Tips]",
+    "description": "Offer practical ways to stay hydrated. Expand with infused water ideas, daily targets, and hydration myths.",
+    "tags": ["hydration", "water", "health", "tips"],
+    "niches": ["wellness", "health"]
+  },
+  {
+    "title": "Simple [Yoga Flow]",
+    "description": "Guide viewers through a basic yoga sequence. Expand with modifications for beginners and mindful breathing.",
+    "tags": ["yoga", "flow", "wellness", "beginner"],
+    "niches": ["wellness", "fitness"]
+  },
+  {
+    "title": "Weekly [Meal Prep Ideas]",
+    "description": "Share meal prep ideas for healthy eating. Expand with shopping lists, portion control, and storage hacks.",
+    "tags": ["meal prep", "nutrition", "healthy", "food"],
+    "niches": ["wellness", "nutrition"]
+  },
+  {
+    "title": "Daily [Affirmation Practice]",
+    "description": "Introduce positive affirmations for self-growth. Expand with examples, recording techniques, and morning vs. evening use.",
+    "tags": ["affirmations", "positivity", "self-growth", "mental health"],
+    "niches": ["wellness", "mindfulness"]
+  },
+  {
+    "title": "Top [Stress Relief Techniques]",
+    "description": "Highlight effective stress management techniques. Expand with deep breathing, stretching, or hobby suggestions.",
+    "tags": ["stress relief", "relaxation", "mental health", "calm"],
+    "niches": ["wellness", "mental health"]
+  },
+  {
+    "title": "Quick [Hydrating Skincare Routine]",
+    "description": "Show a skincare routine that promotes hydration. Expand with natural ingredients, product options, and lifestyle habits.",
+    "tags": ["skincare", "hydration", "beauty", "routine"],
+    "niches": ["wellness", "self-care"]
+  },
+  {
+    "title": "Outdoor [Walking Meditation]",
+    "description": "Guide a mindful walking meditation practice. Expand with nature appreciation and breathing techniques.",
+    "tags": ["walking", "meditation", "outdoor", "mindfulness"],
+    "niches": ["wellness", "meditation"]
+  },
+  {
+    "title": "Daily [Wellness Checklist]",
+    "description": "Provide a checklist for maintaining daily wellness. Expand with hydration, exercise, nutrition, and rest reminders.",
+    "tags": ["wellness", "checklist", "daily habits", "health"],
+    "niches": ["wellness", "lifestyle"]
+  }
+]

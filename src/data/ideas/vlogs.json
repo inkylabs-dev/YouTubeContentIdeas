@@ -1,0 +1,110 @@
+[
+    {
+        "title": "[A Day in the Life of a] [Profession/Role]",
+        "description": "Showcase a typical day for someone in a specific profession or role. Expand by including morning routines, work tasks, challenges, and after-work activities.",
+        "tags": ["day in the life", "routine", "career", "vlog"],
+        "niches": ["career", "lifestyle", "education"]
+    },
+    {
+        "title": "[Morning Routine] for [Type of Person]",
+        "description": "Share a morning routine tailored for a specific group (e.g., students, entrepreneurs, parents). Expand by explaining the benefits and tips for each step.",
+        "tags": ["morning routine", "productivity", "habits", "vlog"],
+        "niches": ["self-improvement", "lifestyle", "wellness"]
+    },
+    {
+        "title": "[Travel Vlog] to [Destination]",
+        "description": "Document your journey to a particular destination. Expand by including travel tips, must-see spots, and local food experiences.",
+        "tags": ["travel", "adventure", "explore", "vlog"],
+        "niches": ["travel", "adventure", "culture"]
+    },
+    {
+        "title": "[Trying] [Activity/Food/Challenge] for the First Time",
+        "description": "Film your experience trying something new. Expand by sharing your expectations, reactions, and tips for others.",
+        "tags": ["first time", "challenge", "reaction", "vlog"],
+        "niches": ["lifestyle", "food", "adventure"]
+    },
+    {
+        "title": "[Room/House/Workspace] Tour",
+        "description": "Give a tour of a specific space. Expand by discussing organization tips, favorite items, and design inspiration.",
+        "tags": ["tour", "organization", "design", "vlog"],
+        "niches": ["home", "productivity", "lifestyle"]
+    },
+    {
+        "title": "[What’s in My] [Bag/Phone/Desk]",
+        "description": "Reveal the contents of a personal item. Expand by explaining why you carry each item and how it helps your daily life.",
+        "tags": ["what's in my", "essentials", "review", "vlog"],
+        "niches": ["lifestyle", "tech", "organization"]
+    },
+    {
+        "title": "[Q&A] with [Audience/Guest]",
+        "description": "Answer questions from your audience or interview a guest. Expand by diving deep into interesting or unexpected topics.",
+        "tags": ["Q&A", "interview", "community", "vlog"],
+        "niches": ["community", "education", "entertainment"]
+    },
+    {
+        "title": "[Behind the Scenes] of [Project/Event]",
+        "description": "Show the process behind creating something or organizing an event. Expand by sharing challenges, planning, and final results.",
+        "tags": ["behind the scenes", "project", "event", "vlog"],
+        "niches": ["creative", "events", "education"]
+    },
+    {
+        "title": "[Reacting to] [Old Photos/Videos/Posts]",
+        "description": "React to your past content. Expand by sharing stories, lessons learned, and how you’ve changed.",
+        "tags": ["reaction", "nostalgia", "storytime", "vlog"],
+        "niches": ["personal", "entertainment", "storytelling"]
+    },
+    {
+        "title": "[Challenge Vlog]: [24 Hours Doing Something]",
+        "description": "Take on a 24-hour challenge. Expand by documenting your preparation, struggles, and takeaways.",
+        "tags": ["challenge", "24 hours", "experiment", "vlog"],
+        "niches": ["lifestyle", "entertainment", "self-improvement"]
+    },
+    {
+        "title": "[Seasonal Vlog]: [Holiday/Event] Special",
+        "description": "Create content around a specific holiday or event. Expand by including traditions, decorations, and celebrations.",
+        "tags": ["holiday", "event", "seasonal", "vlog"],
+        "niches": ["lifestyle", "culture", "family"]
+    },
+    {
+        "title": "[Day Trip] to [Nearby Place]",
+        "description": "Vlog a short trip to a local spot. Expand by highlighting hidden gems, travel tips, and your favorite moments.",
+        "tags": ["day trip", "local travel", "explore", "vlog"],
+        "niches": ["travel", "adventure", "local"]
+    },
+    {
+        "title": "[Monthly Recap] and [Goals for Next Month]",
+        "description": "Reflect on the past month and set goals for the next. Expand by sharing achievements, lessons, and actionable steps.",
+        "tags": ["recap", "goals", "reflection", "vlog"],
+        "niches": ["self-improvement", "productivity", "lifestyle"]
+    },
+    {
+        "title": "[Collaboration Vlog] with [Another Creator]",
+        "description": "Work with another creator on a joint project. Expand by showing behind-the-scenes, challenges, and the final outcome.",
+        "tags": ["collaboration", "creator", "community", "vlog"],
+        "niches": ["community", "entertainment", "creative"]
+    },
+    {
+        "title": "[Reacting to] [Subscriber Submissions]",
+        "description": "React to content submitted by your audience. Expand by giving feedback, shoutouts, and engaging with viewers.",
+        "tags": ["reaction", "subscriber", "community", "vlog"],
+        "niches": ["community", "entertainment", "interactive"]
+    },
+    {
+        "title": "[How I Edit My] [Videos/Photos]",
+        "description": "Share your editing process for videos or photos. Expand by giving tips, showing before-and-after, and recommending tools.",
+        "tags": ["editing", "tutorial", "creative", "vlog"],
+        "niches": ["creative", "education", "tech"]
+    },
+    {
+        "title": "[Favorite Products] of the Month",
+        "description": "Review your favorite products for the month. Expand by explaining why you love them and how they fit into your routine.",
+        "tags": ["favorites", "review", "products", "vlog"],
+        "niches": ["lifestyle", "tech", "beauty"]
+    },
+    {
+        "title": "[Storytime]: [Memorable Experience]",
+        "description": "Share a memorable or funny story from your life. Expand by adding lessons learned and advice for viewers.",
+        "tags": ["storytime", "personal", "life lessons", "vlog"],
+        "niches": ["personal", "storytelling", "entertainment"]
+    }
+]

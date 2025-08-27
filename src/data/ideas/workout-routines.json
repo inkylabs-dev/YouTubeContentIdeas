@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Beginner [Full-Body Workout]",
+    "description": "Create a simple full-body routine using bodyweight moves. Expand with rest timers, easy progressions, and safety cues for first-timers.",
+    "tags": ["workout", "beginner", "full body", "bodyweight"],
+    "niches": ["fitness", "workout routines"]
+  },
+  {
+    "title": "Quick [10-Minute HIIT]",
+    "description": "Design a fast HIIT circuit with 4–5 exercises. Expand by offering low-impact alternatives and a printable interval guide.",
+    "tags": ["HIIT", "intervals", "cardio", "quick"],
+    "niches": ["fitness", "workout routines"]
+  },
+  {
+    "title": "[Dumbbell Only] Strength Day",
+    "description": "Plan a strength session using just a pair of dumbbells. Expand with rep schemes for beginner/intermediate and a warm-up/cool-down.",
+    "tags": ["strength", "dumbbells", "home gym", "hypertrophy"],
+    "niches": ["fitness", "strength training"]
+  },
+  {
+    "title": "No-Equipment [Apartment-Friendly] Workout",
+    "description": "Share a quiet routine with no jumping and minimal floor space. Expand with options for small spaces and neighbors below.",
+    "tags": ["low impact", "bodyweight", "quiet", "home"],
+    "niches": ["fitness", "home workouts"]
+  },
+  {
+    "title": "[Resistance Band] Full Circuit",
+    "description": "Build a total-body session using a single band. Expand with band anchor ideas, tension tips, and progression by color/strength.",
+    "tags": ["resistance band", "circuit", "mobility", "strength"],
+    "niches": ["fitness", "workout routines"]
+  },
+  {
+    "title": "[Core Crusher] 6 Moves",
+    "description": "Create an ab-focused sequence that avoids neck strain. Expand with timed rounds, anti-rotation moves, and breathing cues.",
+    "tags": ["core", "abs", "planks", "stability"],
+    "niches": ["fitness", "workout routines"]
+  },
+  {
+    "title": "[Lower Body] Strength + Burn",
+    "description": "Program squats, lunges, and hinge patterns in supersets. Expand with tempo notes, glute activation, and finisher ideas.",
+    "tags": ["legs", "glutes", "strength", "supersets"],
+    "niches": ["fitness", "strength training"]
+  },
+  {
+    "title": "[Upper Body] Push/Pull Split",
+    "description": "Outline a push day and a pull day with simple progress tracking. Expand with alternatives for limited equipment.",
+    "tags": ["upper body", "push pull", "progression", "program"],
+    "niches": ["fitness", "workout routines"]
+  },
+  {
+    "title": "Desk-Friendly [Office Stretch + Mobility]",
+    "description": "Offer a mid-day mobility flow for desk workers. Expand with timer prompts, posture fixes, and optional mini-resistance band moves.",
+    "tags": ["mobility", "stretching", "office", "posture"],
+    "niches": ["wellness", "fitness"]
+  },
+  {
+    "title": "[Outdoor Park] Circuit",
+    "description": "Design a circuit using benches, steps, and bars. Expand with map-friendly station list and rainy-day indoor swaps.",
+    "tags": ["outdoor", "circuit", "calisthenics", "park"],
+    "niches": ["fitness", "workout routines"]
+  },
+  {
+    "title": "Low-Impact [Cardio Flow]",
+    "description": "Create a joint-friendly cardio sequence without jumps. Expand with heart-rate zones, step trackers, and music BPM suggestions.",
+    "tags": ["cardio", "low impact", "beginner", "endurance"],
+    "niches": ["fitness", "home workouts"]
+  },
+  {
+    "title": "[Kettlebell] Fundamentals Session",
+    "description": "Teach safe swings, deadlifts, and presses in a starter flow. Expand with weight selection, form checkpoints, and EMOM ideas.",
+    "tags": ["kettlebell", "strength", "conditioning", "EMOM"],
+    "niches": ["fitness", "strength training"]
+  },
+  {
+    "title": "Bodyweight [Ladder Workout]",
+    "description": "Program a rep-ladder using squats, push-ups, and rows. Expand with time caps, scaling tips, and partner options.",
+    "tags": ["bodyweight", "ladder", "functional", "scalable"],
+    "niches": ["fitness", "workout routines"]
+  },
+  {
+    "title": "[Tabata] Timer Session",
+    "description": "Build a classic 20/10 protocol across 8 rounds. Expand with station cards, cooldown stretches, and music timer cues.",
+    "tags": ["tabata", "HIIT", "timer", "fat burn"],
+    "niches": ["fitness", "workout routines"]
+  },
+  {
+    "title": "[Seniors] Gentle Strength + Balance",
+    "description": "Share a chair-supported routine emphasizing balance and control. Expand with safety notes, pace guidance, and progression ideas.",
+    "tags": ["seniors", "balance", "gentle", "chair"],
+    "niches": ["wellness", "fitness"]
+  },
+  {
+    "title": "[Time-Saver] 20-Minute Split",
+    "description": "Provide a two-day split that fits busy schedules. Expand with calendar templates, rest guidelines, and deload week suggestions.",
+    "tags": ["time saver", "program", "split", "efficiency"],
+    "niches": ["fitness", "workout routines"]
+  },
+  {
+    "title": "Athlete-Style [Speed & Agility] Drills",
+    "description": "Introduce cone drills, lateral shuffles, and quick-feet ladders. Expand with backyard setups and beginner progressions.",
+    "tags": ["agility", "speed", "athletic", "drills"],
+    "niches": ["fitness", "sports training"]
+  },
+  {
+    "title": "[Recovery Day] Mobility + Breathwork",
+    "description": "Guide a gentle session mixing mobility, light stretching, and breathing. Expand with RPE guidelines and foam-rolling add-ons.",
+    "tags": ["recovery", "mobility", "breathwork", "stretching"],
+    "niches": ["wellness", "fitness"]
+  }
+]

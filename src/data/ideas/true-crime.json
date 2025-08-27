@@ -1,0 +1,106 @@
+[
+    {
+        "title": "The [Unsolved Case] of [Victim Name]",
+        "description": "Explore the mysterious circumstances surrounding the unsolved case of [Victim Name]. Expand by detailing the timeline, suspects, theories, and public reactions.",
+        "tags": ["unsolved", "mystery", "case study"],
+        "niches": ["true crime", "cold cases"]
+    },
+    {
+        "title": "Inside the Mind of [Famous Criminal]",
+        "description": "Analyze the psychological profile of [Famous Criminal]. Expand by discussing their background, motives, and expert opinions.",
+        "tags": ["psychology", "criminal", "profile"],
+        "niches": ["true crime", "criminal psychology"]
+    },
+    {
+        "title": "How [Type of Crime] Changed [City/Country]",
+        "description": "Examine how a [Type of Crime] impacted the community of [City/Country]. Expand by covering societal changes, law enforcement responses, and aftermath.",
+        "tags": ["impact", "community", "crime"],
+        "niches": ["true crime", "social impact"]
+    },
+    {
+        "title": "The [Year] [Type of Heist] at [Location]",
+        "description": "Recount the details of the [Year] [Type of Heist] at [Location]. Expand by describing the planning, execution, and investigation.",
+        "tags": ["heist", "robbery", "investigation"],
+        "niches": ["true crime", "heists"]
+    },
+    {
+        "title": "The [Type of Scam] That Fooled [Number] People",
+        "description": "Detail the [Type of Scam] that deceived [Number] people. Expand by explaining the scam's mechanics, victims' stories, and prevention tips.",
+        "tags": ["scam", "fraud", "awareness"],
+        "niches": ["true crime", "fraud"]
+    },
+    {
+        "title": "The [Infamous Trial] of [Defendant Name]",
+        "description": "Break down the events of the [Infamous Trial] involving [Defendant Name]. Expand by discussing key evidence, courtroom drama, and verdict.",
+        "tags": ["trial", "court", "legal"],
+        "niches": ["true crime", "court cases"]
+    },
+    {
+        "title": "The [Type of Serial Killer] Who Terrorized [Location]",
+        "description": "Investigate the crimes of the [Type of Serial Killer] in [Location]. Expand by outlining their methods, victims, and capture.",
+        "tags": ["serial killer", "investigation", "profile"],
+        "niches": ["true crime", "serial killers"]
+    },
+    {
+        "title": "The [Year] Disappearance of [Missing Person]",
+        "description": "Explore the disappearance of [Missing Person] in [Year]. Expand by reviewing the timeline, search efforts, and theories.",
+        "tags": ["missing person", "disappearance", "mystery"],
+        "niches": ["true crime", "missing persons"]
+    },
+    {
+        "title": "How [Law/Policy] Changed After [Crime Event]",
+        "description": "Discuss how [Law/Policy] was reformed following [Crime Event]. Expand by detailing the event, public outcry, and legislative process.",
+        "tags": ["law", "policy", "reform"],
+        "niches": ["true crime", "legal changes"]
+    },
+    {
+        "title": "The [Type of Cult] Led by [Leader Name]",
+        "description": "Delve into the story of the [Type of Cult] led by [Leader Name]. Expand by describing recruitment, beliefs, and criminal activities.",
+        "tags": ["cult", "leader", "investigation"],
+        "niches": ["true crime", "cults"]
+    },
+    {
+        "title": "The [Type of White Collar Crime] at [Company Name]",
+        "description": "Uncover the [Type of White Collar Crime] committed at [Company Name]. Expand by explaining the scheme, key players, and consequences.",
+        "tags": ["white collar", "fraud", "corporate"],
+        "niches": ["true crime", "white collar crime"]
+    },
+    {
+        "title": "The [Type of Kidnapping] of [Victim Name]",
+        "description": "Detail the [Type of Kidnapping] involving [Victim Name]. Expand by outlining the abduction, investigation, and resolution.",
+        "tags": ["kidnapping", "abduction", "investigation"],
+        "niches": ["true crime", "kidnapping"]
+    },
+    {
+        "title": "The [Year] [Type of Massacre] at [Location]",
+        "description": "Revisit the [Year] [Type of Massacre] at [Location]. Expand by discussing the events, victims, and aftermath.",
+        "tags": ["massacre", "tragedy", "history"],
+        "niches": ["true crime", "massacres"]
+    },
+    {
+        "title": "The [Type of Poisoning] Case of [Victim Name]",
+        "description": "Examine the [Type of Poisoning] case involving [Victim Name]. Expand by detailing the method, suspects, and investigation.",
+        "tags": ["poisoning", "mystery", "investigation"],
+        "niches": ["true crime", "poisonings"]
+    },
+    {
+        "title": "The [Type of Cybercrime] That Shocked [Industry]",
+        "description": "Analyze the [Type of Cybercrime] that impacted [Industry]. Expand by explaining the attack, perpetrators, and response.",
+        "tags": ["cybercrime", "technology", "security"],
+        "niches": ["true crime", "cybercrime"]
+    },
+    {
+        "title": "The [Type of Art Theft] at [Museum/Gallery]",
+        "description": "Investigate the [Type of Art Theft] at [Museum/Gallery]. Expand by describing the stolen pieces, suspects, and recovery efforts.",
+        "tags": ["art theft", "museum", "investigation"],
+        "niches": ["true crime", "art theft"]
+    },
+    {
+        "title": "The [Type of Organized Crime] Syndicate in [City]",
+        "description": "Explore the operations of the [Type of Organized Crime] syndicate in [City]. Expand by discussing their history, activities, and law enforcement efforts.",
+        "tags": ["organized crime", "syndicate", "investigation"],
+        "niches": ["true crime", "organized crime"]
+    },
+    {
+        "title": "The [Type of Stalker] Who Targeted [Victim Name]",
+        "description": "Detail the case of the [Type of Stalker] who targeted [Victim Name]. Expand by outlining the stalking behavior, investigation, and outcome.",

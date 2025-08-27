@@ -1,0 +1,110 @@
+[
+    {
+        "title": "[Top 10] [VR Games] for [Beginners]",
+        "description": "Create a list of the top 10 VR games that are perfect for beginners. Expand by including gameplay tips, hardware requirements, and what makes each game beginner-friendly.",
+        "tags": ["VR", "gaming", "beginners", "top 10", "games"],
+        "niches": ["VR gaming", "game recommendations", "new gamers"]
+    },
+    {
+        "title": "[How to Set Up] Your [First AR Game] on [Any Device]",
+        "description": "Guide viewers through the process of setting up their first AR game on various devices. Expand by covering different platforms, troubleshooting tips, and recommended starter games.",
+        "tags": ["AR", "setup", "tutorial", "devices", "gaming"],
+        "niches": ["AR gaming", "tech tutorials", "mobile gaming"]
+    },
+    {
+        "title": "[Best Accessories] for [Immersive VR Gaming]",
+        "description": "Showcase the best accessories to enhance VR gaming immersion. Expand by reviewing headsets, controllers, haptic suits, and how each accessory improves gameplay.",
+        "tags": ["VR", "accessories", "hardware", "immersion", "review"],
+        "niches": ["VR hardware", "gaming gear", "product reviews"]
+    },
+    {
+        "title": "[AR Game Ideas] for [Family Gatherings]",
+        "description": "Suggest AR games that are fun for family gatherings. Expand by explaining game mechanics, age suitability, and how to set up multiplayer experiences.",
+        "tags": ["AR", "family", "multiplayer", "party games"],
+        "niches": ["family gaming", "AR experiences", "social gaming"]
+    },
+    {
+        "title": "[VR Fitness Games] to [Get in Shape]",
+        "description": "Highlight VR games that double as fitness routines. Expand by comparing calorie burn, fun factor, and tracking progress over time.",
+        "tags": ["VR", "fitness", "exercise", "health", "games"],
+        "niches": ["VR fitness", "health & wellness", "active gaming"]
+    },
+    {
+        "title": "[How to Create] Your Own [AR Game] with [No Coding]",
+        "description": "Teach viewers how to make a simple AR game using no-code platforms. Expand by showing step-by-step instructions and sharing resources for further learning.",
+        "tags": ["AR", "game development", "no code", "tutorial"],
+        "niches": ["game development", "AR creation", "education"]
+    },
+    {
+        "title": "[Top 5] [VR Horror Games] for [Thrill Seekers]",
+        "description": "List the scariest VR horror games for those seeking a thrill. Expand by describing the unique features, jump scares, and best settings for maximum immersion.",
+        "tags": ["VR", "horror", "thriller", "games", "top 5"],
+        "niches": ["horror gaming", "VR experiences", "entertainment"]
+    },
+    {
+        "title": "[Educational AR Games] for [Kids and Teens]",
+        "description": "Review AR games that make learning fun for kids and teens. Expand by discussing educational value, subject matter, and parental controls.",
+        "tags": ["AR", "education", "kids", "teens", "learning"],
+        "niches": ["educational gaming", "AR for kids", "learning tools"]
+    },
+    {
+        "title": "[VR Esports] – [How to Get Started] and [Compete Online]",
+        "description": "Explain how to enter the world of VR esports. Expand by covering popular games, required equipment, and tips for joining tournaments.",
+        "tags": ["VR", "esports", "competition", "online", "gaming"],
+        "niches": ["esports", "VR competition", "pro gaming"]
+    },
+    {
+        "title": "[Best AR Puzzle Games] for [Brain Training]",
+        "description": "Showcase AR puzzle games that help train your brain. Expand by reviewing gameplay, difficulty levels, and cognitive benefits.",
+        "tags": ["AR", "puzzle", "brain training", "games"],
+        "niches": ["puzzle gaming", "AR apps", "mental fitness"]
+    },
+    {
+        "title": "[How to Stream] [VR Gameplay] on [YouTube/Twitch]",
+        "description": "Guide viewers through streaming VR gameplay. Expand by discussing software, hardware, overlays, and tips for engaging audiences.",
+        "tags": ["VR", "streaming", "YouTube", "Twitch", "tutorial"],
+        "niches": ["content creation", "VR streaming", "live gaming"]
+    },
+    {
+        "title": "[AR Scavenger Hunt] Ideas for [Outdoor Fun]",
+        "description": "Share creative AR scavenger hunt ideas for outdoor activities. Expand by explaining setup, app recommendations, and safety tips.",
+        "tags": ["AR", "scavenger hunt", "outdoor", "games", "fun"],
+        "niches": ["outdoor gaming", "AR activities", "family fun"]
+    },
+    {
+        "title": "[VR Role-Playing Games] for [Story Lovers]",
+        "description": "Recommend VR RPGs with immersive storytelling. Expand by highlighting narrative depth, character customization, and replay value.",
+        "tags": ["VR", "RPG", "storytelling", "games"],
+        "niches": ["role-playing games", "VR adventures", "story-driven gaming"]
+    },
+    {
+        "title": "[How to Host] a [VR Game Night] with Friends",
+        "description": "Explain how to organize a VR game night. Expand by suggesting games, setup logistics, and ways to keep everyone engaged.",
+        "tags": ["VR", "multiplayer", "game night", "friends"],
+        "niches": ["social gaming", "VR parties", "community events"]
+    },
+    {
+        "title": "[Best Free] [AR Games] for [Mobile Devices]",
+        "description": "List the best free AR games available on mobile. Expand by comparing features, in-app purchases, and device compatibility.",
+        "tags": ["AR", "free games", "mobile", "apps"],
+        "niches": ["mobile gaming", "AR apps", "budget gaming"]
+    },
+    {
+        "title": "[VR Game Development] – [Beginner’s Guide]",
+        "description": "Introduce viewers to VR game development. Expand by covering basic tools, engines, and resources for getting started.",
+        "tags": ["VR", "game development", "tutorial", "beginner"],
+        "niches": ["game development", "VR creation", "education"]
+    },
+    {
+        "title": "[AR Board Games] – [Classic Games] with a Twist",
+        "description": "Show how classic board games are reimagined with AR. Expand by demonstrating gameplay, setup, and the added value of AR features.",
+        "tags": ["AR", "board games", "classic", "innovation"],
+        "niches": ["board gaming", "AR innovation", "family games"]
+    },
+    {
+        "title": "[VR vs AR Gaming] – [Which is Right for You?]",
+        "description": "Compare VR and AR gaming experiences. Expand by discussing pros and cons, hardware needs, and types of games available for each.",
+        "tags": ["VR", "AR", "comparison", "gaming", "guide"],
+        "niches": ["tech comparison", "gaming advice", "hardware guides"]
+    }
+]

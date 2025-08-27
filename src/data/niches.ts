@@ -8,6 +8,7 @@ const jsonIdeaFiles = import.meta.glob('./ideas/*.json', { eager: true, import: 
 // Load all ideas from JSON files
 const allJsonIdeas: (ContentIdea & { slug: string, nicheNames: string[] })[] = [];
 for (const [path, ideas] of Object.entries(jsonIdeaFiles)) {
+  if (!path || path.trim() === '') continue; // Skip empty string keys
   const slug = path.split('/').pop()?.replace('.json', '') || '';
   if (Array.isArray(ideas)) {
     for (const idea of ideas) {

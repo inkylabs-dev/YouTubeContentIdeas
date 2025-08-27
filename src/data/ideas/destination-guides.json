@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Ultimate [Number] Day [Destination] Itinerary",
+    "description": "Create a comprehensive [Number] day travel guide for [Destination]. Expand with daily schedules, must-see attractions, recommended restaurants, transportation options, accommodation suggestions, and budget breakdowns for different travel styles.",
+    "tags": ["destination guide", "itinerary", "travel planning", "vacation"],
+    "niches": ["travel", "vacation planning"]
+  },
+  {
+    "title": "[Destination] on a $[Budget] Budget",
+    "description": "Show how to explore [Destination] while spending only $[Budget]. Expand with budget accommodation options, free activities, cheap eats, transportation hacks, and money-saving tips specific to the location.",
+    "tags": ["destination guide", "budget travel", "cheap travel", "backpacking"],
+    "niches": ["travel", "budget travel"]
+  },
+  {
+    "title": "Hidden Gems of [Destination] Locals Don't Want You to Know",
+    "description": "Reveal secret spots in [Destination] that tourists rarely visit. Expand with local insider tips, off-the-beaten-path locations, authentic experiences, local food spots, and cultural insights.",
+    "tags": ["destination guide", "hidden gems", "local secrets", "authentic travel"],
+    "niches": ["travel", "authentic experiences"]
+  },
+  {
+    "title": "[Destination] for [Traveler Type] Travelers",
+    "description": "Tailor [Destination] recommendations for specific traveler types like solo female travelers, families with kids, or adventure seekers. Expand with relevant activities, safety tips, and accommodations suited to their needs.",
+    "tags": ["destination guide", "traveler type", "specialized travel", "travel tips"],
+    "niches": ["travel", "specialized travel"]
+  },
+  {
+    "title": "Best Time to Visit [Destination]: Month by Month Guide",
+    "description": "Break down the optimal visiting times for [Destination] throughout the year. Expand with weather patterns, seasonal events, crowd levels, pricing variations, and activity availability for each month.",
+    "tags": ["destination guide", "travel timing", "seasonal travel", "planning"],
+    "niches": ["travel", "travel planning"]
+  },
+  {
+    "title": "[Destination] Food Tour: [Number] Must-Try Local Dishes",
+    "description": "Create a culinary journey through [Destination] featuring signature local dishes. Expand with restaurant recommendations, street food spots, food markets, cooking classes, and cultural context of each dish.",
+    "tags": ["destination guide", "food tour", "local cuisine", "culinary travel"],
+    "niches": ["travel", "food"]
+  },
+  {
+    "title": "Getting Around [Destination]: Complete Transportation Guide",
+    "description": "Comprehensive guide to transportation options in [Destination]. Expand with public transit systems, ride-sharing options, car rentals, walking routes, cycling infrastructure, and cost comparisons.",
+    "tags": ["destination guide", "transportation", "getting around", "logistics"],
+    "niches": ["travel", "transportation"]
+  },
+  {
+    "title": "[Destination] Neighborhood Guide: Where to Stay",
+    "description": "Break down different neighborhoods in [Destination] with pros and cons for travelers. Expand with safety levels, proximity to attractions, local character, accommodation options, and nightlife.",
+    "tags": ["destination guide", "neighborhoods", "accommodation", "where to stay"],
+    "niches": ["travel", "accommodation"]
+  },
+  {
+    "title": "[Number] Day Trips from [Major City]",
+    "description": "Explore [Number] amazing day trip options from [Major City]. Expand with transportation instructions, time requirements, what to see and do, and whether overnight stays are recommended.",
+    "tags": ["destination guide", "day trips", "excursions", "nearby attractions"],
+    "niches": ["travel", "day trips"]
+  },
+  {
+    "title": "[Destination] Shopping Guide: Best Places to Buy [Item Type]",
+    "description": "Guide to shopping in [Destination] focusing on specific items like souvenirs, local crafts, or luxury goods. Expand with market locations, bargaining tips, authenticity checks, and shipping options.",
+    "tags": ["destination guide", "shopping", "souvenirs", "local products"],
+    "niches": ["travel", "shopping"]
+  },
+  {
+    "title": "First Time in [Destination]: [Number] Essential Tips",
+    "description": "Essential advice for first-time visitors to [Destination]. Expand with cultural etiquette, common mistakes to avoid, essential phrases, tipping customs, and practical preparation tips.",
+    "tags": ["destination guide", "first time", "travel tips", "essentials"],
+    "niches": ["travel", "beginner travel"]
+  },
+  {
+    "title": "[Destination] Adventure Activities: Thrill Seeker's Paradise",
+    "description": "Comprehensive guide to adventure activities available in [Destination]. Expand with difficulty levels, equipment needed, best operators, safety considerations, and seasonal availability.",
+    "tags": ["destination guide", "adventure travel", "activities", "extreme sports"],
+    "niches": ["travel", "adventure travel"]
+  },
+  {
+    "title": "Romantic [Destination]: Perfect Couples Getaway",
+    "description": "Create the ultimate romantic guide to [Destination] for couples. Expand with romantic restaurants, sunset spots, couple activities, honeymoon suites, and proposal locations.",
+    "tags": ["destination guide", "romantic travel", "couples", "honeymoon"],
+    "niches": ["travel", "romantic travel"]
+  },
+  {
+    "title": "[Destination] with Kids: Family-Friendly Guide",
+    "description": "Comprehensive family travel guide for [Destination]. Expand with kid-friendly attractions, restaurants with children's menus, family accommodations, stroller accessibility, and entertainment options.",
+    "tags": ["destination guide", "family travel", "kids", "family-friendly"],
+    "niches": ["travel", "family travel"]
+  },
+  {
+    "title": "[Destination] History and Culture Walking Tour",
+    "description": "Self-guided historical and cultural tour of [Destination]. Expand with significant sites, historical context, cultural significance, recommended route, and estimated duration.",
+    "tags": ["destination guide", "history", "culture", "walking tour"],
+    "niches": ["travel", "cultural travel"]
+  },
+  {
+    "title": "Nightlife in [Destination]: After Dark Adventures",
+    "description": "Complete guide to [Destination]'s nightlife scene. Expand with bar recommendations, club scenes, live music venues, night markets, safety tips, and dress codes.",
+    "tags": ["destination guide", "nightlife", "bars", "entertainment"],
+    "niches": ["travel", "nightlife"]
+  },
+  {
+    "title": "[Destination] Photography Guide: Best Spots for Instagram",
+    "description": "Guide to the most photogenic locations in [Destination]. Expand with golden hour timing, best angles, crowd-avoiding tips, photography permits, and equipment recommendations.",
+    "tags": ["destination guide", "photography", "Instagram", "photo spots"],
+    "niches": ["travel", "photography"]
+  },
+  {
+    "title": "Luxury [Destination]: High-End Travel Experience",
+    "description": "Premium travel guide to [Destination] focusing on luxury experiences. Expand with five-star hotels, Michelin restaurants, private tours, VIP experiences, and exclusive access opportunities.",
+    "tags": ["destination guide", "luxury travel", "high-end", "premium"],
+    "niches": ["travel", "luxury travel"]
+  },
+  {
+    "title": "[Destination] Weather Guide: What to Pack Year-Round",
+    "description": "Seasonal packing guide for [Destination] based on weather patterns. Expand with month-by-month clothing recommendations, rain gear needs, sun protection, and activity-specific gear.",
+    "tags": ["destination guide", "weather", "packing", "preparation"],
+    "niches": ["travel", "packing"]
+  },
+  {
+    "title": "Solo Travel in [Destination]: Safety and Fun Tips",
+    "description": "Comprehensive solo travel guide for [Destination]. Expand with safety precautions, solo-friendly accommodations, meeting other travelers, dining alone tips, and confidence-building strategies.",
+    "tags": ["destination guide", "solo travel", "safety", "independent travel"],
+    "niches": ["travel", "solo travel"]
+  },
+  {
+    "title": "[Destination] on [Transportation Mode]: Road Trip Guide",
+    "description": "Complete guide to exploring [Destination] by specific transportation like car, motorcycle, or RV. Expand with scenic routes, parking information, fuel stops, and vehicle-specific tips.",
+    "tags": ["destination guide", "road trip", "driving", "scenic routes"],
+    "niches": ["travel", "road trips"]
+  },
+  {
+    "title": "Festival Season in [Destination]: [Number] Events Not to Miss",
+    "description": "Guide to major festivals and events in [Destination]. Expand with dates, ticket information, what to expect, accommodation booking tips, and cultural significance of each event.",
+    "tags": ["destination guide", "festivals", "events", "cultural experiences"],
+    "niches": ["travel", "festivals"]
+  },
+  {
+    "title": "[Destination] Museum and Art Gallery Guide",
+    "description": "Comprehensive guide to museums and cultural sites in [Destination]. Expand with must-see exhibits, ticket prices, opening hours, free admission days, and audio tour options.",
+    "tags": ["destination guide", "museums", "art", "culture"],
+    "niches": ["travel", "cultural travel"]
+  },
+  {
+    "title": "Beach Guide to [Coastal Destination]: [Number] Best Beaches",
+    "description": "Complete beach guide for [Coastal Destination]. Expand with beach characteristics, amenities, water activities, safety information, and best times to visit each beach.",
+    "tags": ["destination guide", "beaches", "coastal", "water activities"],
+    "niches": ["travel", "beach travel"]
+  },
+  {
+    "title": "[Destination] Local Markets: Shopping Like a Local",
+    "description": "Guide to authentic local markets in [Destination]. Expand with market specialties, bargaining techniques, best visiting times, must-try foods, and cultural etiquette.",
+    "tags": ["destination guide", "markets", "local shopping", "authentic experiences"],
+    "niches": ["travel", "local experiences"]
+  },
+  {
+    "title": "Wellness and Spa Guide to [Destination]",
+    "description": "Comprehensive wellness travel guide for [Destination]. Expand with spa recommendations, wellness retreats, yoga studios, healthy restaurants, and relaxation activities.",
+    "tags": ["destination guide", "wellness", "spa", "relaxation"],
+    "niches": ["travel", "wellness travel"]
+  },
+  {
+    "title": "[Destination] Architecture Tour: [Number] Must-See Buildings",
+    "description": "Architectural guide to significant buildings in [Destination]. Expand with architectural styles, historical context, visiting hours, guided tour options, and photography restrictions.",
+    "tags": ["destination guide", "architecture", "buildings", "design"],
+    "niches": ["travel", "architecture"]
+  },
+  {
+    "title": "Student Travel in [Destination]: Budget Tips and Experiences",
+    "description": "Student-focused travel guide for [Destination]. Expand with student discounts, hostel recommendations, free activities, study-friendly cafes, and networking opportunities.",
+    "tags": ["destination guide", "student travel", "budget", "education"],
+    "niches": ["travel", "student travel"]
+  },
+  {
+    "title": "[Destination] Sustainable Travel: Eco-Friendly Options",
+    "description": "Guide to responsible and sustainable travel in [Destination]. Expand with eco-lodges, sustainable tours, local conservation efforts, and minimize environmental impact tips.",
+    "tags": ["destination guide", "sustainable travel", "eco-friendly", "responsible travel"],
+    "niches": ["travel", "sustainable travel"]
+  },
+  {
+    "title": "Senior Travel in [Destination]: Comfortable and Accessible",
+    "description": "Senior-friendly travel guide for [Destination]. Expand with accessibility information, comfortable accommodations, easy transportation, medical facilities, and age-appropriate activities.",
+    "tags": ["destination guide", "senior travel", "accessibility", "comfortable travel"],
+    "niches": ["travel", "senior travel"]
+  },
+  {
+    "title": "[Destination] Religious and Spiritual Sites Guide",
+    "description": "Guide to religious and spiritual sites in [Destination]. Expand with visiting etiquette, dress codes, prayer times, cultural significance, and respectful behavior guidelines.",
+    "tags": ["destination guide", "religious sites", "spiritual", "culture"],
+    "niches": ["travel", "spiritual travel"]
+  },
+  {
+    "title": "Digital Nomad Guide to [Destination]",
+    "description": "Complete guide for digital nomads working in [Destination]. Expand with coworking spaces, reliable wifi locations, visa requirements, cost of living, and expat community information.",
+    "tags": ["destination guide", "digital nomad", "remote work", "expat life"],
+    "niches": ["travel", "digital nomad"]
+  },
+  {
+    "title": "[Destination] Language Guide: Essential Phrases",
+    "description": "Language guide with essential phrases for traveling in [Destination]. Expand with pronunciation guides, cultural context, polite expressions, emergency phrases, and language learning tips.",
+    "tags": ["destination guide", "language", "phrases", "communication"],
+    "niches": ["travel", "language learning"]
+  },
+  {
+    "title": "Public Transportation Master Guide for [Destination]",
+    "description": "Comprehensive public transportation guide for [Destination]. Expand with system maps, ticket options, apps to download, peak hours, and accessibility features.",
+    "tags": ["destination guide", "public transport", "navigation", "urban travel"],
+    "niches": ["travel", "urban travel"]
+  },
+  {
+    "title": "[Destination] Outdoor Activities: Nature Lover's Guide",
+    "description": "Complete outdoor activity guide for [Destination]. Expand with hiking trails, camping spots, wildlife viewing, gear requirements, and seasonal considerations.",
+    "tags": ["destination guide", "outdoor activities", "nature", "hiking"],
+    "niches": ["travel", "outdoor travel"]
+  },
+  {
+    "title": "Business Travel in [Destination]: Professional's Guide",
+    "description": "Business travel guide for [Destination]. Expand with business districts, meeting venues, professional dining, transportation for meetings, and cultural business etiquette.",
+    "tags": ["destination guide", "business travel", "professional", "meetings"],
+    "niches": ["travel", "business travel"]
+  },
+  {
+    "title": "[Destination] Coffee Culture: Café Hopping Guide",
+    "description": "Guide to coffee culture and best cafés in [Destination]. Expand with specialty coffee shops, local coffee traditions, barista recommendations, and café working environments.",
+    "tags": ["destination guide", "coffee", "cafés", "local culture"],
+    "niches": ["travel", "food culture"]
+  },
+  {
+    "title": "LGBT+ Travel Guide to [Destination]",
+    "description": "LGBTQ+ friendly travel guide for [Destination]. Expand with safe neighborhoods, inclusive accommodations, gay-friendly venues, local laws, and community events.",
+    "tags": ["destination guide", "LGBT travel", "inclusive", "safe travel"],
+    "niches": ["travel", "LGBT travel"]
+  },
+  {
+    "title": "[Destination] Art Scene: Galleries and Street Art Tour",
+    "description": "Guide to the art scene in [Destination]. Expand with gallery districts, street art locations, artist studios, art events, and local art purchasing opportunities.",
+    "tags": ["destination guide", "art scene", "galleries", "street art"],
+    "niches": ["travel", "art travel"]
+  },
+  {
+    "title": "Backpacking [Destination]: [Number] Week Itinerary",
+    "description": "Long-term backpacking guide for [Destination]. Expand with hostel networks, backpacker routes, budget breakdowns, gear recommendations, and cultural immersion opportunities.",
+    "tags": ["destination guide", "backpacking", "long-term travel", "budget travel"],
+    "niches": ["travel", "backpacking"]
+  },
+  {
+    "title": "[Destination] Sports and Recreation Guide",
+    "description": "Guide to sports and recreational activities in [Destination]. Expand with local sports culture, facilities, equipment rental, spectator sports, and participation opportunities.",
+    "tags": ["destination guide", "sports", "recreation", "activities"],
+    "niches": ["travel", "sports travel"]
+  },
+  {
+    "title": "Winter in [Destination]: Cold Weather Activities",
+    "description": "Winter travel guide for [Destination]. Expand with winter activities, seasonal attractions, cold weather gear, heating options, and winter festival information.",
+    "tags": ["destination guide", "winter travel", "cold weather", "seasonal"],
+    "niches": ["travel", "winter travel"]
+  },
+  {
+    "title": "[Destination] Local Etiquette: Cultural Do's and Don'ts",
+    "description": "Cultural etiquette guide for [Destination]. Expand with social customs, dining etiquette, gift-giving traditions, conversation topics to avoid, and respect guidelines.",
+    "tags": ["destination guide", "etiquette", "culture", "respect"],
+    "niches": ["travel", "cultural awareness"]
+  },
+  {
+    "title": "Summer in [Destination]: Beat the Heat Guide",
+    "description": "Summer travel guide for [Destination]. Expand with cooling strategies, summer festivals, heat safety tips, water activities, and air-conditioned venues.",
+    "tags": ["destination guide", "summer travel", "hot weather", "seasonal"],
+    "niches": ["travel", "summer travel"]
+  },
+  {
+    "title": "[Destination] Volunteer Travel: Give Back While Exploring",
+    "description": "Volunteer tourism guide for [Destination]. Expand with volunteer opportunities, reputable organizations, skill-based volunteering, accommodation options, and cultural impact considerations.",
+    "tags": ["destination guide", "volunteer travel", "giving back", "meaningful travel"],
+    "niches": ["travel", "volunteer travel"]
+  },
+  {
+    "title": "Cruise Port Guide to [Destination]",
+    "description": "Guide for cruise passengers visiting [Destination]. Expand with port information, shore excursion alternatives, time-efficient sightseeing, and returning to ship logistics.",
+    "tags": ["destination guide", "cruise travel", "port guide", "shore excursions"],
+    "niches": ["travel", "cruise travel"]
+  },
+  {
+    "title": "[Destination] Weekend Getaway: [Number] Days Maximum Fun",
+    "description": "Perfect weekend itinerary for [Destination]. Expand with fast-paced scheduling, priority attractions, quick dining options, and maximizing limited time strategies.",
+    "tags": ["destination guide", "weekend getaway", "short trip", "quick travel"],
+    "niches": ["travel", "short trips"]
+  },
+  {
+    "title": "Accessible Travel in [Destination]: Disability-Friendly Guide",
+    "description": "Comprehensive accessibility guide for [Destination]. Expand with accessible accommodations, transportation options, attraction accessibility, medical facilities, and mobility aid rental.",
+    "tags": ["destination guide", "accessible travel", "disability", "inclusive travel"],
+    "niches": ["travel", "accessible travel"]
+  },
+  {
+    "title": "[Destination] Layover Guide: Make the Most of [Number] Hours",
+    "description": "Guide for travelers with layovers in [Destination]. Expand with airport exit procedures, nearby attractions, luggage storage, transportation to city center, and timing considerations.",
+    "tags": ["destination guide", "layover", "transit", "airport"],
+    "niches": ["travel", "transit travel"]
+  },
+  {
+    "title": "Off-Season [Destination]: Advantages of Visiting in [Season]",
+    "description": "Guide to visiting [Destination] during off-peak times. Expand with reduced crowds benefits, lower prices, unique seasonal experiences, weather considerations, and limited service adjustments.",
+    "tags": ["destination guide", "off-season", "shoulder season", "budget travel"],
+    "niches": ["travel", "off-season travel"]
+  }
+]

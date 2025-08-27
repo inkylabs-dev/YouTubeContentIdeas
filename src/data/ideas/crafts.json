@@ -1,0 +1,590 @@
+[
+  {
+    "title": "Upcycling Old T-Shirts into Trendy Accessories",
+    "description": "Transform worn-out t-shirts into stylish bags, headbands, scarves, and home decor items. Expand with no-sew techniques, dyeing methods, and creative cutting patterns.",
+    "tags": ["crafts", "upcycling", "t-shirts", "accessories"],
+    "niches": ["DIY", "sustainability"]
+  },
+  {
+    "title": "Mason Jar DIY Projects for Home Organization",
+    "description": "Create functional and decorative storage solutions using mason jars - from bathroom organizers to kitchen spice racks. Expand with painting techniques and lighting installations.",
+    "tags": ["crafts", "mason jars", "organization", "home decor"],
+    "niches": ["DIY", "home organization"]
+  },
+  {
+    "title": "Polymer Clay Miniature Food Tutorials",
+    "description": "Sculpt realistic miniature foods using polymer clay for dollhouses, jewelry, or collectibles. Expand with painting techniques, texture creation, and display ideas.",
+    "tags": ["crafts", "polymer clay", "miniatures", "food"],
+    "niches": ["crafts", "miniatures"]
+  },
+  {
+    "title": "Paper Crafts: Advanced Origami and Kirigami",
+    "description": "Create complex paper sculptures, pop-up cards, and decorative art pieces using advanced folding and cutting techniques. Expand with pattern templates and historical backgrounds.",
+    "tags": ["crafts", "paper", "origami", "kirigami"],
+    "niches": ["crafts", "paper arts"]
+  },
+  {
+    "title": "DIY Natural Skincare and Beauty Products",
+    "description": "Make homemade face masks, lip balms, scrubs, and lotions using natural ingredients. Expand with ingredient benefits, storage tips, and customization for different skin types.",
+    "tags": ["crafts", "skincare", "natural", "beauty"],
+    "niches": ["DIY", "beauty"]
+  },
+  {
+    "title": "Resin Art and Jewelry Making",
+    "description": "Create stunning resin art pieces, jewelry, and decorative objects using epoxy resin and various inclusions. Expand with safety procedures, color mixing, and mold techniques.",
+    "tags": ["crafts", "resin", "jewelry", "art"],
+    "niches": ["crafts", "jewelry making"]
+  },
+  {
+    "title": "Macramé Wall Hangings and Plant Holders",
+    "description": "Learn various macramé knots to create boho-style wall art, plant hangers, and home décor items. Expand with cord types, pattern variations, and modern designs.",
+    "tags": ["crafts", "macramé", "wall hangings", "plants"],
+    "niches": ["crafts", "home decor"]
+  },
+  {
+    "title": "Candle Making: From Basic to Artistic Designs",
+    "description": "Create custom candles with unique scents, colors, and shapes including layered, marbled, and embedded designs. Expand with wick selection, fragrance blending, and container options.",
+    "tags": ["crafts", "candles", "scents", "artistic"],
+    "niches": ["crafts", "home fragrance"]
+  },
+  {
+    "title": "Embroidery Hoop Art and Modern Stitching",
+    "description": "Design contemporary embroidery pieces combining traditional stitches with modern aesthetics. Expand with thread painting, mixed media, and digitizing patterns.",
+    "tags": ["crafts", "embroidery", "hoop art", "stitching"],
+    "niches": ["crafts", "textile arts"]
+  },
+  {
+    "title": "Recycled Material Sculptures and Art",
+    "description": "Transform plastic bottles, cardboard, and other waste materials into artistic sculptures and functional items. Expand with structural techniques and environmental messaging.",
+    "tags": ["crafts", "recycling", "sculptures", "environmental"],
+    "niches": ["DIY", "sustainability"]
+  },
+  {
+    "title": "Wood Burning Art and Pyrography Techniques",
+    "description": "Create detailed wood burning designs on various wood surfaces using pyrography tools. Expand with temperature control, shading techniques, and project finishing.",
+    "tags": ["crafts", "wood burning", "pyrography", "art"],
+    "niches": ["crafts", "woodworking"]
+  },
+  {
+    "title": "Pressed Flower Art and Botanical Crafts",
+    "description": "Preserve flowers and create art pieces, bookmarks, phone cases, and framed displays. Expand with pressing techniques, arrangement tips, and preservation methods.",
+    "tags": ["crafts", "pressed flowers", "botanical", "nature"],
+    "niches": ["crafts", "nature crafts"]
+  },
+  {
+    "title": "DIY Soap Making: Creative Designs and Scents",
+    "description": "Craft handmade soaps with unique colors, patterns, and fragrances using both melt-and-pour and cold process methods. Expand with marbling techniques and natural additives.",
+    "tags": ["crafts", "soap making", "natural", "scents"],
+    "niches": ["DIY", "beauty"]
+  },
+  {
+    "title": "Fabric Dyeing Techniques and Tie-Dye Revival",
+    "description": "Explore various fabric dyeing methods including shibori, ice dyeing, and modern tie-dye patterns. Expand with natural dyes, color theory, and fabric preparation.",
+    "tags": ["crafts", "fabric dyeing", "tie-dye", "textiles"],
+    "niches": ["crafts", "textile arts"]
+  },
+  {
+    "title": "Miniature Dollhouse Furniture and Accessories",
+    "description": "Craft detailed miniature furniture, rugs, and decorative items for dollhouses using various materials. Expand with scale techniques, upholstery methods, and lighting solutions.",
+    "tags": ["crafts", "miniatures", "dollhouse", "furniture"],
+    "niches": ["crafts", "miniatures"]
+  },
+  {
+    "title": "Wire Wrapping Jewelry and Decorative Objects",
+    "description": "Create elegant jewelry pieces and sculptural objects using wire wrapping techniques with gemstones and beads. Expand with tool usage, wire types, and design principles.",
+    "tags": ["crafts", "wire wrapping", "jewelry", "gemstones"],
+    "niches": ["crafts", "jewelry making"]
+  },
+  {
+    "title": "Concrete and Cement DIY Projects",
+    "description": "Make modern planters, stepping stones, countertops, and decorative objects using concrete. Expand with mixing ratios, molding techniques, and finishing options.",
+    "tags": ["crafts", "concrete", "modern", "functional"],
+    "niches": ["DIY", "home decor"]
+  },
+  {
+    "title": "Leather Crafting: Bags, Wallets, and Accessories",
+    "description": "Create custom leather goods using traditional leatherworking techniques including cutting, stitching, and finishing. Expand with tool selection, leather types, and pattern making.",
+    "tags": ["crafts", "leather", "accessories", "traditional"],
+    "niches": ["crafts", "leather working"]
+  },
+  {
+    "title": "Terrarium Building and Miniature Ecosystems",
+    "description": "Design and build various types of terrariums including desert, tropical, and fairy garden themes. Expand with plant selection, layering techniques, and maintenance tips.",
+    "tags": ["crafts", "terrariums", "plants", "ecosystems"],
+    "niches": ["crafts", "gardening"]
+  },
+  {
+    "title": "Alcohol Ink Art and Fluid Painting Techniques",
+    "description": "Create abstract art using alcohol inks on various surfaces including tiles, glass, and synthetic paper. Expand with blending techniques, texture creation, and sealing methods.",
+    "tags": ["crafts", "alcohol ink", "fluid art", "abstract"],
+    "niches": ["crafts", "painting"]
+  },
+  {
+    "title": "Watercolor Painting for Beginners: Landscapes and Florals",
+    "description": "Master basic watercolor techniques for painting beautiful landscapes and floral compositions. Expand with wet-on-wet, wet-on-dry, and glazing techniques, plus color mixing and composition tips.",
+    "tags": ["crafts", "watercolor", "painting", "landscapes", "florals"],
+    "niches": ["art", "painting"]
+  },
+  {
+    "title": "Acrylic Pouring Art: Cells, Swipes, and Dutch Pours",
+    "description": "Create stunning fluid acrylic paintings using various pouring techniques. Expand with different mediums, color combinations, and troubleshooting common issues.",
+    "tags": ["crafts", "acrylic pouring", "fluid art", "cells"],
+    "niches": ["art", "painting"]
+  },
+  {
+    "title": "Digital Art Creation: From Sketch to Finish",
+    "description": "Learn digital art fundamentals using tablets and software to create illustrations, character design, and concept art. Expand with brush techniques, layer management, and portfolio building.",
+    "tags": ["crafts", "digital art", "illustration", "design"],
+    "niches": ["digital art", "illustration"]
+  },
+  {
+    "title": "DIY Kitchen Backsplash Installation",
+    "description": "Install a beautiful tile or mosaic backsplash in your kitchen with step-by-step guidance. Expand with different tile types, grouting techniques, and design patterns.",
+    "tags": ["crafts", "home improvement", "kitchen", "backsplash", "tiles"],
+    "niches": ["DIY", "home improvement"]
+  },
+  {
+    "title": "Bathroom Renovation on a Budget",
+    "description": "Transform your bathroom with affordable updates like painting, new fixtures, and creative storage solutions. Expand with tile work, vanity makeovers, and lighting upgrades.",
+    "tags": ["crafts", "home improvement", "bathroom", "budget", "renovation"],
+    "niches": ["DIY", "home improvement"]
+  },
+  {
+    "title": "Christmas Ornament Making: Traditional and Modern",
+    "description": "Create handmade Christmas ornaments using various materials from felt and glass to modern 3D printed designs. Expand with personalization techniques and gift packaging ideas.",
+    "tags": ["crafts", "christmas", "ornaments", "seasonal", "holidays"],
+    "niches": ["crafts", "seasonal crafts"]
+  },
+  {
+    "title": "Halloween Decorations: Spooky DIY Projects",
+    "description": "Craft creepy and fun Halloween decorations including carved pumpkins, ghost figures, and haunted house props. Expand with lighting effects, sound integration, and yard displays.",
+    "tags": ["crafts", "halloween", "decorations", "seasonal", "spooky"],
+    "niches": ["crafts", "seasonal crafts"]
+  },
+  {
+    "title": "Easter Egg Decorating: Beyond Basic Dyeing",
+    "description": "Create artistic Easter eggs using advanced techniques like decoupage, wax resist, and natural dyeing. Expand with modern geometric patterns and metallic finishes.",
+    "tags": ["crafts", "easter", "eggs", "seasonal", "decorating"],
+    "niches": ["crafts", "seasonal crafts"]
+  },
+  {
+    "title": "Kids' Slime Making: Safe Recipes and Variations",
+    "description": "Make various types of safe, non-toxic slime with kids including butter slime, clear slime, and glitter slime. Expand with educational science explanations and storage tips.",
+    "tags": ["crafts", "kids", "slime", "science", "safe"],
+    "niches": ["kids crafts", "educational"]
+  },
+  {
+    "title": "Children's Finger Painting Techniques and Projects",
+    "description": "Explore creative finger painting projects for toddlers and young children. Expand with texture techniques, color mixing lessons, and cleanup tips for parents.",
+    "tags": ["crafts", "kids", "finger painting", "toddlers", "art"],
+    "niches": ["kids crafts", "early education"]
+  },
+  {
+    "title": "Paper Plate Crafts for Kids: Animals and Characters",
+    "description": "Transform simple paper plates into fun animal masks, characters, and decorative items for children. Expand with educational tie-ins and group activity adaptations.",
+    "tags": ["crafts", "kids", "paper plates", "animals", "masks"],
+    "niches": ["kids crafts", "educational"]
+  },
+  {
+    "title": "Advanced Crochet: Cables, Lace, and Colorwork",
+    "description": "Master complex crochet techniques including cable stitches, intricate lace patterns, and multi-color designs. Expand with chart reading, blocking techniques, and project planning.",
+    "tags": ["crafts", "crochet", "advanced", "cables", "lace"],
+    "niches": ["fiber arts", "advanced crafts"]
+  },
+  {
+    "title": "Knitting Sweaters: Construction and Fitting",
+    "description": "Learn to knit sweaters from bottom-up and top-down construction methods with proper fitting techniques. Expand with modification tips, yarn substitution, and finishing details.",
+    "tags": ["crafts", "knitting", "sweaters", "fitting", "construction"],
+    "niches": ["fiber arts", "advanced crafts"]
+  },
+  {
+    "title": "Furniture Upcycling: From Trash to Treasure",
+    "description": "Transform old furniture pieces with paint, new hardware, and creative modifications. Expand with restoration techniques, style transformations, and value-added improvements.",
+    "tags": ["crafts", "upcycling", "furniture", "restoration", "makeover"],
+    "niches": ["DIY", "sustainability", "home decor"]
+  },
+  {
+    "title": "Vintage Suitcase Makeovers and Repurposing",
+    "description": "Convert old suitcases into functional furniture, storage solutions, and decorative pieces. Expand with hardware upgrades, lining techniques, and structural modifications.",
+    "tags": ["crafts", "upcycling", "suitcases", "vintage", "repurposing"],
+    "niches": ["DIY", "vintage decor", "sustainability"]
+  },
+  {
+    "title": "Beaded Jewelry Making: Patterns and Techniques",
+    "description": "Create intricate beaded jewelry using various stringing techniques, wire work, and pattern designs. Expand with bead types, color theory, and professional finishing methods.",
+    "tags": ["crafts", "jewelry", "beading", "patterns", "wire work"],
+    "niches": ["jewelry making", "crafts"]
+  },
+  {
+    "title": "Silver Clay Jewelry: Molding and Firing",
+    "description": "Work with precious metal clay to create custom silver jewelry pieces through sculpting and kiln firing. Expand with tool usage, texture techniques, and stone setting.",
+    "tags": ["crafts", "jewelry", "silver clay", "firing", "precious metals"],
+    "niches": ["jewelry making", "metalwork"]
+  },
+  {
+    "title": "Chain Mail Jewelry: Ancient Techniques Made Modern",
+    "description": "Create contemporary jewelry using traditional chain mail techniques with jump rings and pliers. Expand with different weave patterns, material options, and design variations.",
+    "tags": ["crafts", "jewelry", "chain mail", "traditional", "metalwork"],
+    "niches": ["jewelry making", "historical crafts"]
+  },
+  {
+    "title": "Quilting for Beginners: Piecing and Patterns",
+    "description": "Learn fundamental quilting skills including cutting, piecing, and basic quilt patterns. Expand with machine quilting, binding techniques, and design principles.",
+    "tags": ["crafts", "quilting", "sewing", "patterns", "textiles"],
+    "niches": ["textile arts", "quilting"]
+  },
+  {
+    "title": "Appliqué Techniques: Hand and Machine Methods",
+    "description": "Master both hand and machine appliqué techniques for creating decorative fabric designs. Expand with fusible methods, raw edge techniques, and dimensional appliqué.",
+    "tags": ["crafts", "appliqué", "sewing", "textiles", "decoration"],
+    "niches": ["textile arts", "sewing"]
+  },
+  {
+    "title": "Weaving on Frame Looms: Tapestry and Wall Hangings",
+    "description": "Create beautiful woven tapestries and wall hangings using frame looms and various fibers. Expand with color blending, texture techniques, and finishing methods.",
+    "tags": ["crafts", "weaving", "tapestry", "wall hangings", "fiber"],
+    "niches": ["textile arts", "weaving"]
+  },
+  {
+    "title": "Basic Woodworking: Cutting Boards and Simple Projects",
+    "description": "Start woodworking with beginner-friendly projects like cutting boards, simple boxes, and shelves. Expand with tool selection, wood types, and finishing techniques.",
+    "tags": ["crafts", "woodworking", "beginner", "cutting boards", "tools"],
+    "niches": ["woodworking", "DIY"]
+  },
+  {
+    "title": "Advanced Joinery: Dovetails and Mortise-Tenon",
+    "description": "Master traditional woodworking joints including dovetails, mortise-tenon, and finger joints for strong, beautiful connections. Expand with hand tool techniques and precision methods.",
+    "tags": ["crafts", "woodworking", "joinery", "dovetails", "advanced"],
+    "niches": ["woodworking", "advanced crafts"]
+  },
+  {
+    "title": "Wood Turning: Bowls, Vases, and Decorative Items",
+    "description": "Learn lathe techniques for turning wood into functional and decorative pieces. Expand with tool selection, wood preparation, and surface finishing.",
+    "tags": ["crafts", "woodworking", "turning", "lathe", "bowls"],
+    "niches": ["woodworking", "turning"]
+  },
+  {
+    "title": "Pottery Wheel Throwing: Centering and Shaping",
+    "description": "Master the potter's wheel from centering clay to creating bowls, mugs, and vases. Expand with glazing techniques, firing processes, and troubleshooting common issues.",
+    "tags": ["crafts", "pottery", "wheel throwing", "ceramics", "clay"],
+    "niches": ["pottery", "ceramics"]
+  },
+  {
+    "title": "Hand Building Pottery: Coil, Slab, and Pinch Methods",
+    "description": "Create pottery without a wheel using traditional hand-building techniques. Expand with surface decoration, glazing options, and kiln firing basics.",
+    "tags": ["crafts", "pottery", "hand building", "coil", "slab"],
+    "niches": ["pottery", "ceramics"]
+  },
+  {
+    "title": "Ceramic Glazing Techniques and Color Effects",
+    "description": "Explore various glazing methods to achieve different colors, textures, and effects on pottery. Expand with glaze chemistry, layering techniques, and firing atmospheres.",
+    "tags": ["crafts", "ceramics", "glazing", "pottery", "color"],
+    "niches": ["pottery", "ceramics"]
+  },
+  {
+    "title": "Scrapbooking: Layout Design and Memory Keeping",
+    "description": "Create beautiful scrapbook pages with photos, memorabilia, and journaling. Expand with digital scrapbooking, mixed media techniques, and album organization.",
+    "tags": ["crafts", "scrapbooking", "memory keeping", "photos", "layouts"],
+    "niches": ["paper crafts", "memory keeping"]
+  },
+  {
+    "title": "Project Life and Pocket Scrapbooking",
+    "description": "Simplify memory keeping with pocket-style scrapbooking systems and weekly documentation. Expand with printable inserts, photo tips, and organization systems.",
+    "tags": ["crafts", "scrapbooking", "project life", "pocket", "simple"],
+    "niches": ["paper crafts", "memory keeping"]
+  },
+  {
+    "title": "Mixed Media Art Journals and Art Books",
+    "description": "Create expressive art journal pages using various media, textures, and techniques. Expand with bookbinding basics, prompt ideas, and layering methods.",
+    "tags": ["crafts", "mixed media", "art journals", "painting", "collage"],
+    "niches": ["art journaling", "mixed media"]
+  },
+  {
+    "title": "Handmade Greeting Cards: Pop-ups and Interactive Elements",
+    "description": "Design sophisticated handmade cards with pop-up mechanisms, interactive elements, and dimensional features. Expand with engineering principles and template creation.",
+    "tags": ["crafts", "cards", "pop-ups", "paper engineering", "interactive"],
+    "niches": ["paper crafts", "card making"]
+  },
+  {
+    "title": "Stamping and Embossing Techniques for Card Making",
+    "description": "Master rubber stamping, heat embossing, and texture techniques for professional-looking cards. Expand with ink blending, masking techniques, and stamp care.",
+    "tags": ["crafts", "stamping", "embossing", "cards", "ink"],
+    "niches": ["paper crafts", "card making"]
+  },
+  {
+    "title": "Watercolor Cards: Loose and Expressive Techniques",
+    "description": "Create beautiful watercolor greeting cards with loose, expressive painting techniques. Expand with resist methods, salt techniques, and botanical illustrations.",
+    "tags": ["crafts", "watercolor", "cards", "painting", "botanical"],
+    "niches": ["paper crafts", "watercolor"]
+  },
+  {
+    "title": "Antique Furniture Restoration: Stripping and Refinishing",
+    "description": "Restore antique furniture to its original beauty through proper stripping, sanding, and refinishing techniques. Expand with wood identification, historical accuracy, and preservation ethics.",
+    "tags": ["crafts", "furniture", "restoration", "antique", "refinishing"],
+    "niches": ["restoration", "antiques", "woodworking"]
+  },
+  {
+    "title": "Chair Caning and Rush Seat Replacement",
+    "description": "Learn traditional chair seat weaving using cane, rush, or splint materials. Expand with pattern variations, tool requirements, and material sourcing.",
+    "tags": ["crafts", "furniture", "caning", "weaving", "restoration"],
+    "niches": ["furniture restoration", "traditional crafts"]
+  },
+  {
+    "title": "Upholstery Basics: Reupholstering Chairs and Cushions",
+    "description": "Master fundamental upholstery skills for reupholstering furniture pieces. Expand with foam replacement, spring repair, and fabric selection guidance.",
+    "tags": ["crafts", "upholstery", "furniture", "fabric", "restoration"],
+    "niches": ["furniture restoration", "upholstery"]
+  },
+  {
+    "title": "Succulent Gardens and Arrangements",
+    "description": "Create beautiful succulent gardens in containers, terrariums, and landscape settings. Expand with propagation techniques, soil requirements, and seasonal care.",
+    "tags": ["crafts", "succulents", "gardening", "arrangements", "plants"],
+    "niches": ["gardening", "plant crafts"]
+  },
+  {
+    "title": "Herb Garden Design and Container Growing",
+    "description": "Design functional herb gardens for cooking and crafting, including container and indoor growing options. Expand with companion planting, harvesting, and preservation methods.",
+    "tags": ["crafts", "herbs", "gardening", "container", "cooking"],
+    "niches": ["gardening", "cooking"]
+  },
+  {
+    "title": "Fairy Garden Creation: Miniature Landscapes",
+    "description": "Build enchanting fairy gardens with miniature plants, houses, and accessories. Expand with weatherproofing, plant selection, and storytelling elements.",
+    "tags": ["crafts", "fairy gardens", "miniatures", "landscaping", "fantasy"],
+    "niches": ["gardening", "miniatures", "kids crafts"]
+  },
+  {
+    "title": "Thanksgiving Centerpieces and Fall Decor",
+    "description": "Create stunning Thanksgiving table settings and autumn decorations using natural elements and seasonal colors. Expand with preservation techniques and budget-friendly options.",
+    "tags": ["crafts", "thanksgiving", "fall", "centerpieces", "seasonal"],
+    "niches": ["seasonal crafts", "home decor"]
+  },
+  {
+    "title": "Valentine's Day Romantic DIY Gifts",
+    "description": "Craft heartfelt Valentine's gifts including photo albums, custom jewelry, and romantic home decor. Expand with personalization ideas and packaging presentation.",
+    "tags": ["crafts", "valentines", "gifts", "romantic", "DIY"],
+    "niches": ["seasonal crafts", "gift making"]
+  },
+  {
+    "title": "4th of July Patriotic Decorations",
+    "description": "Create patriotic decorations for Independence Day celebrations including banners, wreaths, and table settings. Expand with outdoor decor and party planning elements.",
+    "tags": ["crafts", "4th of july", "patriotic", "decorations", "red white blue"],
+    "niches": ["seasonal crafts", "party planning"]
+  },
+  {
+    "title": "New Year's Eve Party Decorations and Favors",
+    "description": "Design glamorous New Year's Eve decorations, party favors, and photo booth props. Expand with metallic techniques, countdown displays, and celebration themes.",
+    "tags": ["crafts", "new years", "party", "decorations", "glamorous"],
+    "niches": ["seasonal crafts", "party planning"]
+  },
+  {
+    "title": "Mother's Day Handmade Gifts and Cards",
+    "description": "Create meaningful Mother's Day gifts including personalized photo frames, spa products, and heartfelt cards. Expand with kid-friendly options and keepsake ideas.",
+    "tags": ["crafts", "mothers day", "gifts", "handmade", "personal"],
+    "niches": ["seasonal crafts", "gift making"]
+  },
+  {
+    "title": "Father's Day Workshop Projects and Gifts",
+    "description": "Build practical Father's Day gifts in the workshop including tool organizers, grilling accessories, and personalized items. Expand with beginner-friendly woodworking projects.",
+    "tags": ["crafts", "fathers day", "workshop", "woodworking", "practical"],
+    "niches": ["seasonal crafts", "woodworking"]
+  },
+  {
+    "title": "Graduation Cap Decorating Ideas",
+    "description": "Personalize graduation caps with creative decorations reflecting achievements, majors, and future plans. Expand with attachment methods, theme ideas, and photo documentation.",
+    "tags": ["crafts", "graduation", "caps", "decorating", "celebration"],
+    "niches": ["seasonal crafts", "academic"]
+  },
+  {
+    "title": "Wedding DIY Projects: Invitations to Centerpieces",
+    "description": "Create beautiful wedding elements on a budget including invitations, decorations, and favors. Expand with timeline planning, cost breakdowns, and vendor coordination.",
+    "tags": ["crafts", "wedding", "DIY", "invitations", "centerpieces"],
+    "niches": ["wedding crafts", "event planning"]
+  },
+  {
+    "title": "Baby Shower Decorations and Keepsakes",
+    "description": "Design memorable baby shower decorations and create lasting keepsakes for the new arrival. Expand with gender-neutral options, interactive elements, and gift coordination.",
+    "tags": ["crafts", "baby shower", "decorations", "keepsakes", "celebration"],
+    "niches": ["party planning", "baby crafts"]
+  },
+  {
+    "title": "Birthday Party Themes and DIY Decorations",
+    "description": "Create cohesive birthday party themes with handmade decorations, party favors, and interactive elements. Expand with age-appropriate activities and budget planning.",
+    "tags": ["crafts", "birthday", "party", "themes", "decorations"],
+    "niches": ["party planning", "kids crafts"]
+  },
+  {
+    "title": "Glass Etching and Frosting Techniques",
+    "description": "Create beautiful etched glass designs on windows, mirrors, and glassware using etching cream and stencils. Expand with sandblasting methods and design transfer techniques.",
+    "tags": ["crafts", "glass etching", "frosting", "windows", "decorative"],
+    "niches": ["glass crafts", "home decor"]
+  },
+  {
+    "title": "Stained Glass Suncatchers and Panels",
+    "description": "Learn traditional stained glass techniques to create colorful suncatchers and decorative panels. Expand with lead came methods, glass cutting, and safety procedures.",
+    "tags": ["crafts", "stained glass", "suncatchers", "traditional", "colorful"],
+    "niches": ["glass crafts", "traditional arts"]
+  },
+  {
+    "title": "Fused Glass Jewelry and Art Pieces",
+    "description": "Create contemporary fused glass art and jewelry using kiln-forming techniques. Expand with compatible glass systems, firing schedules, and design principles.",
+    "tags": ["crafts", "fused glass", "jewelry", "kiln", "contemporary"],
+    "niches": ["glass crafts", "jewelry making"]
+  },
+  {
+    "title": "Mosaic Art: From Broken Tiles to Beautiful Designs",
+    "description": "Transform broken ceramics, tiles, and glass into stunning mosaic artworks for both indoor and outdoor applications. Expand with grouting techniques and weather resistance.",
+    "tags": ["crafts", "mosaic", "tiles", "broken", "art"],
+    "niches": ["mosaic arts", "recycling"]
+  },
+  {
+    "title": "Pebble and Stone Mosaic Projects",
+    "description": "Create natural mosaic designs using pebbles, stones, and river rocks for garden paths and decorative panels. Expand with mortar techniques and design layout principles.",
+    "tags": ["crafts", "mosaic", "pebbles", "stones", "natural"],
+    "niches": ["mosaic arts", "garden crafts"]
+  },
+  {
+    "title": "Mirror Mosaic Decorative Objects",
+    "description": "Design glamorous decorative pieces using mirror tiles and fragments in mosaic patterns. Expand with lighting effects, safety considerations, and grout selection.",
+    "tags": ["crafts", "mosaic", "mirror", "glamorous", "decorative"],
+    "niches": ["mosaic arts", "home decor"]
+  },
+  {
+    "title": "Basket Weaving: Traditional and Modern Techniques",
+    "description": "Learn basket weaving using both traditional natural materials and modern synthetic options. Expand with different weave patterns, handle techniques, and functional designs.",
+    "tags": ["crafts", "basket weaving", "traditional", "natural", "functional"],
+    "niches": ["traditional crafts", "weaving"]
+  },
+  {
+    "title": "Pine Needle Basketry and Coiling",
+    "description": "Create beautiful coiled baskets using pine needles and waxed thread or raffia. Expand with different coiling techniques, decorative elements, and size variations.",
+    "tags": ["crafts", "pine needles", "basketry", "coiling", "natural"],
+    "niches": ["traditional crafts", "natural crafts"]
+  },
+  {
+    "title": "Paper Basket Making: Recycled and Decorative",
+    "description": "Weave functional baskets from recycled paper, magazines, and newspapers with decorative finishes. Expand with strengthening techniques, waterproofing, and color coordination.",
+    "tags": ["crafts", "paper baskets", "recycled", "magazines", "functional"],
+    "niches": ["paper crafts", "recycling"]
+  },
+  {
+    "title": "Metalworking: Copper Sheet Projects",
+    "description": "Work with copper sheet metal to create decorative bowls, planters, and art pieces using forming and patina techniques. Expand with tool selection and safety procedures.",
+    "tags": ["crafts", "metalworking", "copper", "forming", "patina"],
+    "niches": ["metalwork", "sculptural"]
+  },
+  {
+    "title": "Blacksmithing Basics: Simple Tools and Hardware",
+    "description": "Learn fundamental blacksmithing skills to create simple tools, hooks, and hardware pieces. Expand with forge operation, hammer techniques, and heat treatment.",
+    "tags": ["crafts", "blacksmithing", "forge", "tools", "traditional"],
+    "niches": ["blacksmithing", "traditional crafts"]
+  },
+  {
+    "title": "Aluminum Can Crafts and Recycling Projects",
+    "description": "Transform aluminum cans into functional and decorative items including planters, lanterns, and sculptures. Expand with cutting techniques, safety measures, and finishing options.",
+    "tags": ["crafts", "aluminum cans", "recycling", "planters", "upcycling"],
+    "niches": ["recycling", "sustainability"]
+  },
+  {
+    "title": "Dollhouse Building: Structure and Miniature Construction",
+    "description": "Build detailed dollhouses from scratch including structural design, room layouts, and miniature construction techniques. Expand with electrical systems, landscaping, and period accuracy.",
+    "tags": ["crafts", "dollhouse", "miniatures", "construction", "detailed"],
+    "niches": ["miniatures", "woodworking"]
+  },
+  {
+    "title": "Model Train Scenery and Landscape Building",
+    "description": "Create realistic model train landscapes with mountains, trees, buildings, and water features. Expand with weathering techniques, lighting systems, and scale considerations.",
+    "tags": ["crafts", "model trains", "scenery", "landscape", "realistic"],
+    "niches": ["model making", "miniatures"]
+  },
+  {
+    "title": "Scale Model Building: Aircraft, Ships, and Vehicles",
+    "description": "Build and detail scale models of aircraft, ships, and vehicles with weathering and realistic painting techniques. Expand with research methods, photo-etched details, and display options.",
+    "tags": ["crafts", "scale models", "aircraft", "ships", "weathering"],
+    "niches": ["model making", "historical"]
+  },
+  {
+    "title": "Soap Carving and Sculpture Basics",
+    "description": "Learn sculptural techniques using soap as an accessible medium for beginners. Expand with tool selection, design planning, and preservation methods for finished pieces.",
+    "tags": ["crafts", "soap carving", "sculpture", "beginner", "accessible"],
+    "niches": ["sculpture", "beginner crafts"]
+  },
+  {
+    "title": "Ice Sculpture Carving Techniques",
+    "description": "Create stunning ice sculptures for events and artistic display using chainsaws, chisels, and shaping tools. Expand with preservation methods, transportation, and safety protocols.",
+    "tags": ["crafts", "ice sculpture", "carving", "events", "artistic"],
+    "niches": ["sculpture", "event art"]
+  },
+  {
+    "title": "Sand Sculpture Building and Competition Techniques",
+    "description": "Master sand sculpture techniques from basic castles to complex architectural forms. Expand with sand preparation, structural engineering, and preservation sprays.",
+    "tags": ["crafts", "sand sculpture", "beach", "competition", "architectural"],
+    "niches": ["sculpture", "beach crafts"]
+  },
+  {
+    "title": "Book Arts: Binding, Folding, and Altered Books",
+    "description": "Explore book arts including traditional binding, accordion books, and altered book sculptures. Expand with paper selection, tool techniques, and artist book concepts.",
+    "tags": ["crafts", "book arts", "binding", "altered books", "paper"],
+    "niches": ["book arts", "paper crafts"]
+  },
+  {
+    "title": "Calligraphy and Hand Lettering Projects",
+    "description": "Master beautiful hand lettering and calligraphy for invitations, art pieces, and personal projects. Expand with different alphabets, ink techniques, and digital integration.",
+    "tags": ["crafts", "calligraphy", "lettering", "invitations", "ink"],
+    "niches": ["lettering", "paper arts"]
+  },
+  {
+    "title": "Printmaking: Linocut and Block Printing",
+    "description": "Create original prints using linocut and woodblock printing techniques for art pieces and fabric printing. Expand with multi-color registration, paper selection, and edition planning.",
+    "tags": ["crafts", "printmaking", "linocut", "block printing", "original"],
+    "niches": ["printmaking", "fine arts"]
+  },
+  {
+    "title": "Screen Printing: T-Shirts and Poster Art",
+    "description": "Learn screen printing techniques for creating custom t-shirts, posters, and fabric designs. Expand with emulsion techniques, color separations, and production workflows.",
+    "tags": ["crafts", "screen printing", "t-shirts", "posters", "custom"],
+    "niches": ["screen printing", "graphic arts"]
+  },
+  {
+    "title": "Etching and Engraving: Traditional Printmaking",
+    "description": "Master traditional etching and engraving techniques for fine art prints using metal plates and acid. Expand with aquatint methods, plate preparation, and edition printing.",
+    "tags": ["crafts", "etching", "engraving", "traditional", "fine art"],
+    "niches": ["printmaking", "traditional arts"]
+  },
+  {
+    "title": "Photography Crafts: Photo Transfer and Mixed Media",
+    "description": "Incorporate photography into craft projects using transfer techniques, collage, and mixed media applications. Expand with digital printing options, archival methods, and artistic interpretation.",
+    "tags": ["crafts", "photography", "transfer", "mixed media", "collage"],
+    "niches": ["photography", "mixed media"]
+  },
+  {
+    "title": "Vintage Photo Restoration and Preservation",
+    "description": "Learn to restore and preserve vintage photographs through digital and traditional methods. Expand with archival storage, damage assessment, and family history documentation.",
+    "tags": ["crafts", "photo restoration", "vintage", "preservation", "family history"],
+    "niches": ["restoration", "genealogy"]
+  },
+  {
+    "title": "Alternative Photography: Cyanotype and Van Dyke Prints",
+    "description": "Explore historical photography processes including cyanotype blueprints and Van Dyke brown prints. Expand with chemistry preparation, contact printing, and artistic applications.",
+    "tags": ["crafts", "alternative photography", "cyanotype", "historical", "blueprints"],
+    "niches": ["photography", "historical arts"]
+  },
+  {
+    "title": "Perfume and Fragrance Blending",
+    "description": "Create custom perfumes and fragrances using essential oils and aromatic compounds. Expand with scent families, blending ratios, and bottle presentation.",
+    "tags": ["crafts", "perfume", "fragrance", "essential oils", "blending"],
+    "niches": ["fragrance", "aromatherapy"]
+  },
+  {
+    "title": "Natural Cosmetics: Lipstick and Eye Shadow Making",
+    "description": "Formulate natural cosmetics including lipsticks, eye shadows, and blush using mineral pigments and natural waxes. Expand with color matching, packaging, and safety testing.",
+    "tags": ["crafts", "cosmetics", "natural", "lipstick", "minerals"],
+    "niches": ["natural beauty", "cosmetics"]
+  },
+  {
+    "title": "Bath Bomb Making: Fizzy and Moisturizing",
+    "description": "Create luxurious bath bombs with different scents, colors, and moisturizing properties. Expand with molding techniques, ingredient sourcing, and packaging for gifts.",
+    "tags": ["crafts", "bath bombs", "moisturizing", "scents", "luxury"],
+    "niches": ["bath products", "self-care"]
+  }
+]

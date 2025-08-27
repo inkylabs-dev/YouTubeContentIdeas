@@ -1,0 +1,314 @@
+[
+    {
+        "title": "How to [Do Something] in [X Minutes]",
+        "description": "Create a step-by-step tutorial showing how to accomplish a specific task quickly. Expand by varying the task and time frame.",
+        "tags": ["tutorial", "how-to", "quick guide"],
+        "niches": ["productivity", "technology", "lifestyle"]
+    },
+    {
+        "title": "Beginner's Guide to [Skill/Tool]",
+        "description": "Introduce the basics of a skill or tool. Expand by targeting different experience levels or tools.",
+        "tags": ["beginner", "guide", "tutorial"],
+        "niches": ["education", "software", "crafts"]
+    },
+    {
+        "title": "Top 5 Tips for [Achieving Goal]",
+        "description": "Share actionable tips for reaching a specific goal. Expand by changing the goal or increasing the number of tips.",
+        "tags": ["tips", "advice", "how-to"],
+        "niches": ["self-improvement", "fitness", "business"]
+    },
+    {
+        "title": "Step-by-Step [Project/Task] Tutorial",
+        "description": "Break down a project or task into clear steps. Expand by varying the project or task.",
+        "tags": ["step-by-step", "project", "tutorial"],
+        "niches": ["DIY", "technology", "art"]
+    },
+    {
+        "title": "Common Mistakes in [Skill/Process] and How to Avoid Them",
+        "description": "Highlight frequent errors and provide solutions. Expand by focusing on different skills or processes.",
+        "tags": ["mistakes", "tips", "how-to"],
+        "niches": ["education", "cooking", "coding"]
+    },
+    {
+        "title": "Ultimate [Tool/Software] Setup Guide",
+        "description": "Show how to install and configure a tool or software. Expand by covering updates or advanced settings.",
+        "tags": ["setup", "guide", "software"],
+        "niches": ["technology", "gaming", "productivity"]
+    },
+    {
+        "title": "How to Fix [Common Problem] in [X Steps]",
+        "description": "Provide a simple solution to a common problem. Expand by varying the problem and number of steps.",
+        "tags": ["fix", "problem-solving", "tutorial"],
+        "niches": ["tech support", "home improvement", "automotive"]
+    },
+    {
+        "title": "Explained: [Complex Topic] in Simple Terms",
+        "description": "Break down a complex topic for beginners. Expand by choosing different topics or audiences.",
+        "tags": ["explained", "simple", "education"],
+        "niches": ["science", "finance", "technology"]
+    },
+    {
+        "title": "How to Get Started with [Hobby/Skill]",
+        "description": "Guide viewers through the first steps of a hobby or skill. Expand by targeting different interests.",
+        "tags": ["getting started", "hobby", "tutorial"],
+        "niches": ["arts", "sports", "music"]
+    },
+    {
+        "title": "DIY [Project] Using [Materials]",
+        "description": "Show how to create something using specific materials. Expand by changing the project or materials.",
+        "tags": ["DIY", "project", "tutorial"],
+        "niches": ["crafts", "home decor", "engineering"]
+    },
+    {
+        "title": "How to Master [Skill] in [Timeframe]",
+        "description": "Outline a plan for mastering a skill. Expand by adjusting the skill or timeframe.",
+        "tags": ["mastery", "learning", "tutorial"],
+        "niches": ["language learning", "music", "sports"]
+    },
+    {
+        "title": "A Day in the Life of a [Profession/Role]",
+        "description": "Showcase the daily routine of a profession. Expand by featuring different roles.",
+        "tags": ["day in the life", "career", "tutorial"],
+        "niches": ["career", "education", "vlog"]
+    },
+    {
+        "title": "How to Organize Your [Workspace/Tools]",
+        "description": "Teach organization strategies for spaces or tools. Expand by focusing on different environments.",
+        "tags": ["organization", "workspace", "tutorial"],
+        "niches": ["productivity", "office", "home"]
+    },
+    {
+        "title": "How to Create [Type of Content] for [Platform]",
+        "description": "Guide viewers in making content for a specific platform. Expand by changing content type or platform.",
+        "tags": ["content creation", "platform", "tutorial"],
+        "niches": ["social media", "marketing", "video"]
+    },
+    {
+        "title": "How to Save Money on [Product/Service]",
+        "description": "Share money-saving tips for products or services. Expand by targeting different items.",
+        "tags": ["saving money", "tips", "tutorial"],
+        "niches": ["finance", "shopping", "lifestyle"]
+    },
+    {
+        "title": "How to Improve Your [Skill/Performance]",
+        "description": "Offer strategies for skill improvement. Expand by focusing on various skills.",
+        "tags": ["improvement", "performance", "tutorial"],
+        "niches": ["sports", "music", "public speaking"]
+    },
+    {
+        "title": "How to Build a [Project] from Scratch",
+        "description": "Guide viewers through building something from the ground up. Expand by varying the project.",
+        "tags": ["build", "from scratch", "tutorial"],
+        "niches": ["engineering", "coding", "DIY"]
+    },
+    {
+        "title": "How to Use [Feature] in [Software/App]",
+        "description": "Demonstrate a specific feature in software. Expand by covering different features or apps.",
+        "tags": ["software", "feature", "tutorial"],
+        "niches": ["technology", "productivity", "design"]
+    },
+    {
+        "title": "How to Prepare for [Event/Exam]",
+        "description": "Share preparation tips for events or exams. Expand by focusing on different events.",
+        "tags": ["preparation", "exam", "tutorial"],
+        "niches": ["education", "career", "fitness"]
+    },
+    {
+        "title": "How to Troubleshoot [Issue/Problem]",
+        "description": "Guide viewers through troubleshooting steps. Expand by targeting various issues.",
+        "tags": ["troubleshooting", "problem-solving", "tutorial"],
+        "niches": ["technology", "appliances", "automotive"]
+    },
+    {
+        "title": "How to Customize Your [Device/Software]",
+        "description": "Show customization options for devices or software. Expand by covering different devices.",
+        "tags": ["customization", "device", "tutorial"],
+        "niches": ["technology", "mobile", "gaming"]
+    },
+    {
+        "title": "How to Start a [Business/Project] with No Experience",
+        "description": "Provide a beginner-friendly guide to starting something new. Expand by changing the business or project type.",
+        "tags": ["start", "business", "tutorial"],
+        "niches": ["entrepreneurship", "side hustle", "education"]
+    },
+    {
+        "title": "How to Make [Recipe] in [X Minutes]",
+        "description": "Share quick and easy recipes. Expand by varying the recipe and time.",
+        "tags": ["cooking", "recipe", "tutorial"],
+        "niches": ["food", "lifestyle", "health"]
+    },
+    {
+        "title": "How to Edit [Type of File] Using [Software]",
+        "description": "Demonstrate editing files with specific software. Expand by changing file types or software.",
+        "tags": ["editing", "software", "tutorial"],
+        "niches": ["photography", "video", "writing"]
+    },
+    {
+        "title": "How to Plan Your [Week/Month/Year]",
+        "description": "Teach planning and organization strategies. Expand by focusing on different timeframes.",
+        "tags": ["planning", "organization", "tutorial"],
+        "niches": ["productivity", "self-improvement", "career"]
+    },
+    {
+        "title": "How to Learn [Language/Skill] Fast",
+        "description": "Share accelerated learning techniques. Expand by targeting different languages or skills.",
+        "tags": ["learning", "language", "tutorial"],
+        "niches": ["education", "language", "self-improvement"]
+    },
+    {
+        "title": "How to Set Up [Device/Equipment]",
+        "description": "Guide viewers through device or equipment setup. Expand by covering various devices.",
+        "tags": ["setup", "device", "tutorial"],
+        "niches": ["technology", "photography", "gaming"]
+    },
+    {
+        "title": "How to Stay Motivated While [Doing Task]",
+        "description": "Offer motivation tips for completing tasks. Expand by focusing on different tasks.",
+        "tags": ["motivation", "productivity", "tutorial"],
+        "niches": ["self-improvement", "fitness", "education"]
+    },
+    {
+        "title": "How to Create a [Portfolio/Resume] That Stands Out",
+        "description": "Teach viewers how to make impressive portfolios or resumes. Expand by targeting different industries.",
+        "tags": ["portfolio", "resume", "tutorial"],
+        "niches": ["career", "design", "education"]
+    },
+    {
+        "title": "How to Automate [Task/Process] Using [Tool]",
+        "description": "Show automation techniques for tasks or processes. Expand by changing the task or tool.",
+        "tags": ["automation", "tool", "tutorial"],
+        "niches": ["technology", "productivity", "business"]
+    },
+    {
+        "title": "How to Practice [Skill] Effectively",
+        "description": "Share effective practice routines. Expand by focusing on different skills.",
+        "tags": ["practice", "skill", "tutorial"],
+        "niches": ["music", "sports", "art"]
+    },
+    {
+        "title": "How to Backup and Restore [Data/Files]",
+        "description": "Guide viewers through data backup and restoration. Expand by covering different data types.",
+        "tags": ["backup", "restore", "tutorial"],
+        "niches": ["technology", "IT", "personal data"]
+    },
+    {
+        "title": "How to Secure Your [Account/Device]",
+        "description": "Teach security best practices. Expand by focusing on different accounts or devices.",
+        "tags": ["security", "account", "tutorial"],
+        "niches": ["technology", "cybersecurity", "personal safety"]
+    },
+    {
+        "title": "How to Create [Art/Design] Using [Tool/Medium]",
+        "description": "Demonstrate art or design creation with specific tools. Expand by varying the tool or medium.",
+        "tags": ["art", "design", "tutorial"],
+        "niches": ["art", "design", "crafts"]
+    },
+    {
+        "title": "How to Analyze [Data/Results] with [Software]",
+        "description": "Show data analysis techniques using software. Expand by changing the data type or software.",
+        "tags": ["data analysis", "software", "tutorial"],
+        "niches": ["data science", "business", "education"]
+    },
+    {
+        "title": "How to Collaborate on [Project/Task] Remotely",
+        "description": "Teach remote collaboration strategies. Expand by focusing on different projects or tools.",
+        "tags": ["collaboration", "remote work", "tutorial"],
+        "niches": ["business", "technology", "education"]
+    },
+    {
+        "title": "How to Build Good Habits for [Goal]",
+        "description": "Share habit-building techniques for achieving goals. Expand by targeting different goals.",
+        "tags": ["habits", "goal", "tutorial"],
+        "niches": ["self-improvement", "health", "productivity"]
+    },
+    {
+        "title": "How to Use [App/Website] for [Purpose]",
+        "description": "Demonstrate how to use an app or website for a specific purpose. Expand by changing the app or purpose.",
+        "tags": ["app", "website", "tutorial"],
+        "niches": ["technology", "education", "productivity"]
+    },
+    {
+        "title": "How to Record and Edit [Audio/Video]",
+        "description": "Guide viewers through recording and editing media. Expand by focusing on different media types.",
+        "tags": ["recording", "editing", "tutorial"],
+        "niches": ["music", "video", "podcasting"]
+    },
+    {
+        "title": "How to Manage Your [Time/Tasks] Efficiently",
+        "description": "Teach time and task management strategies. Expand by focusing on different methods.",
+        "tags": ["time management", "tasks", "tutorial"],
+        "niches": ["productivity", "self-improvement", "career"]
+    },
+    {
+        "title": "How to Create a [Website/Blog] from Scratch",
+        "description": "Show the process of building a website or blog. Expand by using different platforms or styles.",
+        "tags": ["website", "blog", "tutorial"],
+        "niches": ["technology", "business", "writing"]
+    },
+    {
+        "title": "How to Optimize [Process/Workflow] for Better Results",
+        "description": "Share optimization tips for processes or workflows. Expand by targeting different industries.",
+        "tags": ["optimization", "workflow", "tutorial"],
+        "niches": ["business", "technology", "productivity"]
+    },
+    {
+        "title": "How to Create Engaging [Presentations/Slides]",
+        "description": "Teach viewers how to make effective presentations. Expand by focusing on different tools or audiences.",
+        "tags": ["presentations", "slides", "tutorial"],
+        "niches": ["education", "business", "public speaking"]
+    },
+    {
+        "title": "How to Find the Best [Product/Service] for Your Needs",
+        "description": "Guide viewers in choosing products or services. Expand by targeting different categories.",
+        "tags": ["product review", "service", "tutorial"],
+        "niches": ["shopping", "technology", "lifestyle"]
+    },
+    {
+        "title": "How to Set and Track Your [Goals/Habits]",
+        "description": "Show methods for setting and tracking goals or habits. Expand by using different tools.",
+        "tags": ["goal setting", "tracking", "tutorial"],
+        "niches": ["self-improvement", "productivity", "health"]
+    },
+    {
+        "title": "How to Network with [Professionals/Peers] Online",
+        "description": "Teach online networking strategies. Expand by focusing on different platforms or industries.",
+        "tags": ["networking", "online", "tutorial"],
+        "niches": ["career", "business", "education"]
+    },
+    {
+        "title": "How to Create [Marketing Material] for Your [Business/Brand]",
+        "description": "Guide viewers in making marketing materials. Expand by changing the material or business type.",
+        "tags": ["marketing", "branding", "tutorial"],
+        "niches": ["business", "marketing", "design"]
+    },
+    {
+        "title": "How to Maintain Your [Device/Equipment]",
+        "description": "Show maintenance routines for devices or equipment. Expand by focusing on different items.",
+        "tags": ["maintenance", "device", "tutorial"],
+        "niches": ["technology", "automotive", "home"]
+    },
+    {
+        "title": "How to Use [Shortcut/Trick] to Save Time",
+        "description": "Share time-saving shortcuts or tricks. Expand by targeting different tools or tasks.",
+        "tags": ["shortcut", "trick", "tutorial"],
+        "niches": ["productivity", "technology", "software"]
+    },
+    {
+        "title": "How to Create [Printable/Template] for [Purpose]",
+        "description": "Teach viewers how to design printables or templates. Expand by changing the purpose or format.",
+        "tags": ["printable", "template", "tutorial"],
+        "niches": ["education", "organization", "design"]
+    },
+    {
+        "title": "How to Repurpose [Old Item/Content]",
+        "description": "Show creative ways to reuse items or content. Expand by focusing on different items.",
+        "tags": ["repurpose", "reuse", "tutorial"],
+        "niches": ["DIY", "sustainability", "crafts"]
+    },
+    {
+        "title": "How to Evaluate and Improve Your [Performance/Results]",
+        "description": "Guide viewers in self-evaluation and improvement. Expand by targeting different areas.",
+        "tags": ["evaluation", "improvement", "tutorial"],
+        "niches": ["self-improvement", "education", "sports"]
+    }
+]

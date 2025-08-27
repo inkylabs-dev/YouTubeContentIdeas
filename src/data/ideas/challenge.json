@@ -1,0 +1,122 @@
+[
+  {
+    "title": "24 Hour No Technology Challenge",
+    "description": "Living a full day without any modern technology including phones, computers, or smart devices. Expand with creative activities, interactions with people, and surprising discoveries.",
+    "tags": ["challenge", "technology", "lifestyle", "24 hours"],
+    "niches": ["challenge", "lifestyle"]
+  },
+  {
+    "title": "Eating Only [Color] Foods for a Week",
+    "description": "Challenge to eat foods of only one color for seven days. Expand with meal planning, nutrition analysis, and creative recipe solutions.",
+    "tags": ["challenge", "food", "diet", "color"],
+    "niches": ["challenge", "food"]
+  },
+  {
+    "title": "Learning a New Language in 30 Days",
+    "description": "Intensive challenge to achieve conversational level in a new language within one month. Expand with daily progress, methods used, and real conversations.",
+    "tags": ["challenge", "language", "learning", "30 days"],
+    "niches": ["challenge", "education"]
+  },
+  {
+    "title": "Living Like It's [Year] for a Week",
+    "description": "Experience life from a specific historical period for one week. Expand with period-appropriate clothing, food, activities, and technology restrictions.",
+    "tags": ["challenge", "history", "lifestyle", "time period"],
+    "niches": ["challenge", "lifestyle"]
+  },
+  {
+    "title": "No Spending Challenge for 30 Days",
+    "description": "Surviving an entire month without spending money on non-essentials. Expand with creative solutions, bartering, and discovering free activities.",
+    "tags": ["challenge", "money", "frugal", "30 days"],
+    "niches": ["challenge", "finance"]
+  },
+  {
+    "title": "Yes to Everything Challenge for 24 Hours",
+    "description": "Saying yes to every reasonable request and opportunity for one day. Expand with unexpected adventures, personal growth, and surprising outcomes.",
+    "tags": ["challenge", "lifestyle", "yes", "24 hours"],
+    "niches": ["challenge", "lifestyle"]
+  },
+  {
+    "title": "Building a House Using Only [Material]",
+    "description": "Constructing a functional shelter using only one type of material like cardboard, plastic bottles, or newspaper. Expand with engineering challenges and weatherproofing.",
+    "tags": ["challenge", "building", "DIY", "construction"],
+    "niches": ["challenge", "DIY"]
+  },
+  {
+    "title": "Extreme Minimalism: Living With Only 10 Items",
+    "description": "Reducing all possessions to just 10 items for one month. Expand with decision-making process, daily challenges, and lifestyle adaptations.",
+    "tags": ["challenge", "minimalism", "lifestyle", "possessions"],
+    "niches": ["challenge", "lifestyle"]
+  },
+  {
+    "title": "Master a New Skill in 100 Days",
+    "description": "Intensive learning challenge to become proficient in a specific skill within 100 days. Expand with daily practice, progress tracking, and expert feedback.",
+    "tags": ["challenge", "skills", "learning", "100 days"],
+    "niches": ["challenge", "education"]
+  },
+  {
+    "title": "Random Acts of Kindness Challenge",
+    "description": "Performing one random act of kindness every day for a month. Expand with community impact, personal stories, and inspiring others to join.",
+    "tags": ["challenge", "kindness", "community", "social"],
+    "niches": ["challenge", "lifestyle"]
+  },
+  {
+    "title": "Living in a Tiny Space for 30 Days",
+    "description": "Confining living space to an extremely small area like a closet or van. Expand with space optimization, mental health impacts, and creative solutions.",
+    "tags": ["challenge", "tiny living", "space", "30 days"],
+    "niches": ["challenge", "lifestyle"]
+  },
+  {
+    "title": "No Mirror Challenge for One Week",
+    "description": "Going an entire week without looking in mirrors or reflective surfaces. Expand with self-perception changes, confidence building, and social interactions.",
+    "tags": ["challenge", "self image", "confidence", "week"],
+    "niches": ["challenge", "lifestyle"]
+  },
+  {
+    "title": "Survive on $1 Per Day Challenge",
+    "description": "Meeting all daily needs with just one dollar per day for a week. Expand with budgeting strategies, resourcefulness, and community support.",
+    "tags": ["challenge", "budget", "survival", "money"],
+    "niches": ["challenge", "finance"]
+  },
+  {
+    "title": "Sleep Deprivation Challenge: 48 Hours Awake",
+    "description": "Staying awake for 48 consecutive hours while documenting the mental and physical effects. Expand with safety measures, productivity tests, and recovery process.",
+    "tags": ["challenge", "sleep", "endurance", "48 hours"],
+    "niches": ["challenge", "health"]
+  },
+  {
+    "title": "Cold Shower Challenge for 30 Days",
+    "description": "Taking only cold showers for an entire month. Expand with health benefits, mental toughness building, and adaptation strategies.",
+    "tags": ["challenge", "cold", "health", "30 days"],
+    "niches": ["challenge", "health"]
+  },
+  {
+    "title": "No Social Media Challenge for One Month",
+    "description": "Completely avoiding all social media platforms for 30 days. Expand with withdrawal effects, alternative activities, and relationship changes.",
+    "tags": ["challenge", "social media", "digital detox", "30 days"],
+    "niches": ["challenge", "lifestyle"]
+  },
+  {
+    "title": "Walking 10,000 Steps Every Day for 100 Days",
+    "description": "Committing to 10,000 daily steps for 100 consecutive days regardless of weather or circumstances. Expand with health improvements and creative walking strategies.",
+    "tags": ["challenge", "fitness", "walking", "100 days"],
+    "niches": ["challenge", "fitness"]
+  },
+  {
+    "title": "Backwards Day Challenge: Everything in Reverse",
+    "description": "Doing everything backwards for 24 hours - walking, talking, eating, and sleeping. Expand with coordination challenges and brain training effects.",
+    "tags": ["challenge", "backwards", "coordination", "24 hours"],
+    "niches": ["challenge", "lifestyle"]
+  },
+  {
+    "title": "Zero Waste Challenge for One Month",
+    "description": "Producing absolutely no waste for 30 days by refusing, reducing, reusing, and recycling everything. Expand with creative solutions and environmental impact.",
+    "tags": ["challenge", "zero waste", "environment", "30 days"],
+    "niches": ["challenge", "environment"]
+  },
+  {
+    "title": "Speaking Only in Questions for 24 Hours",
+    "description": "Communicating exclusively through questions for an entire day. Expand with social reactions, communication challenges, and philosophical insights.",
+    "tags": ["challenge", "communication", "questions", "24 hours"],
+    "niches": ["challenge", "lifestyle"]
+  }
+]

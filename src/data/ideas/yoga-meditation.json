@@ -1,0 +1,110 @@
+[
+  {
+    "title": "10 Minute [Yoga Routine]",
+    "description": "Create a short 10-minute yoga routine for beginners or busy individuals. Expand with variations for morning or evening practice.",
+    "tags": ["yoga", "routine", "beginner", "wellness"],
+    "niches": ["yoga", "meditation"]
+  },
+  {
+    "title": "Guided [Meditation Session]",
+    "description": "Record a guided meditation session focusing on relaxation or mindfulness. Expand by offering different lengths or themes.",
+    "tags": ["meditation", "guided", "relaxation", "mindfulness"],
+    "niches": ["meditation", "wellness"]
+  },
+  {
+    "title": "5 Poses for [Stress Relief]",
+    "description": "Showcase five yoga poses that help reduce stress. Expand by explaining benefits and modifications for different skill levels.",
+    "tags": ["yoga", "stress relief", "relaxation", "poses"],
+    "niches": ["yoga", "wellness"]
+  },
+  {
+    "title": "Morning [Yoga Flow]",
+    "description": "Design a yoga flow routine to energize mornings. Expand with stretches, breathing techniques, and tips for beginners.",
+    "tags": ["yoga", "morning", "flow", "energy"],
+    "niches": ["yoga", "lifestyle"]
+  },
+  {
+    "title": "Evening [Meditation Practice]",
+    "description": "Guide viewers through a calming evening meditation. Expand by adding gentle yoga stretches before sleep.",
+    "tags": ["meditation", "evening", "sleep", "calm"],
+    "niches": ["meditation", "relaxation"]
+  },
+  {
+    "title": "Yoga for [Beginners]",
+    "description": "Introduce yoga basics for complete beginners. Expand by demonstrating foundational poses and safety tips.",
+    "tags": ["yoga", "beginner", "tutorial", "wellness"],
+    "niches": ["yoga", "fitness"]
+  },
+  {
+    "title": "Meditation for [Anxiety]",
+    "description": "Create a meditation session that helps reduce anxiety. Expand with breathing techniques and affirmations.",
+    "tags": ["meditation", "anxiety", "mental health", "calm"],
+    "niches": ["meditation", "mental health"]
+  },
+  {
+    "title": "Yoga for [Flexibility]",
+    "description": "Focus on yoga sequences that improve flexibility. Expand with tips on warming up and avoiding injury.",
+    "tags": ["yoga", "flexibility", "stretches", "mobility"],
+    "niches": ["yoga", "fitness"]
+  },
+  {
+    "title": "Mindful [Breathing Exercise]",
+    "description": "Teach mindful breathing exercises for calmness. Expand with use cases for work, study, or relaxation.",
+    "tags": ["meditation", "breathing", "mindfulness", "calm"],
+    "niches": ["meditation", "wellness"]
+  },
+  {
+    "title": "Yoga for [Back Pain]",
+    "description": "Show yoga poses that relieve back pain. Expand with explanations of posture benefits and cautions.",
+    "tags": ["yoga", "back pain", "healing", "poses"],
+    "niches": ["yoga", "health"]
+  },
+  {
+    "title": "Meditation for [Focus]",
+    "description": "Create a meditation guide that enhances focus and concentration. Expand with techniques useful for work or study.",
+    "tags": ["meditation", "focus", "productivity", "concentration"],
+    "niches": ["meditation", "productivity"]
+  },
+  {
+    "title": "Chair [Yoga Routine]",
+    "description": "Demonstrate a yoga routine that can be done on a chair. Expand with variations for office workers or seniors.",
+    "tags": ["yoga", "chair", "office", "routine"],
+    "niches": ["yoga", "fitness"]
+  },
+  {
+    "title": "Kids [Yoga Adventure]",
+    "description": "Design a playful yoga routine for kids with fun themes. Expand by turning poses into a story or adventure.",
+    "tags": ["yoga", "kids", "fun", "play"],
+    "niches": ["yoga", "family"]
+  },
+  {
+    "title": "Guided [Body Scan Meditation]",
+    "description": "Offer a body scan meditation for relaxation. Expand by tailoring versions for stress relief or sleep.",
+    "tags": ["meditation", "body scan", "relaxation", "sleep"],
+    "niches": ["meditation", "mindfulness"]
+  },
+  {
+    "title": "Yoga for [Balance]",
+    "description": "Teach yoga poses that improve balance. Expand with beginner and advanced variations.",
+    "tags": ["yoga", "balance", "stability", "poses"],
+    "niches": ["yoga", "fitness"]
+  },
+  {
+    "title": "5 Minute [Mindfulness Practice]",
+    "description": "Introduce a quick mindfulness meditation practice. Expand by offering themed versions for stress or gratitude.",
+    "tags": ["meditation", "mindfulness", "short", "calm"],
+    "niches": ["meditation", "wellness"]
+  },
+  {
+    "title": "Yoga for [Strength]",
+    "description": "Demonstrate yoga sequences that build strength. Expand with tips for combining yoga with other workouts.",
+    "tags": ["yoga", "strength", "fitness", "poses"],
+    "niches": ["yoga", "fitness"]
+  },
+  {
+    "title": "Meditation for [Sleep]",
+    "description": "Provide a guided meditation to improve sleep quality. Expand with relaxing music and affirmations.",
+    "tags": ["meditation", "sleep", "relaxation", "calm"],
+    "niches": ["meditation", "relaxation"]
+  }
+]
