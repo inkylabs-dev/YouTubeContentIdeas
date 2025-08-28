@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "Most INSANE [Extreme Sport] Fails and Wins Compilation",
+    "description": "Replace [Extreme Sport] with activities like BASE jumping, wingsuit flying, or big wave surfing. Create a compilation showcasing both spectacular failures and incredible successes, with safety analysis and lessons learned.",
+    "tags": ["extreme-sports", "compilation", "fails", "wins", "safety"],
+    "niches": ["extreme-sports"]
+  },
+  {
+    "title": "[Athlete] Breaks [Record] - Extreme Sports History Made",
+    "description": "Feature a record-breaking performance in extreme sports. Document the preparation, attempt, achievement, and what makes this record so significant in the sport's history.",
+    "tags": ["record-breaking", "athlete", "history", "achievement", "milestone"],
+    "niches": ["extreme-sports"]
+  },
+  {
+    "title": "Learning [Extreme Sport] in [Timeframe] - Beginner's Journey",
+    "description": "Follow someone learning an extreme sport from scratch within a specific timeframe. Show the progression, challenges, fear management, and what it takes to get started in the sport safely.",
+    "tags": ["learning", "beginner", "progression", "journey", "tutorial"],
+    "niches": ["extreme-sports"]
+  },
+  {
+    "title": "Why [Location] is the Holy Grail of [Extreme Sport]",
+    "description": "Explore legendary locations in extreme sports like El Capitan for climbing or Pipeline for surfing. Explain what makes these spots special, their history, and why athletes dream of conquering them.",
+    "tags": ["locations", "legendary", "holy-grail", "destinations", "history"],
+    "niches": ["extreme-sports"]
+  },
+  {
+    "title": "[Extreme Sport] Gone WRONG - Safety Analysis Breakdown",
+    "description": "Analyze extreme sports accidents to understand what went wrong, how they could have been prevented, and what safety measures are essential. Educational content focused on risk management and safety protocols.",
+    "tags": ["safety", "analysis", "accidents", "prevention", "education"],
+    "niches": ["extreme-sports"]
+  },
+  {
+    "title": "First Person to [Achievement] in [Extreme Sport] - Pioneer Story",
+    "description": "Tell the story of pioneers who achieved something first in their sport. Cover their motivation, preparation, the historic attempt, and how their achievement opened new possibilities for the sport.",
+    "tags": ["pioneers", "first", "achievement", "historic", "breakthrough"],
+    "niches": ["extreme-sports"]
+  },
+  {
+    "title": "The Science of [Extreme Sport] - Physics and Performance",
+    "description": "Explain the physics, biomechanics, and scientific principles behind extreme sports performance. Break down forces, angles, timing, and how understanding science can improve technique and safety.",
+    "tags": ["science", "physics", "performance", "technique", "biomechanics"],
+    "niches": ["extreme-sports"]
+  },
+  {
+    "title": "[Age] Year Old Extreme Athlete - [Sport] Prodigy",
+    "description": "Feature young athletes excelling in extreme sports. Show their training, family support, competition preparation, and how they balance normal childhood with high-risk athletic pursuits.",
+    "tags": ["young-athletes", "prodigy", "age", "talent", "balance"],
+    "niches": ["extreme-sports"]
+  },
+  {
+    "title": "Evolution of [Extreme Sport] - From [Year] to Now",
+    "description": "Track the evolution of an extreme sport from its origins to modern day. Show how equipment, techniques, safety measures, and competitive formats have changed over decades.",
+    "tags": ["evolution", "history", "timeline", "development", "progression"],
+    "niches": ["extreme-sports"]
+  },
+  {
+    "title": "Women CRUSHING [Male-Dominated Sport] - Breaking Barriers",
+    "description": "Highlight female athletes excelling in traditionally male-dominated extreme sports. Show their challenges, achievements, and how they're changing perceptions and opening doors for future generations.",
+    "tags": ["women", "barriers", "equality", "achievement", "representation"],
+    "niches": ["extreme-sports"]
+  },
+  {
+    "title": "[Extreme Sport] vs [Extreme Sport] - Which is More Dangerous?",
+    "description": "Compare the risk levels, injury rates, and danger factors of different extreme sports. Use statistics, expert opinions, and real examples to analyze which activities pose greater risks and why.",
+    "tags": ["comparison", "danger", "risk", "statistics", "analysis"],
+    "niches": ["extreme-sports"]
+  },
+  {
+    "title": "The Mental Game of [Extreme Sport] - Conquering Fear",
+    "description": "Explore the psychological aspects of extreme sports including fear management, visualization techniques, confidence building, and how athletes develop the mental toughness needed for high-risk activities.",
+    "tags": ["mental-game", "psychology", "fear", "confidence", "mindset"],
+    "niches": ["extreme-sports"]
+  },
+  {
+    "title": "Training Like a [Extreme Sport] Pro - Behind the Scenes",
+    "description": "Show the daily training routines, physical preparation, skill development, and lifestyle of professional extreme sports athletes. Include diet, recovery, cross-training, and mental preparation.",
+    "tags": ["training", "professional", "routine", "preparation", "lifestyle"],
+    "niches": ["extreme-sports"]
+  },
+  {
+    "title": "[Equipment/Gear] That Saves Lives in [Extreme Sport]",
+    "description": "Review and demonstrate safety equipment, protective gear, and technology that keeps extreme sports athletes alive. Show how gear has evolved and what innovations are improving safety.",
+    "tags": ["equipment", "safety-gear", "technology", "protection", "innovation"],
+    "niches": ["extreme-sports"]
+  },
+  {
+    "title": "From Couch to [Extreme Sport] - [Person]'s Transformation",
+    "description": "Follow someone's complete transformation from sedentary lifestyle to participating in extreme sports. Document their fitness journey, skill acquisition, mental preparation, and first major challenge.",
+    "tags": ["transformation", "fitness", "journey", "lifestyle-change", "inspiration"],
+    "niches": ["extreme-sports"]
+  },
+  {
+    "title": "[Disability] Athlete Dominates [Extreme Sport] - Inspirational Story",
+    "description": "Feature athletes with disabilities excelling in extreme sports. Show their unique challenges, adaptive techniques, specialized equipment, and how they redefine what's possible in their sport.",
+    "tags": ["disability", "adaptive", "inspiration", "challenges", "determination"],
+    "niches": ["extreme-sports"]
+  },
+  {
+    "title": "The Cost of [Extreme Sport] - Is It Worth the Risk?",
+    "description": "Analyze the physical, financial, and emotional costs of participating in extreme sports. Interview athletes about injuries, expenses, family impact, and whether the rewards justify the risks.",
+    "tags": ["cost", "risk", "worth", "analysis", "consequences"],
+    "niches": ["extreme-sports"]
+  },
+  {
+    "title": "[Weather Condition] [Extreme Sport] - When Nature Gets Extreme",
+    "description": "Showcase extreme sports performed in challenging weather conditions like storm surfing, blizzard skiing, or desert racing. Show how athletes adapt techniques and manage additional environmental risks.",
+    "tags": ["weather", "conditions", "nature", "environmental", "adaptation"],
+    "niches": ["extreme-sports"]
+  }
+]

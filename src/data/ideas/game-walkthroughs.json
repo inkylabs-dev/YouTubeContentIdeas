@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Game] Complete Walkthrough - Part [Number]: [Chapter/Area]",
+    "description": "Provide detailed walkthroughs of specific game sections, including puzzle solutions, hidden item locations, optimal routes, and story explanations. Help players who are stuck or want to find everything.",
+    "tags": ["walkthrough", "complete", "puzzles", "hidden-items", "solutions"],
+    "niches": ["game-walkthroughs"]
+  },
+  {
+    "title": "[Game] 100% Completion Guide - All Collectibles",
+    "description": "Show how to achieve 100% completion including all collectibles, secret areas, achievements, and optional content. Include maps, timestamps, and efficient collection routes.",
+    "tags": ["100-percent", "completion", "collectibles", "achievements", "secrets"],
+    "niches": ["game-walkthroughs"]
+  },
+  {
+    "title": "[Game] Speed Run Tutorial - [Category] Any% Guide",
+    "description": "Teach speedrunning techniques for specific categories, including route optimization, glitch exploitation, timing splits, and practice strategies for competitive times.",
+    "tags": ["speedrun", "any-percent", "optimization", "glitches", "competitive"],
+    "niches": ["game-walkthroughs"]
+  },
+  {
+    "title": "[Difficult Boss] Guide - [Game] Boss Strategy",
+    "description": "Provide detailed strategies for challenging boss fights, including attack patterns, timing windows, recommended builds, and multiple approach options for different playstyles.",
+    "tags": ["boss-guide", "strategy", "patterns", "timing", "builds"],
+    "niches": ["game-walkthroughs"]
+  },
+  {
+    "title": "[Game] No Commentary Walkthrough - Pure Gameplay",
+    "description": "Record clean gameplay walkthroughs without commentary for players who prefer to experience the game's audio and atmosphere without distractions.",
+    "tags": ["no-commentary", "pure-gameplay", "clean", "atmosphere", "uninterrupted"],
+    "niches": ["game-walkthroughs"]
+  },
+  {
+    "title": "[Game] Puzzle Solutions - [Area/Chapter] Complete Guide",
+    "description": "Focus specifically on complex puzzles, providing step-by-step solutions, alternative methods, and logical explanations of puzzle mechanics.",
+    "tags": ["puzzles", "solutions", "step-by-step", "logic", "mechanics"],
+    "niches": ["game-walkthroughs"]
+  },
+  {
+    "title": "[Game] Secret Areas and Easter Eggs - Hidden Content Guide",
+    "description": "Explore all secret areas, easter eggs, developer rooms, and hidden content that most players miss. Include how to access them and their significance.",
+    "tags": ["secrets", "easter-eggs", "hidden", "developer-rooms", "significance"],
+    "niches": ["game-walkthroughs"]
+  },
+  {
+    "title": "[Game] Ending Guide - All Endings Explained",
+    "description": "Show how to obtain all possible game endings, including choice consequences, hidden requirements, and detailed explanations of ending variations.",
+    "tags": ["endings", "choices", "consequences", "requirements", "variations"],
+    "niches": ["game-walkthroughs"]
+  },
+  {
+    "title": "[Game] Challenge Run - [Restriction] Playthrough",
+    "description": "Complete games with self-imposed challenges like no-damage runs, specific weapon restrictions, or minimal upgrades. Show strategies for overcoming added difficulty.",
+    "tags": ["challenge-run", "restrictions", "no-damage", "difficulty", "strategies"],
+    "niches": ["game-walkthroughs"]
+  },
+  {
+    "title": "[Game] Side Quest Guide - All Optional Content",
+    "description": "Complete guide to all side quests, optional missions, and additional content including rewards, requirements, and optimal completion order.",
+    "tags": ["side-quests", "optional", "rewards", "requirements", "completion-order"],
+    "niches": ["game-walkthroughs"]
+  },
+  {
+    "title": "[Game] Character Build Walkthrough - [Build Type] Playthrough",
+    "description": "Play through games using specific character builds, showing how different approaches change gameplay, strategy, and story experience.",
+    "tags": ["character-builds", "playthrough", "approaches", "strategy", "experience"],
+    "niches": ["game-walkthroughs"]
+  },
+  {
+    "title": "[Game] Missable Content Guide - Don't Miss These!",
+    "description": "Highlight all missable items, quests, achievements, and story elements that players can permanently lose access to, with timing and location information.",
+    "tags": ["missable", "timing", "permanently-lost", "items", "achievements"],
+    "niches": ["game-walkthroughs"]
+  },
+  {
+    "title": "[Game] New Game Plus Guide - Second Playthrough Strategy",
+    "description": "Optimize new game plus playthroughs showing what carries over, new content available, and strategies for enhanced second runs.",
+    "tags": ["new-game-plus", "second-playthrough", "carries-over", "enhanced", "optimization"],
+    "niches": ["game-walkthroughs"]
+  },
+  {
+    "title": "[Game] Blind Playthrough - First Time Experience",
+    "description": "Record genuine first-time playthroughs with authentic reactions, discoveries, and problem-solving for viewers who want to experience the game vicariously.",
+    "tags": ["blind", "first-time", "authentic", "reactions", "discoveries"],
+    "niches": ["game-walkthroughs"]
+  },
+  {
+    "title": "[Game] Trophy/Achievement Guide - Platinum Journey",
+    "description": "Systematic guide to earning all trophies or achievements, including difficulty ratings, missability warnings, and efficient completion strategies.",
+    "tags": ["trophies", "achievements", "platinum", "systematic", "efficiency"],
+    "niches": ["game-walkthroughs"]
+  },
+  {
+    "title": "[Game] Minimum Requirements Run - Least Upgrades Possible",
+    "description": "Complete games with minimal upgrades, equipment, or power increases to demonstrate core skill requirements and alternative strategies.",
+    "tags": ["minimum", "least-upgrades", "core-skills", "alternative", "demonstration"],
+    "niches": ["game-walkthroughs"]
+  },
+  {
+    "title": "[Game] Lore Walkthrough - Story and World Building",
+    "description": "Focus on story elements, world-building details, character development, and lore discoveries while progressing through the game.",
+    "tags": ["lore", "story", "world-building", "character-development", "discoveries"],
+    "niches": ["game-walkthroughs"]
+  },
+  {
+    "title": "[Game] Co-op Walkthrough - [Number] Player Guide",
+    "description": "Show cooperative gameplay strategies, coordination techniques, and how multiplayer changes the game experience and strategy requirements.",
+    "tags": ["co-op", "cooperative", "coordination", "multiplayer", "teamwork"],
+    "niches": ["game-walkthroughs"]
+  }
+]

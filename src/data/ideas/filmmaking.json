@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "Making [Genre] Film on [Budget] - Complete Production Guide",
+    "description": "Document the entire process of creating a specific genre film within budget constraints. Show pre-production planning, filming techniques, equipment choices, and post-production workflows that maximize production value.",
+    "tags": ["budget-filmmaking", "production", "genre", "complete-guide", "workflow"],
+    "niches": ["filmmaking"]
+  },
+  {
+    "title": "[Camera/Equipment] Review - Filmmaker's Perspective",
+    "description": "Provide in-depth reviews of filmmaking equipment from a creator's perspective. Include real-world test footage, comparison with alternatives, and practical advice on whether the investment is worthwhile.",
+    "tags": ["equipment-review", "cameras", "gear", "comparison", "investment"],
+    "niches": ["filmmaking"]
+  },
+  {
+    "title": "Cinematography Breakdown - [Famous Scene/Film] Analysis",
+    "description": "Analyze the cinematography techniques used in iconic film scenes or movies. Break down camera movement, lighting choices, composition, and how these elements serve the story and emotional impact.",
+    "tags": ["cinematography", "analysis", "techniques", "iconic", "breakdown"],
+    "niches": ["filmmaking"]
+  },
+  {
+    "title": "From Script to Screen - [Short Film] Behind the Scenes",
+    "description": "Follow the complete journey of a short film from initial concept through final delivery. Show writing process, casting, production challenges, editing decisions, and lessons learned.",
+    "tags": ["behind-the-scenes", "complete-process", "short-film", "challenges", "lessons"],
+    "niches": ["filmmaking"]
+  },
+  {
+    "title": "[Lighting Technique] Tutorial - Cinematic Lighting Made Simple",
+    "description": "Teach specific lighting techniques using both professional and budget-friendly equipment. Show setup diagrams, practical examples, and how different lighting affects mood and storytelling.",
+    "tags": ["lighting", "tutorial", "cinematic", "techniques", "mood"],
+    "niches": ["filmmaking"]
+  },
+  {
+    "title": "Audio for Filmmakers - Recording Professional Sound on Any Budget",
+    "description": "Cover audio recording techniques, equipment recommendations for different budgets, common sound problems and solutions, and post-production audio enhancement techniques.",
+    "tags": ["audio", "sound", "recording", "post-production", "professional"],
+    "niches": ["filmmaking"]
+  },
+  {
+    "title": "[Editing Software] Complete Tutorial - From Beginner to Pro",
+    "description": "Provide comprehensive training for specific editing software, covering basic functions through advanced techniques. Include workflow optimization, color grading, and professional finishing techniques.",
+    "tags": ["editing", "software", "tutorial", "workflow", "color-grading"],
+    "niches": ["filmmaking"]
+  },
+  {
+    "title": "Film Festival Strategy - Getting Your Film Noticed",
+    "description": "Guide filmmakers through the film festival circuit including festival selection, submission strategies, creating press kits, and maximizing networking opportunities at festivals.",
+    "tags": ["film-festivals", "strategy", "submissions", "networking", "press-kits"],
+    "niches": ["filmmaking"]
+  },
+  {
+    "title": "Directing Actors - Communication and Performance Techniques",
+    "description": "Show how to effectively direct actors including communication strategies, performance techniques, creating safe creative environments, and getting authentic performances on camera.",
+    "tags": ["directing", "actors", "performance", "communication", "authentic"],
+    "niches": ["filmmaking"]
+  },
+  {
+    "title": "[Film Movement/Style] Influence on Modern Cinema",
+    "description": "Explore how historical film movements or specific directorial styles continue to influence contemporary filmmaking. Include technique analysis and modern examples of this influence.",
+    "tags": ["film-movements", "influence", "history", "styles", "contemporary"],
+    "niches": ["filmmaking"]
+  },
+  {
+    "title": "Location Scouting and Management - Finding Perfect Film Locations",
+    "description": "Cover the process of finding, securing, and managing film locations. Include legal considerations, budget planning, backup options, and maximizing production value from locations.",
+    "tags": ["locations", "scouting", "management", "legal", "planning"],
+    "niches": ["filmmaking"]
+  },
+  {
+    "title": "Color Grading [Look/Style] - Post-Production Magic",
+    "description": "Demonstrate how to achieve specific visual looks through color grading. Show before/after examples, software techniques, and how color choices support storytelling and genre conventions.",
+    "tags": ["color-grading", "post-production", "visual-style", "storytelling", "techniques"],
+    "niches": ["filmmaking"]
+  },
+  {
+    "title": "Smartphone Filmmaking - Professional Results with Mobile Devices",
+    "description": "Show how to create high-quality films using smartphones and mobile accessories. Include app recommendations, stabilization techniques, lighting solutions, and post-production workflows.",
+    "tags": ["smartphone", "mobile", "accessories", "professional", "workflow"],
+    "niches": ["filmmaking"]
+  },
+  {
+    "title": "Film Business Basics - Funding, Distribution, and Rights",
+    "description": "Explain the business side of filmmaking including funding options, distribution strategies, copyright and legal considerations, and building sustainable filmmaking careers.",
+    "tags": ["business", "funding", "distribution", "legal", "career"],
+    "niches": ["filmmaking"]
+  },
+  {
+    "title": "[Visual Effect] DIY - Creating Magic Without Big Budgets",
+    "description": "Show how to create impressive visual effects using practical techniques, affordable software, and creative problem-solving. Include both in-camera effects and post-production solutions.",
+    "tags": ["visual-effects", "DIY", "practical", "affordable", "creative"],
+    "niches": ["filmmaking"]
+  },
+  {
+    "title": "Film Crew Roles Explained - Who Does What on Set",
+    "description": "Break down different film crew positions, their responsibilities, and how they collaborate to create films. Include advice for aspiring filmmakers on which roles to explore.",
+    "tags": ["crew-roles", "responsibilities", "collaboration", "career-paths", "set"],
+    "niches": ["filmmaking"]
+  },
+  {
+    "title": "Storyboarding and Shot Planning - Visual Storytelling Preparation",
+    "description": "Demonstrate storyboarding techniques, shot listing, and visual planning processes. Show how proper preparation improves efficiency and creative decision-making during production.",
+    "tags": ["storyboarding", "shot-planning", "visual-storytelling", "preparation", "efficiency"],
+    "niches": ["filmmaking"]
+  },
+  {
+    "title": "Documentary Filmmaking - Truth, Ethics, and Storytelling",
+    "description": "Explore documentary filmmaking techniques including interview strategies, ethical considerations, research methods, and balancing factual accuracy with compelling storytelling.",
+    "tags": ["documentary", "ethics", "interviews", "research", "storytelling"],
+    "niches": ["filmmaking"]
+  }
+]

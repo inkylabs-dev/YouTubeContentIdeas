@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Spice Level] Challenge - Testing My Heat Tolerance",
+    "description": "Create a progressive spice challenge using foods of increasing heat levels. Document reactions, provide heat scale context, include safety precautions, and show recovery methods. Rate each level and provide audience warnings.",
+    "tags": ["spicy", "heat-tolerance", "progressive", "safety", "reactions"],
+    "niches": ["food-challenges"]
+  },
+  {
+    "title": "Eating [Cuisine] for [Duration] Straight - Cultural Food Journey",
+    "description": "Commit to eating only one type of cuisine for a set period. Explore different dishes within that cuisine, learn about cultural significance, document variety and creativity, and share insights gained.",
+    "tags": ["cuisine", "cultural", "journey", "variety", "exploration"],
+    "niches": ["food-challenges"]
+  },
+  {
+    "title": "[Budget] Food Challenge - Eating Well on Almost Nothing",
+    "description": "Create nutritious, satisfying meals within an extremely tight budget. Show shopping strategies, meal planning, preparation techniques, and prove that good food doesn't require big spending.",
+    "tags": ["budget", "nutritious", "meal-planning", "shopping", "affordable"],
+    "niches": ["food-challenges"]
+  },
+  {
+    "title": "Giant [Food Item] Challenge - Supersized Eating",
+    "description": "Attempt to finish oversized versions of popular foods. Document the experience, eating strategies, physical challenges, and whether the feat was accomplished. Include food waste considerations.",
+    "tags": ["giant", "supersized", "eating-challenge", "strategies", "portion"],
+    "niches": ["food-challenges"]
+  },
+  {
+    "title": "Mystery Food Challenge - Eating [Country]'s Weirdest Foods",
+    "description": "Try unusual or exotic foods from different countries without knowing what they are beforehand. Research and reveal the foods afterward, discussing cultural contexts and taste experiences.",
+    "tags": ["mystery", "exotic", "cultural", "weird-foods", "exploration"],
+    "niches": ["food-challenges"]
+  },
+  {
+    "title": "[Time Limit] Cooking Challenge - Speed vs Quality",
+    "description": "Prepare complete meals within extreme time constraints. Show time management, cooking techniques, shortcuts that maintain quality, and whether delicious food can be made under pressure.",
+    "tags": ["time-limit", "speed-cooking", "time-management", "pressure", "quality"],
+    "niches": ["food-challenges"]
+  },
+  {
+    "title": "No [Ingredient/Tool] Challenge - Creative Cooking Constraints",
+    "description": "Cook meals while avoiding common ingredients or kitchen tools. Show creative substitutions, alternative techniques, and how limitations can inspire innovation in cooking.",
+    "tags": ["constraints", "creative", "substitutions", "limitations", "innovation"],
+    "niches": ["food-challenges"]
+  },
+  {
+    "title": "[Color] Food Only Challenge - Monochrome Meals",
+    "description": "Create meals using only foods of one specific color. Explore nutritional implications, creative combinations, visual presentation, and the challenges of maintaining dietary balance.",
+    "tags": ["color", "monochrome", "nutrition", "creative", "visual"],
+    "niches": ["food-challenges"]
+  },
+  {
+    "title": "Childhood vs Adult Taste Test - How Preferences Change",
+    "description": "Revisit foods loved or hated as a child to see how taste preferences have evolved. Include scientific explanation of changing taste buds and psychological aspects of food preferences.",
+    "tags": ["childhood", "taste-test", "preferences", "evolution", "psychology"],
+    "niches": ["food-challenges"]
+  },
+  {
+    "title": "[Number] Restaurants in [Time] Challenge - Food Tour Marathon",
+    "description": "Visit multiple restaurants within a tight timeframe, sampling signature dishes from each. Document logistics, variety, quality, and physical challenges of eating so much food in sequence.",
+    "tags": ["restaurants", "food-tour", "marathon", "logistics", "variety"],
+    "niches": ["food-challenges"]
+  },
+  {
+    "title": "Recreating [Celebrity Chef]'s Signature Dish - Amateur vs Pro",
+    "description": "Attempt to recreate complex dishes from famous chefs using available ingredients and skills. Compare results, analyze techniques, and explore what makes professional cooking special.",
+    "tags": ["recreation", "celebrity-chef", "comparison", "techniques", "amateur"],
+    "niches": ["food-challenges"]
+  },
+  {
+    "title": "Vegan for [Duration] Challenge - Plant-Based Transformation",
+    "description": "Temporarily adopt a vegan diet, documenting the transition, meal planning, nutritional considerations, and unexpected discoveries. Include health impacts and taste revelations.",
+    "tags": ["vegan", "plant-based", "transition", "nutrition", "health"],
+    "niches": ["food-challenges"]
+  },
+  {
+    "title": "[Era] Food Challenge - Eating Like It's [Year]",
+    "description": "Prepare and eat foods from specific historical periods using authentic recipes and available ingredients. Explore food history, preservation methods, and how diets have evolved.",
+    "tags": ["historical", "era", "authentic", "recipes", "evolution"],
+    "niches": ["food-challenges"]
+  },
+  {
+    "title": "Eating Only [Supermarket Section] Foods for [Time]",
+    "description": "Survive on foods from only one supermarket section (frozen, canned, produce, etc.). Show creativity within constraints, nutritional challenges, and surprising meal possibilities.",
+    "tags": ["supermarket", "section", "constraints", "survival", "creativity"],
+    "niches": ["food-challenges"]
+  },
+  {
+    "title": "[Temperature] Food Challenge - Hot vs Cold Extremes",
+    "description": "Focus on eating extremely hot or cold foods, testing temperature tolerance and exploring how temperature affects taste perception. Include safety measures and scientific explanations.",
+    "tags": ["temperature", "extremes", "tolerance", "perception", "science"],
+    "niches": ["food-challenges"]
+  },
+  {
+    "title": "Blind Taste Test - [Category] Edition",
+    "description": "Conduct blind taste tests of similar food categories (different pizza brands, coffee types, etc.). Remove visual bias, focus purely on taste, and reveal surprising results and preferences.",
+    "tags": ["blind", "taste-test", "comparison", "bias", "preferences"],
+    "niches": ["food-challenges"]
+  },
+  {
+    "title": "Making [Dish] [Number] Different Ways",
+    "description": "Create multiple variations of the same basic dish using different techniques, ingredients, or cultural interpretations. Compare results and explore how variations change the eating experience.",
+    "tags": ["variations", "techniques", "cultural", "comparison", "creativity"],
+    "niches": ["food-challenges"]
+  },
+  {
+    "title": "[Dietary Restriction] Challenge - Living With Limitations",
+    "description": "Experience life with specific dietary restrictions (gluten-free, keto, etc.) to understand challenges faced by people with these needs. Show meal planning and social dining impacts.",
+    "tags": ["dietary-restrictions", "limitations", "understanding", "meal-planning", "social"],
+    "niches": ["food-challenges"]
+  }
+]

@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "How [Complex Topic] Actually Works - Simplified Explanation",
+    "description": "Replace [Complex Topic] with any complicated subject like blockchain, quantum computing, or machine learning. Break down the concept using analogies, visual aids, and step-by-step explanations that make it accessible to beginners.",
+    "tags": ["education", "simplification", "complex-topics", "beginner-friendly", "explanation"],
+    "niches": ["explainer"]
+  },
+  {
+    "title": "Why [Phenomenon] Happens - The Science Behind It",
+    "description": "Choose a natural or scientific phenomenon for [Phenomenon] like aurora borealis, black holes, or gravity. Explain the underlying scientific principles, causes, and effects using clear language and visual demonstrations.",
+    "tags": ["science", "phenomena", "why", "behind-the-scenes", "natural"],
+    "niches": ["explainer"]
+  },
+  {
+    "title": "[Historical Event] Explained in [Time] Minutes",
+    "description": "Select a significant historical event and a specific timeframe (like 5, 10, or 15 minutes). Create a comprehensive but concise explanation covering causes, key figures, timeline, and lasting impact.",
+    "tags": ["history", "events", "timeline", "comprehensive", "concise"],
+    "niches": ["explainer"]
+  },
+  {
+    "title": "The Real Story Behind [Myth/Legend] - Facts vs Fiction",
+    "description": "Pick a popular myth, urban legend, or misconception to debunk. Present the factual information, explain how the myth originated, and clarify what evidence supports or contradicts the popular belief.",
+    "tags": ["myths", "facts", "debunking", "misconceptions", "truth"],
+    "niches": ["explainer"]
+  },
+  {
+    "title": "How [Technology] Changed Everything - Impact Analysis",
+    "description": "Choose a transformative technology like the internet, smartphones, or AI. Analyze its development, adoption, societal impact, and how it fundamentally changed human behavior and industries.",
+    "tags": ["technology", "impact", "transformation", "society", "change"],
+    "niches": ["explainer"]
+  },
+  {
+    "title": "[Economic Concept] Explained With [Analogy] - Economics Made Easy",
+    "description": "Take a complex economic principle and explain it using a relatable analogy. For example, explain inflation using a balloon analogy or supply and demand using a restaurant scenario.",
+    "tags": ["economics", "concepts", "analogies", "easy", "relatable"],
+    "niches": ["explainer"]
+  },
+  {
+    "title": "What Really Happened During [Crisis/Disaster] - Timeline & Analysis",
+    "description": "Select a major crisis, disaster, or controversial event. Provide an objective timeline, multiple perspectives, key decisions made, and lessons learned from the situation.",
+    "tags": ["crisis", "disaster", "timeline", "analysis", "lessons"],
+    "niches": ["explainer"]
+  },
+  {
+    "title": "The Psychology of [Human Behavior] - Why We Do This",
+    "description": "Choose a common human behavior or psychological phenomenon to explain. Cover the evolutionary, social, and cognitive reasons behind why humans behave this way, supported by research and studies.",
+    "tags": ["psychology", "behavior", "human-nature", "research", "cognitive"],
+    "niches": ["explainer"]
+  },
+  {
+    "title": "[Cultural Practice] Around the World - Origins & Meanings",
+    "description": "Explore a cultural tradition, ritual, or practice from different societies. Explain its historical origins, cultural significance, variations across regions, and modern adaptations.",
+    "tags": ["culture", "traditions", "global", "origins", "significance"],
+    "niches": ["explainer"]
+  },
+  {
+    "title": "How [Body System] Really Works - Inside Your Body",
+    "description": "Pick a body system like the immune system, digestive system, or nervous system. Explain its components, functions, interactions with other systems, and what happens when things go wrong.",
+    "tags": ["anatomy", "body-systems", "health", "functions", "medical"],
+    "niches": ["explainer"]
+  },
+  {
+    "title": "The Truth About [Controversial Topic] - Multiple Perspectives",
+    "description": "Address a controversial subject by presenting multiple viewpoints, examining evidence from different sides, and helping viewers understand the complexity rather than pushing a single perspective.",
+    "tags": ["controversy", "perspectives", "truth", "balanced", "complex"],
+    "niches": ["explainer"]
+  },
+  {
+    "title": "[Scientific Theory] in Simple Terms - From Einstein to You",
+    "description": "Take a major scientific theory like relativity, evolution, or thermodynamics and explain it using everyday language, practical examples, and visual aids that make it understandable for everyone.",
+    "tags": ["science", "theories", "simple", "everyday", "accessible"],
+    "niches": ["explainer"]
+  },
+  {
+    "title": "Why [Country/Region] is So [Characteristic] - Geographic Influence",
+    "description": "Explore how geography, climate, and natural resources shaped a nation's culture, economy, politics, and social structure. Explain the connection between physical environment and human development.",
+    "tags": ["geography", "influence", "culture", "environment", "development"],
+    "niches": ["explainer"]
+  },
+  {
+    "title": "The Business Model of [Company/Industry] - How They Make Money",
+    "description": "Break down how a specific company or entire industry generates revenue. Explain their business model, revenue streams, cost structure, and competitive advantages in simple terms.",
+    "tags": ["business", "revenue", "model", "industry", "economics"],
+    "niches": ["explainer"]
+  },
+  {
+    "title": "[Language/Writing System] Explained - How It Developed",
+    "description": "Explore the history and structure of a language or writing system. Explain its origins, evolution, unique features, and how it influences thought patterns and cultural expression.",
+    "tags": ["language", "writing", "evolution", "culture", "communication"],
+    "niches": ["explainer"]
+  },
+  {
+    "title": "The Mathematics of [Real-World Application] - Math in Action",
+    "description": "Show how mathematical concepts apply to real-world situations like sports statistics, music theory, architecture, or nature patterns. Make abstract math concrete and relevant.",
+    "tags": ["mathematics", "real-world", "applications", "concrete", "relevant"],
+    "niches": ["explainer"]
+  },
+  {
+    "title": "[Environmental Issue] Broken Down - Causes, Effects, Solutions",
+    "description": "Take an environmental challenge like climate change, deforestation, or ocean pollution. Explain the scientific causes, current and projected effects, and potential solutions being developed.",
+    "tags": ["environment", "issues", "causes", "effects", "solutions"],
+    "niches": ["explainer"]
+  },
+  {
+    "title": "How [Art Movement/Style] Changed Art Forever - Cultural Revolution",
+    "description": "Examine an influential art movement or style, explaining its historical context, key characteristics, major artists, and how it revolutionized artistic expression and influenced society.",
+    "tags": ["art", "movements", "revolution", "culture", "influence"],
+    "niches": ["explainer"]
+  }
+]

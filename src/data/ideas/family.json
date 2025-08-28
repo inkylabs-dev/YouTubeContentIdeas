@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Number] Fun Family Activities for [Season/Holiday]",
+    "description": "Create a list of engaging family activities perfect for a specific season or holiday. Include activities for different age groups, budget considerations, indoor and outdoor options, and tips for maximum family enjoyment.",
+    "tags": ["family-activities", "seasonal", "holiday", "fun", "bonding"],
+    "niches": ["family"]
+  },
+  {
+    "title": "Teaching Kids About [Important Topic] - Family Discussion Guide",
+    "description": "Provide parents with age-appropriate ways to discuss important topics like money, emotions, diversity, or current events. Include conversation starters, activities, and how to handle difficult questions.",
+    "tags": ["parenting", "education", "conversations", "teaching", "guide"],
+    "niches": ["family"]
+  },
+  {
+    "title": "[Age] Year Old Says WHAT? - Hilarious Kid Moments Compilation",
+    "description": "Compile funny, innocent, and adorable things kids say at different ages. Include parenting reactions, explanations of child development behind these moments, and relatable family humor.",
+    "tags": ["funny", "kids", "compilation", "parenting", "humor"],
+    "niches": ["family"]
+  },
+  {
+    "title": "Family Budget Challenge - Living on $[Amount] for [Time Period]",
+    "description": "Document a family's experience living on a strict budget for a specific time period. Show meal planning, free activities, money-saving strategies, and what they learned about spending priorities.",
+    "tags": ["budget", "challenge", "saving", "financial", "lifestyle"],
+    "niches": ["family"]
+  },
+  {
+    "title": "Homeschooling [Subject] - Creative Learning at Home",
+    "description": "Show innovative ways to teach academic subjects at home. Include hands-on activities, educational games, field trip ideas, and resources that make learning engaging for the whole family.",
+    "tags": ["homeschooling", "education", "creative", "learning", "resources"],
+    "niches": ["family"]
+  },
+  {
+    "title": "[Family Size] Family Morning Routine - Organized Chaos",
+    "description": "Show how families with different numbers of children manage their morning routines. Include time-saving tips, organization strategies, breakfast ideas, and how to get everyone out the door on time.",
+    "tags": ["routine", "organization", "morning", "tips", "chaos"],
+    "niches": ["family"]
+  },
+  {
+    "title": "Building [Project] With Kids - Family DIY Adventure",
+    "description": "Document a family working together on a DIY project like a treehouse, garden, or room makeover. Show how to involve kids safely, teach skills, and create lasting memories through building together.",
+    "tags": ["DIY", "building", "projects", "teamwork", "skills"],
+    "niches": ["family"]
+  },
+  {
+    "title": "Screen Time Rules That Actually Work - Family Media Management",
+    "description": "Share practical strategies for managing children's screen time. Include setting boundaries, choosing quality content, screen-free activities, and creating family media agreements that everyone can follow.",
+    "tags": ["screen-time", "rules", "media", "boundaries", "management"],
+    "niches": ["family"]
+  },
+  {
+    "title": "[Special Needs] Child Thriving - Adaptive Family Strategies",
+    "description": "Show how families adapt activities, routines, and environments to help special needs children thrive. Include inclusive activities, communication strategies, and resources for other families in similar situations.",
+    "tags": ["special-needs", "adaptive", "inclusive", "strategies", "support"],
+    "niches": ["family"]
+  },
+  {
+    "title": "Family Road Trip to [Destination] - Travel With Kids Guide",
+    "description": "Document a family road trip including planning, packing, entertainment strategies, budgeting, and dealing with travel challenges. Show both the struggles and joys of traveling with children.",
+    "tags": ["road-trip", "travel", "kids", "planning", "adventure"],
+    "niches": ["family"]
+  },
+  {
+    "title": "Chores That Kids Can Actually Do - Age-Appropriate Responsibilities",
+    "description": "Break down household chores by age group, showing what children can realistically accomplish. Include motivation strategies, teaching techniques, and how chores build character and life skills.",
+    "tags": ["chores", "responsibilities", "age-appropriate", "life-skills", "teaching"],
+    "niches": ["family"]
+  },
+  {
+    "title": "[Cultural Tradition] in Our Family - Keeping Heritage Alive",
+    "description": "Show how families maintain cultural traditions, teach heritage languages, prepare traditional foods, and pass down customs to the next generation while adapting to modern life.",
+    "tags": ["culture", "traditions", "heritage", "customs", "preservation"],
+    "niches": ["family"]
+  },
+  {
+    "title": "Sibling Rivalry Solutions - Peace in the House",
+    "description": "Address common sibling conflicts with practical solutions. Show conflict resolution techniques, fair sharing strategies, individual attention methods, and how to foster sibling cooperation rather than competition.",
+    "tags": ["sibling-rivalry", "conflict", "solutions", "peace", "cooperation"],
+    "niches": ["family"]
+  },
+  {
+    "title": "Preparing for Baby #[Number] - Family Expansion Reality",
+    "description": "Document how families prepare for additional children. Include involving existing kids, space organization, financial planning, and emotional preparation for the changing family dynamic.",
+    "tags": ["pregnancy", "expansion", "preparation", "siblings", "planning"],
+    "niches": ["family"]
+  },
+  {
+    "title": "[Family Member] Learns New Skill - Intergenerational Teaching",
+    "description": "Show family members teaching each other skills across generations. Examples: grandparents teaching traditional crafts, kids teaching technology, parents learning from children's perspectives.",
+    "tags": ["intergenerational", "teaching", "skills", "learning", "exchange"],
+    "niches": ["family"]
+  },
+  {
+    "title": "Family Game Night Champions - [Number] Games That Bring Joy",
+    "description": "Review and demonstrate family-friendly games that work for different ages. Include setup tips, rule modifications for younger players, and how games strengthen family bonds and create traditions.",
+    "tags": ["game-night", "games", "family-bonding", "entertainment", "traditions"],
+    "niches": ["family"]
+  },
+  {
+    "title": "Meal Planning for Picky Eaters - Family Nutrition Success",
+    "description": "Share strategies for meal planning when family members have different dietary preferences. Include kid-friendly recipes, hidden vegetable techniques, and how to expand children's food horizons gradually.",
+    "tags": ["meal-planning", "picky-eaters", "nutrition", "recipes", "strategies"],
+    "niches": ["family"]
+  },
+  {
+    "title": "Creating [Family Tradition] - Building Lasting Memories",
+    "description": "Show how families can establish new traditions that become cherished memories. Include ideas for different family types, seasonal traditions, milestone celebrations, and making ordinary moments special.",
+    "tags": ["traditions", "memories", "creating", "celebrations", "family-bonding"],
+    "niches": ["family"]
+  }
+]

@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "Best [Genre] Games of [Year] - Complete Tier List",
+    "description": "Rank and review the best games within a specific genre for the year. Include detailed analysis of what makes each game special, comparisons between entries, and recommendations for different types of players.",
+    "tags": ["best-of", "tier-list", "rankings", "genre", "recommendations"],
+    "niches": ["genre-focus"]
+  },
+  {
+    "title": "[Genre] Hidden Gems - Underrated Games You Missed",
+    "description": "Showcase lesser-known but exceptional games within a specific genre. Highlight unique mechanics, compelling stories, or innovative design that deserve more attention.",
+    "tags": ["hidden-gems", "underrated", "unique", "innovative", "deserves-attention"],
+    "niches": ["genre-focus"]
+  },
+  {
+    "title": "Evolution of [Genre] - From [Early Era] to [Modern Era]",
+    "description": "Trace the historical development of a game genre, showing key innovations, influential titles, and how player expectations and technology have shaped the genre's evolution.",
+    "tags": ["evolution", "history", "innovations", "influential", "development"],
+    "niches": ["genre-focus"]
+  },
+  {
+    "title": "[Genre] for Beginners - Perfect Entry Points",
+    "description": "Recommend the best games for newcomers to a specific genre. Focus on accessible mechanics, gentle learning curves, and titles that represent the genre's best qualities without overwhelming complexity.",
+    "tags": ["beginners", "accessible", "entry-points", "learning-curve", "newcomers"],
+    "niches": ["genre-focus"]
+  },
+  {
+    "title": "Why [Genre] Games Are So Addictive - Psychology Analysis",
+    "description": "Examine the psychological hooks and design patterns that make certain genres particularly engaging. Analyze reward systems, progression mechanics, and player motivation factors.",
+    "tags": ["psychology", "addictive", "hooks", "rewards", "motivation"],
+    "niches": ["genre-focus"]
+  },
+  {
+    "title": "[Genre] Tropes and Clichés - Breaking Down Common Patterns",
+    "description": "Identify and analyze common tropes, clichés, and design patterns within a genre. Discuss when these elements work well and when they become tired or overused.",
+    "tags": ["tropes", "clichés", "patterns", "overused", "analysis"],
+    "niches": ["genre-focus"]
+  },
+  {
+    "title": "Most Innovative [Genre] Games - Pushing Boundaries",
+    "description": "Highlight games that have pushed their genre in new directions through innovative mechanics, storytelling techniques, or unique approaches to established formulas.",
+    "tags": ["innovative", "boundaries", "mechanics", "storytelling", "unique"],
+    "niches": ["genre-focus"]
+  },
+  {
+    "title": "[Genre] Games That Aged Terribly vs Aged Well",
+    "description": "Compare games within a genre that have stood the test of time versus those that feel outdated. Analyze what design choices contribute to longevity or obsolescence.",
+    "tags": ["aged-well", "aged-terribly", "longevity", "outdated", "design-choices"],
+    "niches": ["genre-focus"]
+  },
+  {
+    "title": "Perfecting the [Genre] Formula - What Makes Great Games",
+    "description": "Break down the essential elements that make exceptional games within a specific genre. Analyze successful titles to identify key design principles and execution standards.",
+    "tags": ["formula", "essential-elements", "design-principles", "standards", "execution"],
+    "niches": ["genre-focus"]
+  },
+  {
+    "title": "[Genre] Subgenres Explained - Understanding the Variations",
+    "description": "Explore the various subgenres and offshoots within a main genre, explaining their unique characteristics, target audiences, and how they differentiate from each other.",
+    "tags": ["subgenres", "variations", "characteristics", "differentiate", "offshoots"],
+    "niches": ["genre-focus"]
+  },
+  {
+    "title": "[Genre] Graphics vs Gameplay - What Matters Most?",
+    "description": "Examine the balance between visual presentation and gameplay mechanics within a genre. Compare games that prioritize different aspects and analyze player preferences.",
+    "tags": ["graphics", "gameplay", "balance", "presentation", "preferences"],
+    "niches": ["genre-focus"]
+  },
+  {
+    "title": "Failed [Genre] Games - Learning from Disasters",
+    "description": "Analyze commercial and critical failures within a genre to understand what went wrong. Extract lessons about design, marketing, and execution that other developers can learn from.",
+    "tags": ["failures", "disasters", "went-wrong", "lessons", "developers"],
+    "niches": ["genre-focus"]
+  },
+  {
+    "title": "[Genre] Game Length - How Long Should They Be?",
+    "description": "Discuss optimal game length for different types of games within a genre. Consider pacing, content density, player engagement, and value propositions.",
+    "tags": ["length", "pacing", "content-density", "engagement", "value"],
+    "niches": ["genre-focus"]
+  },
+  {
+    "title": "[Genre] Difficulty Design - Challenge vs Accessibility",
+    "description": "Examine how games within a genre approach difficulty scaling, accessibility options, and the balance between challenge and frustration. Compare different approaches to player skill accommodation.",
+    "tags": ["difficulty", "challenge", "accessibility", "frustration", "skill"],
+    "niches": ["genre-focus"]
+  },
+  {
+    "title": "[Genre] Storytelling - Narrative Techniques That Work",
+    "description": "Analyze effective storytelling methods specific to a genre, including how narrative integrates with gameplay, character development techniques, and environmental storytelling approaches.",
+    "tags": ["storytelling", "narrative", "character-development", "environmental", "integration"],
+    "niches": ["genre-focus"]
+  },
+  {
+    "title": "[Genre] Music and Audio - Soundtrack Analysis",
+    "description": "Explore how music and audio design contribute to the genre experience. Analyze memorable soundtracks, audio cues, and how sound design supports gameplay and atmosphere.",
+    "tags": ["music", "audio", "soundtrack", "atmosphere", "sound-design"],
+    "niches": ["genre-focus"]
+  },
+  {
+    "title": "[Genre] Multiplayer vs Single Player - Which is Better?",
+    "description": "Compare multiplayer and single-player approaches within a genre, analyzing the benefits and drawbacks of each approach and how they serve different player needs.",
+    "tags": ["multiplayer", "single-player", "approaches", "benefits", "player-needs"],
+    "niches": ["genre-focus"]
+  },
+  {
+    "title": "Future of [Genre] - Trends and Predictions",
+    "description": "Speculate on where a genre is heading based on current trends, emerging technologies, player preferences, and industry developments. Make educated predictions about future innovations.",
+    "tags": ["future", "trends", "predictions", "technologies", "innovations"],
+    "niches": ["genre-focus"]
+  }
+]

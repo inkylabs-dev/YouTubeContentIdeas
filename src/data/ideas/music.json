@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "Learning [Instrument] in [Time Period]: Complete Beginner Journey",
+    "description": "Document the process of learning a new instrument from scratch with daily practice and progress updates. Expand by including lesson reviews, technique demonstrations, and milestone celebrations.",
+    "tags": ["music education", "instrument learning", "beginner music", "practice journey", "music skills"],
+    "niches": ["music"]
+  },
+  {
+    "title": "[Number] [Genre] Songs Every [Instrument] Player Should Know",
+    "description": "Curate essential songs in a genre that help players develop key skills and understand musical styles. Expand by teaching simplified versions, explaining techniques, and sharing historical context.",
+    "tags": ["music education", "song recommendations", "genre exploration", "skill development", "classic songs"],
+    "niches": ["music"]
+  },
+  {
+    "title": "Producer Breaks Down: How [Famous Song] Was Made",
+    "description": "Analyze famous songs from a production perspective, breaking down layers, instruments, and creative decisions. Expand by recreating elements, showing software techniques, and interviewing producers.",
+    "tags": ["music production", "song analysis", "behind the scenes", "music theory", "production techniques"],
+    "niches": ["music"]
+  },
+  {
+    "title": "Building a Home Studio for Under [Budget]: Complete Guide",
+    "description": "Show how to create a functional recording setup on a budget with equipment reviews and setup tips. Expand by demonstrating recording techniques, acoustic treatment, and software recommendations.",
+    "tags": ["home studio", "music production", "budget recording", "equipment review", "audio setup"],
+    "niches": ["music"]
+  },
+  {
+    "title": "[Instrument] Battle: [Player 1] vs [Player 2] - Epic Showdown",
+    "description": "Create friendly musical competitions between players of the same instrument with different styles or skill levels. Expand by including audience voting, multiple rounds, and skill-based challenges.",
+    "tags": ["music competition", "musician showcase", "skill comparison", "entertainment", "musical battle"],
+    "niches": ["music"]
+  },
+  {
+    "title": "Turning [Non-Musical Sound] Into a [Genre] Beat",
+    "description": "Create music by sampling and manipulating unexpected sounds into cohesive musical compositions. Expand by showing production process, layering techniques, and creative sampling methods.",
+    "tags": ["music production", "creative sampling", "sound design", "beat making", "experimental music"],
+    "niches": ["music"]
+  },
+  {
+    "title": "Music Theory Explained: Understanding [Musical Concept] in [Time]",
+    "description": "Break down complex music theory concepts into digestible lessons with practical examples. Expand by showing application on instruments, providing exercises, and connecting to popular songs.",
+    "tags": ["music theory", "music education", "learning music", "musical concepts", "theory lessons"],
+    "niches": ["music"]
+  },
+  {
+    "title": "Recreating [Iconic Album] Sound in My Home Studio",
+    "description": "Attempt to recreate the distinctive sound and production style of famous albums using modern equipment. Expand by researching original techniques, comparing results, and explaining production choices.",
+    "tags": ["album recreation", "music production", "vintage sounds", "recording techniques", "music history"],
+    "niches": ["music"]
+  },
+  {
+    "title": "[Number] Free Music Software That Rival Expensive Programs",
+    "description": "Review and demonstrate free music software alternatives to expensive industry standards. Expand by showing features, limitations, and practical applications for different music creation needs.",
+    "tags": ["music software", "free tools", "music production", "DAW review", "budget music making"],
+    "niches": ["music"]
+  },
+  {
+    "title": "Fixing Terrible Recordings: [Instrument/Vocal] Restoration Challenge",
+    "description": "Take poor-quality recordings and demonstrate audio restoration and enhancement techniques. Expand by explaining common problems, showing before/after examples, and teaching correction methods.",
+    "tags": ["audio restoration", "music production", "recording improvement", "audio engineering", "problem solving"],
+    "niches": ["music"]
+  },
+  {
+    "title": "Genre Fusion Experiment: Mixing [Genre 1] with [Genre 2]",
+    "description": "Create unique musical compositions by blending different genres and analyzing what works. Expand by exploring historical genre fusion examples, interviewing fusion artists, and getting audience feedback.",
+    "tags": ["genre fusion", "experimental music", "creative composition", "musical innovation", "genre exploration"],
+    "niches": ["music"]
+  },
+  {
+    "title": "Street Performer to Studio: Recording [Busker's] Best Song",
+    "description": "Take talented street performers and help them create professional recordings of their music. Expand by showing the recording process, artist development, and promoting their work.",
+    "tags": ["street music", "artist development", "music production", "talent showcase", "community music"],
+    "niches": ["music"]
+  },
+  {
+    "title": "[Decade] Music Challenge: Writing Songs in Different Eras",
+    "description": "Create original songs that authentically capture the sound and style of different musical decades. Expand by researching period-appropriate instruments, production techniques, and cultural influences.",
+    "tags": ["music history", "era recreation", "songwriting", "vintage music", "musical styles"],
+    "niches": ["music"]
+  },
+  {
+    "title": "Musician Reacts to AI-Generated Music: The Future of Creativity?",
+    "description": "Explore AI music generation tools and discuss their impact on human creativity and the music industry. Expand by testing different AI tools, collaborating with AI, and interviewing music industry professionals.",
+    "tags": ["AI music", "future of music", "technology", "music innovation", "artificial intelligence"],
+    "niches": ["music"]
+  },
+  {
+    "title": "Building the Perfect [Genre] Playlist: [Number] Essential Tracks",
+    "description": "Curate comprehensive playlists for specific genres with explanation of song choices and genre evolution. Expand by including rare gems, discussing cultural impact, and creating mood-based variations.",
+    "tags": ["playlist curation", "music discovery", "genre exploration", "music recommendations", "mood music"],
+    "niches": ["music"]
+  },
+  {
+    "title": "Instrument Makeover: Restoring [Vintage Instrument] to Its Glory",
+    "description": "Document the restoration process of vintage instruments, bringing them back to playable condition. Expand by explaining restoration techniques, historical significance, and comparing before/after sound quality.",
+    "tags": ["instrument restoration", "vintage instruments", "craftsmanship", "music history", "DIY repair"],
+    "niches": ["music"]
+  },
+  {
+    "title": "Collaborative Song Creation: [Number] Musicians, One Song",
+    "description": "Organize musical collaborations between artists from different genres or locations to create unique compositions. Expand by showing the creative process, remote recording techniques, and final performance.",
+    "tags": ["musical collaboration", "remote recording", "creative process", "artist networking", "ensemble music"],
+    "niches": ["music"]
+  },
+  {
+    "title": "Music Business Exposed: How Artists Really Make Money in [Year]",
+    "description": "Break down the modern music industry economics with real examples of artist revenue streams. Expand by interviewing industry professionals, analyzing streaming data, and providing practical advice for artists.",
+    "tags": ["music business", "artist income", "industry insights", "music economics", "artist development"],
+    "niches": ["music"]
+  }
+]

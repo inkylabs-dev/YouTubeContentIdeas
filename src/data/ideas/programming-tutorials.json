@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "Building a [Project Type] in [Programming Language] - Complete Tutorial",
+    "description": "Create a comprehensive project-based tutorial from concept to deployment. Expand by explaining design decisions, adding features incrementally, and covering deployment options.",
+    "tags": ["programming tutorial", "project-based learning", "full-stack development", "coding education", "software development"],
+    "niches": ["programming-tutorials"]
+  },
+  {
+    "title": "[Programming Language] for Complete Beginners: [Time Period] Crash Course",
+    "description": "Teach programming fundamentals to absolute beginners with hands-on exercises and projects. Expand by including common mistakes, practice challenges, and career guidance.",
+    "tags": ["beginner programming", "programming basics", "coding fundamentals", "learn to code", "programming education"],
+    "niches": ["programming-tutorials"]
+  },
+  {
+    "title": "Data Structures & Algorithms: Implementing [Algorithm] in [Language]",
+    "description": "Explain complex algorithms and data structures with visual demonstrations and code examples. Expand by comparing different approaches, analyzing time complexity, and showing real-world applications.",
+    "tags": ["algorithms", "data structures", "computer science", "coding interview", "algorithm explanation"],
+    "niches": ["programming-tutorials"]
+  },
+  {
+    "title": "Code Review: Fixing [Number] Common [Language] Mistakes",
+    "description": "Review real code examples and demonstrate proper refactoring techniques. Expand by explaining best practices, design patterns, and performance optimization.",
+    "tags": ["code review", "code refactoring", "best practices", "programming standards", "clean code"],
+    "niches": ["programming-tutorials"]
+  },
+  {
+    "title": "API Development Tutorial: Building RESTful API with [Framework]",
+    "description": "Guide through creating a complete API from database design to endpoint implementation. Expand by covering authentication, testing, documentation, and deployment.",
+    "tags": ["API development", "REST API", "backend development", "web services", "API design"],
+    "niches": ["programming-tutorials"]
+  },
+  {
+    "title": "Frontend Framework Showdown: [Framework 1] vs [Framework 2]",
+    "description": "Compare popular frontend frameworks by building the same application in each. Expand by discussing performance, learning curve, ecosystem, and use cases.",
+    "tags": ["frontend development", "framework comparison", "web development", "JavaScript frameworks", "technology comparison"],
+    "niches": ["programming-tutorials"]
+  },
+  {
+    "title": "Database Design & Optimization: [Database Type] Best Practices",
+    "description": "Teach database design principles and query optimization techniques with practical examples. Expand by covering indexing, normalization, and performance monitoring.",
+    "tags": ["database design", "SQL tutorials", "database optimization", "data modeling", "backend development"],
+    "niches": ["programming-tutorials"]
+  },
+  {
+    "title": "DevOps for Developers: Deploying [Application] with [Tool/Platform]",
+    "description": "Show the complete deployment pipeline from development to production. Expand by covering CI/CD, containerization, monitoring, and scaling strategies.",
+    "tags": ["DevOps", "deployment", "CI/CD", "cloud deployment", "development operations"],
+    "niches": ["programming-tutorials"]
+  },
+  {
+    "title": "Machine Learning Project: Building [ML Application] from Scratch",
+    "description": "Create end-to-end machine learning applications with data preprocessing, model training, and deployment. Expand by explaining algorithms, feature engineering, and model evaluation.",
+    "tags": ["machine learning", "AI development", "data science", "ML projects", "artificial intelligence"],
+    "niches": ["programming-tutorials"]
+  },
+  {
+    "title": "Mobile App Development: Creating [App Type] for [Platform]",
+    "description": "Build mobile applications from design to app store submission. Expand by covering platform-specific features, testing, and app optimization.",
+    "tags": ["mobile development", "app development", "iOS development", "Android development", "cross-platform"],
+    "niches": ["programming-tutorials"]
+  },
+  {
+    "title": "Security Essentials: Protecting Your [Application Type] from [Vulnerability]",
+    "description": "Demonstrate common security vulnerabilities and implementation of protective measures. Expand by showing attack scenarios, security testing, and compliance standards.",
+    "tags": ["cybersecurity", "application security", "security programming", "vulnerability prevention", "secure coding"],
+    "niches": ["programming-tutorials"]
+  },
+  {
+    "title": "Testing Tutorial: [Testing Type] Testing in [Language/Framework]",
+    "description": "Cover comprehensive testing strategies from unit tests to integration testing. Expand by showing test-driven development, mocking, and continuous testing practices.",
+    "tags": ["software testing", "test automation", "TDD", "quality assurance", "testing frameworks"],
+    "niches": ["programming-tutorials"]
+  },
+  {
+    "title": "Performance Optimization: Making [Application] [X]x Faster",
+    "description": "Profile and optimize application performance with measurable improvements. Expand by covering profiling tools, optimization techniques, and performance monitoring.",
+    "tags": ["performance optimization", "code optimization", "application performance", "profiling", "efficiency"],
+    "niches": ["programming-tutorials"]
+  },
+  {
+    "title": "Design Patterns Explained: Implementing [Pattern] in Real Projects",
+    "description": "Teach software design patterns through practical examples and real-world scenarios. Expand by comparing different patterns and discussing when to use each.",
+    "tags": ["design patterns", "software architecture", "object-oriented programming", "code organization", "software design"],
+    "niches": ["programming-tutorials"]
+  },
+  {
+    "title": "Version Control Mastery: Advanced [Git] Techniques for Teams",
+    "description": "Cover advanced version control workflows, branching strategies, and collaboration techniques. Expand by showing conflict resolution, code review processes, and repository management.",
+    "tags": ["version control", "Git tutorials", "team collaboration", "source control", "development workflow"],
+    "niches": ["programming-tutorials"]
+  },
+  {
+    "title": "Open Source Contribution: Contributing to [Popular Project]",
+    "description": "Guide through the process of making meaningful contributions to open source projects. Expand by covering project selection, communication, and long-term involvement.",
+    "tags": ["open source", "community contribution", "software collaboration", "project contribution", "developer community"],
+    "niches": ["programming-tutorials"]
+  },
+  {
+    "title": "Legacy Code Modernization: Updating [Old Technology] to [New Technology]",
+    "description": "Demonstrate strategies for modernizing legacy codebases with minimal risk. Expand by covering migration strategies, testing approaches, and gradual refactoring.",
+    "tags": ["legacy code", "code modernization", "technology migration", "refactoring", "system upgrade"],
+    "niches": ["programming-tutorials"]
+  },
+  {
+    "title": "Interview Preparation: Coding Challenge Walkthrough [Problem Type]",
+    "description": "Solve common programming interview problems with step-by-step explanations. Expand by covering problem-solving strategies, optimization techniques, and interview tips.",
+    "tags": ["coding interview", "technical interview", "problem solving", "career preparation", "algorithm practice"],
+    "niches": ["programming-tutorials"]
+  }
+]

@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Game] Review - [Time Period] After Launch",
+    "description": "Provide an honest review of a game after spending significant time with it post-launch. Include initial impressions vs long-term experience, updates since release, and whether it's worth purchasing now.",
+    "tags": ["review", "post-launch", "honest", "long-term", "worth-it"],
+    "niches": ["game-reviews"]
+  },
+  {
+    "title": "[Game] vs [Game] - Ultimate Comparison Review",
+    "description": "Compare two similar games across multiple categories including graphics, gameplay, story, value, and replayability. Help viewers decide which game better fits their preferences and budget.",
+    "tags": ["comparison", "versus", "categories", "decision", "value"],
+    "niches": ["game-reviews"]
+  },
+  {
+    "title": "Brutally Honest [Game] Review - No Hype, Just Facts",
+    "description": "Cut through marketing hype to provide unbiased analysis of a game's strengths and weaknesses. Include technical performance, content quality, and whether it delivers on promises.",
+    "tags": ["honest", "unbiased", "hype", "technical", "promises"],
+    "niches": ["game-reviews"]
+  },
+  {
+    "title": "[Genre] Game Tier List - Ranking the Best and Worst",
+    "description": "Create comprehensive tier lists for specific game genres, ranking titles from S-tier to F-tier. Explain criteria, provide reasoning for placements, and invite community discussion.",
+    "tags": ["tier-list", "ranking", "genre", "criteria", "community"],
+    "niches": ["game-reviews"]
+  },
+  {
+    "title": "[Game] - Hidden Gem or Overhyped Disaster?",
+    "description": "Examine games that are either underappreciated masterpieces or disappointing despite massive hype. Analyze what makes them special or why they fell short of expectations.",
+    "tags": ["hidden-gem", "overhyped", "underappreciated", "expectations", "analysis"],
+    "niches": ["game-reviews"]
+  },
+  {
+    "title": "Reviewing [Game] as a [Player Type] - Perspective Matters",
+    "description": "Review games from specific player perspectives like casual gamer, hardcore enthusiast, parent, or newcomer to the series. Show how different viewpoints affect game appreciation.",
+    "tags": ["perspective", "player-type", "viewpoint", "appreciation", "demographic"],
+    "niches": ["game-reviews"]
+  },
+  {
+    "title": "[Game] DLC Review - Worth the Extra Money?",
+    "description": "Evaluate downloadable content and expansions for their value proposition. Analyze new content quality, integration with base game, and whether the price justifies the purchase.",
+    "tags": ["DLC", "expansion", "value", "price", "integration"],
+    "niches": ["game-reviews"]
+  },
+  {
+    "title": "[Old Game] Revisited - Does It Hold Up in [Current Year]?",
+    "description": "Revisit classic games to see how they fare by modern standards. Examine graphics, gameplay mechanics, story, and whether the game remains enjoyable or feels dated.",
+    "tags": ["classic", "revisited", "modern-standards", "holds-up", "dated"],
+    "niches": ["game-reviews"]
+  },
+  {
+    "title": "[Platform] Exclusive Review - [Game] System Seller Analysis",
+    "description": "Review platform-exclusive games and analyze whether they justify purchasing the specific console or platform. Include technical advantages and unique features.",
+    "tags": ["exclusive", "platform", "system-seller", "justify", "technical"],
+    "niches": ["game-reviews"]
+  },
+  {
+    "title": "Speed Review Challenge - [Number] Games in [Time]",
+    "description": "Rapidly review multiple games within a time constraint, providing quick but informative impressions. Focus on key points that help viewers make purchasing decisions efficiently.",
+    "tags": ["speed-review", "rapid", "multiple", "efficient", "key-points"],
+    "niches": ["game-reviews"]
+  },
+  {
+    "title": "[Game] Technical Analysis - Performance Deep Dive",
+    "description": "Focus specifically on technical aspects including framerate, resolution, loading times, and optimization across different platforms. Include comparison footage and benchmarks.",
+    "tags": ["technical", "performance", "optimization", "benchmarks", "platforms"],
+    "niches": ["game-reviews"]
+  },
+  {
+    "title": "[Game] Story Review - Narrative Without Spoilers",
+    "description": "Review game narratives while avoiding spoilers. Analyze writing quality, character development, pacing, and emotional impact without revealing plot details.",
+    "tags": ["story", "narrative", "spoiler-free", "writing", "character-development"],
+    "niches": ["game-reviews"]
+  },
+  {
+    "title": "[Game] Accessibility Review - Gaming for Everyone",
+    "description": "Evaluate games from accessibility perspective, covering options for players with disabilities. Include subtitle quality, colorblind support, control customization, and difficulty options.",
+    "tags": ["accessibility", "inclusive", "disabilities", "options", "customization"],
+    "niches": ["game-reviews"]
+  },
+  {
+    "title": "[Budget Price] Game Review - Best Bang for Your Buck",
+    "description": "Review games at specific price points to help budget-conscious gamers find the best value. Compare content quality and quantity against the asking price.",
+    "tags": ["budget", "value", "price-point", "bang-for-buck", "content"],
+    "niches": ["game-reviews"]
+  },
+  {
+    "title": "[Game] Multiplayer Review - Community and Competition",
+    "description": "Focus specifically on multiplayer aspects including matchmaking, community toxicity, competitive balance, and long-term multiplayer viability.",
+    "tags": ["multiplayer", "community", "competitive", "balance", "viability"],
+    "niches": ["game-reviews"]
+  },
+  {
+    "title": "[Game Series] Evolution - From [First] to [Latest]",
+    "description": "Track how game series have evolved over time, comparing entries and showing progression in graphics, gameplay, and storytelling across multiple installments.",
+    "tags": ["evolution", "series", "progression", "comparison", "installments"],
+    "niches": ["game-reviews"]
+  },
+  {
+    "title": "[Game] Parent Review - Is It Appropriate for Kids?",
+    "description": "Review games from a parent's perspective, covering age-appropriateness, educational value, potential concerns, and family-friendly features.",
+    "tags": ["parent", "kids", "appropriate", "educational", "family-friendly"],
+    "niches": ["game-reviews"]
+  },
+  {
+    "title": "[Game] Review Update - How Patches Changed Everything",
+    "description": "Re-review games that have been significantly updated since launch. Show how patches, updates, and community feedback have improved or changed the original experience.",
+    "tags": ["update", "patches", "changed", "improved", "post-launch"],
+    "niches": ["game-reviews"]
+  }
+]

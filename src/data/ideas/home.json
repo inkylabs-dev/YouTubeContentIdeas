@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Number] Room Makeover: Transforming Your [Room Type] on a Budget",
+    "description": "Show dramatic room transformations with affordable changes. Replace placeholders with combinations like '24-Hour Living Room Makeover' or '5-Day Kitchen Transformation.' Include before/after shots, budget breakdowns, and DIY tips.",
+    "tags": ["home", "makeover", "budget", "transformation", "decor"],
+    "niches": ["home"]
+  },
+  {
+    "title": "Home Organization Hacks: [Number] Ways to Declutter Your [Area]",
+    "description": "Provide practical organization solutions for specific home areas. Replace placeholders with combinations like '10 Ways to Declutter Your Closet' or '15 Ways to Organize Your Kitchen.' Include storage solutions and maintenance tips.",
+    "tags": ["home", "organization", "declutter", "storage", "hacks"],
+    "niches": ["home"]
+  },
+  {
+    "title": "Seasonal Home Maintenance: [Season] Checklist for Homeowners",
+    "description": "Create comprehensive maintenance guides for each season. Replace the placeholder with 'Spring,' 'Summer,' 'Fall,' or 'Winter.' Include preventive tasks, cleaning schedules, and preparation tips for upcoming weather changes.",
+    "tags": ["home", "maintenance", "seasonal", "checklist", "care"],
+    "niches": ["home"]
+  },
+  {
+    "title": "Budget-Friendly Home Improvements That Add Value to Your [Home Type]",
+    "description": "Focus on cost-effective upgrades that increase home value. Replace the placeholder with home types like 'Apartment,' 'House,' 'Condo,' or 'Mobile Home.' Include ROI estimates and step-by-step implementation guides.",
+    "tags": ["home", "improvement", "value", "budget", "investment"],
+    "niches": ["home"]
+  },
+  {
+    "title": "Small Space Solutions: Maximizing Your [Number] Square Foot [Room]",
+    "description": "Help viewers optimize limited living space. Replace placeholders with combinations like '500 Square Foot Studio' or '100 Square Foot Bedroom.' Include furniture choices, layout tips, and visual tricks to create spaciousness.",
+    "tags": ["home", "small-space", "optimization", "layout", "design"],
+    "niches": ["home"]
+  },
+  {
+    "title": "First-Time Homeowner Guide: Essential [Category] You Need to Know",
+    "description": "Educate new homeowners about important topics. Replace the placeholder with categories like 'Maintenance Tasks,' 'Insurance Tips,' 'Safety Measures,' or 'Neighborhood Research.' Provide practical, actionable advice.",
+    "tags": ["home", "first-time", "homeowner", "guide", "education"],
+    "niches": ["home"]
+  },
+  {
+    "title": "Energy-Efficient Home: [Number] Ways to Reduce Your [Utility] Bills",
+    "description": "Share money-saving energy efficiency tips. Replace placeholders with combinations like '12 Ways to Reduce Your Electric Bills' or '8 Ways to Lower Your Heating Costs.' Include cost calculations and implementation difficulty.",
+    "tags": ["home", "energy-efficiency", "savings", "bills", "environment"],
+    "niches": ["home"]
+  },
+  {
+    "title": "Home Security on a Budget: DIY [Security Feature] Installation",
+    "description": "Demonstrate affordable home security improvements. Replace the placeholder with features like 'Camera Systems,' 'Door Reinforcement,' 'Window Alarms,' or 'Motion Lights.' Include product recommendations and installation guides.",
+    "tags": ["home", "security", "DIY", "budget", "safety"],
+    "niches": ["home"]
+  },
+  {
+    "title": "Creating the Perfect [Room Function]: Design Tips and Must-Haves",
+    "description": "Focus on optimizing rooms for specific functions. Replace the placeholder with functions like 'Home Office,' 'Reading Nook,' 'Exercise Space,' or 'Guest Room.' Include furniture, lighting, and organizational recommendations.",
+    "tags": ["home", "design", "function", "optimization", "space"],
+    "niches": ["home"]
+  },
+  {
+    "title": "Eco-Friendly Home: [Number] Sustainable Swaps for Your [Area]",
+    "description": "Promote environmentally conscious home choices. Replace placeholders with combinations like '10 Sustainable Swaps for Your Kitchen' or '7 Eco-Friendly Changes for Your Bathroom.' Include environmental impact and cost comparisons.",
+    "tags": ["home", "eco-friendly", "sustainable", "environment", "green"],
+    "niches": ["home"]
+  },
+  {
+    "title": "Home Staging Secrets: Preparing Your [Room] to Sell for Maximum Price",
+    "description": "Teach effective home staging techniques. Replace the placeholder with rooms like 'Living Room,' 'Master Bedroom,' 'Kitchen,' or 'Bathroom.' Include before/after examples and staging timeline recommendations.",
+    "tags": ["home", "staging", "selling", "real-estate", "value"],
+    "niches": ["home"]
+  },
+  {
+    "title": "Smart Home Technology: Beginner's Guide to [Smart Device Type]",
+    "description": "Introduce viewers to smart home automation. Replace the placeholder with device types like 'Smart Thermostats,' 'Voice Assistants,' 'Security Systems,' or 'Lighting Controls.' Include setup guides and compatibility information.",
+    "tags": ["home", "smart-home", "technology", "automation", "beginner"],
+    "niches": ["home"]
+  },
+  {
+    "title": "Rental Property Improvements: [Number] Changes Your Landlord Will Love",
+    "description": "Focus on renter-friendly improvements that don't violate lease agreements. Replace the placeholder with numbers like '5' or '10.' Include removable options, temporary solutions, and landlord communication tips.",
+    "tags": ["home", "rental", "renter-friendly", "temporary", "improvements"],
+    "niches": ["home"]
+  },
+  {
+    "title": "Seasonal Decorating: Transitioning Your Home from [Season] to [Season]",
+    "description": "Show how to update home decor between seasons. Replace placeholders with seasonal transitions like 'Summer to Fall' or 'Winter to Spring.' Include storage tips and versatile decoration pieces.",
+    "tags": ["home", "seasonal", "decorating", "transition", "styling"],
+    "niches": ["home"]
+  },
+  {
+    "title": "Home Workspace Setup: Creating a Productive [Work Type] Area",
+    "description": "Design functional work spaces within the home. Replace the placeholder with work types like 'Office,' 'Craft Room,' 'Study Space,' or 'Creative Studio.' Include ergonomics, lighting, and organization considerations.",
+    "tags": ["home", "workspace", "productivity", "setup", "ergonomics"],
+    "niches": ["home"]
+  },
+  {
+    "title": "Natural Light Solutions: Brightening Dark [Room Type] Spaces",
+    "description": "Address common lighting challenges in homes. Replace the placeholder with room types like 'Basement,' 'Bathroom,' 'Hallway,' or 'North-Facing' rooms. Include mirror placement, color choices, and artificial lighting solutions.",
+    "tags": ["home", "lighting", "natural-light", "brightening", "solutions"],
+    "niches": ["home"]
+  },
+  {
+    "title": "Pet-Friendly Home Design: [Number] Ways to Live Comfortably with [Pet Type]",
+    "description": "Create homes that work well for both pets and humans. Replace placeholders with combinations like '8 Ways to Live Comfortably with Dogs' or '12 Cat-Friendly Home Design Ideas.' Include furniture protection and pet accommodation.",
+    "tags": ["home", "pet-friendly", "design", "pets", "family"],
+    "niches": ["home"]
+  },
+  {
+    "title": "Emergency Preparedness: Setting Up Your [Emergency Type] Supply Station",
+    "description": "Help viewers prepare their homes for emergencies. Replace the placeholder with emergency types like 'Power Outage,' 'Natural Disaster,' 'Water Shortage,' or 'Severe Weather.' Include supply lists and storage solutions.",
+    "tags": ["home", "emergency", "preparedness", "safety", "supplies"],
+    "niches": ["home"]
+  }
+]

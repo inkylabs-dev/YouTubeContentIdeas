@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "Building [Store Type] Store: From Idea to First Sale in [Timeframe]",
+    "description": "Document the complete process of launching an ecommerce store from initial concept to first sale. Cover niche selection, platform choice, product sourcing, store design, marketing strategies, and conversion optimization. Include real challenges, setbacks, and breakthrough moments.",
+    "tags": ["ecommerce startup", "online business", "store launch", "entrepreneurship", "business development"],
+    "niches": ["ecommerce"]
+  },
+  {
+    "title": "Product Research Deep Dive: Finding Winning [Product Category] in [Market]",
+    "description": "Show systematic product research methodologies for identifying profitable ecommerce opportunities. Cover market analysis, competition research, trend identification, and validation techniques. Include tools, resources, and decision-making frameworks for product selection.",
+    "tags": ["product research", "market analysis", "trend analysis", "business intelligence", "opportunity identification"],
+    "niches": ["ecommerce"]
+  },
+  {
+    "title": "Dropshipping vs. Inventory: [Product] Business Model Comparison",
+    "description": "Compare different ecommerce fulfillment models by testing identical products through dropshipping and traditional inventory approaches. Analyze costs, profit margins, customer satisfaction, and operational complexity for informed business decisions.",
+    "tags": ["dropshipping", "inventory management", "fulfillment models", "business comparison", "operational efficiency"],
+    "niches": ["ecommerce"]
+  },
+  {
+    "title": "[Platform] Store Optimization: Increasing [Metric] by [Percentage]",
+    "description": "Document systematic ecommerce optimization efforts focusing on specific metrics like conversion rate, average order value, or customer lifetime value. Show testing methodologies, implementation strategies, and measurable results with before/after analysis.",
+    "tags": ["conversion optimization", "ecommerce analytics", "performance improvement", "testing strategies", "data-driven decisions"],
+    "niches": ["ecommerce"]
+  },
+  {
+    "title": "Ecommerce Marketing Experiment: [Strategy] for [Budget] in [Duration]",
+    "description": "Test various marketing channels and strategies with documented budgets and results. Compare ROI across different platforms including social media, email, PPC, and content marketing. Include scaling strategies and budget allocation recommendations.",
+    "tags": ["digital marketing", "advertising ROI", "marketing channels", "budget optimization", "customer acquisition"],
+    "niches": ["ecommerce"]
+  },
+  {
+    "title": "Supply Chain Deep Dive: Sourcing [Product] from [Region/Method]",
+    "description": "Explore ecommerce supply chain management including supplier research, quality control, shipping logistics, and cost optimization. Show negotiation processes, relationship building, and risk management with international suppliers.",
+    "tags": ["supply chain", "supplier relations", "logistics", "sourcing", "quality control"],
+    "niches": ["ecommerce"]
+  },
+  {
+    "title": "Customer Service Excellence: Handling [Challenge Type] in Ecommerce",
+    "description": "Demonstrate professional customer service approaches for common ecommerce challenges. Cover response strategies, conflict resolution, refund policies, and building customer loyalty through exceptional service experiences.",
+    "tags": ["customer service", "customer satisfaction", "conflict resolution", "retention strategies", "service excellence"],
+    "niches": ["ecommerce"]
+  },
+  {
+    "title": "Ecommerce Automation: Setting up [Process] to Save [Time/Money]",
+    "description": "Implement automation tools and processes to streamline ecommerce operations. Cover inventory management, order processing, customer communications, and marketing automation. Show cost-benefit analysis and implementation tutorials.",
+    "tags": ["automation", "operational efficiency", "workflow optimization", "technology tools", "process improvement"],
+    "niches": ["ecommerce"]
+  },
+  {
+    "title": "Scaling Challenge: Growing [Store] from [Revenue A] to [Revenue B]",
+    "description": "Document the scaling process for established ecommerce businesses including infrastructure changes, team building, system upgrades, and strategic pivots. Show challenges and solutions for sustainable growth management.",
+    "tags": ["business scaling", "growth strategies", "infrastructure", "team building", "operational scaling"],
+    "niches": ["ecommerce"]
+  },
+  {
+    "title": "International Expansion: Taking [Store] to [Country/Region]",
+    "description": "Explore international ecommerce expansion including market research, localization, regulatory compliance, and cultural adaptation. Cover payment methods, shipping logistics, and customer service in new markets.",
+    "tags": ["international business", "market expansion", "localization", "global ecommerce", "cross-border trade"],
+    "niches": ["ecommerce"]
+  },
+  {
+    "title": "Seasonal Strategy: Preparing [Store] for [Holiday/Season]",
+    "description": "Plan and execute seasonal ecommerce strategies including inventory planning, marketing campaigns, website optimization, and customer service scaling. Show preparation timelines and performance analysis for peak selling periods.",
+    "tags": ["seasonal marketing", "inventory planning", "holiday sales", "campaign management", "peak season preparation"],
+    "niches": ["ecommerce"]
+  },
+  {
+    "title": "Brand Building: Creating [Brand Identity] for [Niche] Products",
+    "description": "Develop comprehensive brand strategies for ecommerce businesses including visual identity, brand messaging, customer experience design, and brand differentiation. Show long-term brand building versus quick profit approaches.",
+    "tags": ["brand development", "brand identity", "customer experience", "brand positioning", "brand strategy"],
+    "niches": ["ecommerce"]
+  },
+  {
+    "title": "Ecommerce Platform Comparison: [Platform A] vs [Platform B] for [Business Type]",
+    "description": "Compare ecommerce platforms through hands-on testing with real stores and products. Analyze features, costs, scalability, customization options, and support quality. Include migration processes and platform recommendations.",
+    "tags": ["platform comparison", "ecommerce software", "technology decisions", "platform migration", "business tools"],
+    "niches": ["ecommerce"]
+  },
+  {
+    "title": "Return and Refund Mastery: Turning Problems into [Positive Outcome]",
+    "description": "Transform ecommerce challenges like returns and refunds into customer loyalty opportunities. Show policy development, process optimization, and communication strategies that maintain profitability while ensuring customer satisfaction.",
+    "tags": ["return policy", "customer retention", "problem resolution", "policy development", "customer loyalty"],
+    "niches": ["ecommerce"]
+  },
+  {
+    "title": "Mobile Commerce Focus: Optimizing [Store] for Mobile Sales",
+    "description": "Concentrate on mobile ecommerce optimization including responsive design, mobile-specific features, app development, and mobile marketing strategies. Show mobile-first approach and cross-device customer journey optimization.",
+    "tags": ["mobile commerce", "mobile optimization", "responsive design", "mobile marketing", "user experience"],
+    "niches": ["ecommerce"]
+  },
+  {
+    "title": "Subscription Box Business: Launching [Niche] Monthly Service",
+    "description": "Build subscription-based ecommerce models including product curation, pricing strategies, retention tactics, and logistics management. Cover subscription economics, churn reduction, and customer lifetime value optimization.",
+    "tags": ["subscription business", "recurring revenue", "customer retention", "subscription economics", "service business"],
+    "niches": ["ecommerce"]
+  },
+  {
+    "title": "Influencer Partnerships: Collaborating with [Influencer Type] for [Product]",
+    "description": "Develop and execute influencer marketing strategies for ecommerce including influencer selection, campaign development, content creation, and ROI measurement. Show relationship building and long-term partnership strategies.",
+    "tags": ["influencer marketing", "content partnerships", "social commerce", "brand collaboration", "marketing ROI"],
+    "niches": ["ecommerce"]
+  },
+  {
+    "title": "Ecommerce Analytics Deep Dive: Using Data to Increase [Metric]",
+    "description": "Implement comprehensive analytics strategies for ecommerce optimization. Cover key metrics, reporting dashboards, customer behavior analysis, and data-driven decision making. Show how analytics drive business improvements and growth.",
+    "tags": ["ecommerce analytics", "data analysis", "business intelligence", "performance metrics", "data-driven decisions"],
+    "niches": ["ecommerce"]
+  }
+]

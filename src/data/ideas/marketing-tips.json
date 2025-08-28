@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Platform] Marketing: [Number] Strategies to Grow Your [Business Type]",
+    "description": "Provide platform-specific marketing strategies for different business types. Replace placeholders with combinations like 'Instagram Marketing: 10 Strategies to Grow Your E-commerce Business' or 'LinkedIn: B2B Lead Generation Tips.' Include platform best practices and case studies.",
+    "tags": ["marketing", "strategy", "social-media", "growth", "business"],
+    "niches": ["marketing-tips"]
+  },
+  {
+    "title": "Content Marketing: Creating [Content Type] That Converts [Target Audience]",
+    "description": "Focus on content creation strategies that drive conversions. Replace placeholders with combinations like 'Creating Blog Posts That Convert B2B Clients' or 'Video Content for Millennial Consumers.' Include content planning and optimization techniques.",
+    "tags": ["marketing", "content", "conversion", "audience", "strategy"],
+    "niches": ["marketing-tips"]
+  },
+  {
+    "title": "Email Marketing Mastery: [Number] Ways to Improve [Metric]",
+    "description": "Optimize email marketing campaigns for better performance. Replace placeholders with combinations like '7 Ways to Improve Open Rates' or '12 Techniques to Boost Click-Through Rates.' Include A/B testing strategies and automation tips.",
+    "tags": ["marketing", "email", "optimization", "metrics", "automation"],
+    "niches": ["marketing-tips"]
+  },
+  {
+    "title": "SEO Secrets: Ranking Higher for [Keyword Type] in [Time Frame]",
+    "description": "Share search engine optimization strategies for improved rankings. Replace placeholders with combinations like 'Ranking Higher for Local Keywords in 90 Days' or 'E-commerce SEO in 6 Months.' Include technical SEO and content optimization.",
+    "tags": ["marketing", "SEO", "ranking", "keywords", "search"],
+    "niches": ["marketing-tips"]
+  },
+  {
+    "title": "Conversion Optimization: Improving [Funnel Stage] by [Percentage]%",
+    "description": "Focus on specific conversion optimization strategies. Replace placeholders with combinations like 'Improving Landing Pages by 50%' or 'Boosting Checkout Conversion by 25%.' Include testing methods and psychological principles.",
+    "tags": ["marketing", "conversion", "optimization", "funnel", "testing"],
+    "niches": ["marketing-tips"]
+  },
+  {
+    "title": "Influencer Marketing: Partnering with [Influencer Type] for [Campaign Goal]",
+    "description": "Guide businesses through influencer partnership strategies. Replace placeholders with combinations like 'Partnering with Micro-Influencers for Brand Awareness' or 'Celebrity Endorsements for Product Launches.' Include negotiation and measurement tips.",
+    "tags": ["marketing", "influencer", "partnerships", "campaigns", "collaboration"],
+    "niches": ["marketing-tips"]
+  },
+  {
+    "title": "Marketing Analytics: Understanding [Metric] to Improve [Business Goal]",
+    "description": "Explain how to interpret and act on marketing analytics. Replace placeholders with combinations like 'Understanding Customer Lifetime Value to Improve Retention' or 'Using Attribution Models to Optimize Ad Spend.' Include data interpretation and actionable insights.",
+    "tags": ["marketing", "analytics", "metrics", "data", "insights"],
+    "niches": ["marketing-tips"]
+  },
+  {
+    "title": "Brand Building: Creating [Brand Element] That Resonates with [Target Market]",
+    "description": "Focus on brand development and positioning strategies. Replace placeholders with combinations like 'Creating Brand Voice That Resonates with Gen Z' or 'Visual Identity for Luxury Markets.' Include brand strategy and consistency tips.",
+    "tags": ["marketing", "branding", "identity", "positioning", "strategy"],
+    "niches": ["marketing-tips"]
+  },
+  {
+    "title": "Paid Advertising: Optimizing [Ad Platform] Campaigns for [Objective]",
+    "description": "Provide strategies for paid advertising optimization. Replace placeholders with combinations like 'Optimizing Facebook Ads for Lead Generation' or 'Google Ads for E-commerce Sales.' Include bidding strategies and targeting techniques.",
+    "tags": ["marketing", "advertising", "paid", "optimization", "campaigns"],
+    "niches": ["marketing-tips"]
+  },
+  {
+    "title": "Customer Retention: [Number] Strategies to Keep [Customer Type] Coming Back",
+    "description": "Focus on retention marketing and customer loyalty strategies. Replace placeholders with combinations like '8 Strategies to Keep SaaS Customers' or '12 Ways to Retain E-commerce Shoppers.' Include loyalty programs and engagement tactics.",
+    "tags": ["marketing", "retention", "loyalty", "customers", "engagement"],
+    "niches": ["marketing-tips"]
+  },
+  {
+    "title": "Marketing Automation: Setting Up [Workflow Type] for [Business Process]",
+    "description": "Guide viewers through marketing automation setup and optimization. Replace placeholders with combinations like 'Setting Up Welcome Sequences for New Subscribers' or 'Abandoned Cart Recovery for E-commerce.' Include tool recommendations and best practices.",
+    "tags": ["marketing", "automation", "workflows", "efficiency", "tools"],
+    "niches": ["marketing-tips"]
+  },
+  {
+    "title": "Psychology in Marketing: Using [Psychological Principle] to Increase [Action]",
+    "description": "Apply psychological principles to marketing strategies. Replace placeholders with combinations like 'Using Scarcity to Increase Purchases' or 'Social Proof for Higher Conversions.' Include ethical considerations and practical applications.",
+    "tags": ["marketing", "psychology", "persuasion", "behavior", "ethics"],
+    "niches": ["marketing-tips"]
+  },
+  {
+    "title": "Marketing Budget: Allocating [Budget Amount] Across [Number] Channels",
+    "description": "Provide budget allocation strategies for marketing campaigns. Replace placeholders with combinations like 'Allocating $10K Across 5 Digital Channels' or 'Small Business: $1K Monthly Marketing Budget.' Include ROI calculations and priority frameworks.",
+    "tags": ["marketing", "budget", "allocation", "ROI", "planning"],
+    "niches": ["marketing-tips"]
+  },
+  {
+    "title": "Crisis Marketing: Managing [Crisis Type] and Protecting Brand Reputation",
+    "description": "Address crisis management and reputation protection strategies. Replace the placeholder with crisis types like 'Product Recalls,' 'Negative Reviews,' 'Social Media Backlash,' or 'Economic Downturns.' Include communication strategies and recovery plans.",
+    "tags": ["marketing", "crisis", "reputation", "management", "communication"],
+    "niches": ["marketing-tips"]
+  },
+  {
+    "title": "Competitive Analysis: Outsmarting [Competitor Type] in [Market Segment]",
+    "description": "Conduct competitive analysis and develop differentiation strategies. Replace placeholders with combinations like 'Outsmarting Enterprise Competitors in SMB Market' or 'Competing Against Amazon in Niche E-commerce.' Include analysis frameworks and positioning strategies.",
+    "tags": ["marketing", "competition", "analysis", "strategy", "differentiation"],
+    "niches": ["marketing-tips"]
+  },
+  {
+    "title": "Marketing Technology: Implementing [MarTech Tool] for [Business Need]",
+    "description": "Guide businesses through marketing technology adoption and implementation. Replace placeholders with combinations like 'Implementing CRM for Lead Management' or 'Marketing Analytics Tools for Data-Driven Decisions.' Include integration tips and ROI measurement.",
+    "tags": ["marketing", "technology", "tools", "implementation", "efficiency"],
+    "niches": ["marketing-tips"]
+  },
+  {
+    "title": "Personalization Strategy: Customizing [Marketing Element] for [Audience Segment]",
+    "description": "Develop personalization strategies for better customer experience. Replace placeholders with combinations like 'Customizing Email Content for Different Demographics' or 'Personalizing Website Experience for Returning Visitors.' Include segmentation and dynamic content strategies.",
+    "tags": ["marketing", "personalization", "customization", "segmentation", "experience"],
+    "niches": ["marketing-tips"]
+  },
+  {
+    "title": "Marketing Trends: Preparing for [Trend/Technology] in [Industry]",
+    "description": "Explore emerging marketing trends and their implications for different industries. Replace placeholders with combinations like 'Preparing for AI in Retail Marketing' or 'Voice Search Optimization for Local Businesses.' Include future predictions and preparation strategies.",
+    "tags": ["marketing", "trends", "future", "technology", "innovation"],
+    "niches": ["marketing-tips"]
+  }
+]

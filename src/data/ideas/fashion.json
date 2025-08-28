@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Season] Fashion Trends [Year] - What's Hot Right Now",
+    "description": "Showcase the latest seasonal fashion trends with styling tips, where to find pieces at different price points, and how to incorporate trends into existing wardrobes without breaking the bank.",
+    "tags": ["trends", "seasonal", "styling", "current", "affordable"],
+    "niches": ["fashion"]
+  },
+  {
+    "title": "Styling [Piece] [Number] Ways - Wardrobe Maximizer",
+    "description": "Take one versatile clothing item and show multiple ways to style it for different occasions. Demonstrate how to get maximum value from wardrobe pieces through creative styling and accessorizing.",
+    "tags": ["styling", "versatile", "wardrobe", "multiple-ways", "creative"],
+    "niches": ["fashion"]
+  },
+  {
+    "title": "[Budget] Fashion Haul - High Style, Low Price",
+    "description": "Show affordable fashion finds within a specific budget constraint. Compare expensive designer pieces with budget alternatives, and provide tips for finding quality pieces at lower price points.",
+    "tags": ["budget", "affordable", "haul", "alternatives", "quality"],
+    "niches": ["fashion"]
+  },
+  {
+    "title": "[Body Type] Fashion Guide - Flattering Fits for Everyone",
+    "description": "Provide style advice tailored to different body types, focusing on flattering silhouettes, fit tips, and how to highlight individual features. Promote body positivity and personal style confidence.",
+    "tags": ["body-type", "flattering", "inclusive", "confidence", "fits"],
+    "niches": ["fashion"]
+  },
+  {
+    "title": "Fashion History - The Story of [Iconic Item/Trend]",
+    "description": "Explore the history and cultural impact of iconic fashion pieces or trends. Trace their evolution from origin to modern interpretations, including social and cultural contexts.",
+    "tags": ["history", "iconic", "cultural", "evolution", "context"],
+    "niches": ["fashion"]
+  },
+  {
+    "title": "[Occasion] Outfit Ideas - Dress Code Decoded",
+    "description": "Provide specific outfit ideas for different occasions and dress codes. Include formal events, casual gatherings, workplace attire, and special circumstances with appropriate styling choices.",
+    "tags": ["occasion", "outfit-ideas", "dress-code", "appropriate", "events"],
+    "niches": ["fashion"]
+  },
+  {
+    "title": "Sustainable Fashion - Building an Eco-Friendly Wardrobe",
+    "description": "Focus on sustainable fashion practices including ethical brands, thrifting tips, clothing care for longevity, and how to build a more environmentally conscious wardrobe.",
+    "tags": ["sustainable", "eco-friendly", "ethical", "thrifting", "conscious"],
+    "niches": ["fashion"]
+  },
+  {
+    "title": "[Color] Styling Guide - Making Bold Choices Work",
+    "description": "Show how to incorporate specific colors into outfits, including color theory, complementary combinations, seasonal color palettes, and confidence-building techniques for bold color choices.",
+    "tags": ["color", "bold", "theory", "combinations", "confidence"],
+    "niches": ["fashion"]
+  },
+  {
+    "title": "Fashion Week Trends - Runway to Real Life",
+    "description": "Translate high fashion runway looks into wearable everyday outfits. Show how to adapt designer trends for real-world budgets and lifestyles while maintaining style integrity.",
+    "tags": ["runway", "translation", "wearable", "designer", "adaptation"],
+    "niches": ["fashion"]
+  },
+  {
+    "title": "[Age Group] Fashion - Style at Every Stage",
+    "description": "Address fashion for specific age groups, showing how style can evolve and remain current at any age. Include age-appropriate choices while maintaining personal style and confidence.",
+    "tags": ["age-appropriate", "evolution", "timeless", "confidence", "stages"],
+    "niches": ["fashion"]
+  },
+  {
+    "title": "Capsule Wardrobe Challenge - [Number] Pieces, Endless Outfits",
+    "description": "Create a minimal capsule wardrobe with a specific number of pieces that can be mixed and matched to create numerous outfits. Show the math of outfit combinations and styling versatility.",
+    "tags": ["capsule", "minimal", "versatile", "combinations", "challenge"],
+    "niches": ["fashion"]
+  },
+  {
+    "title": "[Celebrity] Style Evolution - Fashion Through the Years",
+    "description": "Analyze a celebrity's style journey showing how their fashion choices have evolved, key looks that defined eras, and how their style influences current trends.",
+    "tags": ["celebrity", "evolution", "influence", "iconic-looks", "timeline"],
+    "niches": ["fashion"]
+  },
+  {
+    "title": "Fashion Mistakes and Fixes - Common Style Pitfalls",
+    "description": "Address common fashion mistakes and provide solutions. Include fit issues, styling errors, color mismatches, and how to avoid or fix these problems for better overall style.",
+    "tags": ["mistakes", "fixes", "solutions", "improvement", "styling-tips"],
+    "niches": ["fashion"]
+  },
+  {
+    "title": "[Pattern/Print] Mixing Masterclass - Advanced Styling",
+    "description": "Show how to successfully mix patterns, prints, and textures. Include rules for combining different patterns, scale considerations, and techniques for creating cohesive looks with multiple prints.",
+    "tags": ["patterns", "mixing", "advanced", "textures", "cohesive"],
+    "niches": ["fashion"]
+  },
+  {
+    "title": "Thrift Flip Challenge - [Item] Transformation",
+    "description": "Take thrifted or outdated clothing items and transform them into trendy, wearable pieces. Show DIY techniques, alteration tips, and creative ways to update existing garments.",
+    "tags": ["thrift-flip", "DIY", "transformation", "upcycling", "creative"],
+    "niches": ["fashion"]
+  },
+  {
+    "title": "Travel Fashion - Packing Light, Looking Great",
+    "description": "Create travel-friendly wardrobes that pack light but offer style versatility. Include wrinkle-resistant fabrics, multipurpose pieces, and how to look put-together while traveling.",
+    "tags": ["travel", "packing", "versatile", "practical", "lightweight"],
+    "niches": ["fashion"]
+  },
+  {
+    "title": "[Decade] Fashion Revival - Vintage Trends for Today",
+    "description": "Explore how past fashion decades influence current trends. Show how to incorporate vintage elements into modern wardrobes and which retro trends are making comebacks.",
+    "tags": ["vintage", "revival", "retro", "decades", "comeback"],
+    "niches": ["fashion"]
+  },
+  {
+    "title": "Fashion Psychology - Why We Dress the Way We Do",
+    "description": "Explore the psychological aspects of fashion choices including color psychology, confidence building through clothing, and how fashion affects mood and behavior.",
+    "tags": ["psychology", "behavior", "confidence", "mood", "choices"],
+    "niches": ["fashion"]
+  }
+]

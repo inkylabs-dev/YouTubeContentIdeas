@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "How to Build an Emergency Fund of [Amount] in [Time Frame]",
+    "description": "Provide a step-by-step plan for building an emergency fund with specific savings strategies and timelines. Expand by including budgeting tips, high-yield savings options, and automation methods.",
+    "tags": ["emergency fund", "savings", "personal finance", "budgeting", "financial planning"],
+    "niches": ["finance"]
+  },
+  {
+    "title": "[Number] Side Hustles That Can Make You [Amount] Per Month",
+    "description": "Showcase realistic side hustle opportunities with earning potential and required skills. Expand by including startup costs, time commitments, and success stories.",
+    "tags": ["side hustles", "passive income", "money making", "entrepreneurship", "extra income"],
+    "niches": ["finance"]
+  },
+  {
+    "title": "Investing in [Investment Type] for Beginners: Complete Guide",
+    "description": "Explain how to start investing in a specific asset class with practical steps and examples. Expand by covering platforms, risk management, and portfolio allocation strategies.",
+    "tags": ["investing", "beginner investing", "financial education", "wealth building", "portfolio"],
+    "niches": ["finance"]
+  },
+  {
+    "title": "Living on [Amount] Per Month: Extreme Budget Challenge",
+    "description": "Document attempting to live on a tight budget for a month, sharing strategies and lessons learned. Expand by including meal planning, free activities, and money-saving hacks.",
+    "tags": ["budgeting", "frugal living", "money challenge", "savings", "financial discipline"],
+    "niches": ["finance"]
+  },
+  {
+    "title": "Credit Score Boost: From [Low Score] to [High Score] in [Time Period]",
+    "description": "Share proven strategies for improving credit scores with real-world application and results. Expand by explaining credit factors, disputing errors, and monitoring tools.",
+    "tags": ["credit score", "credit repair", "financial health", "debt management", "personal finance"],
+    "niches": ["finance"]
+  },
+  {
+    "title": "Paying Off [Amount] in Debt: My Complete Strategy",
+    "description": "Document a debt payoff journey with specific strategies, setbacks, and victories. Expand by comparing debt methods, negotiating with creditors, and staying motivated.",
+    "tags": ["debt payoff", "debt freedom", "financial recovery", "budgeting", "personal finance"],
+    "niches": ["finance"]
+  },
+  {
+    "title": "Passive Income Ideas: [Number] Ways to Make Money While You Sleep",
+    "description": "Explore various passive income streams with realistic expectations and implementation guides. Expand by calculating ROI, initial investments, and maintenance requirements.",
+    "tags": ["passive income", "financial freedom", "investment", "money making", "wealth building"],
+    "niches": ["finance"]
+  },
+  {
+    "title": "Financial Apps Review: [Number] Apps That Manage Your Money",
+    "description": "Test and compare financial management apps across budgeting, investing, and tracking features. Expand by showing real usage, pros/cons, and setup tutorials.",
+    "tags": ["financial apps", "budgeting tools", "money management", "technology", "personal finance"],
+    "niches": ["finance"]
+  },
+  {
+    "title": "Retirement Planning in Your [Age Group]: How Much Do You Need?",
+    "description": "Break down retirement planning strategies for different age groups with calculations and examples. Expand by covering 401k, IRA, and catch-up strategies.",
+    "tags": ["retirement planning", "401k", "financial planning", "wealth building", "long-term investing"],
+    "niches": ["finance"]
+  },
+  {
+    "title": "[Investment Platform] vs [Competitor]: Which is Better for [Investor Type]?",
+    "description": "Compare investment platforms across fees, features, and user experience for different investor profiles. Expand by showing real trades, interface walkthroughs, and cost analysis.",
+    "tags": ["investment platforms", "broker comparison", "investing tools", "financial services", "review"],
+    "niches": ["finance"]
+  },
+  {
+    "title": "House Hacking: How to Live for Free Through Real Estate",
+    "description": "Explain house hacking strategies with examples, calculations, and implementation steps. Expand by covering financing, tenant management, and property selection.",
+    "tags": ["real estate", "house hacking", "rental income", "property investment", "housing"],
+    "niches": ["finance"]
+  },
+  {
+    "title": "Tax Strategies That Saved Me [Amount] This Year",
+    "description": "Share legal tax reduction strategies with real examples and savings calculations. Expand by covering deductions, credits, and year-round tax planning.",
+    "tags": ["tax strategies", "tax savings", "financial planning", "money saving", "tax preparation"],
+    "niches": ["finance"]
+  },
+  {
+    "title": "Building Wealth on a [Income Level] Salary: Complete Roadmap",
+    "description": "Create a comprehensive wealth-building plan for specific income levels with realistic timelines. Expand by including investment strategies, lifestyle adjustments, and goal setting.",
+    "tags": ["wealth building", "financial planning", "money management", "investing", "financial goals"],
+    "niches": ["finance"]
+  },
+  {
+    "title": "Cryptocurrency for Beginners: Investing Your First [Amount]",
+    "description": "Guide newcomers through cryptocurrency investing with safety tips and platform recommendations. Expand by covering wallets, security, and dollar-cost averaging.",
+    "tags": ["cryptocurrency", "bitcoin", "crypto investing", "digital assets", "blockchain"],
+    "niches": ["finance"]
+  },
+  {
+    "title": "Bank Account Optimization: [Number] Accounts Everyone Should Have",
+    "description": "Explain the ideal bank account setup for maximizing benefits and minimizing fees. Expand by comparing banks, interest rates, and account features.",
+    "tags": ["banking", "financial optimization", "savings accounts", "money management", "personal finance"],
+    "niches": ["finance"]
+  },
+  {
+    "title": "Financial Independence by [Age]: Is It Possible?",
+    "description": "Analyze the feasibility of achieving financial independence by a specific age with various scenarios. Expand by including FIRE movement strategies, calculations, and lifestyle considerations.",
+    "tags": ["financial independence", "FIRE movement", "early retirement", "wealth building", "financial planning"],
+    "niches": ["finance"]
+  },
+  {
+    "title": "Negotiating Your Salary: How I Increased My Income by [Percentage/Amount]",
+    "description": "Share salary negotiation strategies with real examples and preparation techniques. Expand by covering research methods, timing, and alternative compensation.",
+    "tags": ["salary negotiation", "career advancement", "income increase", "professional development", "workplace"],
+    "niches": ["finance"]
+  },
+  {
+    "title": "Money Mistakes That Cost Me [Amount]: What I Learned",
+    "description": "Share personal financial mistakes and lessons learned to help others avoid similar pitfalls. Expand by including recovery strategies, prevention tips, and mindset changes.",
+    "tags": ["financial mistakes", "money lessons", "personal finance", "financial education", "wealth building"],
+    "niches": ["finance"]
+  }
+]

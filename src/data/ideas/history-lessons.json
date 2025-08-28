@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Historical Period] in [Number] Minutes: A Complete Overview for Students",
+    "description": "Create comprehensive educational overviews of historical periods designed for student learning. Replace placeholders with combinations like 'World War II in 15 Minutes' or 'The Renaissance in 20 Minutes.' Include key dates, figures, and concepts.",
+    "tags": ["history", "education", "students", "overview", "learning"],
+    "niches": ["history-lessons"]
+  },
+  {
+    "title": "Teaching [Historical Topic]: Interactive Activities and Lesson Plans",
+    "description": "Provide educators with creative teaching methods for historical topics. Replace the placeholder with subjects like 'Ancient Rome,' 'The Civil War,' or 'Medieval Life.' Include hands-on activities, discussion prompts, and assessment ideas.",
+    "tags": ["history", "education", "teaching", "lesson-plans", "interactive"],
+    "niches": ["history-lessons"]
+  },
+  {
+    "title": "Primary Sources Explained: Understanding [Historical Document/Artifact]",
+    "description": "Help students analyze historical primary sources. Replace the placeholder with documents like 'The Declaration of Independence,' 'Diary of Anne Frank,' or artifacts like 'Egyptian Hieroglyphs.' Teach source analysis skills.",
+    "tags": ["history", "education", "primary-sources", "analysis", "documents"],
+    "niches": ["history-lessons"]
+  },
+  {
+    "title": "Map Skills: How [Historical Event] Changed Geography and Borders",
+    "description": "Integrate geography with history by showing territorial changes. Replace the placeholder with events like 'World War I,' 'Colonization of Africa,' or 'The Fall of the Berlin Wall.' Include before-and-after maps and analysis.",
+    "tags": ["history", "education", "geography", "maps", "borders"],
+    "niches": ["history-lessons"]
+  },
+  {
+    "title": "Timeline Creation: Major Events of [Historical Period] for Students",
+    "description": "Guide students through creating comprehensive timelines. Replace the placeholder with periods like 'The Cold War,' 'Ancient Greece,' or 'The Industrial Revolution.' Provide templates and key event explanations.",
+    "tags": ["history", "education", "timeline", "chronology", "organization"],
+    "niches": ["history-lessons"]
+  },
+  {
+    "title": "Debate Preparation: Was [Historical Figure] a Hero or Villain?",
+    "description": "Prepare students for historical debates by examining controversial figures. Replace the placeholder with figures like 'Christopher Columbus,' 'Napoleon Bonaparte,' or 'Winston Churchill.' Present multiple perspectives and evidence.",
+    "tags": ["history", "education", "debate", "critical-thinking", "perspective"],
+    "niches": ["history-lessons"]
+  },
+  {
+    "title": "Cause and Effect: Understanding Why [Historical Event] Happened",
+    "description": "Teach students to analyze historical causation. Replace the placeholder with events like 'The French Revolution,' 'The Fall of Rome,' or 'The Great Depression.' Break down contributing factors and consequences.",
+    "tags": ["history", "education", "cause-effect", "analysis", "reasoning"],
+    "niches": ["history-lessons"]
+  },
+  {
+    "title": "Historical Thinking Skills: Analyzing Change Over Time in [Topic]",
+    "description": "Develop students' ability to recognize historical patterns and changes. Replace the placeholder with topics like 'Transportation,' 'Communication,' or 'Warfare.' Show evolution and continuity through specific examples.",
+    "tags": ["history", "education", "critical-thinking", "change", "patterns"],
+    "niches": ["history-lessons"]
+  },
+  {
+    "title": "Role-Playing History: A Day as [Historical Figure] in [Time Period]",
+    "description": "Create immersive role-playing experiences for students. Replace placeholders with combinations like 'A Day as a Medieval Knight' or 'A Day as Marie Curie in 1903.' Include decision-making scenarios and historical context.",
+    "tags": ["history", "education", "role-play", "immersive", "experiential"],
+    "niches": ["history-lessons"]
+  },
+  {
+    "title": "Historical Research Methods: Investigating [Local/Regional History Topic]",
+    "description": "Teach students research skills using local history. Replace the placeholder with regional topics like 'Civil War Battles in Your State,' 'Immigration Patterns in Your City,' or 'Industrial Development in Your Region.'",
+    "tags": ["history", "education", "research", "local-history", "methodology"],
+    "niches": ["history-lessons"]
+  },
+  {
+    "title": "Comparing Perspectives: [Historical Event] from Multiple Viewpoints",
+    "description": "Help students understand that history has multiple perspectives. Replace the placeholder with events like 'The American Revolution,' 'Colonization,' or 'The Crusades.' Include viewpoints from different groups and cultures.",
+    "tags": ["history", "education", "perspective", "multiple-viewpoints", "empathy"],
+    "niches": ["history-lessons"]
+  },
+  {
+    "title": "Historical Connections: How [Past Event] Relates to [Current Issue]",
+    "description": "Help students connect historical events to contemporary issues. Replace placeholders with connections like 'The 1918 Flu Pandemic relates to COVID-19' or 'The Great Depression relates to Economic Recessions.'",
+    "tags": ["history", "education", "connections", "relevance", "current-events"],
+    "niches": ["history-lessons"]
+  },
+  {
+    "title": "Document-Based Questions: Analyzing [Number] Sources About [Topic]",
+    "description": "Prepare students for document-based essay questions. Replace placeholders with combinations like '5 Sources About the New Deal' or '7 Sources About Women's Suffrage.' Include analysis strategies and writing frameworks.",
+    "tags": ["history", "education", "DBQ", "document-analysis", "writing"],
+    "niches": ["history-lessons"]
+  },
+  {
+    "title": "Historical Skills Workshop: Reading and Interpreting [Type of Source]",
+    "description": "Teach students to work with specific types of historical evidence. Replace the placeholder with source types like 'Political Cartoons,' 'Census Data,' 'Propaganda Posters,' or 'Archaeological Evidence.'",
+    "tags": ["history", "education", "source-analysis", "interpretation", "skills"],
+    "niches": ["history-lessons"]
+  },
+  {
+    "title": "Biography Study Guide: Understanding [Historical Figure]'s Impact",
+    "description": "Provide comprehensive biography study materials. Replace the placeholder with figures like 'Frederick Douglass,' 'Cleopatra,' or 'Gandhi.' Include background, achievements, challenges, and historical significance.",
+    "tags": ["history", "education", "biography", "study-guide", "impact"],
+    "niches": ["history-lessons"]
+  },
+  {
+    "title": "Historical Context Explained: Why [Event] Happened When It Did",
+    "description": "Help students understand historical timing and context. Replace the placeholder with events like 'The Renaissance,' 'The Space Race,' or 'The Civil Rights Movement.' Explain contributing social, economic, and political factors.",
+    "tags": ["history", "education", "context", "timing", "background"],
+    "niches": ["history-lessons"]
+  },
+  {
+    "title": "Group Project Ideas: Collaborative Learning About [Historical Topic]",
+    "description": "Provide engaging group project frameworks for historical topics. Replace the placeholder with subjects like 'Ancient Civilizations,' 'World War I,' or 'The Enlightenment.' Include roles, timelines, and presentation formats.",
+    "tags": ["history", "education", "group-work", "collaboration", "projects"],
+    "niches": ["history-lessons"]
+  },
+  {
+    "title": "Assessment Strategies: Testing Student Knowledge of [Historical Period]",
+    "description": "Offer diverse assessment methods for historical learning. Replace the placeholder with periods like 'Colonial America,' 'The Middle Ages,' or 'The Cold War.' Include formative and summative assessment ideas beyond traditional tests.",
+    "tags": ["history", "education", "assessment", "testing", "evaluation"],
+    "niches": ["history-lessons"]
+  }
+]

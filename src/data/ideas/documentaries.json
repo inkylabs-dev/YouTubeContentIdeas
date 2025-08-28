@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Subject] Exposed: The Untold Story of [Specific Topic]",
+    "description": "Create investigative documentaries uncovering hidden stories, scandals, or lesser-known aspects of important subjects. Focus on thorough research, credible sources, and compelling narrative structure. Include expert interviews, archival footage, and compelling visual storytelling to engage audiences with serious topics.",
+    "tags": ["investigative journalism", "untold stories", "research", "interviews", "narrative documentary"],
+    "niches": ["documentaries"]
+  },
+  {
+    "title": "Behind the Scenes: Making of [Project/Event] Documentary",
+    "description": "Document the creation process of significant projects, events, or achievements. Show challenges, setbacks, breakthroughs, and human stories behind major undertakings. Include exclusive access, decision-making processes, and impact on people's lives.",
+    "tags": ["behind the scenes", "process documentation", "exclusive access", "human interest", "project chronicle"],
+    "niches": ["documentaries"]
+  },
+  {
+    "title": "Lost History: Rediscovering [Historical Event/Person]",
+    "description": "Explore forgotten or overlooked historical events, figures, and civilizations. Use modern research techniques, archaeological discoveries, and expert analysis to bring historical stories to life. Include reenactments, period visuals, and scholarly perspectives.",
+    "tags": ["historical research", "forgotten history", "archaeological discovery", "historical reenactment", "educational content"],
+    "niches": ["documentaries"]
+  },
+  {
+    "title": "Social Experiment: [Duration] Living Like [Group/Time Period]",
+    "description": "Document social experiments where participants adopt different lifestyles, time periods, or cultural practices. Show adaptation challenges, insights gained, and personal transformations. Include scientific observation and psychological analysis of behavioral changes.",
+    "tags": ["social experiment", "lifestyle experiment", "behavioral study", "cultural immersion", "personal transformation"],
+    "niches": ["documentaries"]
+  },
+  {
+    "title": "Environmental Crisis: The Real Impact of [Environmental Issue]",
+    "description": "Investigate environmental problems through scientific research, expert interviews, and on-location filming. Show both the problems and potential solutions while maintaining objectivity. Include data visualization, before/after comparisons, and community impact stories.",
+    "tags": ["environmental documentary", "climate change", "conservation", "scientific research", "environmental impact"],
+    "niches": ["documentaries"]
+  },
+  {
+    "title": "Character Study: [Number] Days with [Interesting Person/Group]",
+    "description": "Follow fascinating individuals or groups to understand their worldview, challenges, and daily lives. Show intimate moments, personal struggles, and unique perspectives. Build empathy and understanding through authentic human storytelling.",
+    "tags": ["character study", "human interest", "personal story", "intimate portrait", "lifestyle documentation"],
+    "niches": ["documentaries"]
+  },
+  {
+    "title": "Industry Secrets: Inside [Industry] - What They Don't Want You to Know",
+    "description": "Investigate specific industries to reveal hidden practices, ethical issues, or surprising truths. Include insider interviews, leaked documents, and expert analysis. Balance sensationalism with factual reporting and responsible journalism.",
+    "tags": ["industry investigation", "insider access", "business exposé", "ethical journalism", "revealing documentary"],
+    "niches": ["documentaries"]
+  },
+  {
+    "title": "Cultural Deep Dive: [Culture/Community] Traditions and Modern Life",
+    "description": "Explore diverse cultures and communities, showing both traditional practices and contemporary adaptations. Include respectful representation, community participation, and cultural context. Show how traditions evolve while maintaining core values.",
+    "tags": ["cultural documentary", "anthropology", "community focus", "tradition", "cultural preservation"],
+    "niches": ["documentaries"]
+  },
+  {
+    "title": "True Crime Investigation: The [Case Name] Files",
+    "description": "Investigate unsolved crimes, controversial cases, or criminal justice issues. Include police interviews, evidence analysis, and expert commentary. Maintain sensitivity to victims while exploring systemic problems and potential solutions.",
+    "tags": ["true crime", "criminal investigation", "justice system", "cold case", "forensic analysis"],
+    "niches": ["documentaries"]
+  },
+  {
+    "title": "Technology Impact: How [Technology] Changed [Aspect of Life]",
+    "description": "Examine the societal impact of specific technologies on human behavior, relationships, and society. Include expert analysis, user studies, and historical context. Show both positive innovations and unintended consequences.",
+    "tags": ["technology documentary", "social impact", "digital culture", "innovation", "societal change"],
+    "niches": ["documentaries"]
+  },
+  {
+    "title": "Medical Mystery: The [Condition/Treatment] Documentary",
+    "description": "Explore medical conditions, breakthrough treatments, or healthcare challenges. Include patient stories, medical expert interviews, and scientific research. Balance hope with realism while educating audiences about health issues.",
+    "tags": ["medical documentary", "healthcare", "patient stories", "medical research", "health education"],
+    "niches": ["documentaries"]
+  },
+  {
+    "title": "Economic Deep Dive: The Real Cost of [Economic Issue/Policy]",
+    "description": "Investigate economic policies, market forces, or financial systems affecting ordinary people. Include expert economics analysis, real-world case studies, and personal impact stories. Make complex economic concepts accessible to general audiences.",
+    "tags": ["economic documentary", "financial analysis", "policy impact", "economic education", "market investigation"],
+    "niches": ["documentaries"]
+  },
+  {
+    "title": "Sports Dynasty: The Rise and Fall of [Team/Athlete]",
+    "description": "Chronicle the journey of successful sports teams or athletes, including triumphs, scandals, and legacy impact. Include exclusive interviews, rare footage, and behind-the-scenes access. Show human stories beyond athletic achievement.",
+    "tags": ["sports documentary", "athletic achievement", "team history", "sports culture", "competitive spirit"],
+    "niches": ["documentaries"]
+  },
+  {
+    "title": "Art World Exposed: The Story Behind [Artistic Movement/Artist]",
+    "description": "Explore art movements, controversial artists, or art market dynamics. Include art historian interviews, gallery access, and artistic process documentation. Show how art reflects and influences society and culture.",
+    "tags": ["art documentary", "artistic process", "cultural impact", "art history", "creative expression"],
+    "niches": ["documentaries"]
+  },
+  {
+    "title": "Disaster Documentation: [Natural/Human Disaster] - Survival and Recovery",
+    "description": "Document natural disasters, accidents, or human-caused catastrophes focusing on survival stories and recovery efforts. Include first-hand accounts, rescue operations, and long-term community impact. Show human resilience and community response.",
+    "tags": ["disaster documentary", "survival stories", "emergency response", "community resilience", "human drama"],
+    "niches": ["documentaries"]
+  },
+  {
+    "title": "Political Process: Inside [Election/Political Movement]",
+    "description": "Follow political campaigns, movements, or governance processes to show democracy in action. Include candidate access, voter perspectives, and policy impact analysis. Maintain journalistic objectivity while showing political realities.",
+    "tags": ["political documentary", "democratic process", "campaign coverage", "civic education", "political analysis"],
+    "niches": ["documentaries"]
+  },
+  {
+    "title": "Innovation Story: Creating [Product/Service] from Concept to Reality",
+    "description": "Follow entrepreneurs, inventors, or innovators as they develop new ideas into reality. Show creative processes, business challenges, and market reception. Include failure stories alongside successes for balanced perspective.",
+    "tags": ["innovation documentary", "entrepreneurship", "creative process", "business development", "invention story"],
+    "niches": ["documentaries"]
+  },
+  {
+    "title": "Generation Study: [Age Group] in [Current Year] - Hopes, Fears, and Dreams",
+    "description": "Explore generational experiences, challenges, and perspectives through representative individual stories. Show how major events, technology, and social changes shape different generations. Include intergenerational dialogue and understanding.",
+    "tags": ["generational study", "social documentary", "demographic analysis", "cultural trends", "societal change"],
+    "niches": ["documentaries"]
+  }
+]

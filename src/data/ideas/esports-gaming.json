@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "Why [Professional Player] Dominates [Game] - Pro Analysis",
+    "description": "Replace [Professional Player] with a top esports athlete and [Game] with their main competitive title. Analyze their gameplay mechanics, decision-making, and strategies that set them apart from other competitors. Include gameplay footage breakdowns and expert commentary.",
+    "tags": ["esports", "pro-player", "analysis", "competitive", "strategy"],
+    "niches": ["esports-gaming"]
+  },
+  {
+    "title": "The Rise and Fall of [Esports Team] - Complete Story",
+    "description": "Choose a notable esports organization for [Esports Team] and chronicle their journey from formation to their current state. Cover roster changes, major tournament wins/losses, controversies, and business decisions that shaped their destiny.",
+    "tags": ["esports", "team-history", "documentary", "competitive", "gaming"],
+    "niches": ["esports-gaming"]
+  },
+  {
+    "title": "[Game] World Championship [Year] - Tournament Breakdown",
+    "description": "Select a major esports title for [Game] and a specific year for [Year]. Provide comprehensive coverage of the world championship including bracket predictions, player performances, upsets, and meta analysis throughout the tournament.",
+    "tags": ["tournament", "championship", "esports", "competitive", "analysis"],
+    "niches": ["esports-gaming"]
+  },
+  {
+    "title": "From [Rank] to Pro - [Player]'s Incredible Journey",
+    "description": "Replace [Rank] with a low competitive rank and [Player] with a pro who climbed from humble beginnings. Document their practice routines, mentality shifts, key breakthrough moments, and the support systems that enabled their professional career.",
+    "tags": ["inspiration", "pro-player", "journey", "ranked", "motivation"],
+    "niches": ["esports-gaming"]
+  },
+  {
+    "title": "The Science Behind [Game]'s Competitive Meta",
+    "description": "Choose a competitive game for [Game] and dive deep into the current meta. Explain character/weapon/strategy tier lists, patch impact analysis, and how professional teams adapt to meta shifts. Use data and statistics to support your analysis.",
+    "tags": ["meta", "strategy", "analysis", "competitive", "theory"],
+    "niches": ["esports-gaming"]
+  },
+  {
+    "title": "[Region] vs [Region] - Clash of Gaming Cultures",
+    "description": "Select two major esports regions (like Korea vs Europe, NA vs China) for the brackets. Compare their gaming cultures, training methods, fan support, infrastructure, and how regional differences impact competitive performance across various esports titles.",
+    "tags": ["regions", "culture", "comparison", "international", "esports"],
+    "niches": ["esports-gaming"]
+  },
+  {
+    "title": "The Psychology of [Game] Champions - Mental Game Analysis",
+    "description": "Choose a competitive esports title for [Game] and explore the psychological aspects that separate champions from average players. Cover pressure management, tilt control, team communication, and mental preparation techniques used by top professionals.",
+    "tags": ["psychology", "mental-game", "champions", "performance", "mindset"],
+    "niches": ["esports-gaming"]
+  },
+  {
+    "title": "Biggest Upsets in [Game] Esports History",
+    "description": "Select a popular esports title for [Game] and compile the most shocking tournament upsets. Analyze what led to these surprises, the impact on the competitive scene, and lessons learned from these David vs Goliath moments.",
+    "tags": ["upsets", "history", "tournaments", "shocking", "competitive"],
+    "niches": ["esports-gaming"]
+  },
+  {
+    "title": "How [Sponsorship Type] Changed Esports Forever",
+    "description": "Replace [Sponsorship Type] with a specific category like energy drinks, hardware companies, or streaming platforms. Explore how this type of sponsorship transformed the esports landscape, player earnings, team operations, and fan engagement.",
+    "tags": ["sponsorship", "business", "industry", "evolution", "economics"],
+    "niches": ["esports-gaming"]
+  },
+  {
+    "title": "[Game] Coaching Secrets - What Pros Don't Tell You",
+    "description": "Choose a competitive game for [Game] and reveal advanced coaching techniques used by professional teams. Include communication strategies, practice methodologies, VOD review processes, and how coaches develop winning game plans.",
+    "tags": ["coaching", "strategy", "professional", "secrets", "improvement"],
+    "niches": ["esports-gaming"]
+  },
+  {
+    "title": "The Evolution of [Game]'s Competitive Scene",
+    "description": "Select an established esports title for [Game] and trace its competitive evolution from early tournaments to current professional leagues. Cover rule changes, prize pool growth, viewership trends, and major milestones that shaped the scene.",
+    "tags": ["evolution", "history", "competitive", "growth", "timeline"],
+    "niches": ["esports-gaming"]
+  },
+  {
+    "title": "Why [Country] Dominates [Game] Esports",
+    "description": "Choose a country known for excelling in a specific game (like South Korea in StarCraft or Denmark in Counter-Strike). Analyze their gaming infrastructure, cultural factors, training systems, and government support that create world-class players.",
+    "tags": ["country", "dominance", "culture", "infrastructure", "analysis"],
+    "niches": ["esports-gaming"]
+  },
+  {
+    "title": "[Player]'s Training Routine - Day in the Life",
+    "description": "Replace [Player] with a current professional esports athlete and document their complete daily routine. Cover practice schedules, physical fitness, mental health maintenance, team scrimmages, and how they balance competition with personal life.",
+    "tags": ["training", "routine", "lifestyle", "professional", "behind-scenes"],
+    "niches": ["esports-gaming"]
+  },
+  {
+    "title": "The Business of [Esports League] - Money, Politics & Power",
+    "description": "Select a major esports league for [Esports League] and dive into the business side. Explore revenue models, franchise systems, player salaries, broadcast rights, and the political dynamics between teams, leagues, and game developers.",
+    "tags": ["business", "economics", "league", "politics", "industry"],
+    "niches": ["esports-gaming"]
+  },
+  {
+    "title": "Retired Legends - Where Are [Game]'s OG Pros Now?",
+    "description": "Choose a game that has been competitive for many years and track down legendary players who have retired. Explore their current careers, whether they stayed in gaming, their legacy impact, and advice for current professionals.",
+    "tags": ["retired", "legends", "legacy", "career", "veteran"],
+    "niches": ["esports-gaming"]
+  },
+  {
+    "title": "The Technology Behind [Tournament] Production",
+    "description": "Replace [Tournament] with a major esports event and explore the technical infrastructure. Cover broadcast technology, anti-cheat systems, network setups, observer tools, and how production crews create engaging viewer experiences.",
+    "tags": ["technology", "production", "broadcast", "infrastructure", "tournament"],
+    "niches": ["esports-gaming"]
+  },
+  {
+    "title": "[Game] Controversy - The [Incident] Scandal Explained",
+    "description": "Select a competitive game and a notable controversy for [Incident]. Provide balanced coverage of esports scandals like match-fixing, cheating accusations, or roster drama. Include multiple perspectives and the long-term impact on the scene.",
+    "tags": ["controversy", "scandal", "drama", "investigation", "community"],
+    "niches": ["esports-gaming"]
+  },
+  {
+    "title": "Future of [Game] - Predictions from Pro Players",
+    "description": "Choose a current esports title for [Game] and compile predictions from professional players and industry experts. Cover expected meta changes, new features, tournament format evolution, and how the competitive scene might develop.",
+    "tags": ["future", "predictions", "evolution", "trends", "professional"],
+    "niches": ["esports-gaming"]
+  }
+]

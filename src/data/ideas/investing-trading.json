@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Investment Type] for Beginners: Complete Guide to Getting Started",
+    "description": "Create comprehensive beginner guides for different investment types. Replace the placeholder with options like 'Stock Market,' 'Real Estate,' 'Cryptocurrency,' or 'Index Funds.' Include basic concepts, risk explanations, and first-step instructions.",
+    "tags": ["investing", "beginner", "guide", "finance", "education"],
+    "niches": ["investing-trading"]
+  },
+  {
+    "title": "[Dollar Amount] Portfolio Challenge: Building Wealth from Scratch",
+    "description": "Show how to build investment portfolios with specific starting amounts. Replace the placeholder with amounts like '$1,000,' '$10,000,' or '$100.' Include step-by-step allocation strategies, platform recommendations, and progress tracking.",
+    "tags": ["investing", "portfolio", "challenge", "wealth-building", "strategy"],
+    "niches": ["investing-trading"]
+  },
+  {
+    "title": "Common [Investment] Mistakes: What I Wish I Knew Before Starting",
+    "description": "Share lessons learned from investment mistakes. Replace the placeholder with investment types like 'Stock,' 'Crypto,' 'Real Estate,' or 'Options.' Include personal stories, warning signs, and prevention strategies.",
+    "tags": ["investing", "mistakes", "lessons", "education", "experience"],
+    "niches": ["investing-trading"]
+  },
+  {
+    "title": "[Time Period] Market Analysis: Trends and Opportunities in [Market/Sector]",
+    "description": "Provide market analysis and trend identification. Replace placeholders with combinations like 'Q4 Market Analysis: Tech Sector Opportunities' or 'Monthly Crypto Market Review.' Include data analysis and future predictions.",
+    "tags": ["investing", "analysis", "trends", "market", "opportunities"],
+    "niches": ["investing-trading"]
+  },
+  {
+    "title": "Passive Income Strategy: Earning [Amount] Monthly from [Investment Type]",
+    "description": "Demonstrate passive income generation strategies. Replace placeholders with combinations like 'Earning $500 Monthly from Dividend Stocks' or '$1000 from Real Estate.' Include calculation methods and risk assessments.",
+    "tags": ["investing", "passive-income", "dividends", "strategy", "wealth"],
+    "niches": ["investing-trading"]
+  },
+  {
+    "title": "[Age Group] Investment Guide: Building Wealth in Your [Life Stage]",
+    "description": "Tailor investment strategies for different life stages. Replace placeholders with combinations like '20s Investment Guide: Building Wealth in Your Twenties' or 'Retirement Planning in Your 50s.' Include age-appropriate risk tolerance and goals.",
+    "tags": ["investing", "age-specific", "life-stage", "planning", "wealth-building"],
+    "niches": ["investing-trading"]
+  },
+  {
+    "title": "Risk Management: How to Protect Your [Investment Type] Portfolio",
+    "description": "Focus on portfolio protection and risk mitigation strategies. Replace the placeholder with investment types like 'Stock,' 'Crypto,' or 'Diversified.' Include stop-loss strategies, diversification, and hedging techniques.",
+    "tags": ["investing", "risk-management", "protection", "strategy", "security"],
+    "niches": ["investing-trading"]
+  },
+  {
+    "title": "[Trading Strategy] Explained: [Time Frame] Trading for [Experience Level]",
+    "description": "Break down specific trading strategies with clear explanations. Replace placeholders with combinations like 'Swing Trading Explained: Weekly Trading for Beginners' or 'Day Trading: Advanced Scalping Techniques.' Include entry/exit rules and risk management.",
+    "tags": ["trading", "strategy", "education", "technique", "analysis"],
+    "niches": ["investing-trading"]
+  },
+  {
+    "title": "Tax-Efficient Investing: Maximizing Returns in [Account Type]",
+    "description": "Optimize investment returns through tax strategy. Replace the placeholder with account types like 'Roth IRA,' '401k,' or 'Taxable Accounts.' Include tax implications, optimization strategies, and planning tips.",
+    "tags": ["investing", "taxes", "efficiency", "accounts", "optimization"],
+    "niches": ["investing-trading"]
+  },
+  {
+    "title": "Economic Indicators Explained: How [Indicator] Affects Your Investments",
+    "description": "Connect economic data to investment decisions. Replace the placeholder with indicators like 'Interest Rates,' 'Inflation,' 'GDP Growth,' or 'Employment Data.' Include interpretation methods and investment implications.",
+    "tags": ["investing", "economics", "indicators", "analysis", "market"],
+    "niches": ["investing-trading"]
+  },
+  {
+    "title": "[Investment Platform] Review: Complete Guide to [Broker/App Name]",
+    "description": "Provide in-depth reviews of investment platforms and brokers. Replace placeholders with combinations like 'Robinhood Review: Complete Guide to Commission-Free Trading' or 'Vanguard vs Fidelity Comparison.' Include fees, features, and user experience.",
+    "tags": ["investing", "platform", "review", "broker", "comparison"],
+    "niches": ["investing-trading"]
+  },
+  {
+    "title": "Building a [Goal] Portfolio: [Number]-Step Investment Plan",
+    "description": "Create goal-specific investment plans. Replace placeholders with combinations like 'Building a Retirement Portfolio: 7-Step Investment Plan' or 'College Fund Strategy: 5-Step Savings Plan.' Include timeline and milestone tracking.",
+    "tags": ["investing", "goals", "portfolio", "planning", "strategy"],
+    "niches": ["investing-trading"]
+  },
+  {
+    "title": "[Market Condition] Investing: Strategies for [Bull/Bear/Volatile] Markets",
+    "description": "Adapt investment strategies to different market conditions. Replace placeholders with combinations like 'Bear Market Investing: Strategies for Market Downturns' or 'Volatile Market Navigation: Risk Management Techniques.'",
+    "tags": ["investing", "market-conditions", "strategy", "adaptation", "volatility"],
+    "niches": ["investing-trading"]
+  },
+  {
+    "title": "Alternative Investments: Exploring [Investment Type] Beyond Stocks",
+    "description": "Introduce viewers to non-traditional investment options. Replace the placeholder with alternatives like 'REITs,' 'Commodities,' 'Peer-to-Peer Lending,' or 'Art and Collectibles.' Include accessibility, risks, and potential returns.",
+    "tags": ["investing", "alternative", "diversification", "non-traditional", "exploration"],
+    "niches": ["investing-trading"]
+  },
+  {
+    "title": "Investment Psychology: Overcoming [Emotional Bias] in Trading",
+    "description": "Address psychological challenges in investing and trading. Replace the placeholder with biases like 'Fear of Missing Out,' 'Loss Aversion,' 'Confirmation Bias,' or 'Overconfidence.' Include practical coping strategies.",
+    "tags": ["investing", "psychology", "emotions", "bias", "mindset"],
+    "niches": ["investing-trading"]
+  },
+  {
+    "title": "Sector Analysis: Why [Industry Sector] is [Trending Direction] Right Now",
+    "description": "Analyze specific industry sectors and investment opportunities. Replace placeholders with combinations like 'Why Technology is Booming Right Now' or 'Energy Sector: Declining or Transforming?' Include fundamental and technical analysis.",
+    "tags": ["investing", "sector", "analysis", "industry", "trends"],
+    "niches": ["investing-trading"]
+  },
+  {
+    "title": "[Country/Region] Markets: International Investing Opportunities",
+    "description": "Explore global investment opportunities and international markets. Replace the placeholder with regions like 'Emerging Markets,' 'European Markets,' or 'Asian Markets.' Include currency considerations, political risks, and diversification benefits.",
+    "tags": ["investing", "international", "global", "markets", "diversification"],
+    "niches": ["investing-trading"]
+  },
+  {
+    "title": "From [Starting Point] to [Goal]: My [Time Period] Investment Journey",
+    "description": "Share personal investment journey stories and lessons learned. Replace placeholders with combinations like 'From $0 to $100K: My 5-Year Investment Journey' or 'Debt to Wealth: 3-Year Financial Transformation.' Include strategies, setbacks, and successes.",
+    "tags": ["investing", "journey", "personal", "transformation", "story"],
+    "niches": ["investing-trading"]
+  }
+]

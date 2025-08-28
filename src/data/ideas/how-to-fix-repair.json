@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "How to Fix [Common Problem] in [Appliance]: Step-by-Step Repair Guide",
+    "description": "Provide detailed repair tutorials for common appliance issues. Replace placeholders with combinations like 'How to Fix a Leaky Faucet in Your Kitchen' or 'Washing Machine Won't Drain: Complete Repair Guide.' Include troubleshooting steps, required tools, and safety warnings.",
+    "tags": ["repair", "tutorial", "appliances", "maintenance", "troubleshooting"],
+    "niches": ["how-to-fix-repair"]
+  },
+  {
+    "title": "[Item] Not Working? [Number] Common Causes and Easy Fixes",
+    "description": "Diagnose and solve frequent problems with household items. Replace placeholders with combinations like 'Garbage Disposal Not Working? 5 Common Causes and Easy Fixes' or 'Car Won't Start? 8 Things to Check First.'",
+    "tags": ["repair", "troubleshooting", "diagnosis", "common-problems", "fixes"],
+    "niches": ["how-to-fix-repair"]
+  },
+  {
+    "title": "Emergency Repair: What to Do When Your [System] Fails",
+    "description": "Provide immediate solutions for system failures. Replace the placeholder with systems like 'Plumbing,' 'Electrical,' 'Heating,' or 'Internet.' Include emergency protocols, temporary fixes, and when to call professionals.",
+    "tags": ["repair", "emergency", "systems", "immediate", "protocols"],
+    "niches": ["how-to-fix-repair"]
+  },
+  {
+    "title": "Tool Tutorial: Using [Tool Name] to Fix [Common Issue]",
+    "description": "Demonstrate proper tool usage for specific repair tasks. Replace placeholders with combinations like 'Using a Multimeter to Diagnose Electrical Issues' or 'Pipe Wrench Basics for Plumbing Repairs.' Include safety tips and technique explanations.",
+    "tags": ["repair", "tools", "tutorial", "technique", "education"],
+    "niches": ["how-to-fix-repair"]
+  },
+  {
+    "title": "Preventive Maintenance: [Number] Ways to Avoid [Expensive Repair]",
+    "description": "Teach maintenance practices that prevent costly repairs. Replace placeholders with combinations like '5 Ways to Avoid HVAC System Failure' or '10 Tips to Prevent Water Damage.' Include maintenance schedules and warning signs.",
+    "tags": ["repair", "maintenance", "prevention", "cost-saving", "care"],
+    "niches": ["how-to-fix-repair"]
+  },
+  {
+    "title": "Budget Repair: Fixing [Item] for Under [Dollar Amount]",
+    "description": "Show cost-effective repair solutions. Replace placeholders with combinations like 'Fixing Your Phone Screen for Under $20' or 'Repairing Small Appliances for Under $50.' Include parts sourcing and money-saving tips.",
+    "tags": ["repair", "budget", "cost-effective", "savings", "affordable"],
+    "niches": ["how-to-fix-repair"]
+  },
+  {
+    "title": "Seasonal Repair Prep: Getting Your [System/Item] Ready for [Season]",
+    "description": "Prepare equipment for seasonal changes. Replace placeholders with combinations like 'Getting Your HVAC Ready for Summer' or 'Winterizing Your Car: Essential Maintenance.' Include checklists and timing recommendations.",
+    "tags": ["repair", "seasonal", "preparation", "maintenance", "weather"],
+    "niches": ["how-to-fix-repair"]
+  },
+  {
+    "title": "Quick Fix vs Professional Repair: When to DIY [Repair Type]",
+    "description": "Help viewers decide between DIY and professional repairs. Replace the placeholder with repair types like 'Electrical Work,' 'Plumbing Issues,' or 'Appliance Problems.' Include risk assessments and skill requirements.",
+    "tags": ["repair", "DIY", "professional", "decision", "safety"],
+    "niches": ["how-to-fix-repair"]
+  },
+  {
+    "title": "Restore Instead of Replace: Bringing [Old Item] Back to Life",
+    "description": "Show restoration techniques for extending item lifespans. Replace the placeholder with items like 'Vintage Furniture,' 'Classic Cars,' 'Old Tools,' or 'Antique Appliances.' Include assessment criteria and restoration steps.",
+    "tags": ["repair", "restoration", "vintage", "sustainability", "renewal"],
+    "niches": ["how-to-fix-repair"]
+  },
+  {
+    "title": "Safety First: Essential Precautions for [Type] Repairs",
+    "description": "Emphasize safety protocols for different repair categories. Replace the placeholder with types like 'Electrical,' 'Gas,' 'Structural,' or 'Chemical.' Include PPE requirements, hazard identification, and emergency procedures.",
+    "tags": ["repair", "safety", "precautions", "protocols", "hazards"],
+    "niches": ["how-to-fix-repair"]
+  },
+  {
+    "title": "Troubleshooting Guide: [Number] Steps to Diagnose [Problem Type]",
+    "description": "Provide systematic diagnostic approaches. Replace placeholders with combinations like '7 Steps to Diagnose Car Problems' or '5 Steps to Find Electrical Issues.' Include decision trees and elimination methods.",
+    "tags": ["repair", "troubleshooting", "diagnosis", "systematic", "guide"],
+    "niches": ["how-to-fix-repair"]
+  },
+  {
+    "title": "Common Mistakes: What NOT to Do When Fixing [Item/System]",
+    "description": "Highlight frequent repair errors and how to avoid them. Replace the placeholder with items or systems like 'Electronics,' 'Plumbing,' 'Cars,' or 'Appliances.' Include examples of costly mistakes and proper techniques.",
+    "tags": ["repair", "mistakes", "errors", "prevention", "education"],
+    "niches": ["how-to-fix-repair"]
+  },
+  {
+    "title": "Parts Guide: Finding Replacement Parts for [Brand/Type] [Item]",
+    "description": "Help viewers locate and identify correct replacement parts. Replace placeholders with combinations like 'Finding Parts for Vintage Appliances' or 'GE Washer Part Identification.' Include sourcing tips and compatibility checks.",
+    "tags": ["repair", "parts", "replacement", "sourcing", "compatibility"],
+    "niches": ["how-to-fix-repair"]
+  },
+  {
+    "title": "Before You Call: [Number] DIY Fixes for [Service Type] Problems",
+    "description": "Offer solutions viewers can try before calling service professionals. Replace placeholders with combinations like '6 DIY Fixes for Plumbing Problems' or '10 Things to Try Before Calling an Electrician.'",
+    "tags": ["repair", "DIY", "self-help", "cost-saving", "independence"],
+    "niches": ["how-to-fix-repair"]
+  },
+  {
+    "title": "Repair vs Replace Calculator: Making Smart Decisions About [Item Type]",
+    "description": "Help viewers decide whether to repair or replace items. Replace the placeholder with item types like 'Appliances,' 'Electronics,' 'Vehicles,' or 'HVAC Systems.' Include cost analysis and decision frameworks.",
+    "tags": ["repair", "replace", "decision", "cost-analysis", "economics"],
+    "niches": ["how-to-fix-repair"]
+  },
+  {
+    "title": "Mobile Repair: Fixing [Item] When You Don't Have a Workshop",
+    "description": "Show repair techniques for limited workspace situations. Replace the placeholder with items like 'Car Issues,' 'Electronics,' or 'Appliances.' Include portable tool recommendations and space-saving techniques.",
+    "tags": ["repair", "mobile", "limited-space", "portable", "adaptation"],
+    "niches": ["how-to-fix-repair"]
+  },
+  {
+    "title": "Learning from Failure: Why My [Repair Type] Went Wrong and How to Fix It",
+    "description": "Share repair failures as learning opportunities. Replace the placeholder with repair types like 'Plumbing Project,' 'Electronics Repair,' or 'Car Maintenance.' Include analysis of what went wrong and corrective actions.",
+    "tags": ["repair", "failure", "learning", "mistakes", "improvement"],
+    "niches": ["how-to-fix-repair"]
+  },
+  {
+    "title": "Advanced Techniques: Professional [Repair Method] for DIYers",
+    "description": "Teach advanced repair techniques to experienced DIYers. Replace the placeholder with methods like 'Soldering Techniques,' 'Hydraulic Systems,' or 'Engine Diagnostics.' Include skill prerequisites and detailed explanations.",
+    "tags": ["repair", "advanced", "professional", "techniques", "skilled"],
+    "niches": ["how-to-fix-repair"]
+  }
+]

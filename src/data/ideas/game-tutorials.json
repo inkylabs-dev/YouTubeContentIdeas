@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Game] Beginner's Guide - Everything New Players Need to Know",
+    "description": "Create comprehensive tutorials for new players covering basic mechanics, essential strategies, common mistakes to avoid, and progression tips. Include visual demonstrations and clear explanations.",
+    "tags": ["beginner", "new-players", "basics", "strategies", "progression"],
+    "niches": ["game-tutorials"]
+  },
+  {
+    "title": "Master [Character/Class] in [Game] - Advanced Guide",
+    "description": "Provide in-depth tutorials for specific characters or classes, including advanced combos, situational strategies, matchup knowledge, and optimization techniques for experienced players.",
+    "tags": ["advanced", "character", "combos", "matchups", "optimization"],
+    "niches": ["game-tutorials"]
+  },
+  {
+    "title": "[Game] Settings Optimization - FPS and Performance Guide",
+    "description": "Show how to optimize game settings for best performance, including graphics options, keybinds, sensitivity settings, and hardware-specific configurations for competitive advantage.",
+    "tags": ["optimization", "settings", "performance", "competitive", "configuration"],
+    "niches": ["game-tutorials"]
+  },
+  {
+    "title": "From [Rank] to [Higher Rank] - [Game] Ranked Guide",
+    "description": "Provide specific strategies for climbing ranked ladders, including mindset tips, mechanical improvements, game knowledge, and common mistakes that prevent ranking up.",
+    "tags": ["ranked", "climbing", "mindset", "mechanical", "rank-up"],
+    "niches": ["game-tutorials"]
+  },
+  {
+    "title": "[Game] Economy Guide - Managing Resources Like a Pro",
+    "description": "Explain in-game economy systems, resource management, optimal spending strategies, and how to maximize value from limited resources in competitive scenarios.",
+    "tags": ["economy", "resources", "management", "spending", "value"],
+    "niches": ["game-tutorials"]
+  },
+  {
+    "title": "[Specific Mechanic] Tutorial - [Game] Advanced Techniques",
+    "description": "Focus on specific advanced mechanics like animation canceling, frame traps, or complex combos. Break down inputs, timing, and practical applications in real gameplay.",
+    "tags": ["advanced-mechanics", "techniques", "timing", "inputs", "applications"],
+    "niches": ["game-tutorials"]
+  },
+  {
+    "title": "[Game] Map Guide - Callouts, Angles, and Positioning",
+    "description": "Provide comprehensive map knowledge including callouts, common angles, positioning strategies, and how to use map features to gain competitive advantages.",
+    "tags": ["maps", "callouts", "positioning", "angles", "competitive"],
+    "niches": ["game-tutorials"]
+  },
+  {
+    "title": "Counter [Strategy/Character] - [Game] Defense Guide",
+    "description": "Teach players how to counter popular strategies, overpowered characters, or meta builds. Include specific techniques, timing, and alternative approaches.",
+    "tags": ["counter", "defense", "strategies", "meta", "techniques"],
+    "niches": ["game-tutorials"]
+  },
+  {
+    "title": "[Game] Aim Training - Improve Your Accuracy",
+    "description": "Provide aim training routines, sensitivity guides, crosshair placement tips, and practice methods to improve shooting accuracy and reaction time.",
+    "tags": ["aim-training", "accuracy", "sensitivity", "crosshair", "reaction-time"],
+    "niches": ["game-tutorials"]
+  },
+  {
+    "title": "[Game] Team Communication - Callouts and Coordination",
+    "description": "Teach effective team communication including clear callouts, strategic coordination, leadership roles, and how to maintain positive team dynamics during matches.",
+    "tags": ["communication", "callouts", "coordination", "teamwork", "leadership"],
+    "niches": ["game-tutorials"]
+  },
+  {
+    "title": "[Game] Build Guide - [Character/Role] Optimization",
+    "description": "Explain optimal builds, skill trees, equipment choices, and stat distributions for specific characters or roles. Include situational variations and reasoning behind choices.",
+    "tags": ["builds", "optimization", "skill-trees", "equipment", "stats"],
+    "niches": ["game-tutorials"]
+  },
+  {
+    "title": "[Game] Movement Guide - Advanced Mobility Techniques",
+    "description": "Teach advanced movement mechanics including bunny hopping, slide canceling, wall running, or other mobility techniques that provide competitive advantages.",
+    "tags": ["movement", "mobility", "techniques", "advanced", "competitive"],
+    "niches": ["game-tutorials"]
+  },
+  {
+    "title": "[Game] Meta Analysis - Current Best Strategies",
+    "description": "Analyze the current meta game including strongest characters, popular strategies, win rates, and how to adapt playstyle to current competitive trends.",
+    "tags": ["meta", "analysis", "strategies", "trends", "adaptation"],
+    "niches": ["game-tutorials"]
+  },
+  {
+    "title": "[Game] Mistake Analysis - Common Errors and Fixes",
+    "description": "Identify common mistakes players make at different skill levels and provide specific solutions. Include gameplay examples and before/after comparisons.",
+    "tags": ["mistakes", "errors", "solutions", "analysis", "improvement"],
+    "niches": ["game-tutorials"]
+  },
+  {
+    "title": "[Game] Hotkeys and Macros - Efficiency Guide",
+    "description": "Optimize keybindings, create useful macros, and establish efficient control schemes that improve reaction time and reduce mechanical barriers to performance.",
+    "tags": ["hotkeys", "macros", "efficiency", "keybindings", "mechanics"],
+    "niches": ["game-tutorials"]
+  },
+  {
+    "title": "[Game] Psychology Guide - Mental Game Mastery",
+    "description": "Address the mental aspects of gaming including tilt management, confidence building, pressure handling, and maintaining focus during competitive matches.",
+    "tags": ["psychology", "mental-game", "tilt", "confidence", "focus"],
+    "niches": ["game-tutorials"]
+  },
+  {
+    "title": "[Game] Farming Guide - Resource and XP Optimization",
+    "description": "Show efficient methods for farming experience, currency, or resources. Include route optimization, time management, and risk/reward analysis.",
+    "tags": ["farming", "resources", "XP", "efficiency", "optimization"],
+    "niches": ["game-tutorials"]
+  },
+  {
+    "title": "[Game] Situational Guide - Adapting to Different Scenarios",
+    "description": "Teach players how to adapt their playstyle to different game situations, including comeback scenarios, advantage states, and clutch situations.",
+    "tags": ["situational", "adaptation", "scenarios", "comeback", "clutch"],
+    "niches": ["game-tutorials"]
+  }
+]

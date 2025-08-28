@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Genre] DJ Mix: [Time Duration] of [Mood/Theme] Vibes",
+    "description": "Create themed DJ mixes focusing on specific genres, moods, or energy levels. Include track selection rationale, mixing techniques, and crowd psychology. Show preparation process, equipment setup, and post-production. Explain how to build energy curves and create seamless transitions between different musical styles.",
+    "tags": ["DJ mix", "music curation", "mixing techniques", "genre focus", "audio production"],
+    "niches": ["dj-mixes"]
+  },
+  {
+    "title": "Live DJ Set from [Location]: [Event Type] Performance",
+    "description": "Record and share live DJ performances from various venues and events. Include crowd interaction, real-time song selection, and adaptation to audience response. Show setup process, technical challenges, and performance highlights. Capture the energy and atmosphere of live DJ experiences.",
+    "tags": ["live performance", "venue recording", "crowd interaction", "live mixing", "performance capture"],
+    "niches": ["dj-mixes"]
+  },
+  {
+    "title": "DJ Tutorial: Mastering [Technique] for [Genre] Mixing",
+    "description": "Teach specific DJ techniques and skills through practical demonstrations. Cover beatmatching, scratching, looping, effects usage, and harmonic mixing. Include practice exercises, common mistakes, and progression tips. Adapt instructions for different software and hardware setups.",
+    "tags": ["DJ education", "mixing tutorial", "technique training", "skill development", "DJ instruction"],
+    "niches": ["dj-mixes"]
+  },
+  {
+    "title": "Equipment Review: Testing [DJ Gear] for [Use Case]",
+    "description": "Review DJ equipment including controllers, mixers, headphones, and speakers. Test gear in real mixing scenarios, comparing features, build quality, and value. Include compatibility tests with different software and performance in various environments.",
+    "tags": ["equipment review", "DJ gear", "technology testing", "gear comparison", "buying guide"],
+    "niches": ["dj-mixes"]
+  },
+  {
+    "title": "Mix Breakdown: Analyzing [Famous DJ]'s [Set Name] Techniques",
+    "description": "Deconstruct famous DJ sets and mixes, analyzing song selection, transitions, and creative techniques. Explain what makes certain mixes legendary and how to apply similar approaches. Include historical context and influence on DJ culture.",
+    "tags": ["mix analysis", "DJ education", "technique study", "music history", "professional analysis"],
+    "niches": ["dj-mixes"]
+  },
+  {
+    "title": "Bedroom DJ Setup: Creating Professional Mixes on [Budget]",
+    "description": "Show how to create high-quality DJ mixes with budget equipment and home setups. Cover room acoustics, equipment selection, and software options. Include recording techniques and post-production tips for polished results without professional studios.",
+    "tags": ["budget DJing", "home studio", "amateur DJ", "equipment optimization", "DIY setup"],
+    "niches": ["dj-mixes"]
+  },
+  {
+    "title": "[Decade]s Throwback Mix: [Number] Minutes of Nostalgia",
+    "description": "Create nostalgic mixes featuring music from specific decades or eras. Research popular tracks, cultural context, and mixing styles of the period. Include stories behind the songs and their impact on music history. Blend authentic period elements with modern production.",
+    "tags": ["throwback music", "nostalgia mix", "music history", "decade focus", "retro DJing"],
+    "niches": ["dj-mixes"]
+  },
+  {
+    "title": "DJ Challenge: Mixing [Number] Genres in [Time Limit]",
+    "description": "Take on creative DJ challenges that push mixing skills and creativity. Demonstrate versatility by blending seemingly incompatible genres or working within strict constraints. Show problem-solving and creative thinking in real-time mixing scenarios.",
+    "tags": ["DJ challenge", "genre blending", "creative mixing", "skill testing", "experimental DJ"],
+    "niches": ["dj-mixes"]
+  },
+  {
+    "title": "Vinyl vs Digital: [Track] Mixed on [Equipment Comparison]",
+    "description": "Compare vinyl and digital DJ setups using identical tracks and mixing approaches. Analyze sound quality, workflow differences, and unique capabilities of each format. Include practical considerations for modern DJs choosing between formats.",
+    "tags": ["vinyl vs digital", "format comparison", "analog vs digital", "equipment analysis", "DJ technology"],
+    "niches": ["dj-mixes"]
+  },
+  {
+    "title": "Festival Prep Mix: [Festival Name] [Year] Warm-Up Set",
+    "description": "Create promotional mixes for upcoming festivals or events, featuring artists and tracks likely to be played. Include festival atmosphere recreation and energy building techniques. Show how DJs prepare for major events and crowd expectations.",
+    "tags": ["festival prep", "event promotion", "festival mix", "crowd preparation", "event DJing"],
+    "niches": ["dj-mixes"]
+  },
+  {
+    "title": "Beginner DJ: First [Genre] Mix Tutorial and Results",
+    "description": "Document the journey of learning to DJ, from first attempts to improved performances. Include practice sessions, learning resources, and milestone achievements. Show common beginner challenges and how to overcome them with persistence and proper technique.",
+    "tags": ["beginner DJ", "learning journey", "skill progression", "DJ education", "practice documentation"],
+    "niches": ["dj-mixes"]
+  },
+  {
+    "title": "Software Showdown: [Software A] vs [Software B] Mixing",
+    "description": "Compare different DJ software platforms by creating identical mixes using each program. Analyze features, workflow, sound quality, and learning curves. Include recommendations for different user types and mixing styles.",
+    "tags": ["software comparison", "DJ software", "platform analysis", "workflow comparison", "technology review"],
+    "niches": ["dj-mixes"]
+  },
+  {
+    "title": "Cultural Mix: [Country/Region] Music Journey in [Duration]",
+    "description": "Explore musical cultures through carefully curated mixes featuring traditional and contemporary music from specific regions. Include cultural context, historical background, and modern interpretations. Show how to respectfully blend cultural music styles.",
+    "tags": ["cultural music", "world music", "cultural exploration", "music education", "global sounds"],
+    "niches": ["dj-mixes"]
+  },
+  {
+    "title": "Remix Showcase: [Artist] Remixed [Number] Ways",
+    "description": "Create multiple remixes of popular tracks using different styles and techniques. Show the creative process, software usage, and artistic decision-making. Include original track analysis and explanation of remix approaches for different audiences.",
+    "tags": ["remixing", "music production", "creative process", "track analysis", "electronic production"],
+    "niches": ["dj-mixes"]
+  },
+  {
+    "title": "Mobile DJ Setup: Professional Mixing on [Portable Equipment]",
+    "description": "Demonstrate high-quality DJ mixing using portable and mobile equipment setups. Cover battery power solutions, compact gear recommendations, and maintaining audio quality in challenging environments. Include real-world mobile DJ scenarios.",
+    "tags": ["mobile DJing", "portable equipment", "location independence", "compact setup", "versatile DJing"],
+    "niches": ["dj-mixes"]
+  },
+  {
+    "title": "Collaborative Mix: Working with [Guest DJ] on [Theme]",
+    "description": "Document collaborative DJ projects with other DJs or musicians. Show communication methods, style coordination, and creative compromise. Include technical aspects of remote collaboration and file sharing for professional results.",
+    "tags": ["DJ collaboration", "creative partnership", "teamwork", "joint projects", "collaborative mixing"],
+    "niches": ["dj-mixes"]
+  },
+  {
+    "title": "DJ Business: Building [Revenue Stream] Through Mixing",
+    "description": "Share strategies for monetizing DJ skills through various income streams. Cover gig booking, online sales, streaming revenue, and brand partnerships. Include pricing strategies, marketing techniques, and building a professional DJ brand.",
+    "tags": ["DJ business", "monetization", "professional DJing", "income streams", "music career"],
+    "niches": ["dj-mixes"]
+  },
+  {
+    "title": "Mix Series: [Season/Event] [Year] - Episode [Number]",
+    "description": "Create ongoing mix series with consistent themes, quality, and release schedules. Build audience loyalty through regular content and evolving musical narratives. Include audience feedback integration and series development strategies.",
+    "tags": ["mix series", "content consistency", "audience building", "regular content", "brand development"],
+    "niches": ["dj-mixes"]
+  }
+]

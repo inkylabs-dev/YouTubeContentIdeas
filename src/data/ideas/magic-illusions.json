@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "Learn [Magic Trick Type]: Step-by-Step Tutorial for Beginners",
+    "description": "Teach magic tricks with clear, beginner-friendly instructions. Replace the placeholder with trick types like 'Card Tricks,' 'Coin Magic,' 'Rope Tricks,' or 'Mind Reading.' Include performance tips, common mistakes, and practice exercises.",
+    "tags": ["magic", "tutorial", "beginner", "step-by-step", "learn"],
+    "niches": ["magic-illusions"]
+  },
+  {
+    "title": "[Number] Magic Tricks You Can Do with [Everyday Object]",
+    "description": "Create magic using common household items. Replace placeholders with combinations like '5 Magic Tricks with Rubber Bands' or '8 Amazing Tricks with Playing Cards.' Include impromptu performance ideas and accessibility.",
+    "tags": ["magic", "everyday-objects", "accessible", "impromptu", "household"],
+    "niches": ["magic-illusions"]
+  },
+  {
+    "title": "Magic Theory: Understanding the Psychology Behind [Illusion Type]",
+    "description": "Explain the psychological principles that make magic work. Replace the placeholder with illusion types like 'Misdirection,' 'Memory Manipulation,' 'Optical Illusions,' or 'Mentalism.' Include scientific explanations and practical applications.",
+    "tags": ["magic", "psychology", "theory", "science", "explanation"],
+    "niches": ["magic-illusions"]
+  },
+  {
+    "title": "Performance Skills: Mastering [Aspect] for Better Magic Shows",
+    "description": "Develop performance skills beyond just trick execution. Replace the placeholder with aspects like 'Stage Presence,' 'Storytelling,' 'Audience Interaction,' or 'Showmanship.' Include practice exercises and confidence building.",
+    "tags": ["magic", "performance", "showmanship", "skills", "stage"],
+    "niches": ["magic-illusions"]
+  },
+  {
+    "title": "Magic History: The Evolution of [Classic Trick/Illusion]",
+    "description": "Explore the historical development of famous magic tricks and illusions. Replace the placeholder with classics like 'The Linking Rings,' 'Sawing a Woman in Half,' or 'The Chinese Water Torture Cell.' Include historical context and modern variations.",
+    "tags": ["magic", "history", "evolution", "classic", "historical"],
+    "niches": ["magic-illusions"]
+  },
+  {
+    "title": "Close-Up Magic: [Number] Intimate Tricks for Small Audiences",
+    "description": "Focus on magic designed for close, personal performances. Replace the placeholder with numbers like '6' or '10.' Include tricks perfect for dinner parties, small gatherings, and one-on-one performances.",
+    "tags": ["magic", "close-up", "intimate", "personal", "small-audience"],
+    "niches": ["magic-illusions"]
+  },
+  {
+    "title": "Magic Mistakes: Common Errors in [Trick Category] and How to Fix Them",
+    "description": "Address frequent mistakes made by amateur magicians. Replace the placeholder with categories like 'Card Magic,' 'Coin Tricks,' or 'Stage Illusions.' Include troubleshooting tips and improvement strategies.",
+    "tags": ["magic", "mistakes", "troubleshooting", "improvement", "errors"],
+    "niches": ["magic-illusions"]
+  },
+  {
+    "title": "DIY Magic Props: Making [Prop/Gimmick] at Home",
+    "description": "Create magic props and gimmicks using materials found at home. Replace the placeholder with props like 'Force Decks,' 'Vanishing Boxes,' 'Linking Rings,' or 'Levitation Devices.' Include construction guides and material lists.",
+    "tags": ["magic", "DIY", "props", "crafting", "homemade"],
+    "niches": ["magic-illusions"]
+  },
+  {
+    "title": "Mentalism Secrets: [Number] Mind-Reading Techniques Revealed",
+    "description": "Explore the methods behind mentalism and mind-reading effects. Replace the placeholder with numbers like '7' or '12.' Include psychological techniques, cold reading, and mathematical principles used in mentalism.",
+    "tags": ["magic", "mentalism", "mind-reading", "psychology", "techniques"],
+    "niches": ["magic-illusions"]
+  },
+  {
+    "title": "Street Magic: Performing [Trick Type] for Random Strangers",
+    "description": "Document street magic performances and public reactions. Replace the placeholder with trick types suitable for street performance. Include approach strategies, crowd management, and dealing with unexpected situations.",
+    "tags": ["magic", "street", "public", "strangers", "reactions"],
+    "niches": ["magic-illusions"]
+  },
+  {
+    "title": "Magic for Kids: [Number] Simple Tricks Children Can Master",
+    "description": "Teach age-appropriate magic tricks for young performers. Replace the placeholder with numbers like '8' or '12.' Include safety considerations, simple methods, and confidence-building techniques for young magicians.",
+    "tags": ["magic", "kids", "children", "simple", "age-appropriate"],
+    "niches": ["magic-illusions"]
+  },
+  {
+    "title": "Advanced Techniques: Mastering [Complex Method] in Magic",
+    "description": "Teach advanced magical techniques for experienced performers. Replace the placeholder with complex methods like 'False Shuffles,' 'Double Lifts,' 'Palm Switches,' or 'Multiple Selection.' Include detailed instruction and practice routines.",
+    "tags": ["magic", "advanced", "complex", "techniques", "mastery"],
+    "niches": ["magic-illusions"]
+  },
+  {
+    "title": "Magic Exposed: How [Famous Magician] Performs [Signature Trick]",
+    "description": "Analyze and explain methods behind famous magicians' signature effects. Replace placeholders with magician names and their well-known tricks. Include historical significance and variations of the methods.",
+    "tags": ["magic", "exposed", "analysis", "famous", "signature"],
+    "niches": ["magic-illusions"]
+  },
+  {
+    "title": "Magic Contest: Judging [Number] Viewer-Submitted Trick Videos",
+    "description": "Review and critique magic performances submitted by viewers. Replace the placeholder with the number of submissions. Include constructive feedback, technique analysis, and performance improvement suggestions.",
+    "tags": ["magic", "contest", "review", "critique", "community"],
+    "niches": ["magic-illusions"]
+  },
+  {
+    "title": "Seasonal Magic: [Holiday/Season] Themed Tricks and Presentations",
+    "description": "Create themed magic content for holidays and seasons. Replace the placeholder with specific occasions like 'Halloween,' 'Christmas,' 'Summer,' or 'Birthday Parties.' Include themed presentations and seasonal props.",
+    "tags": ["magic", "seasonal", "themed", "holiday", "presentation"],
+    "niches": ["magic-illusions"]
+  },
+  {
+    "title": "Magic Equipment Review: Testing [Product/Prop] for Performance",
+    "description": "Review magic products, props, and equipment for quality and performance value. Replace the placeholder with specific magic products. Include durability tests, performance quality, and value-for-money assessments.",
+    "tags": ["magic", "review", "equipment", "props", "quality"],
+    "niches": ["magic-illusions"]
+  },
+  {
+    "title": "Magic Business: How to Start Performing [Performance Type] Professionally",
+    "description": "Guide aspiring professional magicians through business setup and marketing. Replace the placeholder with performance types like 'Children's Parties,' 'Corporate Events,' or 'Restaurant Magic.' Include pricing, marketing, and business tips.",
+    "tags": ["magic", "business", "professional", "career", "entrepreneurship"],
+    "niches": ["magic-illusions"]
+  },
+  {
+    "title": "Magic Fails: When [Trick Type] Goes Wrong and How to Recover",
+    "description": "Address what happens when magic tricks fail and how to handle mistakes gracefully. Replace the placeholder with trick types. Include recovery techniques, misdirection strategies, and maintaining audience confidence.",
+    "tags": ["magic", "fails", "mistakes", "recovery", "troubleshooting"],
+    "niches": ["magic-illusions"]
+  }
+]

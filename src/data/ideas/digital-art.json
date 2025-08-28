@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "Creating [Art Style] in [Software]: Complete Digital Tutorial",
+    "description": "Provide step-by-step tutorials for creating specific digital art styles using popular software. Cover tool selection, layer management, brush techniques, color theory, and composition principles. Include process timelapses, common mistakes to avoid, and tips for achieving professional results. Customize for different skill levels and software preferences.",
+    "tags": ["digital art", "tutorial", "software guide", "art techniques", "creative process"],
+    "niches": ["digital-art"]
+  },
+  {
+    "title": "[Time Period] Digital Art Challenge: Creating [Number] Pieces",
+    "description": "Document intensive art creation periods where you produce multiple digital pieces within set timeframes. Show the creative process, decision-making, style evolution, and time management techniques. Include before/after comparisons, learning moments, and audience voting on favorite pieces.",
+    "tags": ["art challenge", "time constraint", "creative process", "skill development", "productivity"],
+    "niches": ["digital-art"]
+  },
+  {
+    "title": "Digital Art Tools Comparison: [Software A] vs [Software B]",
+    "description": "Compare different digital art software, analyzing features, pricing, learning curves, and use cases. Create identical artwork in different programs to highlight strengths and weaknesses. Include workflow demonstrations, export quality tests, and recommendations for different user types and budgets.",
+    "tags": ["software comparison", "tool review", "digital art software", "workflow optimization", "buying guide"],
+    "niches": ["digital-art"]
+  },
+  {
+    "title": "Transforming [Traditional Medium] into Digital: [Subject] Speed Art",
+    "description": "Show how to recreate traditional art techniques digitally, comparing the physical and digital processes. Demonstrate brush simulation, texture creation, and color blending methods. Include tips for artists transitioning from traditional to digital mediums and hybrid approaches.",
+    "tags": ["traditional to digital", "medium comparison", "technique adaptation", "speed art", "art education"],
+    "niches": ["digital-art"]
+  },
+  {
+    "title": "Digital Portrait Process: From [Reference Type] to Finished Art",
+    "description": "Document complete portrait creation process from reference gathering to final touches. Cover proportion techniques, facial feature construction, skin rendering, hair textures, and lighting effects. Include different approaches for various portrait styles and difficulty levels.",
+    "tags": ["digital portrait", "character art", "rendering techniques", "facial features", "lighting"],
+    "niches": ["digital-art"]
+  },
+  {
+    "title": "Creating Digital Art with Only [Limited Tools/Colors]",
+    "description": "Challenge yourself to create compelling digital artwork using restricted tools, colors, or techniques. Show how limitations can enhance creativity and force innovative solutions. Demonstrate color theory, composition principles, and maximizing impact with minimal resources.",
+    "tags": ["art constraints", "creative challenge", "color theory", "minimalism", "technique focus"],
+    "niches": ["digital-art"]
+  },
+  {
+    "title": "[Art Style] Character Design: Building [Character Type] from Concept",
+    "description": "Walk through complete character design process from initial concept to polished artwork. Cover silhouette design, color palettes, personality expression, and storytelling through visual elements. Include multiple iterations and decision-making rationale.",
+    "tags": ["character design", "concept art", "visual storytelling", "design process", "creative development"],
+    "niches": ["digital-art"]
+  },
+  {
+    "title": "Digital Environment Art: Creating [Setting Type] Landscapes",
+    "description": "Demonstrate environment and landscape creation techniques, covering perspective, atmospheric effects, texture work, and mood establishment. Show how to build believable worlds and immersive settings for games, films, or standalone artwork.",
+    "tags": ["environment art", "landscape design", "atmosphere", "world building", "background art"],
+    "niches": ["digital-art"]
+  },
+  {
+    "title": "Digital Art Mistakes: [Number] Common Errors and How to Fix Them",
+    "description": "Identify frequent digital art mistakes and provide clear solutions and prevention strategies. Cover technical issues, composition problems, color theory errors, and workflow inefficiencies. Include before/after examples and practice exercises.",
+    "tags": ["art education", "common mistakes", "improvement tips", "troubleshooting", "skill development"],
+    "niches": ["digital-art"]
+  },
+  {
+    "title": "Creating [Theme] Digital Art Series: [Number] Piece Collection",
+    "description": "Document the creation of a cohesive digital art series around specific themes, styles, or concepts. Show planning process, style consistency techniques, and how to develop visual narratives across multiple pieces. Include audience feedback integration.",
+    "tags": ["art series", "thematic art", "consistency", "collection creation", "project planning"],
+    "niches": ["digital-art"]
+  },
+  {
+    "title": "Digital Art Business: Selling [Art Type] Online Successfully",
+    "description": "Share strategies for monetizing digital art through various platforms and methods. Cover pricing strategies, portfolio presentation, client communication, and marketing techniques. Include platform comparisons and income diversification approaches.",
+    "tags": ["art business", "online selling", "monetization", "marketing", "professional development"],
+    "niches": ["digital-art"]
+  },
+  {
+    "title": "Recreating Famous [Art Movement] Digitally: [Artist] Style Study",
+    "description": "Study and recreate famous artworks or art movements using digital tools. Analyze techniques, color choices, composition methods, and adapt traditional approaches to digital mediums. Include historical context and artistic analysis.",
+    "tags": ["art history", "style study", "master studies", "technique analysis", "educational content"],
+    "niches": ["digital-art"]
+  },
+  {
+    "title": "Digital Art Hardware Review: [Device] for Professional Artists",
+    "description": "Test and review digital art hardware including tablets, styluses, monitors, and computers. Evaluate performance for different art styles, software compatibility, durability, and value proposition. Include hands-on demonstrations and comparison tests.",
+    "tags": ["hardware review", "art tools", "technology", "professional equipment", "buying guide"],
+    "niches": ["digital-art"]
+  },
+  {
+    "title": "[Time] Digital Art Stream: Creating [Subject] Live",
+    "description": "Stream live digital art creation sessions, interacting with viewers while working. Take suggestions, explain techniques in real-time, and show unedited artistic process including mistakes and corrections. Build community around shared creative experience.",
+    "tags": ["live streaming", "interactive art", "community building", "real-time creation", "educational streaming"],
+    "niches": ["digital-art"]
+  },
+  {
+    "title": "Digital Art Fundamentals: Mastering [Skill] in [Timeframe]",
+    "description": "Focus on specific fundamental digital art skills like perspective, anatomy, color theory, or composition. Provide structured learning approach with practice exercises, progress tracking, and milestone assessments. Adapt for different experience levels.",
+    "tags": ["art fundamentals", "skill building", "structured learning", "practice methods", "art education"],
+    "niches": ["digital-art"]
+  },
+  {
+    "title": "Digital Art Collaboration: Working with [Collaborator Type] on [Project]",
+    "description": "Document collaborative digital art projects with other artists, writers, musicians, or developers. Show communication methods, workflow coordination, style matching, and creative compromise. Include project management and file sharing strategies.",
+    "tags": ["collaboration", "teamwork", "creative partnership", "project management", "artistic cooperation"],
+    "niches": ["digital-art"]
+  },
+  {
+    "title": "Digital Art Time-lapse: [Complex Subject] in [Software]",
+    "description": "Create satisfying time-lapse videos of complex digital artwork creation. Focus on visually interesting transformations, technique demonstrations, and final reveal moments. Include multiple angles, close-ups of detail work, and process explanations.",
+    "tags": ["time-lapse", "satisfying art", "process video", "visual transformation", "technique showcase"],
+    "niches": ["digital-art"]
+  },
+  {
+    "title": "Digital Art Trends: Exploring [Current Trend] Style and Techniques",
+    "description": "Analyze and demonstrate current digital art trends, styles, and popular techniques. Explain what makes trends appealing, how to incorporate them authentically, and predict future directions. Include historical context and cultural influences.",
+    "tags": ["art trends", "contemporary art", "style analysis", "cultural commentary", "trend forecasting"],
+    "niches": ["digital-art"]
+  }
+]

@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Celebrity/Event] Deep Dive: The Real Story Behind [Topic]",
+    "description": "Explore celebrity news, entertainment industry events, and pop culture phenomena with thorough research and analysis. Include multiple perspectives, fact-checking, and context for entertainment stories. Balance entertainment value with responsible reporting.",
+    "tags": ["celebrity news", "pop culture", "entertainment industry", "celebrity analysis", "entertainment commentary"],
+    "niches": ["entertainment"]
+  },
+  {
+    "title": "Awards Season Analysis: Predicting [Awards Show] Winners",
+    "description": "Analyze award show nominations, industry trends, and voting patterns to make informed predictions. Include historical analysis, campaign strategies, and behind-the-scenes factors influencing awards outcomes.",
+    "tags": ["awards shows", "entertainment predictions", "industry analysis", "awards season", "entertainment awards"],
+    "niches": ["entertainment"]
+  },
+  {
+    "title": "[Genre] Entertainment Trends: What's Hot in [Year/Season]",
+    "description": "Track and analyze current trends in various entertainment sectors including music, film, television, and digital content. Identify emerging patterns, audience preferences, and industry shifts affecting entertainment consumption.",
+    "tags": ["entertainment trends", "industry trends", "pop culture trends", "entertainment analysis", "trend forecasting"],
+    "niches": ["entertainment"]
+  },
+  {
+    "title": "Behind the Scenes: Making of [Show/Movie/Event]",
+    "description": "Provide exclusive or researched behind-the-scenes content about entertainment productions. Include production challenges, creative decisions, cast dynamics, and technical aspects that audiences don't typically see.",
+    "tags": ["behind the scenes", "production insights", "entertainment production", "filmmaking", "show business"],
+    "niches": ["entertainment"]
+  },
+  {
+    "title": "[Platform] Entertainment Review: [Content Type] Worth Watching",
+    "description": "Review and recommend entertainment content across various platforms and mediums. Include detailed analysis, rating systems, and audience recommendations. Cover both mainstream and niche entertainment options.",
+    "tags": ["entertainment reviews", "content recommendations", "streaming reviews", "entertainment criticism", "viewing guides"],
+    "niches": ["entertainment"]
+  },
+  {
+    "title": "Entertainment Industry Exposé: [Issue/Problem] in [Sector]",
+    "description": "Investigate and discuss serious issues within the entertainment industry including business practices, worker conditions, and systemic problems. Include expert interviews and proposed solutions for industry improvement.",
+    "tags": ["industry investigation", "entertainment business", "industry problems", "entertainment journalism", "industry reform"],
+    "niches": ["entertainment"]
+  },
+  {
+    "title": "[Time Period] Entertainment Nostalgia: Revisiting [Decade]",
+    "description": "Explore past entertainment eras with nostalgic content covering music, movies, TV shows, and cultural phenomena from specific time periods. Include cultural context and modern perspective on historical entertainment.",
+    "tags": ["entertainment nostalgia", "retro entertainment", "entertainment history", "nostalgic content", "cultural retrospective"],
+    "niches": ["entertainment"]
+  },
+  {
+    "title": "Fan Culture Deep Dive: [Fandom] Community and Impact",
+    "description": "Explore fan communities, their culture, impact on entertainment, and relationship with creators. Include fan theories, community events, and the economics of fandom in modern entertainment.",
+    "tags": ["fan culture", "fandom analysis", "fan communities", "entertainment fandom", "fan engagement"],
+    "niches": ["entertainment"]
+  },
+  {
+    "title": "Entertainment Technology: How [Technology] Changed [Entertainment Type]",
+    "description": "Examine how technological advances affect entertainment creation, distribution, and consumption. Include analysis of streaming, VR, AI, and other technologies reshaping entertainment experiences.",
+    "tags": ["entertainment technology", "digital entertainment", "technology impact", "entertainment innovation", "media technology"],
+    "niches": ["entertainment"]
+  },
+  {
+    "title": "[Celebrity] Career Evolution: From [Start] to [Current Status]",
+    "description": "Chronicle celebrity career trajectories including breakthrough moments, career pivots, controversies, and reinventions. Analyze factors contributing to long-term success or failure in entertainment careers.",
+    "tags": ["celebrity careers", "entertainment careers", "career analysis", "celebrity evolution", "entertainment biography"],
+    "niches": ["entertainment"]
+  },
+  {
+    "title": "International Entertainment: [Country] Content Taking Over [Market]",
+    "description": "Explore global entertainment trends including foreign content popularity, cultural exchange through entertainment, and international market influences on domestic entertainment consumption.",
+    "tags": ["international entertainment", "global content", "cultural exchange", "foreign entertainment", "entertainment globalization"],
+    "niches": ["entertainment"]
+  },
+  {
+    "title": "Entertainment Business Analysis: [Company/Deal] Impact on Industry",
+    "description": "Analyze major entertainment business deals, mergers, acquisitions, and strategic decisions affecting the industry. Include financial analysis and predictions for industry direction and consumer impact.",
+    "tags": ["entertainment business", "industry analysis", "business strategy", "entertainment economics", "industry deals"],
+    "niches": ["entertainment"]
+  },
+  {
+    "title": "Viral Entertainment: Why [Content] Became a Phenomenon",
+    "description": "Analyze viral entertainment content to understand what makes content shareable and engaging. Include psychological factors, timing, and platform algorithms contributing to viral success.",
+    "tags": ["viral content", "entertainment virality", "content analysis", "viral phenomena", "entertainment psychology"],
+    "niches": ["entertainment"]
+  },
+  {
+    "title": "Entertainment Controversy: [Issue] and Its Impact on [Sector]",
+    "description": "Examine entertainment controversies with balanced analysis of multiple perspectives, industry impact, and long-term consequences. Include discussion of accountability and industry changes following controversies.",
+    "tags": ["entertainment controversy", "industry scandals", "entertainment ethics", "accountability", "industry impact"],
+    "niches": ["entertainment"]
+  },
+  {
+    "title": "[Genre] Entertainment Evolution: Past, Present, and Future",
+    "description": "Track the evolution of specific entertainment genres over time, analyzing changes in style, themes, technology, and audience preferences. Include predictions for future developments in the genre.",
+    "tags": ["genre evolution", "entertainment history", "entertainment development", "genre analysis", "entertainment future"],
+    "niches": ["entertainment"]
+  },
+  {
+    "title": "Entertainment Psychology: Why We Love [Content Type/Genre]",
+    "description": "Explore the psychological reasons behind entertainment preferences and consumption patterns. Include research on emotional responses, escapism, and social aspects of entertainment consumption.",
+    "tags": ["entertainment psychology", "audience psychology", "entertainment preferences", "media psychology", "entertainment research"],
+    "niches": ["entertainment"]
+  },
+  {
+    "title": "Independent vs. Mainstream: [Entertainment Type] Comparison",
+    "description": "Compare independent and mainstream entertainment productions, analyzing creative freedom, funding models, audience reach, and artistic integrity. Include success stories from both sectors.",
+    "tags": ["independent entertainment", "mainstream vs indie", "entertainment production", "creative freedom", "entertainment funding"],
+    "niches": ["entertainment"]
+  },
+  {
+    "title": "Entertainment Predictions: [Year] Forecast for [Industry Sector]",
+    "description": "Make informed predictions about entertainment industry directions based on current trends, technological advances, and market analysis. Include expert opinions and data-driven forecasting for entertainment futures.",
+    "tags": ["entertainment predictions", "industry forecasting", "entertainment future", "trend prediction", "industry outlook"],
+    "niches": ["entertainment"]
+  }
+]

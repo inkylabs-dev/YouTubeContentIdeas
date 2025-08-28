@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Instrument] Basics: Complete Beginner's Guide to Your First [Time Period]",
+    "description": "Create comprehensive beginner tutorials for musical instruments. Replace placeholders with combinations like 'Guitar Basics: Complete Beginner's Guide to Your First Month' or 'Piano Basics: Your First Two Weeks.' Include instrument setup, basic techniques, and simple songs.",
+    "tags": ["music", "beginner", "tutorial", "basics", "learning"],
+    "niches": ["instrument-tutorials"]
+  },
+  {
+    "title": "Learn [Popular Song] on [Instrument]: Step-by-Step Tutorial",
+    "description": "Teach popular songs on specific instruments. Replace placeholders with combinations like 'Learn Wonderwall on Guitar' or 'Learn Für Elise on Piano.' Break down the song into manageable sections with chord progressions or note sequences.",
+    "tags": ["music", "tutorial", "popular-songs", "step-by-step", "learning"],
+    "niches": ["instrument-tutorials"]
+  },
+  {
+    "title": "[Number] Essential [Instrument] Techniques Every Player Should Master",
+    "description": "Focus on fundamental techniques for instrument mastery. Replace placeholders with combinations like '7 Essential Guitar Techniques' or '10 Piano Finger Exercises.' Include practice tips, common mistakes, and progressive difficulty levels.",
+    "tags": ["music", "techniques", "fundamentals", "skills", "mastery"],
+    "niches": ["instrument-tutorials"]
+  },
+  {
+    "title": "[Genre] [Instrument]: Authentic Playing Styles and Techniques",
+    "description": "Explore genre-specific playing styles and techniques. Replace placeholders with combinations like 'Blues Guitar: Authentic Playing Styles' or 'Jazz Piano: Essential Techniques.' Include historical context and characteristic elements.",
+    "tags": ["music", "genre", "styles", "authentic", "techniques"],
+    "niches": ["instrument-tutorials"]
+  },
+  {
+    "title": "Fix Your [Instrument] Playing: Common Mistakes and How to Correct Them",
+    "description": "Address frequent playing errors and provide corrections. Replace the placeholder with instruments like 'Guitar,' 'Piano,' 'Violin,' or 'Drums.' Include exercises for improvement and prevention strategies.",
+    "tags": ["music", "mistakes", "correction", "improvement", "technique"],
+    "niches": ["instrument-tutorials"]
+  },
+  {
+    "title": "[Instrument] Practice Routine: [Time Frame] Daily Exercises for Progress",
+    "description": "Create structured practice schedules for consistent improvement. Replace placeholders with combinations like 'Guitar Practice Routine: 30-Minute Daily Exercises' or 'Piano Practice: 1-Hour Daily Routine.' Include warm-ups, scales, and repertoire.",
+    "tags": ["music", "practice", "routine", "exercises", "progress"],
+    "niches": ["instrument-tutorials"]
+  },
+  {
+    "title": "Advanced [Instrument]: Mastering [Complex Technique]",
+    "description": "Teach advanced techniques for experienced players. Replace placeholders with combinations like 'Advanced Guitar: Mastering Fingerpicking' or 'Advanced Piano: Mastering Polyrhythms.' Include prerequisites and detailed breakdowns.",
+    "tags": ["music", "advanced", "mastery", "complex", "techniques"],
+    "niches": ["instrument-tutorials"]
+  },
+  {
+    "title": "[Instrument] Buying Guide: Choosing Your [Player Level] Instrument",
+    "description": "Help viewers select appropriate instruments for their skill level. Replace placeholders with combinations like 'Guitar Buying Guide: Choosing Your First Guitar' or 'Piano Guide: Professional Instruments.' Include budget considerations and quality factors.",
+    "tags": ["music", "buying-guide", "instruments", "selection", "advice"],
+    "niches": ["instrument-tutorials"]
+  },
+  {
+    "title": "Quick Wins: [Number] Easy [Instrument] Songs You Can Learn Today",
+    "description": "Provide immediately achievable musical goals for beginners. Replace placeholders with combinations like '5 Easy Guitar Songs You Can Learn Today' or '3 Simple Piano Pieces for Beginners.' Focus on confidence-building and quick success.",
+    "tags": ["music", "beginner", "easy-songs", "quick", "confidence"],
+    "niches": ["instrument-tutorials"]
+  },
+  {
+    "title": "[Instrument] Theory Made Simple: Understanding [Music Theory Concept]",
+    "description": "Simplify music theory concepts for instrument players. Replace placeholders with combinations like 'Guitar Theory Made Simple: Understanding Scales' or 'Piano Theory: Chord Progressions Explained.' Use practical applications and visual aids.",
+    "tags": ["music", "theory", "education", "concepts", "understanding"],
+    "niches": ["instrument-tutorials"]
+  },
+  {
+    "title": "Playing by Ear: Developing [Skill] on [Instrument]",
+    "description": "Teach ear training and intuitive playing skills. Replace placeholders with combinations like 'Playing by Ear: Developing Chord Recognition on Guitar' or 'Piano: Training Your Musical Ear.' Include exercises and practice methods.",
+    "tags": ["music", "ear-training", "intuitive", "skills", "listening"],
+    "niches": ["instrument-tutorials"]
+  },
+  {
+    "title": "[Instrument] Maintenance: Keeping Your Instrument in Perfect Condition",
+    "description": "Provide care and maintenance guidance for instruments. Replace the placeholder with instruments like 'Guitar,' 'Piano,' 'Violin,' or 'Drums.' Include cleaning, storage, and basic repair techniques.",
+    "tags": ["music", "maintenance", "care", "repair", "preservation"],
+    "niches": ["instrument-tutorials"]
+  },
+  {
+    "title": "Recording Your [Instrument]: Home Studio Setup and Tips",
+    "description": "Guide viewers through recording their instruments at home. Replace the placeholder with instruments like 'Guitar,' 'Piano,' 'Voice,' or 'Drums.' Include equipment recommendations, recording techniques, and mixing basics.",
+    "tags": ["music", "recording", "home-studio", "production", "technology"],
+    "niches": ["instrument-tutorials"]
+  },
+  {
+    "title": "Performance Anxiety: Confident [Instrument] Playing in Public",
+    "description": "Address stage fright and public performance challenges. Replace the placeholder with any instrument. Include preparation strategies, mental techniques, and practical tips for live performance success.",
+    "tags": ["music", "performance", "confidence", "stage-fright", "public"],
+    "niches": ["instrument-tutorials"]
+  },
+  {
+    "title": "[Instrument] Duets: Playing Music with Others",
+    "description": "Teach collaborative music-making and ensemble skills. Replace the placeholder with instruments like 'Guitar,' 'Piano,' or 'Violin.' Include communication, timing, and arrangement techniques for playing with others.",
+    "tags": ["music", "duets", "collaboration", "ensemble", "together"],
+    "niches": ["instrument-tutorials"]
+  },
+  {
+    "title": "Speed Building: How to Play [Instrument] Faster and Cleaner",
+    "description": "Develop technical speed and precision on instruments. Replace the placeholder with any instrument. Include metronome work, finger exercises, and gradual progression techniques for building speed without sacrificing accuracy.",
+    "tags": ["music", "speed", "technique", "precision", "practice"],
+    "niches": ["instrument-tutorials"]
+  },
+  {
+    "title": "[Instrument] for [Age Group]: Age-Appropriate Learning Methods",
+    "description": "Tailor instruction for specific age demographics. Replace placeholders with combinations like 'Piano for Kids: Fun Learning Methods' or 'Guitar for Seniors: Gentle Approach to Learning.' Include age-specific considerations and adaptations.",
+    "tags": ["music", "age-specific", "learning", "methods", "adaptation"],
+    "niches": ["instrument-tutorials"]
+  },
+  {
+    "title": "From Beginner to [Level]: [Time Frame] [Instrument] Progression Plan",
+    "description": "Create structured learning pathways with clear milestones. Replace placeholders with combinations like 'From Beginner to Intermediate: 6-Month Guitar Plan' or 'Piano Progress: One Year Journey to Advanced.' Include skill assessments and benchmarks.",
+    "tags": ["music", "progression", "learning-path", "milestones", "development"],
+    "niches": ["instrument-tutorials"]
+  }
+]

@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "Most INSANE [Game] Plays of [Year] - Highlight Reel",
+    "description": "Replace [Game] with a popular esports title and [Year] with the current or previous year. Compile the most jaw-dropping plays, incredible clutches, and impossible shots from professional matches. Add slow-motion analysis and crowd reactions.",
+    "tags": ["highlights", "insane-plays", "compilation", "best-of", "esports"],
+    "niches": ["esports-highlights"]
+  },
+  {
+    "title": "[Player] Goes NUCLEAR - [Tournament] Highlight Montage",
+    "description": "Choose a standout player performance for [Player] and major tournament for [Tournament]. Create an epic montage of their dominant performance with multiple POVs, team reactions, and caster commentary overlays.",
+    "tags": ["player-highlights", "montage", "tournament", "dominant", "nuclear"],
+    "niches": ["esports-highlights"]
+  },
+  {
+    "title": "When [Team] Pulled Off the IMPOSSIBLE - [Match] Breakdown",
+    "description": "Select a team and specific match where they achieved something incredible like a reverse sweep or perfect game. Break down key moments with detailed analysis of how they executed the seemingly impossible comeback or strategy.",
+    "tags": ["impossible", "comeback", "team-play", "breakdown", "epic"],
+    "niches": ["esports-highlights"]
+  },
+  {
+    "title": "TOP 10 [Ability/Weapon] Plays That BROKE THE INTERNET",
+    "description": "Replace [Ability/Weapon] with a specific game mechanic, weapon, or character ability. Showcase the most creative and skillful uses of this element that went viral and amazed the gaming community.",
+    "tags": ["top-10", "viral", "creative", "skillful", "internet"],
+    "niches": ["esports-highlights"]
+  },
+  {
+    "title": "[Region] vs [Region] - Best Moments From [Tournament]",
+    "description": "Choose two competing regions and a specific tournament. Compile the most intense moments, cultural clashes, and spectacular plays that defined the rivalry and tournament narrative.",
+    "tags": ["regions", "rivalry", "tournament", "intense", "cultural"],
+    "niches": ["esports-highlights"]
+  },
+  {
+    "title": "Rookie [Player] SHOCKS Everyone - Debut Highlight Reel",
+    "description": "Feature a rookie player making their professional debut with [Player]. Show their best plays, first tournament performance, veteran reactions, and moments that announced their arrival to the competitive scene.",
+    "tags": ["rookie", "debut", "shocking", "first-time", "breakthrough"],
+    "niches": ["esports-highlights"]
+  },
+  {
+    "title": "[Game] Physics DEFYING Moments - Glitches & Exploits",
+    "description": "Select a competitive game and showcase moments where players used or encountered game physics in unexpected ways. Include legitimate exploits, funny glitches, and game-breaking moments from professional matches.",
+    "tags": ["physics", "glitches", "exploits", "unexpected", "game-breaking"],
+    "niches": ["esports-highlights"]
+  },
+  {
+    "title": "LEGENDARY [Position] Plays - [Game] Hall of Fame",
+    "description": "Choose a specific role/position and game to create a hall of fame compilation. Feature the greatest players in that role performing iconic plays that defined their position and inspired countless others.",
+    "tags": ["legendary", "position", "hall-of-fame", "iconic", "inspiring"],
+    "niches": ["esports-highlights"]
+  },
+  {
+    "title": "Casters LOSE THEIR MINDS - Most Hype [Game] Moments",
+    "description": "Replace [Game] with an esports title and focus on moments that made commentators go absolutely crazy. Include multiple language commentary, crowd reactions, and the plays that generated the most excitement.",
+    "tags": ["casters", "hype", "commentary", "excitement", "reactions"],
+    "niches": ["esports-highlights"]
+  },
+  {
+    "title": "[Game] World Championship - EVERY Championship Point",
+    "description": "Create a compilation of every championship-winning moment from [Game]'s world championship history. Show the final plays, trophy ceremonies, player emotions, and what made each championship special.",
+    "tags": ["championship", "winning-moments", "trophy", "emotions", "history"],
+    "niches": ["esports-highlights"]
+  },
+  {
+    "title": "When [Strategy] DOMINATED - Meta Highlight Evolution",
+    "description": "Choose a game-changing strategy or meta shift and show its evolution through highlights. Document how teams adapted, countered, and evolved the strategy through various tournament matches.",
+    "tags": ["strategy", "meta", "evolution", "adaptation", "dominance"],
+    "niches": ["esports-highlights"]
+  },
+  {
+    "title": "[Player] vs [Player] - Epic INDIVIDUAL Rivalry Moments",
+    "description": "Select two players with a notable rivalry and compile their best head-to-head moments. Include direct confrontations, clutch plays against each other, and defining moments in their competitive relationship.",
+    "tags": ["rivalry", "individual", "head-to-head", "confrontation", "defining"],
+    "niches": ["esports-highlights"]
+  },
+  {
+    "title": "FASTEST [Achievement] in [Game] History - Speed Records",
+    "description": "Replace [Achievement] with a specific in-game accomplishment and showcase the fastest times or most efficient executions in professional play. Include reaction times, speedrun-style moments, and record-breaking performances.",
+    "tags": ["fastest", "records", "speed", "efficiency", "record-breaking"],
+    "niches": ["esports-highlights"]
+  },
+  {
+    "title": "[Team]'s Perfect Season - Every Winning Moment",
+    "description": "Document a team's flawless tournament run or season with [Team]. Show key moments from each victory, building momentum, and the culmination of their perfect record achievement.",
+    "tags": ["perfect-season", "undefeated", "winning", "momentum", "flawless"],
+    "niches": ["esports-highlights"]
+  },
+  {
+    "title": "Most DISRESPECTFUL [Game] Plays - BM Hall of Shame",
+    "description": "Compile the most audacious bad manner (BM) plays, taunts, and disrespectful moments from competitive [Game] matches. Include community reactions and whether the disrespect backfired or paid off.",
+    "tags": ["disrespectful", "BM", "taunts", "audacious", "backfire"],
+    "niches": ["esports-highlights"]
+  },
+  {
+    "title": "[Game] Underdog Stories - David vs Goliath Moments",
+    "description": "Showcase the greatest underdog victories in competitive gaming. Feature unknown teams beating champions, qualifier teams making deep runs, and moments where skill overcame reputation and resources.",
+    "tags": ["underdog", "david-goliath", "unknown", "upsets", "skill"],
+    "niches": ["esports-highlights"]
+  },
+  {
+    "title": "GAME-CHANGING [Patch/Update] - Before & After Highlights",
+    "description": "Show how a major game update changed competitive play by comparing highlights from before and after the patch. Demonstrate new strategies, nerfed/buffed elements, and adaptation periods.",
+    "tags": ["game-changing", "patch", "before-after", "adaptation", "update"],
+    "niches": ["esports-highlights"]
+  },
+  {
+    "title": "[Tournament] FINAL BOSS Moments - Clutch Championship Plays",
+    "description": "Compile the most pressure-filled championship moments from a major tournament. Focus on game-winning plays, championship points, and performances when everything was on the line.",
+    "tags": ["final-boss", "clutch", "championship", "pressure", "game-winning"],
+    "niches": ["esports-highlights"]
+  }
+]

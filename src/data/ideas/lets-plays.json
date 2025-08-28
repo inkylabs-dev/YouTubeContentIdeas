@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "First Time Playing [Game Title]: Blind Playthrough and Reactions",
+    "description": "Create authentic first-time gaming experiences with genuine reactions. Replace the placeholder with any popular or interesting game title. Include initial thoughts, learning curve documentation, and honest reactions to story twists and gameplay mechanics.",
+    "tags": ["gaming", "first-time", "blind-playthrough", "reactions", "authentic"],
+    "niches": ["lets-plays"]
+  },
+  {
+    "title": "[Game Genre] Challenge: Completing [Game] with [Restriction]",
+    "description": "Add unique challenges and restrictions to gameplay. Replace placeholders with combinations like 'RPG Challenge: Completing Skyrim with Only Magic' or 'Racing Challenge: Gran Turismo with No Upgrades.' Include challenge rules and difficulty progression.",
+    "tags": ["gaming", "challenge", "restriction", "difficulty", "creative"],
+    "niches": ["lets-plays"]
+  },
+  {
+    "title": "[Number] Games in [Time Period]: Gaming Marathon for [Cause/Theme]",
+    "description": "Create gaming marathons with specific themes or charitable causes. Replace placeholders with combinations like '10 Games in 24 Hours: Charity Gaming Marathon' or '5 Horror Games in One Night.' Include schedule, donation goals, and viewer interaction.",
+    "tags": ["gaming", "marathon", "challenge", "charity", "endurance"],
+    "niches": ["lets-plays"]
+  },
+  {
+    "title": "Retro Gaming: Revisiting [Classic Game] After [Number] Years",
+    "description": "Explore classic games with modern perspective and nostalgia. Replace placeholders with combinations like 'Revisiting Super Mario 64 After 25 Years' or 'Classic Zelda Games: Do They Hold Up?' Include historical context and modern gaming comparisons.",
+    "tags": ["gaming", "retro", "nostalgia", "classic", "comparison"],
+    "niches": ["lets-plays"]
+  },
+  {
+    "title": "Co-op Adventure: Playing [Game] with [Partner/Friend]",
+    "description": "Feature collaborative gaming experiences with friends or family. Replace placeholders with any co-op game and gaming partner. Include teamwork dynamics, communication, funny moments, and relationship building through gaming.",
+    "tags": ["gaming", "co-op", "multiplayer", "collaboration", "friendship"],
+    "niches": ["lets-plays"]
+  },
+  {
+    "title": "Speedrun Attempt: Trying to Beat [Game] in [Time Goal]",
+    "description": "Document speedrunning attempts and improvements. Replace placeholders with specific games and time goals like 'Trying to Beat Portal in Under 30 Minutes.' Include strategy explanations, failed attempts, and personal best tracking.",
+    "tags": ["gaming", "speedrun", "challenge", "competition", "improvement"],
+    "niches": ["lets-plays"]
+  },
+  {
+    "title": "[Game Series] Journey: Playing Every Game from [Franchise]",
+    "description": "Create series exploring entire game franchises chronologically. Replace placeholders with series like 'Final Fantasy Journey' or 'Assassin's Creed Marathon.' Include evolution analysis, story connections, and gameplay improvements.",
+    "tags": ["gaming", "series", "franchise", "chronological", "analysis"],
+    "niches": ["lets-plays"]
+  },
+  {
+    "title": "Community Choice: You Decide My Actions in [Game]",
+    "description": "Let viewers control gameplay decisions and character actions. Replace the placeholder with any game that offers choices or customization. Include voting systems, decision explanations, and consequence discussions.",
+    "tags": ["gaming", "interactive", "community", "decisions", "viewer-control"],
+    "niches": ["lets-plays"]
+  },
+  {
+    "title": "Hidden Gems: Discovering [Underrated Game] and Why It's Amazing",
+    "description": "Showcase lesser-known games that deserve more attention. Replace the placeholder with underrated or indie games. Include discovery process, what makes it special, and recommendations for similar titles.",
+    "tags": ["gaming", "hidden-gems", "indie", "discovery", "recommendation"],
+    "niches": ["lets-plays"]
+  },
+  {
+    "title": "Rage Quit or Push Through: Tackling [Difficult Game/Level]",
+    "description": "Document struggles with particularly challenging games or sections. Replace the placeholder with notoriously difficult games like 'Dark Souls,' 'Cuphead,' or specific challenging levels. Include frustration, perseverance, and eventual success.",
+    "tags": ["gaming", "difficult", "challenge", "perseverance", "rage"],
+    "niches": ["lets-plays"]
+  },
+  {
+    "title": "[Game] Mods and Mayhem: Custom Content Adventures",
+    "description": "Explore user-created modifications and custom content. Replace the placeholder with moddable games like 'Minecraft,' 'Skyrim,' or 'Cities: Skylines.' Include mod installation, gameplay changes, and community creations.",
+    "tags": ["gaming", "mods", "custom-content", "community", "creative"],
+    "niches": ["lets-plays"]
+  },
+  {
+    "title": "Gaming Evolution: How [Game Mechanic/Genre] Has Changed Over Time",
+    "description": "Analyze gaming evolution through specific mechanics or genres. Replace the placeholder with elements like 'Open World Design,' 'RPG Systems,' or 'Fighting Game Mechanics.' Include historical examples and modern implementations.",
+    "tags": ["gaming", "evolution", "analysis", "history", "mechanics"],
+    "niches": ["lets-plays"]
+  },
+  {
+    "title": "[Platform] Exclusive: Exploring [Game] You Can Only Play Here",
+    "description": "Highlight platform-exclusive games and their unique features. Replace placeholders with platform-exclusive combinations like 'PlayStation Exclusive: The Last of Us' or 'Nintendo Switch: Breath of the Wild.' Include platform-specific features.",
+    "tags": ["gaming", "exclusive", "platform", "unique", "features"],
+    "niches": ["lets-plays"]
+  },
+  {
+    "title": "Gaming Skills Test: Can I Beat [Game] Without [Common Strategy]?",
+    "description": "Test gaming skills by removing common strategies or tools. Replace placeholders with combinations like 'Can I Beat Zelda Without a Map?' or 'Finishing RPG Without Leveling Up.' Include skill adaptation and creative solutions.",
+    "tags": ["gaming", "skill-test", "challenge", "adaptation", "creativity"],
+    "niches": ["lets-plays"]
+  },
+  {
+    "title": "Story Focus: Experiencing [Narrative Game] for the Emotional Journey",
+    "description": "Focus on story-driven games and emotional experiences. Replace the placeholder with narrative-heavy games like 'Life is Strange,' 'What Remains of Edith Finch,' or 'The Walking Dead.' Include emotional reactions and story analysis.",
+    "tags": ["gaming", "story", "narrative", "emotional", "experience"],
+    "niches": ["lets-plays"]
+  },
+  {
+    "title": "VR Gaming Experience: First Time in [VR Game/World]",
+    "description": "Document virtual reality gaming experiences and immersion. Replace the placeholder with VR games or experiences. Include setup process, motion sickness discussions, immersion levels, and unique VR mechanics.",
+    "tags": ["gaming", "VR", "virtual-reality", "immersion", "technology"],
+    "niches": ["lets-plays"]
+  },
+  {
+    "title": "Gaming with [Family Member/Pet]: Wholesome Gaming Moments",
+    "description": "Feature gaming experiences with family members or pets. Replace the placeholder with specific family relationships like 'Gaming with Grandma' or 'My Cat Plays Video Games.' Include heartwarming moments and generational gaming gaps.",
+    "tags": ["gaming", "family", "wholesome", "relationships", "heartwarming"],
+    "niches": ["lets-plays"]
+  },
+  {
+    "title": "[Game] Secrets and Easter Eggs: Hidden Content Exploration",
+    "description": "Discover and showcase hidden content, secrets, and easter eggs in games. Replace the placeholder with games known for hidden content. Include discovery methods, secret locations, developer references, and community findings.",
+    "tags": ["gaming", "secrets", "easter-eggs", "exploration", "hidden"],
+    "niches": ["lets-plays"]
+  }
+]

@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Genre] Karaoke Night: Best [Decade] Songs to Sing Along",
+    "description": "Curate themed karaoke playlists for different genres and eras. Replace placeholders with combinations like 'Rock Karaoke Night: Best 80s Songs' or 'Pop Karaoke: 2000s Hits.' Include song difficulty ratings, vocal tips, and crowd-pleasing recommendations.",
+    "tags": ["karaoke", "music", "singing", "playlist", "entertainment"],
+    "niches": ["karaoke"]
+  },
+  {
+    "title": "Karaoke for Beginners: How to Sing [Popular Song] with Confidence",
+    "description": "Teach popular songs with beginner-friendly vocal coaching. Replace the placeholder with accessible songs like 'Don't Stop Believin',' 'Sweet Caroline,' or 'Bohemian Rhapsody.' Include breathing techniques, key changes, and confidence tips.",
+    "tags": ["karaoke", "beginner", "vocal-coaching", "confidence", "tutorial"],
+    "niches": ["karaoke"]
+  },
+  {
+    "title": "[Number] Karaoke Songs That Always Get the Crowd Going",
+    "description": "Share guaranteed crowd-pleasers for karaoke nights. Replace the placeholder with numbers like '10' or '15.' Include sing-along anthems, group participation songs, and audience engagement techniques.",
+    "tags": ["karaoke", "crowd-pleasers", "party", "engagement", "fun"],
+    "niches": ["karaoke"]
+  },
+  {
+    "title": "Duet Challenge: Best [Relationship Type] Songs for Two Voices",
+    "description": "Highlight great duet options for different relationships. Replace the placeholder with relationship types like 'Romantic,' 'Friendship,' 'Parent-Child,' or 'Sibling.' Include harmony tips and song recommendations.",
+    "tags": ["karaoke", "duets", "harmony", "relationships", "collaboration"],
+    "niches": ["karaoke"]
+  },
+  {
+    "title": "Vocal Warm-ups for Karaoke: Preparing Your Voice for [Event Type]",
+    "description": "Provide vocal preparation routines for different karaoke settings. Replace the placeholder with event types like 'Competition,' 'Party,' or 'Date Night.' Include breathing exercises, scales, and throat care tips.",
+    "tags": ["karaoke", "vocal-warm-ups", "preparation", "voice-care", "technique"],
+    "niches": ["karaoke"]
+  },
+  {
+    "title": "Karaoke Song Breakdown: Mastering [Difficult Song] Step by Step",
+    "description": "Break down challenging songs into manageable parts. Replace the placeholder with technically demanding songs like 'Bohemian Rhapsody,' 'I Will Always Love You,' or 'Don't Stop Me Now.' Include practice techniques and performance tips.",
+    "tags": ["karaoke", "challenging-songs", "breakdown", "technique", "mastery"],
+    "niches": ["karaoke"]
+  },
+  {
+    "title": "[Language] Karaoke: Popular Songs to Sing in [Foreign Language]",
+    "description": "Explore karaoke in different languages. Replace placeholders with combinations like 'Spanish Karaoke: Popular Songs to Sing in Spanish' or 'Japanese Anime Songs for Karaoke.' Include pronunciation guides and cultural context.",
+    "tags": ["karaoke", "multilingual", "foreign-language", "culture", "diversity"],
+    "niches": ["karaoke"]
+  },
+  {
+    "title": "Home Karaoke Setup: Creating the Perfect [Budget Level] System",
+    "description": "Guide viewers through setting up home karaoke systems. Replace the placeholder with budget levels like 'Budget,' 'Mid-Range,' or 'Professional.' Include equipment recommendations, room setup, and software options.",
+    "tags": ["karaoke", "home-setup", "equipment", "technology", "DIY"],
+    "niches": ["karaoke"]
+  },
+  {
+    "title": "Karaoke Fails and Wins: What NOT to Sing at [Event Type]",
+    "description": "Share karaoke etiquette and song selection advice. Replace the placeholder with event types like 'Work Parties,' 'First Dates,' or 'Family Gatherings.' Include alternative suggestions and crowd-reading tips.",
+    "tags": ["karaoke", "etiquette", "song-selection", "social-tips", "advice"],
+    "niches": ["karaoke"]
+  },
+  {
+    "title": "Karaoke Competition Prep: Training to Win [Competition Type]",
+    "description": "Prepare viewers for karaoke competitions. Replace the placeholder with competition types like 'Local Bar Competitions,' 'Corporate Events,' or 'Talent Shows.' Include song strategy, stage presence, and vocal training tips.",
+    "tags": ["karaoke", "competition", "preparation", "winning", "strategy"],
+    "niches": ["karaoke"]
+  },
+  {
+    "title": "[Artist Name] Karaoke Marathon: Singing Their Greatest Hits",
+    "description": "Create artist-focused karaoke sessions featuring their catalog. Replace the placeholder with popular artists like 'Queen,' 'Taylor Swift,' 'Elvis,' or 'Madonna.' Include biographical context and song difficulty progression.",
+    "tags": ["karaoke", "artist-tribute", "greatest-hits", "marathon", "biography"],
+    "niches": ["karaoke"]
+  },
+  {
+    "title": "Seasonal Karaoke: [Season/Holiday] Songs Perfect for Any Gathering",
+    "description": "Curate seasonal and holiday karaoke playlists. Replace the placeholder with seasons or holidays like 'Christmas,' 'Summer,' 'Halloween,' or 'New Year's.' Include themed decorations and costume ideas.",
+    "tags": ["karaoke", "seasonal", "holiday", "themed", "celebration"],
+    "niches": ["karaoke"]
+  },
+  {
+    "title": "Shy Singer's Guide: Building Confidence for [Venue Type] Karaoke",
+    "description": "Help introverted people enjoy karaoke. Replace the placeholder with venue types like 'Private Rooms,' 'Bar Settings,' or 'House Parties.' Include confidence-building exercises and song recommendations for beginners.",
+    "tags": ["karaoke", "shy-singers", "confidence", "introvert", "comfort"],
+    "niches": ["karaoke"]
+  },
+  {
+    "title": "Karaoke DJ Tips: How to Host an Amazing [Group Size] Party",
+    "description": "Provide hosting advice for karaoke events. Replace the placeholder with group sizes like 'Small,' 'Large,' or 'Corporate.' Include song rotation strategies, crowd management, and equipment operation tips.",
+    "tags": ["karaoke", "hosting", "DJ-tips", "party-planning", "management"],
+    "niches": ["karaoke"]
+  },
+  {
+    "title": "[Age Group] Karaoke: Songs Every [Generation] Should Know",
+    "description": "Create age-appropriate karaoke content for different generations. Replace placeholders with combinations like 'Kids Karaoke: Songs Every Child Should Know' or 'Senior Karaoke: Classic Hits for Older Adults.'",
+    "tags": ["karaoke", "age-appropriate", "generational", "classics", "nostalgia"],
+    "niches": ["karaoke"]
+  },
+  {
+    "title": "Karaoke Voice Training: Improving Your [Vocal Aspect] in [Time Frame]",
+    "description": "Offer targeted vocal improvement for karaoke performers. Replace placeholders with combinations like 'Improving Your Range in 30 Days' or 'Better Breathing Techniques in One Week.' Include exercises and progress tracking.",
+    "tags": ["karaoke", "voice-training", "improvement", "exercises", "development"],
+    "niches": ["karaoke"]
+  },
+  {
+    "title": "Technology Review: [Karaoke App/Device] Complete Guide and Demo",
+    "description": "Review karaoke technology and applications. Replace the placeholder with apps or devices like 'Smule,' 'Singa,' 'Karaoke-Mugen,' or specific karaoke machines. Include features, pricing, and user experience comparisons.",
+    "tags": ["karaoke", "technology", "app-review", "equipment", "comparison"],
+    "niches": ["karaoke"]
+  },
+  {
+    "title": "Cultural Karaoke: Understanding [Country]'s Karaoke Traditions and Songs",
+    "description": "Explore karaoke cultures from around the world. Replace the placeholder with countries like 'Japan,' 'South Korea,' 'Philippines,' or 'United Kingdom.' Include cultural context, popular local songs, and etiquette differences.",
+    "tags": ["karaoke", "culture", "international", "traditions", "global"],
+    "niches": ["karaoke"]
+  }
+]

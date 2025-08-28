@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Number] Ingredient [Dish Type] That Will Change Your Mind",
+    "description": "Create delicious meals using minimal ingredients to prove that simple can be spectacular. Expand by showing ingredient substitutions, cost breakdowns, and flavor enhancement techniques.",
+    "tags": ["simple recipes", "minimalist cooking", "budget meals", "easy recipes", "ingredient focus"],
+    "niches": ["food"]
+  },
+  {
+    "title": "Trying [Cuisine] Food for [Time Period] - Cultural Food Challenge",
+    "description": "Immerse yourself in a specific cuisine for an extended period, exploring authentic recipes and ingredients. Expand by visiting cultural markets, interviewing community members, and learning cooking techniques.",
+    "tags": ["cultural food", "food challenge", "international cuisine", "cooking adventure", "cultural exploration"],
+    "niches": ["food"]
+  },
+  {
+    "title": "Professional Chef Reacts to [Popular Food Trend/Recipe]",
+    "description": "Have experienced chefs critique and improve popular food trends or viral recipes. Expand by demonstrating proper techniques, explaining food science, and offering professional tips.",
+    "tags": ["chef reaction", "professional cooking", "food trends", "cooking tips", "culinary expertise"],
+    "niches": ["food"]
+  },
+  {
+    "title": "Making [Expensive Dish] at Home for Under [Budget]",
+    "description": "Recreate expensive restaurant dishes at home using budget-friendly ingredients and techniques. Expand by comparing costs, showing ingredient swaps, and achieving similar flavors.",
+    "tags": ["budget cooking", "restaurant recipes", "copycat recipes", "frugal cooking", "home cooking"],
+    "niches": ["food"]
+  },
+  {
+    "title": "[Time Period] Meal Prep: Healthy Meals for the Entire [Week/Month]",
+    "description": "Plan, prepare, and store complete meal plans for extended periods with variety and nutrition in mind. Expand by including shopping lists, storage tips, and reheating instructions.",
+    "tags": ["meal prep", "healthy eating", "meal planning", "batch cooking", "nutrition"],
+    "niches": ["food"]
+  },
+  {
+    "title": "Turning [Basic Ingredient] Into [Number] Different Meals",
+    "description": "Demonstrate the versatility of common ingredients by creating multiple distinct dishes. Expand by showing different cooking methods, flavor profiles, and cultural variations.",
+    "tags": ["versatile ingredients", "creative cooking", "food transformation", "cooking techniques", "ingredient spotlight"],
+    "niches": ["food"]
+  },
+  {
+    "title": "Street Food Tour: Making [Country/City] Classics at Home",
+    "description": "Recreate authentic street food from different locations with traditional recipes and techniques. Expand by sharing cultural context, ingredient sourcing, and presentation tips.",
+    "tags": ["street food", "international recipes", "cultural cooking", "authentic recipes", "global cuisine"],
+    "niches": ["food"]
+  },
+  {
+    "title": "Baking Without [Common Ingredient]: [Number] Delicious Alternatives",
+    "description": "Show how to bake successfully while accommodating dietary restrictions or ingredient limitations. Expand by explaining substitution science, texture differences, and flavor adjustments.",
+    "tags": ["alternative baking", "dietary restrictions", "baking substitutions", "inclusive cooking", "creative baking"],
+    "niches": ["food"]
+  },
+  {
+    "title": "Gordon Ramsay Recipe vs My Version: Can I Do It Better?",
+    "description": "Attempt to recreate and improve upon celebrity chef recipes with personal twists. Expand by analyzing techniques, comparing results, and explaining modifications.",
+    "tags": ["celebrity chef", "recipe challenge", "cooking competition", "recipe recreation", "culinary skills"],
+    "niches": ["food"]
+  },
+  {
+    "title": "Growing and Cooking [Ingredient] From Seed to Plate",
+    "description": "Document the complete journey from growing ingredients to cooking with them. Expand by showing gardening tips, harvest timing, and fresh ingredient benefits.",
+    "tags": ["garden to table", "growing food", "fresh ingredients", "sustainable cooking", "homegrown"],
+    "niches": ["food"]
+  },
+  {
+    "title": "Fermentation Basics: Making [Fermented Food] at Home",
+    "description": "Guide viewers through fermentation processes with safety tips and troubleshooting. Expand by explaining fermentation science, health benefits, and flavor development.",
+    "tags": ["fermentation", "food preservation", "probiotics", "traditional cooking", "food science"],
+    "niches": ["food"]
+  },
+  {
+    "title": "[Cooking Method] Everything: [Number] Dishes, One Technique",
+    "description": "Explore the versatility of specific cooking methods by applying them to various dishes. Expand by explaining technique principles, equipment needs, and optimal ingredients.",
+    "tags": ["cooking techniques", "culinary methods", "versatile cooking", "kitchen skills", "technique focus"],
+    "niches": ["food"]
+  },
+  {
+    "title": "Recreating Childhood Favorites: Elevated [Nostalgic Food]",
+    "description": "Take beloved childhood foods and elevate them with adult palates and techniques. Expand by sharing memories, improving nutrition, and maintaining nostalgic elements.",
+    "tags": ["nostalgic food", "childhood favorites", "elevated classics", "comfort food", "food memories"],
+    "niches": ["food"]
+  },
+  {
+    "title": "Cooking With Leftovers: [Number] Meals From Yesterday's Dinner",
+    "description": "Transform leftovers into exciting new meals to reduce waste and maximize ingredients. Expand by showing storage tips, flavor enhancement, and creative combinations.",
+    "tags": ["leftover recipes", "food waste reduction", "creative cooking", "budget meals", "meal transformation"],
+    "niches": ["food"]
+  },
+  {
+    "title": "Mystery Box Challenge: Making [Meal Type] With Random Ingredients",
+    "description": "Create cohesive meals using unexpected ingredient combinations with creativity and skill. Expand by explaining flavor pairing principles, improvisation techniques, and presentation ideas.",
+    "tags": ["mystery box", "cooking challenge", "creative cooking", "improvisation", "culinary creativity"],
+    "niches": ["food"]
+  },
+  {
+    "title": "Food Science Explained: Why [Cooking Technique] Works",
+    "description": "Break down the science behind cooking techniques to help viewers understand and improve their cooking. Expand by demonstrating experiments, comparing methods, and sharing practical applications.",
+    "tags": ["food science", "cooking education", "culinary techniques", "cooking theory", "kitchen chemistry"],
+    "niches": ["food"]
+  },
+  {
+    "title": "Seasonal Cooking: [Season] Ingredients at Their Peak",
+    "description": "Showcase seasonal ingredients at their best with recipes that highlight natural flavors. Expand by discussing nutrition benefits, storage tips, and preservation methods.",
+    "tags": ["seasonal cooking", "fresh ingredients", "seasonal produce", "natural flavors", "sustainable eating"],
+    "niches": ["food"]
+  },
+  {
+    "title": "Kitchen Gadget Test: Is [Expensive Kitchen Tool] Worth It?",
+    "description": "Test expensive or trendy kitchen tools against traditional methods to determine value. Expand by showing multiple uses, comparing results, and discussing cost-benefit analysis.",
+    "tags": ["kitchen gadgets", "cooking tools", "product review", "kitchen equipment", "cooking efficiency"],
+    "niches": ["food"]
+  }
+]

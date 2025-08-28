@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "Building the Ultimate [Budget] Gaming PC - Complete Build Guide",
+    "description": "Create comprehensive PC build guides for specific budget ranges, including part selection reasoning, compatibility checks, assembly process, and performance benchmarks. Show value optimization and future upgrade paths.",
+    "tags": ["gaming-pc", "budget", "build-guide", "performance", "value-optimization"],
+    "niches": ["hardware-builds"]
+  },
+  {
+    "title": "[CPU] vs [CPU] - Gaming Performance Showdown",
+    "description": "Compare different processors across multiple gaming scenarios, applications, and price points. Include benchmark results, power consumption, and recommendations for different use cases and budgets.",
+    "tags": ["CPU", "comparison", "gaming", "benchmarks", "recommendations"],
+    "niches": ["hardware-builds"]
+  },
+  {
+    "title": "Graphics Card Tier List [Year] - Best GPUs for Every Budget",
+    "description": "Rank current graphics cards from budget to high-end, analyzing price-to-performance ratios, feature sets, and suitability for different gaming resolutions and requirements.",
+    "tags": ["graphics-cards", "tier-list", "price-performance", "resolutions", "features"],
+    "niches": ["hardware-builds"]
+  },
+  {
+    "title": "Custom Loop Water Cooling Build - [Theme] PC Project",
+    "description": "Document advanced custom water cooling builds with specific themes or aesthetic goals. Cover planning, component selection, installation challenges, and performance results.",
+    "tags": ["water-cooling", "custom-loop", "advanced", "aesthetics", "performance"],
+    "niches": ["hardware-builds"]
+  },
+  {
+    "title": "Small Form Factor Build - Powerful PC in [Case Size]",
+    "description": "Show how to build high-performance systems in compact cases, addressing thermal challenges, component compatibility, and space optimization while maintaining performance.",
+    "tags": ["small-form-factor", "compact", "thermal-challenges", "space-optimization", "compatibility"],
+    "niches": ["hardware-builds"]
+  },
+  {
+    "title": "[Component] Upgrade Guide - Is It Worth Upgrading?",
+    "description": "Analyze when and how to upgrade specific PC components, including performance gains, compatibility considerations, and cost-effectiveness versus building new systems.",
+    "tags": ["upgrades", "performance-gains", "compatibility", "cost-effectiveness", "worth-it"],
+    "niches": ["hardware-builds"]
+  },
+  {
+    "title": "RGB Lighting Setup - Creating [Theme] Aesthetic",
+    "description": "Design and implement comprehensive RGB lighting setups with specific color themes or aesthetic goals. Include software control, synchronization, and creative lighting effects.",
+    "tags": ["RGB", "lighting", "aesthetics", "themes", "synchronization"],
+    "niches": ["hardware-builds"]
+  },
+  {
+    "title": "Workstation Build - [Professional Use] PC Configuration",
+    "description": "Build PCs optimized for specific professional workloads like video editing, 3D rendering, streaming, or content creation. Focus on workflow optimization and professional features.",
+    "tags": ["workstation", "professional", "workflow", "content-creation", "optimization"],
+    "niches": ["hardware-builds"]
+  },
+  {
+    "title": "Cable Management Masterclass - Clean Build Techniques",
+    "description": "Demonstrate professional cable management techniques, including routing strategies, tools, and methods to achieve clean, organized builds that improve airflow and aesthetics.",
+    "tags": ["cable-management", "clean-builds", "routing", "airflow", "organization"],
+    "niches": ["hardware-builds"]
+  },
+  {
+    "title": "[Storage Type] Deep Dive - SSD vs HDD vs NVMe Performance",
+    "description": "Compare different storage technologies, including performance benchmarks, use case recommendations, and how storage affects gaming, productivity, and system responsiveness.",
+    "tags": ["storage", "SSD", "HDD", "NVMe", "performance-comparison"],
+    "niches": ["hardware-builds"]
+  },
+  {
+    "title": "Motherboard Features Guide - What Actually Matters?",
+    "description": "Explain motherboard features, chipset differences, and which specifications actually impact performance versus marketing features. Help viewers choose appropriate motherboards for their needs.",
+    "tags": ["motherboards", "features", "chipsets", "specifications", "marketing"],
+    "niches": ["hardware-builds"]
+  },
+  {
+    "title": "Power Supply Guide - Don't Cheap Out on [Wattage] PSU",
+    "description": "Educate about PSU importance, efficiency ratings, modular vs non-modular designs, and how to calculate power requirements. Emphasize quality over price savings.",
+    "tags": ["power-supply", "PSU", "efficiency", "modular", "quality"],
+    "niches": ["hardware-builds"]
+  },
+  {
+    "title": "Building in [Unique Case] - Challenges and Solutions",
+    "description": "Build systems in unusual or challenging cases, documenting unique problems and creative solutions. Show how different case designs affect building experience and performance.",
+    "tags": ["unique-cases", "challenges", "solutions", "creative", "case-design"],
+    "niches": ["hardware-builds"]
+  },
+  {
+    "title": "[RAM] Speed Testing - Does RAM Speed Actually Matter?",
+    "description": "Test different RAM speeds and timings across various applications and games. Show real-world performance impacts and help viewers understand when faster RAM is worthwhile.",
+    "tags": ["RAM", "memory", "speed", "timings", "performance-impact"],
+    "niches": ["hardware-builds"]
+  },
+  {
+    "title": "Troubleshooting PC Build Problems - Common Issues and Fixes",
+    "description": "Address common PC building problems, diagnostic techniques, and step-by-step troubleshooting methods. Help viewers solve issues like boot failures, compatibility problems, and performance issues.",
+    "tags": ["troubleshooting", "problems", "diagnostic", "boot-failures", "compatibility"],
+    "niches": ["hardware-builds"]
+  },
+  {
+    "title": "Future-Proof Build Strategy - PC That Lasts [Years]",
+    "description": "Plan PC builds with longevity in mind, discussing component selection strategies, upgrade paths, and technology trends that affect long-term usability and performance.",
+    "tags": ["future-proof", "longevity", "upgrade-paths", "technology-trends", "long-term"],
+    "niches": ["hardware-builds"]
+  },
+  {
+    "title": "[Brand] vs [Brand] - Component Quality Comparison",
+    "description": "Compare different manufacturers for specific component categories, analyzing build quality, warranty, customer service, and real-world reliability differences.",
+    "tags": ["brand-comparison", "quality", "warranty", "reliability", "manufacturers"],
+    "niches": ["hardware-builds"]
+  },
+  {
+    "title": "Extreme Build Challenge - [Unusual Constraint] PC Build",
+    "description": "Take on unusual building challenges like extremely limited budgets, specific size constraints, or unusual requirements. Show creative problem-solving and alternative approaches.",
+    "tags": ["extreme", "challenge", "constraints", "creative", "alternative-approaches"],
+    "niches": ["hardware-builds"]
+  }
+]

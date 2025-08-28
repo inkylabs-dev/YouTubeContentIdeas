@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Medium] Speed Painting: Creating [Subject] in [Time Limit]",
+    "description": "Create engaging time-lapse videos of painting or drawing processes from start to finish. Show technique progression, color mixing, composition decisions, and final touches. Include commentary about artistic choices and problem-solving during creation. Vary subjects and mediums to demonstrate versatility.",
+    "tags": ["speed painting", "time-lapse art", "painting techniques", "artistic process", "visual creation"],
+    "niches": ["drawing-painting"]
+  },
+  {
+    "title": "[Art Style] Tutorial: Master [Technique] in [Number] Steps",
+    "description": "Provide structured art education covering specific techniques, styles, or skills. Break down complex processes into manageable steps with clear explanations and demonstrations. Include practice exercises, common mistakes, and ways to develop personal artistic style.",
+    "tags": ["art tutorial", "technique instruction", "skill development", "art education", "step-by-step guide"],
+    "niches": ["drawing-painting"]
+  },
+  {
+    "title": "Challenge Series: [Number] Days of [Art Prompt] Paintings",
+    "description": "Document intensive art creation challenges with daily paintings or drawings around specific themes. Show artistic growth, creative problem-solving, and style development over time. Include daily reflections, viewer feedback integration, and final collection showcase.",
+    "tags": ["art challenge", "daily practice", "artistic growth", "creative discipline", "skill progression"],
+    "niches": ["drawing-painting"]
+  },
+  {
+    "title": "Art Supply Review: Testing [Brand] [Medium] for [Art Style]",
+    "description": "Review and test various art supplies including paints, brushes, papers, and tools. Compare quality, performance, price points, and suitability for different techniques. Include side-by-side comparisons and real artwork creation to demonstrate differences.",
+    "tags": ["art supplies", "product review", "material testing", "art tools", "buying guide"],
+    "niches": ["drawing-painting"]
+  },
+  {
+    "title": "Master Study: Recreating [Famous Artist]'s [Painting] Technique",
+    "description": "Analyze and recreate masterworks to understand classical techniques and artistic approaches. Research historical context, examine brushwork, study composition, and explain artistic choices. Include modern interpretations and personal artistic insights.",
+    "tags": ["master study", "art history", "technique analysis", "classical art", "artistic education"],
+    "niches": ["drawing-painting"]
+  },
+  {
+    "title": "[Portrait/Landscape] from Life: Plein Air Painting Experience",
+    "description": "Document outdoor painting sessions capturing real subjects, landscapes, or urban scenes. Show challenges of changing light, weather conditions, and working with live subjects. Include location scouting, setup process, and adaptation techniques.",
+    "tags": ["plein air", "outdoor painting", "live subjects", "natural light", "location painting"],
+    "niches": ["drawing-painting"]
+  },
+  {
+    "title": "Art Mistakes and Fixes: Salvaging [Problem] in [Medium]",
+    "description": "Address common painting and drawing mistakes with practical solutions and recovery techniques. Show how to turn errors into creative opportunities and when to start over. Include prevention strategies and learning from artistic failures.",
+    "tags": ["art problems", "mistake correction", "problem solving", "artistic recovery", "learning from failure"],
+    "niches": ["drawing-painting"]
+  },
+  {
+    "title": "Color Theory in Action: Painting [Subject] with [Color Scheme]",
+    "description": "Demonstrate color theory principles through practical application in artwork. Explore color harmony, temperature, contrast, and emotional impact. Show color mixing techniques and how theoretical knowledge translates to actual painting practice.",
+    "tags": ["color theory", "color mixing", "color harmony", "painting theory", "artistic education"],
+    "niches": ["drawing-painting"]
+  },
+  {
+    "title": "Budget Art: Creating Professional [Art Type] with [Budget] Supplies",
+    "description": "Show how to create high-quality artwork using affordable materials and creative substitutions. Include DIY art supply alternatives, budget shopping tips, and techniques that maximize results regardless of tool quality.",
+    "tags": ["budget art", "affordable supplies", "cost-effective techniques", "DIY art materials", "accessible art"],
+    "niches": ["drawing-painting"]
+  },
+  {
+    "title": "[Size] Canvas Challenge: Painting [Subject] at [Scale]",
+    "description": "Explore different canvas sizes and their impact on artistic approach and technique. Show how scale affects composition, detail level, and working methods. Include setup considerations and technical adjustments for various canvas dimensions.",
+    "tags": ["canvas size", "scale challenges", "composition", "artistic scale", "painting dimensions"],
+    "niches": ["drawing-painting"]
+  },
+  {
+    "title": "Mixed Media Experiment: Combining [Medium A] with [Medium B]",
+    "description": "Explore creative combinations of different art mediums to create unique artistic effects. Show compatibility testing, layering techniques, and unexpected material combinations. Include experimental approaches and happy accidents.",
+    "tags": ["mixed media", "experimental art", "medium combination", "artistic innovation", "creative techniques"],
+    "niches": ["drawing-painting"]
+  },
+  {
+    "title": "Portrait Commission: From [Client Brief] to Delivery",
+    "description": "Document the complete commissioned artwork process from initial client meeting to final delivery. Show professional communication, revision processes, pricing strategies, and client relationship management for working artists.",
+    "tags": ["art commission", "professional art", "client work", "art business", "custom artwork"],
+    "niches": ["drawing-painting"]
+  },
+  {
+    "title": "Art History Recreation: [Time Period] Techniques in Modern Context",
+    "description": "Recreate historical art techniques and styles using both traditional and modern materials. Research historical methods, adapt for contemporary use, and compare results. Include cultural context and artistic evolution discussions.",
+    "tags": ["art history", "historical techniques", "traditional methods", "artistic heritage", "technique revival"],
+    "niches": ["drawing-painting"]
+  },
+  {
+    "title": "Collaborative Art: Working with [Guest Artist] on [Project]",
+    "description": "Document collaborative artistic projects showing how different artists combine styles and approaches. Include communication methods, creative compromise, and the unique results of artistic partnership. Show both challenges and benefits of collaboration.",
+    "tags": ["art collaboration", "artistic partnership", "creative cooperation", "joint projects", "artistic synergy"],
+    "niches": ["drawing-painting"]
+  },
+  {
+    "title": "Art Therapy Session: Using [Medium] for [Emotional Expression]",
+    "description": "Explore the therapeutic aspects of art creation, showing how different mediums and approaches can support emotional wellbeing and self-expression. Include mindfulness techniques and the psychological benefits of creative practice.",
+    "tags": ["art therapy", "emotional expression", "mindful art", "therapeutic creation", "wellbeing through art"],
+    "niches": ["drawing-painting"]
+  },
+  {
+    "title": "From Sketch to Painting: Developing [Subject] Through [Process]",
+    "description": "Show the complete artistic development process from initial concept sketches through final painted work. Include ideation methods, composition refinement, and decision-making throughout the creative journey.",
+    "tags": ["creative process", "sketch development", "artistic workflow", "concept to completion", "artistic planning"],
+    "niches": ["drawing-painting"]
+  },
+  {
+    "title": "Night Painting: Creating [Subject] in [Lighting Condition]",
+    "description": "Explore painting in challenging lighting conditions including artificial light, candlelight, or night scenes. Show color temperature adjustments, working with limited visibility, and capturing nocturnal atmospheres.",
+    "tags": ["night painting", "artificial lighting", "challenging conditions", "atmospheric effects", "lighting adaptation"],
+    "niches": ["drawing-painting"]
+  },
+  {
+    "title": "Art Style Evolution: [Number] Years of [Artist] Development",
+    "description": "Document long-term artistic development showing style evolution, technique refinement, and creative growth over time. Include early work comparisons, learning milestones, and artistic maturity progression.",
+    "tags": ["artistic development", "style evolution", "skill progression", "artistic maturity", "creative growth"],
+    "niches": ["drawing-painting"]
+  }
+]

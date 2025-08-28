@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "[Year] [Sport] Fantasy Draft Strategy - Dominate Your League",
+    "description": "Provide comprehensive draft strategies for fantasy sports leagues. Include player rankings, positional tiers, sleeper picks, value drafting techniques, and how to adapt strategies based on draft position and league settings.",
+    "tags": ["draft-strategy", "rankings", "sleepers", "value", "dominate"],
+    "niches": ["fantasy-leagues"]
+  },
+  {
+    "title": "Waiver Wire GOLDMINE - Week [Number] [Sport] Pickups",
+    "description": "Identify the best available players on the waiver wire each week. Include percentage owned thresholds, matchup analysis, injury replacements, and which players could become season-long starters.",
+    "tags": ["waiver-wire", "pickups", "available", "weekly", "goldmine"],
+    "niches": ["fantasy-leagues"]
+  },
+  {
+    "title": "[Player] BUST or BREAKOUT - Fantasy Analysis Deep Dive",
+    "description": "Analyze polarizing fantasy players who could either greatly exceed or fall short of expectations. Include advanced metrics, situational factors, and historical comparisons to similar players.",
+    "tags": ["analysis", "bust", "breakout", "polarizing", "expectations"],
+    "niches": ["fantasy-leagues"]
+  },
+  {
+    "title": "Fantasy [Sport] Trade Analyzer - Win Every Deal",
+    "description": "Break down current trade scenarios and provide frameworks for evaluating trades. Include trade calculators, team need assessment, buy-low/sell-high candidates, and negotiation tactics.",
+    "tags": ["trades", "analyzer", "deals", "evaluation", "negotiation"],
+    "niches": ["fantasy-leagues"]
+  },
+  {
+    "title": "Start Em Sit Em - Week [Number] [Sport] Decisions",
+    "description": "Help fantasy managers with difficult lineup decisions each week. Include matchup analysis, weather factors, injury concerns, and confidence levels for borderline start/sit candidates.",
+    "tags": ["start-sit", "lineup", "decisions", "matchups", "weekly"],
+    "niches": ["fantasy-leagues"]
+  },
+  {
+    "title": "Dynasty League [Position] Rankings - Future Value Focus",
+    "description": "Rank players by position for dynasty fantasy formats, emphasizing long-term value over current production. Include age curves, contract situations, and developmental prospects.",
+    "tags": ["dynasty", "rankings", "future-value", "long-term", "contracts"],
+    "niches": ["fantasy-leagues"]
+  },
+  {
+    "title": "Fantasy [Sport] Playoffs Strategy - Championship Push",
+    "description": "Adjust strategy for fantasy playoff weeks including streaming defenses, handcuffing running backs, and prioritizing players with favorable playoff schedules over regular season studs.",
+    "tags": ["playoffs", "championship", "streaming", "strategy", "schedules"],
+    "niches": ["fantasy-leagues"]
+  },
+  {
+    "title": "Rookie [Position] Fantasy Impact - [Year] Class Breakdown",
+    "description": "Evaluate rookie players' fantasy potential in their first season. Include draft capital, opportunity analysis, historical rookie performance data, and which rookies to target in redraft vs dynasty.",
+    "tags": ["rookies", "impact", "draft-capital", "opportunity", "potential"],
+    "niches": ["fantasy-leagues"]
+  },
+  {
+    "title": "Zero RB Strategy Guide - Draft Like a Pro",
+    "description": "Explain alternative draft strategies like Zero RB, Zero WR, or other contrarian approaches. Include league settings where these strategies work best and how to execute them successfully.",
+    "tags": ["zero-RB", "strategy", "contrarian", "alternative", "execution"],
+    "niches": ["fantasy-leagues"]
+  },
+  {
+    "title": "[Injury] Update - Fantasy Impact and Replacements",
+    "description": "Analyze how major injuries affect fantasy landscapes. Include backup players who benefit, schedule implications, and how to adjust trade targets and waiver priorities.",
+    "tags": ["injuries", "impact", "replacements", "backup", "adjustments"],
+    "niches": ["fantasy-leagues"]
+  },
+  {
+    "title": "DFS [Sport] Optimal Lineups - [Slate] Breakdown",
+    "description": "Provide daily fantasy sports lineup construction advice for specific slates. Include salary cap optimization, contrarian plays, cash vs tournament strategies, and stack recommendations.",
+    "tags": ["DFS", "optimal", "lineups", "salary-cap", "tournaments"],
+    "niches": ["fantasy-leagues"]
+  },
+  {
+    "title": "Fantasy [Sport] Sleepers - Under the Radar Gems",
+    "description": "Identify undervalued players flying under the fantasy radar. Include late-round draft targets, players in new situations, and potential league winners available at discounted prices.",
+    "tags": ["sleepers", "undervalued", "late-round", "discount", "gems"],
+    "niches": ["fantasy-leagues"]
+  },
+  {
+    "title": "Keeper League Values - Who to Keep in [Year]",
+    "description": "Evaluate which players offer the best keeper league value based on their draft cost versus projected production. Include contract analysis and future outlook considerations.",
+    "tags": ["keeper", "values", "contracts", "cost", "projections"],
+    "niches": ["fantasy-leagues"]
+  },
+  {
+    "title": "Fantasy [Sport] Schedules - Strength Analysis [Weeks]",
+    "description": "Break down team schedules and matchup difficulty for specific time periods. Identify players who benefit from easy stretches and those facing tough opponents during crucial fantasy weeks.",
+    "tags": ["schedules", "strength", "matchups", "analysis", "timing"],
+    "niches": ["fantasy-leagues"]
+  },
+  {
+    "title": "[Position] Tier Rankings - [Year] Fantasy [Sport]",
+    "description": "Create tiered position rankings that group similarly valued players together. Help fantasy managers understand drop-offs between tiers and make informed draft and trade decisions.",
+    "tags": ["tiers", "rankings", "groupings", "drop-offs", "decisions"],
+    "niches": ["fantasy-leagues"]
+  },
+  {
+    "title": "Fantasy [Sport] Busts - Players to Avoid [Year]",
+    "description": "Identify players likely to underperform their draft position or expectations. Include reasons for potential disappointment, alternative targets at similar costs, and risk mitigation strategies.",
+    "tags": ["busts", "avoid", "underperform", "disappointment", "alternatives"],
+    "niches": ["fantasy-leagues"]
+  },
+  {
+    "title": "League Settings Impact - How Scoring Changes Strategy",
+    "description": "Explain how different league settings affect player values and draft strategy. Include PPR vs standard, superflex implications, and how to adapt to unique scoring systems.",
+    "tags": ["settings", "scoring", "PPR", "superflex", "adaptation"],
+    "niches": ["fantasy-leagues"]
+  },
+  {
+    "title": "Fantasy [Sport] Mental Game - Managing Emotions",
+    "description": "Address the psychological aspects of fantasy sports including dealing with bad beats, avoiding emotional decisions, staying disciplined with strategy, and maintaining long-term perspective.",
+    "tags": ["mental-game", "emotions", "discipline", "psychology", "perspective"],
+    "niches": ["fantasy-leagues"]
+  }
+]

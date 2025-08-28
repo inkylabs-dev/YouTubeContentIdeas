@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "DIY [Material] [Furniture Piece]: [Number] Hour Weekend Project",
+    "description": "Create step-by-step furniture building tutorials using specific materials. Replace placeholders with combinations like 'DIY Pallet Coffee Table: 4 Hour Weekend Project' or 'DIY Reclaimed Wood Bookshelf: 8 Hour Weekend Project.' Include material lists, tools needed, and difficulty level.",
+    "tags": ["DIY", "furniture", "woodworking", "weekend-project", "home-decor"],
+    "niches": ["home-decor-diy"]
+  },
+  {
+    "title": "Upcycling Challenge: Transforming [Old Item] into [New Function]",
+    "description": "Show creative repurposing of common household items. Replace placeholders with transformations like 'Old Ladder into Bookshelf' or 'Vintage Suitcases into Coffee Table.' Focus on sustainability and creativity.",
+    "tags": ["DIY", "upcycling", "repurpose", "sustainable", "creative"],
+    "niches": ["home-decor-diy"]
+  },
+  {
+    "title": "[Budget Amount] Room Makeover: DIY Decor for Your [Room Type]",
+    "description": "Create complete room transformations within specific budget constraints. Replace placeholders with combinations like '$100 Bedroom Makeover' or '$50 Bathroom Refresh.' Include shopping tips and before/after reveals.",
+    "tags": ["DIY", "budget", "makeover", "decor", "transformation"],
+    "niches": ["home-decor-diy"]
+  },
+  {
+    "title": "No-Sew DIY: [Number] [Fabric Item] Projects for Beginners",
+    "description": "Offer fabric crafts that don't require sewing skills. Replace placeholders with combinations like '10 Pillow Cover Projects' or '5 Curtain Panel Ideas.' Include alternative fastening methods and fabric selection tips.",
+    "tags": ["DIY", "no-sew", "fabric", "beginner", "home-decor"],
+    "niches": ["home-decor-diy"]
+  },
+  {
+    "title": "Paint Transformation: [Painting Technique] for [Surface Type]",
+    "description": "Demonstrate specific painting techniques for different surfaces. Replace placeholders with combinations like 'Chalk Paint for Furniture' or 'Stenciling for Accent Walls.' Include preparation, application, and finishing tips.",
+    "tags": ["DIY", "painting", "techniques", "transformation", "decor"],
+    "niches": ["home-decor-diy"]
+  },
+  {
+    "title": "Seasonal DIY Decor: [Season] [Decoration Type] for Every Room",
+    "description": "Create seasonal decorations for home styling. Replace placeholders with combinations like 'Fall Centerpieces' or 'Spring Wall Hangings.' Include storage tips and ways to transition between seasons.",
+    "tags": ["DIY", "seasonal", "decor", "crafts", "styling"],
+    "niches": ["home-decor-diy"]
+  },
+  {
+    "title": "DIY Storage Solutions: [Number] Ways to Organize Your [Space]",
+    "description": "Build custom storage solutions for specific areas. Replace placeholders with combinations like '8 Ways to Organize Your Closet' or '12 Kitchen Storage Ideas.' Include space-saving designs and organization tips.",
+    "tags": ["DIY", "storage", "organization", "solutions", "space-saving"],
+    "niches": ["home-decor-diy"]
+  },
+  {
+    "title": "Gallery Wall DIY: Creating [Style] Art Display on Any Budget",
+    "description": "Guide viewers through gallery wall creation in different styles. Replace the placeholder with styles like 'Modern,' 'Bohemian,' 'Rustic,' or 'Eclectic.' Include layout planning, hanging techniques, and art sourcing tips.",
+    "tags": ["DIY", "gallery-wall", "art", "display", "styling"],
+    "niches": ["home-decor-diy"]
+  },
+  {
+    "title": "DIY Lighting Projects: [Number] [Light Type] Ideas for Every Room",
+    "description": "Create custom lighting solutions for home spaces. Replace placeholders with combinations like '6 Pendant Light Ideas' or '10 Table Lamp Projects.' Include electrical safety tips and design considerations.",
+    "tags": ["DIY", "lighting", "fixtures", "ambiance", "electrical"],
+    "niches": ["home-decor-diy"]
+  },
+  {
+    "title": "Beginner's Guide to [DIY Skill]: [Project Type] for First-Timers",
+    "description": "Introduce beginners to specific DIY skills through simple projects. Replace placeholders with combinations like 'Woodworking: Simple Shelves' or 'Upholstery: Seat Cushions.' Include tool recommendations and safety tips.",
+    "tags": ["DIY", "beginner", "tutorial", "skills", "learning"],
+    "niches": ["home-decor-diy"]
+  },
+  {
+    "title": "Thrift Store Flip: Turning [Item] into [Designer Look] Decor",
+    "description": "Transform thrifted items into high-end looking decor. Replace placeholders with combinations like 'Thrift Store Mirror into Designer Statement Piece' or 'Old Frame into Modern Art.' Include sourcing and transformation tips.",
+    "tags": ["DIY", "thrift", "flip", "budget", "designer-look"],
+    "niches": ["home-decor-diy"]
+  },
+  {
+    "title": "DIY Wall Treatments: [Number] Ways to Transform Blank Walls",
+    "description": "Offer creative wall decoration alternatives to traditional paint. Replace the placeholder with numbers like '15' or '20.' Include techniques like wood paneling, wallpaper alternatives, textured treatments, and removable options.",
+    "tags": ["DIY", "walls", "treatments", "decoration", "design"],
+    "niches": ["home-decor-diy"]
+  },
+  {
+    "title": "Holiday DIY Decor: [Holiday] Decorations You Can Make in [Time]",
+    "description": "Create festive decorations for specific holidays with time constraints. Replace placeholders with combinations like 'Christmas Decorations You Can Make in One Day' or 'Halloween Crafts in Under 2 Hours.'",
+    "tags": ["DIY", "holiday", "festive", "decorations", "seasonal"],
+    "niches": ["home-decor-diy"]
+  },
+  {
+    "title": "Room Styling Challenge: [Design Style] on a [Budget] Budget",
+    "description": "Achieve specific design aesthetics within budget constraints. Replace placeholders with combinations like 'Scandinavian Style on a $200 Budget' or 'Industrial Look for Under $300.' Include shopping strategies and key elements.",
+    "tags": ["DIY", "styling", "design", "budget", "aesthetics"],
+    "niches": ["home-decor-diy"]
+  },
+  {
+    "title": "DIY Outdoor Decor: [Number] [Season] Projects for Your [Outdoor Space]",
+    "description": "Create weather-appropriate outdoor decorations. Replace placeholders with combinations like '8 Summer Projects for Your Patio' or '12 Fall Ideas for Your Front Porch.' Include weather-proofing and maintenance tips.",
+    "tags": ["DIY", "outdoor", "patio", "garden", "weather-resistant"],
+    "niches": ["home-decor-diy"]
+  },
+  {
+    "title": "Color Theory DIY: Using [Color Scheme] to Transform Your [Room]",
+    "description": "Apply color theory principles to room design and DIY projects. Replace placeholders with combinations like 'Complementary Colors in Your Living Room' or 'Monochromatic Schemes for Your Bedroom.' Include color psychology and practical application.",
+    "tags": ["DIY", "color-theory", "design", "psychology", "styling"],
+    "niches": ["home-decor-diy"]
+  },
+  {
+    "title": "Quick DIY Fixes: [Number] [Time Frame] Solutions for Common Decor Problems",
+    "description": "Provide fast solutions to common decorating challenges. Replace placeholders with combinations like '5 Minute Solutions for Bare Walls' or '10 Minute Fixes for Cluttered Spaces.' Focus on immediate impact improvements.",
+    "tags": ["DIY", "quick-fixes", "solutions", "decorating", "problems"],
+    "niches": ["home-decor-diy"]
+  },
+  {
+    "title": "DIY Kids' Decor: [Number] Safe and Fun [Room Feature] Projects",
+    "description": "Create child-friendly decorating projects with safety in mind. Replace placeholders with combinations like '6 Safe and Fun Wall Art Projects' or '10 Creative Storage Solutions.' Include safety considerations and age-appropriate designs.",
+    "tags": ["DIY", "kids", "safety", "playful", "functional"],
+    "niches": ["home-decor-diy"]
+  }
+]

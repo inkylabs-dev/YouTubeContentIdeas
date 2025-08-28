@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "Building [Business Type] from Scratch: [Timeframe] Journey",
+    "description": "Document the complete entrepreneurial journey from initial idea to operational business. Include market validation, business planning, funding challenges, early customer acquisition, and scaling decisions. Show both successes and failures with honest analysis.",
+    "tags": ["startup journey", "business building", "entrepreneurship", "business development", "startup documentation"],
+    "niches": ["entrepreneurship"]
+  },
+  {
+    "title": "Business Model Deep Dive: How [Company] Makes Money",
+    "description": "Analyze successful business models across different industries, breaking down revenue streams, cost structures, and value propositions. Include competitive analysis and scalability factors that contribute to business success.",
+    "tags": ["business models", "revenue analysis", "business strategy", "company analysis", "business economics"],
+    "niches": ["entrepreneurship"]
+  },
+  {
+    "title": "Startup Funding Journey: Raising [Amount] for [Business Type]",
+    "description": "Chronicle the funding process including pitch deck creation, investor meetings, term sheet negotiations, and due diligence. Show rejection stories, feedback incorporation, and successful funding strategies.",
+    "tags": ["startup funding", "investor relations", "pitch preparation", "venture capital", "funding strategy"],
+    "niches": ["entrepreneurship"]
+  },
+  {
+    "title": "Failed Business Autopsy: Why [Business] Didn't Work",
+    "description": "Analyze business failures to extract valuable lessons for other entrepreneurs. Include market factors, execution problems, financial challenges, and personal factors leading to business closure. Focus on learning and prevention strategies.",
+    "tags": ["business failure", "failure analysis", "entrepreneurship lessons", "business mistakes", "startup postmortem"],
+    "niches": ["entrepreneurship"]
+  },
+  {
+    "title": "Market Research Masterclass: Validating [Business Idea] in [Market]",
+    "description": "Demonstrate systematic market research and validation techniques for business ideas. Include customer interviews, competitive analysis, market sizing, and demand validation methods with real examples and results.",
+    "tags": ["market research", "business validation", "customer discovery", "market analysis", "idea validation"],
+    "niches": ["entrepreneurship"]
+  },
+  {
+    "title": "Scaling Challenge: Growing [Business] from [Revenue A] to [Revenue B]",
+    "description": "Document the scaling process including operational challenges, team building, system implementations, and strategic decisions. Show how to maintain quality and culture while achieving rapid growth.",
+    "tags": ["business scaling", "growth strategies", "operational scaling", "team building", "business growth"],
+    "niches": ["entrepreneurship"]
+  },
+  {
+    "title": "Side Hustle to Full-Time: Transitioning [Business] Journey",
+    "description": "Follow the journey from part-time side business to full-time entrepreneurship. Include financial planning, risk management, timing decisions, and psychological challenges of leaving traditional employment.",
+    "tags": ["side hustle", "career transition", "full-time entrepreneurship", "business transition", "entrepreneurial leap"],
+    "niches": ["entrepreneurship"]
+  },
+  {
+    "title": "Entrepreneur Lifestyle: [Time Period] in the Life of [Business Owner]",
+    "description": "Show realistic entrepreneurial lifestyle including work-life balance challenges, daily routines, decision-making processes, and personal sacrifices. Include mental health aspects and relationship impacts.",
+    "tags": ["entrepreneur lifestyle", "work-life balance", "entrepreneurial reality", "business owner life", "entrepreneurship challenges"],
+    "niches": ["entrepreneurship"]
+  },
+  {
+    "title": "Partnership Dynamics: Co-founding [Business] with [Partner Type]",
+    "description": "Explore business partnership relationships including role division, decision-making processes, conflict resolution, and equity arrangements. Show both successful partnerships and partnership failures.",
+    "tags": ["business partnerships", "co-founder relationships", "partnership agreements", "team dynamics", "founder conflicts"],
+    "niches": ["entrepreneurship"]
+  },
+  {
+    "title": "International Expansion: Taking [Business] to [Country/Region]",
+    "description": "Document international business expansion including market research, regulatory compliance, cultural adaptation, and operational challenges. Show localization strategies and cross-cultural business management.",
+    "tags": ["international business", "global expansion", "cross-cultural business", "international markets", "business globalization"],
+    "niches": ["entrepreneurship"]
+  },
+  {
+    "title": "Digital Marketing for [Business Type]: [Strategy] Case Study",
+    "description": "Implement and analyze digital marketing strategies for specific business types. Include channel testing, budget allocation, conversion optimization, and ROI analysis with detailed performance metrics.",
+    "tags": ["digital marketing", "marketing strategy", "customer acquisition", "marketing ROI", "business marketing"],
+    "niches": ["entrepreneurship"]
+  },
+  {
+    "title": "Business Process Optimization: Improving [Process] by [Metric]%",
+    "description": "Systematically improve business processes through analysis, automation, and optimization techniques. Show methodology, implementation challenges, and measurable results with before/after comparisons.",
+    "tags": ["process optimization", "business efficiency", "operational improvement", "automation", "business systems"],
+    "niches": ["entrepreneurship"]
+  },
+  {
+    "title": "Customer Acquisition: Getting First [Number] Customers for [Business]",
+    "description": "Document early-stage customer acquisition strategies including channel testing, messaging refinement, and conversion optimization. Show cost-effective methods for acquiring initial customer base.",
+    "tags": ["customer acquisition", "early customers", "marketing channels", "customer development", "growth hacking"],
+    "niches": ["entrepreneurship"]
+  },
+  {
+    "title": "Technology Stack Decisions: Building [Business] with [Tech Stack]",
+    "description": "Analyze technology decisions for different business types including cost considerations, scalability requirements, security needs, and development timelines. Include technical debt and migration strategies.",
+    "tags": ["technology decisions", "business technology", "tech stack", "software development", "technical strategy"],
+    "niches": ["entrepreneurship"]
+  },
+  {
+    "title": "Financial Management: [Business] Cash Flow and Profitability",
+    "description": "Show practical financial management for small businesses including cash flow forecasting, expense management, pricing strategies, and profitability analysis. Include financial planning and crisis management.",
+    "tags": ["financial management", "cash flow", "business finance", "profitability", "financial planning"],
+    "niches": ["entrepreneurship"]
+  },
+  {
+    "title": "Competitive Strategy: Competing Against [Established Player] in [Market]",
+    "description": "Develop strategies for competing against established market leaders including differentiation, niche targeting, customer service excellence, and innovation approaches. Show David vs. Goliath scenarios.",
+    "tags": ["competitive strategy", "market competition", "business differentiation", "competitive advantage", "market positioning"],
+    "niches": ["entrepreneurship"]
+  },
+  {
+    "title": "Exit Strategy Planning: Preparing [Business] for [Exit Type]",
+    "description": "Plan and execute business exit strategies including sale preparation, valuation optimization, buyer identification, and negotiation processes. Include emotional aspects of business exits and post-exit transitions.",
+    "tags": ["exit strategy", "business sale", "business valuation", "acquisition", "entrepreneurial exit"],
+    "niches": ["entrepreneurship"]
+  },
+  {
+    "title": "Innovation Lab: Testing [Number] Business Ideas in [Timeframe]",
+    "description": "Rapidly test multiple business concepts using lean startup methodology. Show idea generation, rapid prototyping, market testing, and pivot decisions with systematic evaluation frameworks.",
+    "tags": ["innovation", "idea testing", "lean startup", "rapid prototyping", "business experimentation"],
+    "niches": ["entrepreneurship"]
+  }
+]

@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "DIY [Room] Makeover on [Budget]: Complete Transformation",
+    "description": "Transform entire rooms using budget-friendly DIY techniques and creative problem-solving. Document the planning process, material selection, step-by-step execution, and final reveal. Include cost breakdowns, time estimates, and alternative options for different budgets and skill levels.",
+    "tags": ["room makeover", "budget DIY", "home improvement", "interior design", "transformation"],
+    "niches": ["diy"]
+  },
+  {
+    "title": "Building [Furniture Piece] from Scratch: [Wood/Material] Project",
+    "description": "Create custom furniture pieces using various materials and techniques. Cover tool selection, material preparation, measurement and cutting, assembly methods, and finishing techniques. Include troubleshooting common issues and customization options for different spaces and styles.",
+    "tags": ["furniture building", "woodworking", "custom furniture", "craftsmanship", "home decor"],
+    "niches": ["diy"]
+  },
+  {
+    "title": "DIY [Organization System] for [Space]: Storage Solutions",
+    "description": "Design and build custom storage and organization systems for specific spaces. Show planning for different needs, maximizing space efficiency, and creating functional yet attractive solutions. Include modifications for renters and different family sizes.",
+    "tags": ["organization", "storage solutions", "space optimization", "home organization", "functionality"],
+    "niches": ["diy"]
+  },
+  {
+    "title": "Upcycling [Item] into [New Function]: Creative Repurposing",
+    "description": "Transform discarded or outdated items into functional or decorative pieces. Demonstrate creative problem-solving, material assessment, and design thinking. Include multiple transformation ideas for similar items and tips for finding materials.",
+    "tags": ["upcycling", "repurposing", "sustainability", "creative reuse", "eco-friendly"],
+    "niches": ["diy"]
+  },
+  {
+    "title": "DIY Home Maintenance: Fixing [Common Problem] Yourself",
+    "description": "Teach homeowners how to handle common repairs and maintenance tasks safely and effectively. Cover when to DIY versus call professionals, tool requirements, safety precautions, and step-by-step repair processes. Include troubleshooting and prevention tips.",
+    "tags": ["home repair", "maintenance", "problem solving", "homeowner skills", "cost saving"],
+    "niches": ["diy"]
+  },
+  {
+    "title": "[Season] DIY Decor: [Number] Projects for [Holiday/Theme]",
+    "description": "Create seasonal and holiday decorations using accessible materials and techniques. Show both simple and elaborate options, storage solutions, and ways to adapt decorations for different spaces. Include traditional and modern styling approaches.",
+    "tags": ["seasonal decor", "holiday crafts", "home decorating", "festive projects", "seasonal styling"],
+    "niches": ["diy"]
+  },
+  {
+    "title": "DIY Tool Review: Testing [Tool] for [Project Type] Projects",
+    "description": "Review DIY tools and equipment from a practical user perspective. Test tools on actual projects, comparing performance, durability, value, and ease of use. Include recommendations for different skill levels and project types.",
+    "tags": ["tool review", "equipment testing", "DIY tools", "workshop setup", "tool comparison"],
+    "niches": ["diy"]
+  },
+  {
+    "title": "Beginner DIY: [Number] Easy Projects for First-Time Makers",
+    "description": "Introduce newcomers to DIY with achievable projects that build confidence and skills. Focus on fundamental techniques, basic tool usage, and gradual skill progression. Include common beginner mistakes and how to avoid them.",
+    "tags": ["beginner DIY", "easy projects", "skill building", "basic techniques", "confidence building"],
+    "niches": ["diy"]
+  },
+  {
+    "title": "DIY vs Store-Bought: [Item] Cost and Quality Comparison",
+    "description": "Compare homemade versions of common items with commercial alternatives, analyzing cost, quality, time investment, and customization options. Include long-term durability tests and satisfaction assessments.",
+    "tags": ["cost comparison", "value analysis", "DIY economics", "quality assessment", "decision making"],
+    "niches": ["diy"]
+  },
+  {
+    "title": "Advanced DIY: Building [Complex Project] with [Technique]",
+    "description": "Tackle sophisticated DIY projects requiring advanced skills and specialized techniques. Document complex problem-solving, precision work, and professional-level results. Include detailed planning and project management strategies.",
+    "tags": ["advanced DIY", "complex projects", "skill development", "precision work", "professional techniques"],
+    "niches": ["diy"]
+  },
+  {
+    "title": "DIY Workshop Setup: Creating [Workshop Type] in [Space]",
+    "description": "Design and organize DIY workspaces for different needs and space constraints. Cover tool storage, work surface selection, lighting, ventilation, and safety considerations. Include budget-conscious and space-saving solutions.",
+    "tags": ["workshop setup", "tool organization", "workspace design", "shop layout", "DIY space"],
+    "niches": ["diy"]
+  },
+  {
+    "title": "Outdoor DIY Projects: Building [Outdoor Structure] for [Purpose]",
+    "description": "Create outdoor structures and improvements using weather-resistant techniques and materials. Cover planning for outdoor conditions, foundation work, weather protection, and seasonal considerations. Include maintenance and longevity strategies.",
+    "tags": ["outdoor projects", "weather resistance", "outdoor structures", "yard improvement", "exterior work"],
+    "niches": ["diy"]
+  },
+  {
+    "title": "DIY Mistakes and Fixes: [Number] Common Errors and Solutions",
+    "description": "Address frequent DIY mistakes with practical solutions and prevention strategies. Show how to recover from errors, when to start over, and how to turn mistakes into learning opportunities. Include project salvage techniques.",
+    "tags": ["DIY mistakes", "problem solving", "error recovery", "learning from failure", "troubleshooting"],
+    "niches": ["diy"]
+  },
+  {
+    "title": "Quick DIY Fixes: [Time Limit] Solutions for [Problem Category]",
+    "description": "Provide rapid solutions for common household problems using readily available materials. Focus on temporary and permanent quick fixes, emergency repairs, and time-efficient problem-solving approaches.",
+    "tags": ["quick fixes", "emergency repairs", "time-efficient", "household problems", "rapid solutions"],
+    "niches": ["diy"]
+  },
+  {
+    "title": "DIY Material Guide: Working with [Material Type] Successfully",
+    "description": "Explore different materials commonly used in DIY projects, covering properties, working techniques, tool requirements, and best applications. Include sourcing tips, storage methods, and safety considerations for each material.",
+    "tags": ["material guide", "material properties", "working techniques", "material selection", "DIY education"],
+    "niches": ["diy"]
+  },
+  {
+    "title": "DIY Project Planning: From Idea to Completion in [Steps]",
+    "description": "Teach systematic project planning and management for DIY endeavors. Cover initial assessment, resource planning, timeline development, and execution strategies. Include contingency planning and scope management techniques.",
+    "tags": ["project planning", "project management", "DIY organization", "planning process", "execution strategy"],
+    "niches": ["diy"]
+  },
+  {
+    "title": "Family DIY: [Age Group] Projects for Building Together",
+    "description": "Design DIY projects suitable for family participation, focusing on age-appropriate tasks and skill development. Emphasize safety, learning opportunities, and creating positive shared experiences through making and building.",
+    "tags": ["family projects", "kids DIY", "family bonding", "educational projects", "skill sharing"],
+    "niches": ["diy"]
+  },
+  {
+    "title": "Eco-Friendly DIY: Sustainable [Project Type] Using Recycled Materials",
+    "description": "Create environmentally conscious DIY projects using recycled, reclaimed, and sustainable materials. Demonstrate resource conservation, waste reduction, and eco-friendly finishing techniques while maintaining quality and aesthetics.",
+    "tags": ["eco-friendly", "sustainable DIY", "recycled materials", "environmental consciousness", "green building"],
+    "niches": ["diy"]
+  }
+]

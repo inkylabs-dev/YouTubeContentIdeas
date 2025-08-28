@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "Live Reacting to [Event/Content]: Real-Time Commentary and Thoughts",
+    "description": "Provide live reactions and commentary to events, announcements, or content. Replace the placeholder with current events like 'Apple Keynote,' 'Game Awards,' 'Movie Trailers,' or 'Sports Events.' Include real-time analysis and audience interaction.",
+    "tags": ["live", "commentary", "reaction", "real-time", "interactive"],
+    "niches": ["live-commentary"]
+  },
+  {
+    "title": "[Topic] Discussion: Live Q&A with Chat Participation",
+    "description": "Host interactive discussions on trending topics with live audience participation. Replace the placeholder with current topics like 'Technology Trends,' 'Politics,' 'Entertainment,' or 'Social Issues.' Include viewer questions and real-time debate.",
+    "tags": ["live", "discussion", "Q&A", "interactive", "audience"],
+    "niches": ["live-commentary"]
+  },
+  {
+    "title": "Breaking News Commentary: Analyzing [Current Event] as It Happens",
+    "description": "Provide real-time analysis and commentary on breaking news and current events. Replace the placeholder with significant events or ongoing stories. Include fact-checking, multiple perspectives, and audience questions.",
+    "tags": ["live", "news", "current-events", "analysis", "breaking"],
+    "niches": ["live-commentary"]
+  },
+  {
+    "title": "[Sports Event] Live Commentary: Play-by-Play and Analysis",
+    "description": "Provide alternative commentary for sports events with unique perspective. Replace the placeholder with specific sports or events. Include strategy analysis, player insights, and interactive predictions with viewers.",
+    "tags": ["live", "sports", "commentary", "analysis", "play-by-play"],
+    "niches": ["live-commentary"]
+  },
+  {
+    "title": "Live [Content Type] Review: First Impressions and Instant Analysis",
+    "description": "Review content live as you experience it for the first time. Replace the placeholder with content types like 'Movie,' 'TV Show,' 'Album,' 'Video Game,' or 'Book.' Include immediate reactions and developing opinions.",
+    "tags": ["live", "review", "first-impressions", "analysis", "immediate"],
+    "niches": ["live-commentary"]
+  },
+  {
+    "title": "[Platform/Website] Deep Dive: Exploring [New Feature/Update] Live",
+    "description": "Explore new features, updates, or platforms live with audience. Replace placeholders with combinations like 'Twitter Deep Dive: New Algorithm Changes' or 'Instagram: Latest Creator Tools.' Include hands-on testing and user feedback.",
+    "tags": ["live", "platform", "exploration", "features", "technology"],
+    "niches": ["live-commentary"]
+  },
+  {
+    "title": "Trend Watch: Discussing [Current Trend] and Its Impact",
+    "description": "Analyze current trends and their broader implications. Replace the placeholder with trending topics like 'AI Technology,' 'Social Media Challenges,' 'Fashion Trends,' or 'Cultural Movements.' Include societal impact discussions.",
+    "tags": ["live", "trends", "analysis", "impact", "culture"],
+    "niches": ["live-commentary"]
+  },
+  {
+    "title": "Live Learning: Discovering [New Topic] Together with Chat",
+    "description": "Learn about new topics live with audience participation and research. Replace the placeholder with educational topics like 'Cryptocurrency,' 'Climate Science,' 'Historical Events,' or 'Art Movements.' Include collaborative discovery.",
+    "tags": ["live", "learning", "education", "discovery", "collaborative"],
+    "niches": ["live-commentary"]
+  },
+  {
+    "title": "[Industry] Insider: Live Commentary on [Industry News/Development]",
+    "description": "Provide expert commentary on industry-specific news and developments. Replace placeholders with combinations like 'Tech Insider: Silicon Valley Updates' or 'Gaming Industry: Latest Studio Mergers.' Include insider perspective and implications.",
+    "tags": ["live", "industry", "insider", "expert", "professional"],
+    "niches": ["live-commentary"]
+  },
+  {
+    "title": "Debate Night: [Controversial Topic] Discussion with Multiple Perspectives",
+    "description": "Host balanced debates on controversial or complex topics. Replace the placeholder with debatable subjects while maintaining respectful discourse. Include multiple viewpoints, fact-checking, and moderated discussion.",
+    "tags": ["live", "debate", "controversial", "perspectives", "discussion"],
+    "niches": ["live-commentary"]
+  },
+  {
+    "title": "Live Experiment: Testing [Hypothesis/Theory] in Real-Time",
+    "description": "Conduct live experiments or test theories with audience observation. Replace the placeholder with testable concepts like 'Social Media Algorithms,' 'Productivity Methods,' or 'Cooking Techniques.' Include hypothesis formation and results analysis.",
+    "tags": ["live", "experiment", "testing", "hypothesis", "scientific"],
+    "niches": ["live-commentary"]
+  },
+  {
+    "title": "[Content Creator] Collaboration: Live Discussion and Project Planning",
+    "description": "Collaborate with other creators live, planning projects or discussing industry topics. Replace the placeholder with creator types or specific collaborators. Include creative process, brainstorming, and behind-the-scenes planning.",
+    "tags": ["live", "collaboration", "creators", "planning", "brainstorming"],
+    "niches": ["live-commentary"]
+  },
+  {
+    "title": "Market Watch: Live Analysis of [Market/Investment] Trends",
+    "description": "Provide real-time market analysis and investment commentary. Replace the placeholder with markets like 'Stock Market,' 'Cryptocurrency,' 'Real Estate,' or 'Commodities.' Include technical analysis and economic factors.",
+    "tags": ["live", "market", "investment", "analysis", "finance"],
+    "niches": ["live-commentary"]
+  },
+  {
+    "title": "Community Stories: Live Reading and Discussion of [User Submissions]",
+    "description": "Read and discuss community-submitted content live. Replace the placeholder with submission types like 'Personal Stories,' 'Creative Writing,' 'Life Advice Requests,' or 'Confessions.' Include respectful commentary and community interaction.",
+    "tags": ["live", "community", "stories", "discussion", "interaction"],
+    "niches": ["live-commentary"]
+  },
+  {
+    "title": "[Event] Countdown: Pre-Event Analysis and Predictions",
+    "description": "Build excitement for upcoming events with pre-event commentary. Replace the placeholder with anticipated events like 'Product Launches,' 'Award Shows,' 'Sports Championships,' or 'Elections.' Include predictions and audience polls.",
+    "tags": ["live", "countdown", "predictions", "anticipation", "events"],
+    "niches": ["live-commentary"]
+  },
+  {
+    "title": "Live Tutorial: Learning [Skill/Software] Together with Viewers",
+    "description": "Learn new skills or software live with audience following along. Replace the placeholder with learnable skills like 'Photo Editing,' 'Web Design,' 'Music Production,' or 'Language Learning.' Include shared learning experience.",
+    "tags": ["live", "tutorial", "learning", "skill", "together"],
+    "niches": ["live-commentary"]
+  },
+  {
+    "title": "Behind the Scenes: Live Content Creation Process for [Project Type]",
+    "description": "Show the creative process live as you work on projects. Replace the placeholder with project types like 'Video Editing,' 'Article Writing,' 'Design Work,' or 'Music Composition.' Include creative decisions and problem-solving.",
+    "tags": ["live", "behind-the-scenes", "creative", "process", "work"],
+    "niches": ["live-commentary"]
+  },
+  {
+    "title": "[Time Period] Throwback: Live Commentary on [Past Content/Events]",
+    "description": "Revisit and comment on past content or historical events. Replace placeholders with combinations like '2010s Throwback: Old YouTube Videos' or '90s Nostalgia: Classic TV Shows.' Include historical context and evolution discussions.",
+    "tags": ["live", "throwback", "nostalgia", "history", "retrospective"],
+    "niches": ["live-commentary"]
+  }
+]

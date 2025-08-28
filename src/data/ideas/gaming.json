@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "Top [Number] Best [Game Genre] Games of [Year]",
+    "description": "Create a countdown of the best games in a specific genre for the current year. Expand by including gameplay footage, reviews, and what makes each game special.",
+    "tags": ["gaming", "top list", "game reviews", "best games", "countdown"],
+    "niches": ["gaming"]
+  },
+  {
+    "title": "Complete Beginner's Guide to [Popular Game]",
+    "description": "Help new players get started with a popular game by covering basics, controls, strategies, and common mistakes. Expand by including character guides and progression tips.",
+    "tags": ["gaming", "tutorial", "beginner guide", "tips", "how-to"],
+    "niches": ["gaming"]
+  },
+  {
+    "title": "[Game] vs [Competitor Game]: Which One Should You Play?",
+    "description": "Compare two similar games across graphics, gameplay, story, and value. Expand by showing side-by-side gameplay and discussing target audiences.",
+    "tags": ["gaming", "comparison", "versus", "review", "game analysis"],
+    "niches": ["gaming"]
+  },
+  {
+    "title": "Hidden Gems: [Number] Underrated [Platform] Games You Must Play",
+    "description": "Showcase lesser-known but excellent games on a specific platform. Expand by explaining why they're overlooked and what makes them special.",
+    "tags": ["gaming", "hidden gems", "underrated", "indie games", "recommendations"],
+    "niches": ["gaming"]
+  },
+  {
+    "title": "Building the Ultimate [Budget] Gaming Setup for [Platform]",
+    "description": "Guide viewers through creating an optimal gaming setup within a specific budget. Expand by comparing components, showing assembly, and testing performance.",
+    "tags": ["gaming", "setup", "budget", "hardware", "guide"],
+    "niches": ["gaming"]
+  },
+  {
+    "title": "[Game] Speedrun Tutorial: How to Beat It in [Time]",
+    "description": "Teach viewers speedrunning techniques for a specific game. Expand by breaking down routes, showing advanced tricks, and explaining timing strategies.",
+    "tags": ["gaming", "speedrun", "tutorial", "competitive", "techniques"],
+    "niches": ["gaming"]
+  },
+  {
+    "title": "Reacting to [Game Trailer/Announcement] - First Impressions",
+    "description": "Share authentic reactions to major gaming announcements or trailers. Expand by analyzing graphics, discussing expectations, and comparing to previous games.",
+    "tags": ["gaming", "reaction", "trailer", "news", "first impressions"],
+    "niches": ["gaming"]
+  },
+  {
+    "title": "The Evolution of [Game Franchise] - From [First Game] to [Latest]",
+    "description": "Trace the history and changes in a popular game franchise over time. Expand by showing gameplay comparisons and discussing how each entry improved or changed.",
+    "tags": ["gaming", "evolution", "franchise", "history", "comparison"],
+    "niches": ["gaming"]
+  },
+  {
+    "title": "[Number] Gaming Mistakes Every [Skill Level] Player Makes",
+    "description": "Identify common mistakes players make at different skill levels and provide solutions. Expand by showing examples and demonstrating correct techniques.",
+    "tags": ["gaming", "mistakes", "tips", "improvement", "skill development"],
+    "niches": ["gaming"]
+  },
+  {
+    "title": "Is [Expensive Gaming Product] Actually Worth the Money?",
+    "description": "Test and review high-end gaming products to determine their value. Expand by comparing to budget alternatives and showing performance differences.",
+    "tags": ["gaming", "review", "expensive", "value", "hardware"],
+    "niches": ["gaming"]
+  },
+  {
+    "title": "Creating My Dream [Game Genre] Game - Concept and Ideas",
+    "description": "Design and conceptualize your ideal game in a specific genre. Expand by creating mock-ups, discussing mechanics, and getting community feedback.",
+    "tags": ["gaming", "game design", "concept", "creative", "ideas"],
+    "niches": ["gaming"]
+  },
+  {
+    "title": "[Game] Challenge Run: Beating It With [Restriction]",
+    "description": "Complete a game with self-imposed limitations or challenges. Expand by explaining the rules, showing difficult moments, and celebrating achievements.",
+    "tags": ["gaming", "challenge", "gameplay", "entertainment", "difficulty"],
+    "niches": ["gaming"]
+  },
+  {
+    "title": "Gaming in [Year]: Biggest Trends and Changes",
+    "description": "Analyze current gaming industry trends, new technologies, and market changes. Expand by interviewing developers and showing examples of emerging trends.",
+    "tags": ["gaming", "trends", "industry", "analysis", "future"],
+    "niches": ["gaming"]
+  },
+  {
+    "title": "Nostalgic Look Back: Why [Retro Game] Was So Special",
+    "description": "Revisit classic games and explain their lasting impact and appeal. Expand by comparing to modern games and discussing cultural significance.",
+    "tags": ["gaming", "retro", "nostalgia", "classic", "history"],
+    "niches": ["gaming"]
+  },
+  {
+    "title": "[Game] Mod Showcase: [Number] Mods That Change Everything",
+    "description": "Highlight the best mods for a popular game and show how they transform the experience. Expand by providing installation guides and compatibility tips.",
+    "tags": ["gaming", "mods", "showcase", "customization", "community"],
+    "niches": ["gaming"]
+  },
+  {
+    "title": "Professional Gamer Reacts to [Amateur/Beginner] Gameplay",
+    "description": "Have skilled players analyze and comment on gameplay from different skill levels. Expand by providing coaching tips and explaining strategic decisions.",
+    "tags": ["gaming", "reaction", "coaching", "analysis", "skill"],
+    "niches": ["gaming"]
+  },
+  {
+    "title": "Building a [Game] in [Time Period] - Development Timelapse",
+    "description": "Document the process of creating a game from start to finish within a set timeframe. Expand by explaining development challenges and sharing code/assets.",
+    "tags": ["gaming", "development", "timelapse", "creation", "programming"],
+    "niches": ["gaming"]
+  },
+  {
+    "title": "Gaming Setup Tour: [Price Range] Battlestation Showcase",
+    "description": "Tour different gaming setups across various price ranges and explain the choices. Expand by testing performance and discussing upgrade paths.",
+    "tags": ["gaming", "setup tour", "battlestation", "hardware", "showcase"],
+    "niches": ["gaming"]
+  }
+]
